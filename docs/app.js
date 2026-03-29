@@ -571,6 +571,7 @@ let currentIndex = 0;
 let isPlaying = false;
 let hasStarted = false;
 let activeAudio = null;
+let activeAudioReject = null;
 let playbackToken = 0;
 let selectedLessonId = "";
 let lessonOpen = false;
@@ -592,6 +593,11 @@ let isLessonCategoryMenuOpen = false;
 let isLessonFilterMenuOpen = false;
 let quizAudioToken = 0;
 const QUIZ_ADVANCE_DELAY_MS = 450;
+const sharedAudio = new Audio();
+sharedAudio.preload = "auto";
+sharedAudio.playsInline = true;
+sharedAudio.setAttribute("playsinline", "");
+sharedAudio.setAttribute("webkit-playsinline", "");
 
 function normalizeLanguageCode(code) {
   if (code === "en") return "en-US";
@@ -784,9 +790,17 @@ function stopCurrentAudio() {
   if (!activeAudio) {
     return;
   }
-  activeAudio.pause();
-  activeAudio.currentTime = 0;
+  const audio = activeAudio;
+  const reject = activeAudioReject;
   activeAudio = null;
+  activeAudioReject = null;
+  audio.pause();
+  try {
+    audio.currentTime = 0;
+  } catch {}
+  if (reject) {
+    reject(new DOMException("Playback interrupted", "AbortError"));
+  }
 }
 
 function cancelPlayback() {
@@ -800,20 +814,48 @@ function wait(ms) {
   return new Promise((resolve) => window.setTimeout(resolve, ms));
 }
 
+function isPlaybackAbort(error) {
+  return error?.name === "AbortError";
+}
+
 function playAudioFile(src, playbackRate) {
   return new Promise((resolve, reject) => {
-    const audio = new Audio(src);
+    const audio = sharedAudio;
+    const cleanup = () => {
+      audio.removeEventListener("ended", handleEnded);
+      audio.removeEventListener("error", handleError);
+      if (activeAudio === audio) activeAudio = null;
+      if (activeAudioReject === cancelPlayback) activeAudioReject = null;
+    };
+    const cancelPlayback = (error) => {
+      cleanup();
+      reject(error);
+    };
+    const handleEnded = () => {
+      cleanup();
+      resolve();
+    };
+    const handleError = () => {
+      cleanup();
+      reject(new Error(`Failed to play ${src}`));
+    };
+
+    audio.pause();
+    if (audio.src !== src) {
+      audio.src = src;
+    }
+    try {
+      audio.currentTime = 0;
+    } catch {}
     audio.playbackRate = playbackRate;
     activeAudio = audio;
-    audio.addEventListener("ended", () => {
-      if (activeAudio === audio) activeAudio = null;
-      resolve();
-    }, { once: true });
-    audio.addEventListener("error", () => {
-      if (activeAudio === audio) activeAudio = null;
-      reject(new Error(`Failed to play ${src}`));
-    }, { once: true });
-    audio.play().catch(reject);
+    activeAudioReject = cancelPlayback;
+    audio.addEventListener("ended", handleEnded, { once: true });
+    audio.addEventListener("error", handleError, { once: true });
+    audio.play().catch((error) => {
+      cleanup();
+      reject(error);
+    });
   });
 }
 
@@ -823,7 +865,8 @@ async function playQuizAudio(src) {
   stopCurrentAudio();
   try {
     await playAudioFile(buildAudioUrl(src), getSpeedSetting().playbackRate);
-  } catch {
+  } catch (error) {
+    if (isPlaybackAbort(error)) return;
     if (token === quizAudioToken) {
       setQuizStatus(t("playbackFailedQuiz"));
     }
@@ -1653,7 +1696,8 @@ async function playSinglePart(partKey) {
     if (token !== playbackToken) return;
     clearActivePanels();
     setStatus(t("readyShort", { speed: t(speedSetting.key) }));
-  } catch {
+  } catch (error) {
+    if (isPlaybackAbort(error)) return;
     clearActivePanels();
     setStatus(t("playbackFailedLesson"));
   } finally {
@@ -1702,7 +1746,8 @@ async function playCurrentSlide() {
     clearActivePanels();
     setStatus(t("slideComplete", { speed: t(speedSetting.key) }));
     keepPlaying = autoPlayEnabled && currentIndex < slides.length - 1;
-  } catch {
+  } catch (error) {
+    if (isPlaybackAbort(error)) return;
     clearActivePanels();
     setStatus(t("playbackFailedLesson"));
   } finally {
