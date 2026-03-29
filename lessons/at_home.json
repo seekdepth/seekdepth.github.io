@@ -1,0 +1,116 @@
+{
+  "lesson_id": "at_home",
+  "title": "At Home",
+  "titles": {
+    "en": "At Home",
+    "pt": "Em Casa",
+    "es": "En Casa",
+    "fr": "À la Maison"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study words for home.",
+    "pt-BR": "Vamos estudar palavras para a casa.",
+    "es-ES": "Vamos a estudiar palabras para la casa.",
+    "fr-FR": "Étudions des mots pour la maison."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "room", "pt-BR": "quarto", "es-ES": "habitación", "fr-FR": "chambre" },
+      "sample_sentences": {
+        "en": "My room is upstairs.",
+        "pt-BR": "Meu quarto fica no andar de cima.",
+        "es-ES": "Mi habitación está arriba.",
+        "fr-FR": "Ma chambre est à l'étage."
+      }
+    },
+    {
+      "terms": { "en": "door", "pt-BR": "porta", "es-ES": "puerta", "fr-FR": "porte" },
+      "sample_sentences": {
+        "en": "Please close the door quietly.",
+        "pt-BR": "Por favor, feche a porta devagar.",
+        "es-ES": "Por favor, cierra la puerta despacio.",
+        "fr-FR": "Veuillez fermer la porte doucement."
+      }
+    },
+    {
+      "terms": { "en": "window", "pt-BR": "janela", "es-ES": "ventana", "fr-FR": "fenêtre" },
+      "sample_sentences": {
+        "en": "The window is open for fresh air.",
+        "pt-BR": "A janela está aberta para entrar ar fresco.",
+        "es-ES": "La ventana está abierta para que entre aire fresco.",
+        "fr-FR": "La fenêtre est ouverte pour faire entrer de l'air frais."
+      }
+    },
+    {
+      "terms": { "en": "bed", "pt-BR": "cama", "es-ES": "cama", "fr-FR": "lit" },
+      "sample_sentences": {
+        "en": "The cat is sleeping on the bed.",
+        "pt-BR": "O gato está dormindo na cama.",
+        "es-ES": "El gato está durmiendo en la cama.",
+        "fr-FR": "Le chat dort sur le lit."
+      }
+    },
+    {
+      "terms": { "en": "kitchen", "pt-BR": "cozinha", "es-ES": "cocina", "fr-FR": "cuisine" },
+      "sample_sentences": {
+        "en": "We eat breakfast in the kitchen.",
+        "pt-BR": "Nós tomamos café da manhã na cozinha.",
+        "es-ES": "Desayunamos en la cocina.",
+        "fr-FR": "Nous prenons le petit-déjeuner dans la cuisine."
+      }
+    },
+    {
+      "terms": { "en": "bathroom", "pt-BR": "banheiro", "es-ES": "baño", "fr-FR": "salle de bain" },
+      "sample_sentences": {
+        "en": "The bathroom is next to the bedroom.",
+        "pt-BR": "O banheiro fica ao lado do quarto.",
+        "es-ES": "El baño está al lado del dormitorio.",
+        "fr-FR": "La salle de bain est à côté de la chambre."
+      }
+    },
+    {
+      "terms": { "en": "table", "pt-BR": "mesa", "es-ES": "mesa", "fr-FR": "table" },
+      "sample_sentences": {
+        "en": "The keys are on the table.",
+        "pt-BR": "As chaves estão sobre a mesa.",
+        "es-ES": "Las llaves están sobre la mesa.",
+        "fr-FR": "Les clés sont sur la table."
+      }
+    },
+    {
+      "terms": { "en": "chair", "pt-BR": "cadeira", "es-ES": "silla", "fr-FR": "chaise" },
+      "sample_sentences": {
+        "en": "Please sit on this chair.",
+        "pt-BR": "Por favor, sente-se nesta cadeira.",
+        "es-ES": "Por favor, siéntate en esta silla.",
+        "fr-FR": "Veuillez vous asseoir sur cette chaise."
+      }
+    },
+    {
+      "terms": { "en": "lamp", "pt-BR": "lâmpada", "es-ES": "lámpara", "fr-FR": "lampe" },
+      "sample_sentences": {
+        "en": "That lamp gives a soft light.",
+        "pt-BR": "Essa lâmpada dá uma luz suave.",
+        "es-ES": "Esa lámpara da una luz suave.",
+        "fr-FR": "Cette lampe donne une lumière douce."
+      }
+    },
+    {
+      "terms": { "en": "key", "pt-BR": "chave", "es-ES": "llave", "fr-FR": "clé" },
+      "sample_sentences": {
+        "en": "I keep my key in my bag.",
+        "pt-BR": "Eu guardo minha chave na bolsa.",
+        "es-ES": "Guardo mi llave en el bolso.",
+        "fr-FR": "Je garde ma clé dans mon sac."
+      }
+    }
+  ]
+}

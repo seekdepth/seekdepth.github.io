@@ -1,0 +1,116 @@
+{
+  "lesson_id": "work",
+  "title": "Work",
+  "titles": {
+    "en": "Work",
+    "pt": "Trabalho",
+    "es": "Trabajo",
+    "fr": "Le Travail"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study work words.",
+    "pt-BR": "Vamos estudar palavras sobre o trabalho.",
+    "es-ES": "Vamos a estudiar palabras del trabajo.",
+    "fr-FR": "Étudions les mots du travail."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "office", "pt-BR": "escritório", "es-ES": "oficina", "fr-FR": "bureau" },
+      "sample_sentences": {
+        "en": "Her office is downtown.",
+        "pt-BR": "O escritório dela fica no centro.",
+        "es-ES": "Su oficina está en el centro.",
+        "fr-FR": "Son bureau est au centre-ville."
+      }
+    },
+    {
+      "terms": { "en": "meeting", "pt-BR": "reunião", "es-ES": "reunión", "fr-FR": "réunion" },
+      "sample_sentences": {
+        "en": "The meeting starts at nine.",
+        "pt-BR": "A reunião começa às nove.",
+        "es-ES": "La reunión empieza a las nueve.",
+        "fr-FR": "La réunion commence à neuf heures."
+      }
+    },
+    {
+      "terms": { "en": "computer", "pt-BR": "computador", "es-ES": "ordenador", "fr-FR": "ordinateur" },
+      "sample_sentences": {
+        "en": "My computer is very slow today.",
+        "pt-BR": "Meu computador está muito lento hoje.",
+        "es-ES": "Mi ordenador está muy lento hoy.",
+        "fr-FR": "Mon ordinateur est très lent aujourd'hui."
+      }
+    },
+    {
+      "terms": { "en": "email", "pt-BR": "e-mail", "es-ES": "correo electrónico", "fr-FR": "e-mail" },
+      "sample_sentences": {
+        "en": "I sent the email this morning.",
+        "pt-BR": "Eu enviei o e-mail esta manhã.",
+        "es-ES": "Envié el correo electrónico esta mañana.",
+        "fr-FR": "J'ai envoyé l'e-mail ce matin."
+      }
+    },
+    {
+      "terms": { "en": "manager", "pt-BR": "gerente", "es-ES": "gerente", "fr-FR": "responsable" },
+      "sample_sentences": {
+        "en": "The manager approved the plan.",
+        "pt-BR": "O gerente aprovou o plano.",
+        "es-ES": "El gerente aprobó el plan.",
+        "fr-FR": "Le responsable a approuvé le plan."
+      }
+    },
+    {
+      "terms": { "en": "coworker", "pt-BR": "colega de trabalho", "es-ES": "compañero de trabajo", "fr-FR": "collègue" },
+      "sample_sentences": {
+        "en": "My coworker helped me yesterday.",
+        "pt-BR": "Meu colega de trabalho me ajudou ontem.",
+        "es-ES": "Mi compañero de trabajo me ayudó ayer.",
+        "fr-FR": "Mon collègue m'a aidé hier."
+      }
+    },
+    {
+      "terms": { "en": "calendar", "pt-BR": "calendário", "es-ES": "calendario", "fr-FR": "calendrier" },
+      "sample_sentences": {
+        "en": "Check the calendar before scheduling it.",
+        "pt-BR": "Confira o calendário antes de marcar.",
+        "es-ES": "Mira el calendario antes de programarlo.",
+        "fr-FR": "Vérifie le calendrier avant de le planifier."
+      }
+    },
+    {
+      "terms": { "en": "project", "pt-BR": "projeto", "es-ES": "proyecto", "fr-FR": "projet" },
+      "sample_sentences": {
+        "en": "This project is due next week.",
+        "pt-BR": "Este projeto vence na próxima semana.",
+        "es-ES": "Este proyecto vence la próxima semana.",
+        "fr-FR": "Ce projet est à rendre la semaine prochaine."
+      }
+    },
+    {
+      "terms": { "en": "lunch break", "pt-BR": "pausa para o almoço", "es-ES": "pausa para comer", "fr-FR": "pause déjeuner" },
+      "sample_sentences": {
+        "en": "We talk in the kitchen during lunch break.",
+        "pt-BR": "Nós conversamos na cozinha durante a pausa para o almoço.",
+        "es-ES": "Hablamos en la cocina durante la pausa para comer.",
+        "fr-FR": "Nous parlons dans la cuisine pendant la pause déjeuner."
+      }
+    },
+    {
+      "terms": { "en": "phone", "pt-BR": "telefone", "es-ES": "teléfono", "fr-FR": "téléphone" },
+      "sample_sentences": {
+        "en": "Her phone rang during the meeting.",
+        "pt-BR": "O telefone dela tocou durante a reunião.",
+        "es-ES": "Su teléfono sonó durante la reunión.",
+        "fr-FR": "Son téléphone a sonné pendant la réunion."
+      }
+    }
+  ]
+}

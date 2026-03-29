@@ -1,0 +1,116 @@
+{
+  "lesson_id": "body_parts",
+  "title": "Body Parts",
+  "titles": {
+    "en": "Body Parts",
+    "pt": "Partes do Corpo",
+    "es": "Partes del Cuerpo",
+    "fr": "Les Parties du Corps"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study body parts.",
+    "pt-BR": "Vamos estudar as partes do corpo.",
+    "es-ES": "Vamos a estudiar las partes del cuerpo.",
+    "fr-FR": "Étudions les parties du corps."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "head", "pt-BR": "cabeça", "es-ES": "cabeza", "fr-FR": "tête" },
+      "sample_sentences": {
+        "en": "He touched his head.",
+        "pt-BR": "Ele tocou a cabeça.",
+        "es-ES": "Se tocó la cabeza.",
+        "fr-FR": "Il a touché sa tête."
+      }
+    },
+    {
+      "terms": { "en": "hand", "pt-BR": "mão", "es-ES": "mano", "fr-FR": "main" },
+      "sample_sentences": {
+        "en": "Wash your hand before eating.",
+        "pt-BR": "Lave a mão antes de comer.",
+        "es-ES": "Lávate la mano antes de comer.",
+        "fr-FR": "Lave ta main avant de manger."
+      }
+    },
+    {
+      "terms": { "en": "arm", "pt-BR": "braço", "es-ES": "brazo", "fr-FR": "bras" },
+      "sample_sentences": {
+        "en": "Her arm is resting on the chair.",
+        "pt-BR": "O braço dela está apoiado na cadeira.",
+        "es-ES": "Su brazo está apoyado en la silla.",
+        "fr-FR": "Son bras repose sur la chaise."
+      }
+    },
+    {
+      "terms": { "en": "leg", "pt-BR": "perna", "es-ES": "pierna", "fr-FR": "jambe" },
+      "sample_sentences": {
+        "en": "My leg is tired after the walk.",
+        "pt-BR": "Minha perna está cansada depois da caminhada.",
+        "es-ES": "Mi pierna está cansada después de caminar.",
+        "fr-FR": "Ma jambe est fatiguée après la marche."
+      }
+    },
+    {
+      "terms": { "en": "foot", "pt-BR": "pé", "es-ES": "pie", "fr-FR": "pied" },
+      "sample_sentences": {
+        "en": "His foot is wet from the rain.",
+        "pt-BR": "O pé dele está molhado por causa da chuva.",
+        "es-ES": "Tiene el pie mojado por la lluvia.",
+        "fr-FR": "Son pied est mouillé à cause de la pluie."
+      }
+    },
+    {
+      "terms": { "en": "eye", "pt-BR": "olho", "es-ES": "ojo", "fr-FR": "oeil" },
+      "sample_sentences": {
+        "en": "She has blue eyes.",
+        "pt-BR": "Ela tem olhos azuis.",
+        "es-ES": "Tiene los ojos azules.",
+        "fr-FR": "Elle a les yeux bleus."
+      }
+    },
+    {
+      "terms": { "en": "ear", "pt-BR": "orelha", "es-ES": "oreja", "fr-FR": "oreille" },
+      "sample_sentences": {
+        "en": "The child covered one ear.",
+        "pt-BR": "A criança tapou uma orelha.",
+        "es-ES": "El niño se tapó una oreja.",
+        "fr-FR": "L'enfant s'est couvert une oreille."
+      }
+    },
+    {
+      "terms": { "en": "nose", "pt-BR": "nariz", "es-ES": "nariz", "fr-FR": "nez" },
+      "sample_sentences": {
+        "en": "My nose is cold.",
+        "pt-BR": "Meu nariz está frio.",
+        "es-ES": "Tengo la nariz fría.",
+        "fr-FR": "Mon nez est froid."
+      }
+    },
+    {
+      "terms": { "en": "mouth", "pt-BR": "boca", "es-ES": "boca", "fr-FR": "bouche" },
+      "sample_sentences": {
+        "en": "Please open your mouth.",
+        "pt-BR": "Por favor, abra a boca.",
+        "es-ES": "Por favor, abre la boca.",
+        "fr-FR": "Veuillez ouvrir la bouche."
+      }
+    },
+    {
+      "terms": { "en": "back", "pt-BR": "costas", "es-ES": "espalda", "fr-FR": "dos" },
+      "sample_sentences": {
+        "en": "My back hurts after the trip.",
+        "pt-BR": "Minhas costas doem depois da viagem.",
+        "es-ES": "Me duele la espalda después del viaje.",
+        "fr-FR": "J'ai mal au dos après le voyage."
+      }
+    }
+  ]
+}

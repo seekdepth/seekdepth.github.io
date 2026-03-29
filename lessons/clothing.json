@@ -1,0 +1,116 @@
+{
+  "lesson_id": "clothing",
+  "title": "Clothing",
+  "titles": {
+    "en": "Clothing",
+    "pt": "Roupas",
+    "es": "Ropa",
+    "fr": "Vêtements"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study clothing words.",
+    "pt-BR": "Vamos estudar palavras sobre roupas.",
+    "es-ES": "Vamos a estudiar palabras de ropa.",
+    "fr-FR": "Étudions les mots des vêtements."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "shirt", "pt-BR": "camisa", "es-ES": "camisa", "fr-FR": "chemise" },
+      "sample_sentences": {
+        "en": "He wears a blue shirt to work.",
+        "pt-BR": "Ele usa uma camisa azul para o trabalho.",
+        "es-ES": "Lleva una camisa azul al trabajo.",
+        "fr-FR": "Il porte une chemise bleue au travail."
+      }
+    },
+    {
+      "terms": { "en": "pants", "pt-BR": "calça", "es-ES": "pantalones", "fr-FR": "pantalon" },
+      "sample_sentences": {
+        "en": "These pants are very comfortable.",
+        "pt-BR": "Esta calça é muito confortável.",
+        "es-ES": "Estos pantalones son muy cómodos.",
+        "fr-FR": "Ce pantalon est très confortable."
+      }
+    },
+    {
+      "terms": { "en": "shoes", "pt-BR": "sapatos", "es-ES": "zapatos", "fr-FR": "chaussures" },
+      "sample_sentences": {
+        "en": "Her shoes are by the door.",
+        "pt-BR": "Os sapatos dela estão perto da porta.",
+        "es-ES": "Sus zapatos están junto a la puerta.",
+        "fr-FR": "Ses chaussures sont près de la porte."
+      }
+    },
+    {
+      "terms": { "en": "dress", "pt-BR": "vestido", "es-ES": "vestido", "fr-FR": "robe" },
+      "sample_sentences": {
+        "en": "She bought a dress for the party.",
+        "pt-BR": "Ela comprou um vestido para a festa.",
+        "es-ES": "Compró un vestido para la fiesta.",
+        "fr-FR": "Elle a acheté une robe pour la fête."
+      }
+    },
+    {
+      "terms": { "en": "jacket", "pt-BR": "jaqueta", "es-ES": "chaqueta", "fr-FR": "veste" },
+      "sample_sentences": {
+        "en": "Take your jacket because it is cold outside.",
+        "pt-BR": "Leve sua jaqueta porque está frio lá fora.",
+        "es-ES": "Lleva tu chaqueta porque hace frío fuera.",
+        "fr-FR": "Prends ta veste parce qu'il fait froid dehors."
+      }
+    },
+    {
+      "terms": { "en": "hat", "pt-BR": "chapéu", "es-ES": "sombrero", "fr-FR": "chapeau" },
+      "sample_sentences": {
+        "en": "That hat looks good on you.",
+        "pt-BR": "Esse chapéu fica bem em você.",
+        "es-ES": "Ese sombrero te queda bien.",
+        "fr-FR": "Ce chapeau te va bien."
+      }
+    },
+    {
+      "terms": { "en": "socks", "pt-BR": "meias", "es-ES": "calcetines", "fr-FR": "chaussettes" },
+      "sample_sentences": {
+        "en": "I need clean socks for tomorrow.",
+        "pt-BR": "Eu preciso de meias limpas para amanhã.",
+        "es-ES": "Necesito calcetines limpios para mañana.",
+        "fr-FR": "J'ai besoin de chaussettes propres pour demain."
+      }
+    },
+    {
+      "terms": { "en": "coat", "pt-BR": "casaco", "es-ES": "abrigo", "fr-FR": "manteau" },
+      "sample_sentences": {
+        "en": "Her coat is hanging in the hall.",
+        "pt-BR": "O casaco dela está pendurado no corredor.",
+        "es-ES": "Su abrigo está colgado en el pasillo.",
+        "fr-FR": "Son manteau est accroché dans le couloir."
+      }
+    },
+    {
+      "terms": { "en": "belt", "pt-BR": "cinto", "es-ES": "cinturón", "fr-FR": "ceinture" },
+      "sample_sentences": {
+        "en": "This belt is made of leather.",
+        "pt-BR": "Este cinto é de couro.",
+        "es-ES": "Este cinturón es de cuero.",
+        "fr-FR": "Cette ceinture est en cuir."
+      }
+    },
+    {
+      "terms": { "en": "scarf", "pt-BR": "cachecol", "es-ES": "bufanda", "fr-FR": "écharpe" },
+      "sample_sentences": {
+        "en": "She wrapped a scarf around her neck.",
+        "pt-BR": "Ela enrolou um cachecol no pescoço.",
+        "es-ES": "Se puso una bufanda alrededor del cuello.",
+        "fr-FR": "Elle a mis une écharpe autour du cou."
+      }
+    }
+  ]
+}

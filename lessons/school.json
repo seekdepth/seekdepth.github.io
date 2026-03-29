@@ -1,0 +1,116 @@
+{
+  "lesson_id": "school",
+  "title": "School",
+  "titles": {
+    "en": "School",
+    "pt": "Escola",
+    "es": "Escuela",
+    "fr": "L'École"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study school words.",
+    "pt-BR": "Vamos estudar palavras sobre a escola.",
+    "es-ES": "Vamos a estudiar palabras de la escuela.",
+    "fr-FR": "Étudions les mots de l'école."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "teacher", "pt-BR": "professor", "es-ES": "profesor", "fr-FR": "professeur" },
+      "sample_sentences": {
+        "en": "The teacher explains the lesson clearly.",
+        "pt-BR": "O professor explica a lição com clareza.",
+        "es-ES": "El profesor explica la lección con claridad.",
+        "fr-FR": "Le professeur explique la leçon clairement."
+      }
+    },
+    {
+      "terms": { "en": "student", "pt-BR": "aluno", "es-ES": "estudiante", "fr-FR": "étudiant" },
+      "sample_sentences": {
+        "en": "Every student has a notebook.",
+        "pt-BR": "Cada aluno tem um caderno.",
+        "es-ES": "Cada estudiante tiene un cuaderno.",
+        "fr-FR": "Chaque étudiant a un cahier."
+      }
+    },
+    {
+      "terms": { "en": "classroom", "pt-BR": "sala de aula", "es-ES": "aula", "fr-FR": "salle de classe" },
+      "sample_sentences": {
+        "en": "The classroom is on the second floor.",
+        "pt-BR": "A sala de aula fica no segundo andar.",
+        "es-ES": "El aula está en la segunda planta.",
+        "fr-FR": "La salle de classe est au deuxième étage."
+      }
+    },
+    {
+      "terms": { "en": "book", "pt-BR": "livro", "es-ES": "libro", "fr-FR": "livre" },
+      "sample_sentences": {
+        "en": "Open your book to page ten.",
+        "pt-BR": "Abra o livro na página dez.",
+        "es-ES": "Abre el libro en la página diez.",
+        "fr-FR": "Ouvre le livre à la page dix."
+      }
+    },
+    {
+      "terms": { "en": "pencil", "pt-BR": "lápis", "es-ES": "lápiz", "fr-FR": "crayon" },
+      "sample_sentences": {
+        "en": "My pencil is under the desk.",
+        "pt-BR": "Meu lápis está embaixo da carteira.",
+        "es-ES": "Mi lápiz está debajo del pupitre.",
+        "fr-FR": "Mon crayon est sous le bureau."
+      }
+    },
+    {
+      "terms": { "en": "notebook", "pt-BR": "caderno", "es-ES": "cuaderno", "fr-FR": "cahier" },
+      "sample_sentences": {
+        "en": "She writes everything in her notebook.",
+        "pt-BR": "Ela escreve tudo no caderno.",
+        "es-ES": "Ella escribe todo en su cuaderno.",
+        "fr-FR": "Elle écrit tout dans son cahier."
+      }
+    },
+    {
+      "terms": { "en": "desk", "pt-BR": "carteira", "es-ES": "pupitre", "fr-FR": "bureau" },
+      "sample_sentences": {
+        "en": "The desk is clean and tidy.",
+        "pt-BR": "A carteira está limpa e organizada.",
+        "es-ES": "El pupitre está limpio y ordenado.",
+        "fr-FR": "Le bureau est propre et bien rangé."
+      }
+    },
+    {
+      "terms": { "en": "board", "pt-BR": "quadro", "es-ES": "pizarra", "fr-FR": "tableau" },
+      "sample_sentences": {
+        "en": "The answer is on the board.",
+        "pt-BR": "A resposta está no quadro.",
+        "es-ES": "La respuesta está en la pizarra.",
+        "fr-FR": "La réponse est au tableau."
+      }
+    },
+    {
+      "terms": { "en": "homework", "pt-BR": "lição de casa", "es-ES": "deberes", "fr-FR": "devoirs" },
+      "sample_sentences": {
+        "en": "I finished my homework after dinner.",
+        "pt-BR": "Eu terminei minha lição de casa depois do jantar.",
+        "es-ES": "Terminé mis deberes después de cenar.",
+        "fr-FR": "J'ai terminé mes devoirs après le dîner."
+      }
+    },
+    {
+      "terms": { "en": "test", "pt-BR": "prova", "es-ES": "examen", "fr-FR": "contrôle" },
+      "sample_sentences": {
+        "en": "We have a test on Friday.",
+        "pt-BR": "Nós temos uma prova na sexta-feira.",
+        "es-ES": "Tenemos un examen el viernes.",
+        "fr-FR": "Nous avons un contrôle vendredi."
+      }
+    }
+  ]
+}

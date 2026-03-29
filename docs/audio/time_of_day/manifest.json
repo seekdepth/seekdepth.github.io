@@ -1,0 +1,385 @@
+{
+  "lesson_id": "time_of_day",
+  "title": "Time of Day",
+  "titles": {
+    "en": "Time of Day",
+    "pt": "Hora do Dia",
+    "es": "Momento del Día",
+    "fr": "Moments de la Journée"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/time_of_day.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Time of Day",
+      "pt": "Hora do Dia",
+      "es": "Momento del Día",
+      "fr": "Moments de la Journée"
+    },
+    "sample_sentences": {
+      "en": "Let's study times of day.",
+      "pt-BR": "Vamos estudar os momentos do dia.",
+      "es-ES": "Vamos a estudiar los momentos del día.",
+      "fr-FR": "Étudions les moments de la journée.",
+      "en-US": "Let's study times of day.",
+      "en-GB": "Let's study times of day."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "morning",
+        "pt-BR": "manhã",
+        "es-ES": "mañana",
+        "fr-FR": "matin",
+        "en-US": "morning",
+        "en-GB": "morning"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I drink coffee in the morning.",
+        "pt-BR": "Eu tomo café de manhã.",
+        "es-ES": "Tomo café por la mañana.",
+        "fr-FR": "Je bois du café le matin.",
+        "en-US": "I drink coffee in the morning.",
+        "en-GB": "I drink coffee in the morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "noon",
+        "pt-BR": "meio-dia",
+        "es-ES": "mediodía",
+        "fr-FR": "midi",
+        "en-US": "noon",
+        "en-GB": "noon"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We eat lunch at noon.",
+        "pt-BR": "Nós almoçamos ao meio-dia.",
+        "es-ES": "Comemos al mediodía.",
+        "fr-FR": "Nous déjeunons à midi.",
+        "en-US": "We eat lunch at noon.",
+        "en-GB": "We eat lunch at noon."
+      }
+    },
+    {
+      "terms": {
+        "en": "afternoon",
+        "pt-BR": "tarde",
+        "es-ES": "tarde",
+        "fr-FR": "après-midi",
+        "en-US": "afternoon",
+        "en-GB": "afternoon"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The afternoon feels very long.",
+        "pt-BR": "A tarde parece muito longa.",
+        "es-ES": "La tarde parece muy larga.",
+        "fr-FR": "L'après-midi semble très long.",
+        "en-US": "The afternoon feels very long.",
+        "en-GB": "The afternoon feels very long."
+      }
+    },
+    {
+      "terms": {
+        "en": "evening",
+        "pt-BR": "noite",
+        "es-ES": "tarde-noche",
+        "fr-FR": "soir",
+        "en-US": "evening",
+        "en-GB": "evening"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We take a walk in the evening.",
+        "pt-BR": "Nós damos uma caminhada à noite.",
+        "es-ES": "Damos un paseo por la tarde-noche.",
+        "fr-FR": "Nous faisons une promenade le soir.",
+        "en-US": "We take a walk in the evening.",
+        "en-GB": "We take a walk in the evening."
+      }
+    },
+    {
+      "terms": {
+        "en": "night",
+        "pt-BR": "noite",
+        "es-ES": "noche",
+        "fr-FR": "nuit",
+        "en-US": "night",
+        "en-GB": "night"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The city is quiet at night.",
+        "pt-BR": "A cidade fica tranquila à noite.",
+        "es-ES": "La ciudad está tranquila por la noche.",
+        "fr-FR": "La ville est calme la nuit.",
+        "en-US": "The city is quiet at night.",
+        "en-GB": "The city is quiet at night."
+      }
+    },
+    {
+      "terms": {
+        "en": "dawn",
+        "pt-BR": "amanhecer",
+        "es-ES": "amanecer",
+        "fr-FR": "aube",
+        "en-US": "dawn",
+        "en-GB": "dawn"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The birds sing at dawn.",
+        "pt-BR": "Os pássaros cantam ao amanhecer.",
+        "es-ES": "Los pájaros cantan al amanecer.",
+        "fr-FR": "Les oiseaux chantent à l'aube.",
+        "en-US": "The birds sing at dawn.",
+        "en-GB": "The birds sing at dawn."
+      }
+    },
+    {
+      "terms": {
+        "en": "sunrise",
+        "pt-BR": "nascer do sol",
+        "es-ES": "amanecer",
+        "fr-FR": "lever du soleil",
+        "en-US": "sunrise",
+        "en-GB": "sunrise"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We watched the sunrise from the beach.",
+        "pt-BR": "Nós vimos o nascer do sol da praia.",
+        "es-ES": "Vimos el amanecer desde la playa.",
+        "fr-FR": "Nous avons regardé le lever du soleil depuis la plage.",
+        "en-US": "We watched the sunrise from the beach.",
+        "en-GB": "We watched the sunrise from the beach."
+      }
+    },
+    {
+      "terms": {
+        "en": "sunset",
+        "pt-BR": "pôr do sol",
+        "es-ES": "atardecer",
+        "fr-FR": "coucher du soleil",
+        "en-US": "sunset",
+        "en-GB": "sunset"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The sunset was beautiful tonight.",
+        "pt-BR": "O pôr do sol estava lindo hoje.",
+        "es-ES": "El atardecer fue precioso esta noche.",
+        "fr-FR": "Le coucher du soleil était magnifique ce soir.",
+        "en-US": "The sunset was beautiful tonight.",
+        "en-GB": "The sunset was beautiful tonight."
+      }
+    },
+    {
+      "terms": {
+        "en": "midnight",
+        "pt-BR": "meia-noite",
+        "es-ES": "medianoche",
+        "fr-FR": "minuit",
+        "en-US": "midnight",
+        "en-GB": "midnight"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The movie ended at midnight.",
+        "pt-BR": "O filme terminou à meia-noite.",
+        "es-ES": "La película terminó a medianoche.",
+        "fr-FR": "Le film s'est terminé à minuit.",
+        "en-US": "The movie ended at midnight.",
+        "en-GB": "The movie ended at midnight."
+      }
+    },
+    {
+      "terms": {
+        "en": "early",
+        "pt-BR": "cedo",
+        "es-ES": "temprano",
+        "fr-FR": "tôt",
+        "en-US": "early",
+        "en-GB": "early"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I like to wake up early.",
+        "pt-BR": "Eu gosto de acordar cedo.",
+        "es-ES": "Me gusta despertarme temprano.",
+        "fr-FR": "J'aime me réveiller tôt.",
+        "en-US": "I like to wake up early.",
+        "en-GB": "I like to wake up early."
+      }
+    }
+  ]
+}

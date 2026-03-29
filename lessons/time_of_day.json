@@ -1,0 +1,116 @@
+{
+  "lesson_id": "time_of_day",
+  "title": "Time of Day",
+  "titles": {
+    "en": "Time of Day",
+    "pt": "Hora do Dia",
+    "es": "Momento del Día",
+    "fr": "Moments de la Journée"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study times of day.",
+    "pt-BR": "Vamos estudar os momentos do dia.",
+    "es-ES": "Vamos a estudiar los momentos del día.",
+    "fr-FR": "Étudions les moments de la journée."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "morning", "pt-BR": "manhã", "es-ES": "mañana", "fr-FR": "matin" },
+      "sample_sentences": {
+        "en": "I drink coffee in the morning.",
+        "pt-BR": "Eu tomo café de manhã.",
+        "es-ES": "Tomo café por la mañana.",
+        "fr-FR": "Je bois du café le matin."
+      }
+    },
+    {
+      "terms": { "en": "noon", "pt-BR": "meio-dia", "es-ES": "mediodía", "fr-FR": "midi" },
+      "sample_sentences": {
+        "en": "We eat lunch at noon.",
+        "pt-BR": "Nós almoçamos ao meio-dia.",
+        "es-ES": "Comemos al mediodía.",
+        "fr-FR": "Nous déjeunons à midi."
+      }
+    },
+    {
+      "terms": { "en": "afternoon", "pt-BR": "tarde", "es-ES": "tarde", "fr-FR": "après-midi" },
+      "sample_sentences": {
+        "en": "The afternoon feels very long.",
+        "pt-BR": "A tarde parece muito longa.",
+        "es-ES": "La tarde parece muy larga.",
+        "fr-FR": "L'après-midi semble très long."
+      }
+    },
+    {
+      "terms": { "en": "evening", "pt-BR": "noite", "es-ES": "tarde-noche", "fr-FR": "soir" },
+      "sample_sentences": {
+        "en": "We take a walk in the evening.",
+        "pt-BR": "Nós damos uma caminhada à noite.",
+        "es-ES": "Damos un paseo por la tarde-noche.",
+        "fr-FR": "Nous faisons une promenade le soir."
+      }
+    },
+    {
+      "terms": { "en": "night", "pt-BR": "noite", "es-ES": "noche", "fr-FR": "nuit" },
+      "sample_sentences": {
+        "en": "The city is quiet at night.",
+        "pt-BR": "A cidade fica tranquila à noite.",
+        "es-ES": "La ciudad está tranquila por la noche.",
+        "fr-FR": "La ville est calme la nuit."
+      }
+    },
+    {
+      "terms": { "en": "dawn", "pt-BR": "amanhecer", "es-ES": "amanecer", "fr-FR": "aube" },
+      "sample_sentences": {
+        "en": "The birds sing at dawn.",
+        "pt-BR": "Os pássaros cantam ao amanhecer.",
+        "es-ES": "Los pájaros cantan al amanecer.",
+        "fr-FR": "Les oiseaux chantent à l'aube."
+      }
+    },
+    {
+      "terms": { "en": "sunrise", "pt-BR": "nascer do sol", "es-ES": "amanecer", "fr-FR": "lever du soleil" },
+      "sample_sentences": {
+        "en": "We watched the sunrise from the beach.",
+        "pt-BR": "Nós vimos o nascer do sol da praia.",
+        "es-ES": "Vimos el amanecer desde la playa.",
+        "fr-FR": "Nous avons regardé le lever du soleil depuis la plage."
+      }
+    },
+    {
+      "terms": { "en": "sunset", "pt-BR": "pôr do sol", "es-ES": "atardecer", "fr-FR": "coucher du soleil" },
+      "sample_sentences": {
+        "en": "The sunset was beautiful tonight.",
+        "pt-BR": "O pôr do sol estava lindo hoje.",
+        "es-ES": "El atardecer fue precioso esta noche.",
+        "fr-FR": "Le coucher du soleil était magnifique ce soir."
+      }
+    },
+    {
+      "terms": { "en": "midnight", "pt-BR": "meia-noite", "es-ES": "medianoche", "fr-FR": "minuit" },
+      "sample_sentences": {
+        "en": "The movie ended at midnight.",
+        "pt-BR": "O filme terminou à meia-noite.",
+        "es-ES": "La película terminó a medianoche.",
+        "fr-FR": "Le film s'est terminé à minuit."
+      }
+    },
+    {
+      "terms": { "en": "early", "pt-BR": "cedo", "es-ES": "temprano", "fr-FR": "tôt" },
+      "sample_sentences": {
+        "en": "I like to wake up early.",
+        "pt-BR": "Eu gosto de acordar cedo.",
+        "es-ES": "Me gusta despertarme temprano.",
+        "fr-FR": "J'aime me réveiller tôt."
+      }
+    }
+  ]
+}

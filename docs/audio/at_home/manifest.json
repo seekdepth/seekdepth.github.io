@@ -1,0 +1,385 @@
+{
+  "lesson_id": "at_home",
+  "title": "At Home",
+  "titles": {
+    "en": "At Home",
+    "pt": "Em Casa",
+    "es": "En Casa",
+    "fr": "À la Maison"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/at_home.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "At Home",
+      "pt": "Em Casa",
+      "es": "En Casa",
+      "fr": "À la Maison"
+    },
+    "sample_sentences": {
+      "en": "Let's study words for home.",
+      "pt-BR": "Vamos estudar palavras para a casa.",
+      "es-ES": "Vamos a estudiar palabras para la casa.",
+      "fr-FR": "Étudions des mots pour la maison.",
+      "en-US": "Let's study words for home.",
+      "en-GB": "Let's study words for home."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "room",
+        "pt-BR": "quarto",
+        "es-ES": "habitación",
+        "fr-FR": "chambre",
+        "en-US": "room",
+        "en-GB": "room"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My room is upstairs.",
+        "pt-BR": "Meu quarto fica no andar de cima.",
+        "es-ES": "Mi habitación está arriba.",
+        "fr-FR": "Ma chambre est à l'étage.",
+        "en-US": "My room is upstairs.",
+        "en-GB": "My room is upstairs."
+      }
+    },
+    {
+      "terms": {
+        "en": "door",
+        "pt-BR": "porta",
+        "es-ES": "puerta",
+        "fr-FR": "porte",
+        "en-US": "door",
+        "en-GB": "door"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Please close the door quietly.",
+        "pt-BR": "Por favor, feche a porta devagar.",
+        "es-ES": "Por favor, cierra la puerta despacio.",
+        "fr-FR": "Veuillez fermer la porte doucement.",
+        "en-US": "Please close the door quietly.",
+        "en-GB": "Please close the door quietly."
+      }
+    },
+    {
+      "terms": {
+        "en": "window",
+        "pt-BR": "janela",
+        "es-ES": "ventana",
+        "fr-FR": "fenêtre",
+        "en-US": "window",
+        "en-GB": "window"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The window is open for fresh air.",
+        "pt-BR": "A janela está aberta para entrar ar fresco.",
+        "es-ES": "La ventana está abierta para que entre aire fresco.",
+        "fr-FR": "La fenêtre est ouverte pour faire entrer de l'air frais.",
+        "en-US": "The window is open for fresh air.",
+        "en-GB": "The window is open for fresh air."
+      }
+    },
+    {
+      "terms": {
+        "en": "bed",
+        "pt-BR": "cama",
+        "es-ES": "cama",
+        "fr-FR": "lit",
+        "en-US": "bed",
+        "en-GB": "bed"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The cat is sleeping on the bed.",
+        "pt-BR": "O gato está dormindo na cama.",
+        "es-ES": "El gato está durmiendo en la cama.",
+        "fr-FR": "Le chat dort sur le lit.",
+        "en-US": "The cat is sleeping on the bed.",
+        "en-GB": "The cat is sleeping on the bed."
+      }
+    },
+    {
+      "terms": {
+        "en": "kitchen",
+        "pt-BR": "cozinha",
+        "es-ES": "cocina",
+        "fr-FR": "cuisine",
+        "en-US": "kitchen",
+        "en-GB": "kitchen"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We eat breakfast in the kitchen.",
+        "pt-BR": "Nós tomamos café da manhã na cozinha.",
+        "es-ES": "Desayunamos en la cocina.",
+        "fr-FR": "Nous prenons le petit-déjeuner dans la cuisine.",
+        "en-US": "We eat breakfast in the kitchen.",
+        "en-GB": "We eat breakfast in the kitchen."
+      }
+    },
+    {
+      "terms": {
+        "en": "bathroom",
+        "pt-BR": "banheiro",
+        "es-ES": "baño",
+        "fr-FR": "salle de bain",
+        "en-US": "bathroom",
+        "en-GB": "bathroom"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The bathroom is next to the bedroom.",
+        "pt-BR": "O banheiro fica ao lado do quarto.",
+        "es-ES": "El baño está al lado del dormitorio.",
+        "fr-FR": "La salle de bain est à côté de la chambre.",
+        "en-US": "The bathroom is next to the bedroom.",
+        "en-GB": "The bathroom is next to the bedroom."
+      }
+    },
+    {
+      "terms": {
+        "en": "table",
+        "pt-BR": "mesa",
+        "es-ES": "mesa",
+        "fr-FR": "table",
+        "en-US": "table",
+        "en-GB": "table"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The keys are on the table.",
+        "pt-BR": "As chaves estão sobre a mesa.",
+        "es-ES": "Las llaves están sobre la mesa.",
+        "fr-FR": "Les clés sont sur la table.",
+        "en-US": "The keys are on the table.",
+        "en-GB": "The keys are on the table."
+      }
+    },
+    {
+      "terms": {
+        "en": "chair",
+        "pt-BR": "cadeira",
+        "es-ES": "silla",
+        "fr-FR": "chaise",
+        "en-US": "chair",
+        "en-GB": "chair"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Please sit on this chair.",
+        "pt-BR": "Por favor, sente-se nesta cadeira.",
+        "es-ES": "Por favor, siéntate en esta silla.",
+        "fr-FR": "Veuillez vous asseoir sur cette chaise.",
+        "en-US": "Please sit on this chair.",
+        "en-GB": "Please sit on this chair."
+      }
+    },
+    {
+      "terms": {
+        "en": "lamp",
+        "pt-BR": "lâmpada",
+        "es-ES": "lámpara",
+        "fr-FR": "lampe",
+        "en-US": "lamp",
+        "en-GB": "lamp"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "That lamp gives a soft light.",
+        "pt-BR": "Essa lâmpada dá uma luz suave.",
+        "es-ES": "Esa lámpara da una luz suave.",
+        "fr-FR": "Cette lampe donne une lumière douce.",
+        "en-US": "That lamp gives a soft light.",
+        "en-GB": "That lamp gives a soft light."
+      }
+    },
+    {
+      "terms": {
+        "en": "key",
+        "pt-BR": "chave",
+        "es-ES": "llave",
+        "fr-FR": "clé",
+        "en-US": "key",
+        "en-GB": "key"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I keep my key in my bag.",
+        "pt-BR": "Eu guardo minha chave na bolsa.",
+        "es-ES": "Guardo mi llave en el bolso.",
+        "fr-FR": "Je garde ma clé dans mon sac.",
+        "en-US": "I keep my key in my bag.",
+        "en-GB": "I keep my key in my bag."
+      }
+    }
+  ]
+}

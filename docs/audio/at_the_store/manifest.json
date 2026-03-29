@@ -1,0 +1,385 @@
+{
+  "lesson_id": "at_the_store",
+  "title": "At the Store",
+  "titles": {
+    "en": "At the Store",
+    "pt": "Na Loja",
+    "es": "En la Tienda",
+    "fr": "Au Magasin"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/at_the_store.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "At the Store",
+      "pt": "Na Loja",
+      "es": "En la Tienda",
+      "fr": "Au Magasin"
+    },
+    "sample_sentences": {
+      "en": "Let's study words for the store.",
+      "pt-BR": "Vamos estudar palavras para a loja.",
+      "es-ES": "Vamos a estudiar palabras para la tienda.",
+      "fr-FR": "Étudions des mots pour le magasin.",
+      "en-US": "Let's study words for the store.",
+      "en-GB": "Let's study words for the store."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "price",
+        "pt-BR": "preço",
+        "es-ES": "precio",
+        "fr-FR": "prix",
+        "en-US": "price",
+        "en-GB": "price"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The price is on the label.",
+        "pt-BR": "O preço está na etiqueta.",
+        "es-ES": "El precio está en la etiqueta.",
+        "fr-FR": "Le prix est sur l'étiquette.",
+        "en-US": "The price is on the label.",
+        "en-GB": "The price is on the label."
+      }
+    },
+    {
+      "terms": {
+        "en": "money",
+        "pt-BR": "dinheiro",
+        "es-ES": "dinero",
+        "fr-FR": "argent",
+        "en-US": "money",
+        "en-GB": "money"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I do not have much money today.",
+        "pt-BR": "Eu não tenho muito dinheiro hoje.",
+        "es-ES": "No tengo mucho dinero hoy.",
+        "fr-FR": "Je n'ai pas beaucoup d'argent aujourd'hui.",
+        "en-US": "I do not have much money today.",
+        "en-GB": "I do not have much money today."
+      }
+    },
+    {
+      "terms": {
+        "en": "cash",
+        "pt-BR": "dinheiro em espécie",
+        "es-ES": "efectivo",
+        "fr-FR": "espèces",
+        "en-US": "cash",
+        "en-GB": "cash"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He paid in cash.",
+        "pt-BR": "Ele pagou em dinheiro.",
+        "es-ES": "Pagó en efectivo.",
+        "fr-FR": "Il a payé en espèces.",
+        "en-US": "He paid in cash.",
+        "en-GB": "He paid in cash."
+      }
+    },
+    {
+      "terms": {
+        "en": "card",
+        "pt-BR": "cartão",
+        "es-ES": "tarjeta",
+        "fr-FR": "carte",
+        "en-US": "card",
+        "en-GB": "card"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Can I pay by card?",
+        "pt-BR": "Posso pagar com cartão?",
+        "es-ES": "¿Puedo pagar con tarjeta?",
+        "fr-FR": "Puis-je payer par carte ?",
+        "en-US": "Can I pay by card?",
+        "en-GB": "Can I pay by card?"
+      }
+    },
+    {
+      "terms": {
+        "en": "bag",
+        "pt-BR": "sacola",
+        "es-ES": "bolsa",
+        "fr-FR": "sac",
+        "en-US": "bag",
+        "en-GB": "bag"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The cashier gave me a paper bag.",
+        "pt-BR": "A caixa me deu uma sacola de papel.",
+        "es-ES": "La cajera me dio una bolsa de papel.",
+        "fr-FR": "La caissière m'a donné un sac en papier.",
+        "en-US": "The cashier gave me a paper bag.",
+        "en-GB": "The cashier gave me a paper bag."
+      }
+    },
+    {
+      "terms": {
+        "en": "receipt",
+        "pt-BR": "recibo",
+        "es-ES": "recibo",
+        "fr-FR": "ticket",
+        "en-US": "receipt",
+        "en-GB": "receipt"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Please keep the receipt.",
+        "pt-BR": "Por favor, guarde o recibo.",
+        "es-ES": "Por favor, guarda el recibo.",
+        "fr-FR": "Veuillez garder le ticket.",
+        "en-US": "Please keep the receipt.",
+        "en-GB": "Please keep the receipt."
+      }
+    },
+    {
+      "terms": {
+        "en": "cashier",
+        "pt-BR": "caixa",
+        "es-ES": "cajero",
+        "fr-FR": "caissier",
+        "en-US": "cashier",
+        "en-GB": "cashier"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The cashier is very friendly.",
+        "pt-BR": "O caixa é muito simpático.",
+        "es-ES": "El cajero es muy amable.",
+        "fr-FR": "Le caissier est très aimable.",
+        "en-US": "The cashier is very friendly.",
+        "en-GB": "The cashier is very friendly."
+      }
+    },
+    {
+      "terms": {
+        "en": "shelf",
+        "pt-BR": "prateleira",
+        "es-ES": "estante",
+        "fr-FR": "étagère",
+        "en-US": "shelf",
+        "en-GB": "shelf"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The cereal is on the top shelf.",
+        "pt-BR": "O cereal está na prateleira de cima.",
+        "es-ES": "Los cereales están en la estantería de arriba.",
+        "fr-FR": "Les céréales sont sur l'étagère du haut.",
+        "en-US": "The cereal is on the top shelf.",
+        "en-GB": "The cereal is on the top shelf."
+      }
+    },
+    {
+      "terms": {
+        "en": "bottle",
+        "pt-BR": "garrafa",
+        "es-ES": "botella",
+        "fr-FR": "bouteille",
+        "en-US": "bottle",
+        "en-GB": "bottle"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We bought a bottle of water.",
+        "pt-BR": "Nós compramos uma garrafa de água.",
+        "es-ES": "Compramos una botella de agua.",
+        "fr-FR": "Nous avons acheté une bouteille d'eau.",
+        "en-US": "We bought a bottle of water.",
+        "en-GB": "We bought a bottle of water."
+      }
+    },
+    {
+      "terms": {
+        "en": "bread",
+        "pt-BR": "pão",
+        "es-ES": "pan",
+        "fr-FR": "pain",
+        "en-US": "bread",
+        "en-GB": "bread"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Fresh bread is near the entrance.",
+        "pt-BR": "O pão fresco fica perto da entrada.",
+        "es-ES": "El pan fresco está cerca de la entrada.",
+        "fr-FR": "Le pain frais est près de l'entrée.",
+        "en-US": "Fresh bread is near the entrance.",
+        "en-GB": "Fresh bread is near the entrance."
+      }
+    }
+  ]
+}

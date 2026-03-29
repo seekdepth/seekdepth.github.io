@@ -1,0 +1,385 @@
+{
+  "lesson_id": "body_parts",
+  "title": "Body Parts",
+  "titles": {
+    "en": "Body Parts",
+    "pt": "Partes do Corpo",
+    "es": "Partes del Cuerpo",
+    "fr": "Les Parties du Corps"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/body_parts.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Body Parts",
+      "pt": "Partes do Corpo",
+      "es": "Partes del Cuerpo",
+      "fr": "Les Parties du Corps"
+    },
+    "sample_sentences": {
+      "en": "Let's study body parts.",
+      "pt-BR": "Vamos estudar as partes do corpo.",
+      "es-ES": "Vamos a estudiar las partes del cuerpo.",
+      "fr-FR": "Étudions les parties du corps.",
+      "en-US": "Let's study body parts.",
+      "en-GB": "Let's study body parts."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "head",
+        "pt-BR": "cabeça",
+        "es-ES": "cabeza",
+        "fr-FR": "tête",
+        "en-US": "head",
+        "en-GB": "head"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He touched his head.",
+        "pt-BR": "Ele tocou a cabeça.",
+        "es-ES": "Se tocó la cabeza.",
+        "fr-FR": "Il a touché sa tête.",
+        "en-US": "He touched his head.",
+        "en-GB": "He touched his head."
+      }
+    },
+    {
+      "terms": {
+        "en": "hand",
+        "pt-BR": "mão",
+        "es-ES": "mano",
+        "fr-FR": "main",
+        "en-US": "hand",
+        "en-GB": "hand"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Wash your hand before eating.",
+        "pt-BR": "Lave a mão antes de comer.",
+        "es-ES": "Lávate la mano antes de comer.",
+        "fr-FR": "Lave ta main avant de manger.",
+        "en-US": "Wash your hand before eating.",
+        "en-GB": "Wash your hand before eating."
+      }
+    },
+    {
+      "terms": {
+        "en": "arm",
+        "pt-BR": "braço",
+        "es-ES": "brazo",
+        "fr-FR": "bras",
+        "en-US": "arm",
+        "en-GB": "arm"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Her arm is resting on the chair.",
+        "pt-BR": "O braço dela está apoiado na cadeira.",
+        "es-ES": "Su brazo está apoyado en la silla.",
+        "fr-FR": "Son bras repose sur la chaise.",
+        "en-US": "Her arm is resting on the chair.",
+        "en-GB": "Her arm is resting on the chair."
+      }
+    },
+    {
+      "terms": {
+        "en": "leg",
+        "pt-BR": "perna",
+        "es-ES": "pierna",
+        "fr-FR": "jambe",
+        "en-US": "leg",
+        "en-GB": "leg"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My leg is tired after the walk.",
+        "pt-BR": "Minha perna está cansada depois da caminhada.",
+        "es-ES": "Mi pierna está cansada después de caminar.",
+        "fr-FR": "Ma jambe est fatiguée après la marche.",
+        "en-US": "My leg is tired after the walk.",
+        "en-GB": "My leg is tired after the walk."
+      }
+    },
+    {
+      "terms": {
+        "en": "foot",
+        "pt-BR": "pé",
+        "es-ES": "pie",
+        "fr-FR": "pied",
+        "en-US": "foot",
+        "en-GB": "foot"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "His foot is wet from the rain.",
+        "pt-BR": "O pé dele está molhado por causa da chuva.",
+        "es-ES": "Tiene el pie mojado por la lluvia.",
+        "fr-FR": "Son pied est mouillé à cause de la pluie.",
+        "en-US": "His foot is wet from the rain.",
+        "en-GB": "His foot is wet from the rain."
+      }
+    },
+    {
+      "terms": {
+        "en": "eye",
+        "pt-BR": "olho",
+        "es-ES": "ojo",
+        "fr-FR": "oeil",
+        "en-US": "eye",
+        "en-GB": "eye"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She has blue eyes.",
+        "pt-BR": "Ela tem olhos azuis.",
+        "es-ES": "Tiene los ojos azules.",
+        "fr-FR": "Elle a les yeux bleus.",
+        "en-US": "She has blue eyes.",
+        "en-GB": "She has blue eyes."
+      }
+    },
+    {
+      "terms": {
+        "en": "ear",
+        "pt-BR": "orelha",
+        "es-ES": "oreja",
+        "fr-FR": "oreille",
+        "en-US": "ear",
+        "en-GB": "ear"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The child covered one ear.",
+        "pt-BR": "A criança tapou uma orelha.",
+        "es-ES": "El niño se tapó una oreja.",
+        "fr-FR": "L'enfant s'est couvert une oreille.",
+        "en-US": "The child covered one ear.",
+        "en-GB": "The child covered one ear."
+      }
+    },
+    {
+      "terms": {
+        "en": "nose",
+        "pt-BR": "nariz",
+        "es-ES": "nariz",
+        "fr-FR": "nez",
+        "en-US": "nose",
+        "en-GB": "nose"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My nose is cold.",
+        "pt-BR": "Meu nariz está frio.",
+        "es-ES": "Tengo la nariz fría.",
+        "fr-FR": "Mon nez est froid.",
+        "en-US": "My nose is cold.",
+        "en-GB": "My nose is cold."
+      }
+    },
+    {
+      "terms": {
+        "en": "mouth",
+        "pt-BR": "boca",
+        "es-ES": "boca",
+        "fr-FR": "bouche",
+        "en-US": "mouth",
+        "en-GB": "mouth"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Please open your mouth.",
+        "pt-BR": "Por favor, abra a boca.",
+        "es-ES": "Por favor, abre la boca.",
+        "fr-FR": "Veuillez ouvrir la bouche.",
+        "en-US": "Please open your mouth.",
+        "en-GB": "Please open your mouth."
+      }
+    },
+    {
+      "terms": {
+        "en": "back",
+        "pt-BR": "costas",
+        "es-ES": "espalda",
+        "fr-FR": "dos",
+        "en-US": "back",
+        "en-GB": "back"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My back hurts after the trip.",
+        "pt-BR": "Minhas costas doem depois da viagem.",
+        "es-ES": "Me duele la espalda después del viaje.",
+        "fr-FR": "J'ai mal au dos après le voyage.",
+        "en-US": "My back hurts after the trip.",
+        "en-GB": "My back hurts after the trip."
+      }
+    }
+  ]
+}

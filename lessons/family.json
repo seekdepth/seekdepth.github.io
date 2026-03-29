@@ -1,0 +1,116 @@
+{
+  "lesson_id": "family",
+  "title": "Family",
+  "titles": {
+    "en": "Family",
+    "pt": "Família",
+    "es": "Familia",
+    "fr": "La Famille"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study family words.",
+    "pt-BR": "Vamos estudar palavras sobre a família.",
+    "es-ES": "Vamos a estudiar palabras sobre la familia.",
+    "fr-FR": "Étudions les mots de la famille."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "mother", "pt-BR": "mãe", "es-ES": "madre", "fr-FR": "mère" },
+      "sample_sentences": {
+        "en": "My mother loves gardening.",
+        "pt-BR": "Minha mãe adora jardinagem.",
+        "es-ES": "Mi madre adora la jardinería.",
+        "fr-FR": "Ma mère adore le jardinage."
+      }
+    },
+    {
+      "terms": { "en": "father", "pt-BR": "pai", "es-ES": "padre", "fr-FR": "père" },
+      "sample_sentences": {
+        "en": "His father works in a hospital.",
+        "pt-BR": "O pai dele trabalha em um hospital.",
+        "es-ES": "Su padre trabaja en un hospital.",
+        "fr-FR": "Son père travaille dans un hôpital."
+      }
+    },
+    {
+      "terms": { "en": "sister", "pt-BR": "irmã", "es-ES": "hermana", "fr-FR": "soeur" },
+      "sample_sentences": {
+        "en": "My sister is younger than me.",
+        "pt-BR": "Minha irmã é mais nova do que eu.",
+        "es-ES": "Mi hermana es menor que yo.",
+        "fr-FR": "Ma soeur est plus jeune que moi."
+      }
+    },
+    {
+      "terms": { "en": "brother", "pt-BR": "irmão", "es-ES": "hermano", "fr-FR": "frère" },
+      "sample_sentences": {
+        "en": "Her brother plays soccer every weekend.",
+        "pt-BR": "O irmão dela joga futebol todo fim de semana.",
+        "es-ES": "Su hermano juega al fútbol cada fin de semana.",
+        "fr-FR": "Son frère joue au football chaque week-end."
+      }
+    },
+    {
+      "terms": { "en": "son", "pt-BR": "filho", "es-ES": "hijo", "fr-FR": "fils" },
+      "sample_sentences": {
+        "en": "Their son starts school this year.",
+        "pt-BR": "O filho deles começa a escola este ano.",
+        "es-ES": "Su hijo empieza la escuela este año.",
+        "fr-FR": "Leur fils commence l'école cette année."
+      }
+    },
+    {
+      "terms": { "en": "daughter", "pt-BR": "filha", "es-ES": "hija", "fr-FR": "fille" },
+      "sample_sentences": {
+        "en": "Their daughter likes to draw.",
+        "pt-BR": "A filha deles gosta de desenhar.",
+        "es-ES": "A su hija le gusta dibujar.",
+        "fr-FR": "Leur fille aime dessiner."
+      }
+    },
+    {
+      "terms": { "en": "baby", "pt-BR": "bebê", "es-ES": "bebé", "fr-FR": "bébé" },
+      "sample_sentences": {
+        "en": "The baby is sleeping now.",
+        "pt-BR": "O bebê está dormindo agora.",
+        "es-ES": "El bebé está durmiendo ahora.",
+        "fr-FR": "Le bébé dort maintenant."
+      }
+    },
+    {
+      "terms": { "en": "grandparents", "pt-BR": "avós", "es-ES": "abuelos", "fr-FR": "grands-parents" },
+      "sample_sentences": {
+        "en": "We visit our grandparents on Sundays.",
+        "pt-BR": "Nós visitamos nossos avós aos domingos.",
+        "es-ES": "Visitamos a nuestros abuelos los domingos.",
+        "fr-FR": "Nous rendons visite à nos grands-parents le dimanche."
+      }
+    },
+    {
+      "terms": { "en": "husband", "pt-BR": "marido", "es-ES": "marido", "fr-FR": "mari" },
+      "sample_sentences": {
+        "en": "Her husband makes dinner every Friday.",
+        "pt-BR": "O marido dela faz o jantar toda sexta-feira.",
+        "es-ES": "Su marido prepara la cena todos los viernes.",
+        "fr-FR": "Son mari prépare le dîner tous les vendredis."
+      }
+    },
+    {
+      "terms": { "en": "wife", "pt-BR": "esposa", "es-ES": "esposa", "fr-FR": "femme" },
+      "sample_sentences": {
+        "en": "His wife speaks three languages.",
+        "pt-BR": "A esposa dele fala três idiomas.",
+        "es-ES": "Su esposa habla tres idiomas.",
+        "fr-FR": "Sa femme parle trois langues."
+      }
+    }
+  ]
+}

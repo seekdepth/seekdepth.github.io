@@ -1,0 +1,116 @@
+{
+  "lesson_id": "transportation",
+  "title": "Transportation",
+  "titles": {
+    "en": "Transportation",
+    "pt": "Transporte",
+    "es": "Transporte",
+    "fr": "Les Transports"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study transportation words.",
+    "pt-BR": "Vamos estudar palavras sobre transporte.",
+    "es-ES": "Vamos a estudiar palabras de transporte.",
+    "fr-FR": "Étudions les mots des transports."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "car", "pt-BR": "carro", "es-ES": "coche", "fr-FR": "voiture" },
+      "sample_sentences": {
+        "en": "The car is parked outside.",
+        "pt-BR": "O carro está estacionado lá fora.",
+        "es-ES": "El coche está aparcado fuera.",
+        "fr-FR": "La voiture est garée dehors."
+      }
+    },
+    {
+      "terms": { "en": "bus", "pt-BR": "ônibus", "es-ES": "autobús", "fr-FR": "bus" },
+      "sample_sentences": {
+        "en": "The bus arrives at eight.",
+        "pt-BR": "O ônibus chega às oito.",
+        "es-ES": "El autobús llega a las ocho.",
+        "fr-FR": "Le bus arrive à huit heures."
+      }
+    },
+    {
+      "terms": { "en": "train", "pt-BR": "trem", "es-ES": "tren", "fr-FR": "train" },
+      "sample_sentences": {
+        "en": "We took the train to the city.",
+        "pt-BR": "Nós pegamos o trem para a cidade.",
+        "es-ES": "Tomamos el tren a la ciudad.",
+        "fr-FR": "Nous avons pris le train pour la ville."
+      }
+    },
+    {
+      "terms": { "en": "plane", "pt-BR": "avião", "es-ES": "avión", "fr-FR": "avion" },
+      "sample_sentences": {
+        "en": "The plane leaves this afternoon.",
+        "pt-BR": "O avião sai esta tarde.",
+        "es-ES": "El avión sale esta tarde.",
+        "fr-FR": "L'avion part cet après-midi."
+      }
+    },
+    {
+      "terms": { "en": "bicycle", "pt-BR": "bicicleta", "es-ES": "bicicleta", "fr-FR": "vélo" },
+      "sample_sentences": {
+        "en": "She rides her bicycle to school.",
+        "pt-BR": "Ela vai de bicicleta para a escola.",
+        "es-ES": "Va en bicicleta a la escuela.",
+        "fr-FR": "Elle va à l'école à vélo."
+      }
+    },
+    {
+      "terms": { "en": "station", "pt-BR": "estação", "es-ES": "estación", "fr-FR": "gare" },
+      "sample_sentences": {
+        "en": "The station is near the hotel.",
+        "pt-BR": "A estação fica perto do hotel.",
+        "es-ES": "La estación está cerca del hotel.",
+        "fr-FR": "La gare est près de l'hôtel."
+      }
+    },
+    {
+      "terms": { "en": "ticket", "pt-BR": "bilhete", "es-ES": "billete", "fr-FR": "billet" },
+      "sample_sentences": {
+        "en": "Keep your ticket in your pocket.",
+        "pt-BR": "Guarde seu bilhete no bolso.",
+        "es-ES": "Guarda tu billete en el bolsillo.",
+        "fr-FR": "Garde ton billet dans ta poche."
+      }
+    },
+    {
+      "terms": { "en": "road", "pt-BR": "estrada", "es-ES": "carretera", "fr-FR": "route" },
+      "sample_sentences": {
+        "en": "The road is quiet at night.",
+        "pt-BR": "A estrada fica tranquila à noite.",
+        "es-ES": "La carretera está tranquila por la noche.",
+        "fr-FR": "La route est calme la nuit."
+      }
+    },
+    {
+      "terms": { "en": "airport", "pt-BR": "aeroporto", "es-ES": "aeropuerto", "fr-FR": "aéroport" },
+      "sample_sentences": {
+        "en": "We arrived at the airport early.",
+        "pt-BR": "Nós chegamos cedo ao aeroporto.",
+        "es-ES": "Llegamos temprano al aeropuerto.",
+        "fr-FR": "Nous sommes arrivés tôt à l'aéroport."
+      }
+    },
+    {
+      "terms": { "en": "stop", "pt-BR": "parada", "es-ES": "parada", "fr-FR": "arrêt" },
+      "sample_sentences": {
+        "en": "Get off at the next stop.",
+        "pt-BR": "Desça na próxima parada.",
+        "es-ES": "Bájate en la próxima parada.",
+        "fr-FR": "Descends au prochain arrêt."
+      }
+    }
+  ]
+}

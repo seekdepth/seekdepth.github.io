@@ -1,0 +1,385 @@
+{
+  "lesson_id": "weather",
+  "title": "Weather",
+  "titles": {
+    "en": "Weather",
+    "pt": "Tempo",
+    "es": "El Tiempo",
+    "fr": "Le Temps"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/weather.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Weather",
+      "pt": "Tempo",
+      "es": "El Tiempo",
+      "fr": "Le Temps"
+    },
+    "sample_sentences": {
+      "en": "Let's study weather words.",
+      "pt-BR": "Vamos estudar palavras sobre o tempo.",
+      "es-ES": "Vamos a estudiar palabras del tiempo.",
+      "fr-FR": "Étudions les mots du temps.",
+      "en-US": "Let's study weather words.",
+      "en-GB": "Let's study weather words."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "sun",
+        "pt-BR": "sol",
+        "es-ES": "sol",
+        "fr-FR": "soleil",
+        "en-US": "sun",
+        "en-GB": "sun"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The sun is bright today.",
+        "pt-BR": "O sol está forte hoje.",
+        "es-ES": "El sol está fuerte hoy.",
+        "fr-FR": "Le soleil brille aujourd'hui.",
+        "en-US": "The sun is bright today.",
+        "en-GB": "The sun is bright today."
+      }
+    },
+    {
+      "terms": {
+        "en": "rain",
+        "pt-BR": "chuva",
+        "es-ES": "lluvia",
+        "fr-FR": "pluie",
+        "en-US": "rain",
+        "en-GB": "rain"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The rain started in the afternoon.",
+        "pt-BR": "A chuva começou à tarde.",
+        "es-ES": "La lluvia empezó por la tarde.",
+        "fr-FR": "La pluie a commencé dans l'après-midi.",
+        "en-US": "The rain started in the afternoon.",
+        "en-GB": "The rain started in the afternoon."
+      }
+    },
+    {
+      "terms": {
+        "en": "cloud",
+        "pt-BR": "nuvem",
+        "es-ES": "nube",
+        "fr-FR": "nuage",
+        "en-US": "cloud",
+        "en-GB": "cloud"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "A dark cloud is over the town.",
+        "pt-BR": "Uma nuvem escura está sobre a cidade.",
+        "es-ES": "Una nube oscura está sobre la ciudad.",
+        "fr-FR": "Un nuage sombre est au-dessus de la ville.",
+        "en-US": "A dark cloud is over the town.",
+        "en-GB": "A dark cloud is over the town."
+      }
+    },
+    {
+      "terms": {
+        "en": "wind",
+        "pt-BR": "vento",
+        "es-ES": "viento",
+        "fr-FR": "vent",
+        "en-US": "wind",
+        "en-GB": "wind"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The wind is strong near the beach.",
+        "pt-BR": "O vento está forte perto da praia.",
+        "es-ES": "El viento es fuerte cerca de la playa.",
+        "fr-FR": "Le vent est fort près de la plage.",
+        "en-US": "The wind is strong near the beach.",
+        "en-GB": "The wind is strong near the beach."
+      }
+    },
+    {
+      "terms": {
+        "en": "storm",
+        "pt-BR": "tempestade",
+        "es-ES": "tormenta",
+        "fr-FR": "orage",
+        "en-US": "storm",
+        "en-GB": "storm"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "A storm is coming tonight.",
+        "pt-BR": "Uma tempestade vem esta noite.",
+        "es-ES": "Esta noche viene una tormenta.",
+        "fr-FR": "Un orage arrive ce soir.",
+        "en-US": "A storm is coming tonight.",
+        "en-GB": "A storm is coming tonight."
+      }
+    },
+    {
+      "terms": {
+        "en": "hot",
+        "pt-BR": "quente",
+        "es-ES": "caliente",
+        "fr-FR": "chaud",
+        "en-US": "hot",
+        "en-GB": "hot"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It is very hot in July.",
+        "pt-BR": "Faz muito calor em julho.",
+        "es-ES": "Hace mucho calor en julio.",
+        "fr-FR": "Il fait très chaud en juillet.",
+        "en-US": "It is very hot in July.",
+        "en-GB": "It is very hot in July."
+      }
+    },
+    {
+      "terms": {
+        "en": "cold",
+        "pt-BR": "frio",
+        "es-ES": "frío",
+        "fr-FR": "froid",
+        "en-US": "cold",
+        "en-GB": "cold"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The water feels cold today.",
+        "pt-BR": "A água está fria hoje.",
+        "es-ES": "El agua está fría hoy.",
+        "fr-FR": "L'eau est froide aujourd'hui.",
+        "en-US": "The water feels cold today.",
+        "en-GB": "The water feels cold today."
+      }
+    },
+    {
+      "terms": {
+        "en": "warm",
+        "pt-BR": "morno",
+        "es-ES": "templado",
+        "fr-FR": "doux",
+        "en-US": "warm",
+        "en-GB": "warm"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The evening is warm and pleasant.",
+        "pt-BR": "A noite está morna e agradável.",
+        "es-ES": "La tarde está templada y agradable.",
+        "fr-FR": "La soirée est douce et agréable.",
+        "en-US": "The evening is warm and pleasant.",
+        "en-GB": "The evening is warm and pleasant."
+      }
+    },
+    {
+      "terms": {
+        "en": "snow",
+        "pt-BR": "neve",
+        "es-ES": "nieve",
+        "fr-FR": "neige",
+        "en-US": "snow",
+        "en-GB": "snow"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The snow covered the road.",
+        "pt-BR": "A neve cobriu a estrada.",
+        "es-ES": "La nieve cubrió la carretera.",
+        "fr-FR": "La neige a couvert la route.",
+        "en-US": "The snow covered the road.",
+        "en-GB": "The snow covered the road."
+      }
+    },
+    {
+      "terms": {
+        "en": "fog",
+        "pt-BR": "neblina",
+        "es-ES": "niebla",
+        "fr-FR": "brouillard",
+        "en-US": "fog",
+        "en-GB": "fog"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The fog is thick this morning.",
+        "pt-BR": "A neblina está forte esta manhã.",
+        "es-ES": "La niebla es espesa esta mañana.",
+        "fr-FR": "Le brouillard est épais ce matin.",
+        "en-US": "The fog is thick this morning.",
+        "en-GB": "The fog is thick this morning."
+      }
+    }
+  ]
+}

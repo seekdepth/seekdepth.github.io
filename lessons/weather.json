@@ -1,0 +1,116 @@
+{
+  "lesson_id": "weather",
+  "title": "Weather",
+  "titles": {
+    "en": "Weather",
+    "pt": "Tempo",
+    "es": "El Tiempo",
+    "fr": "Le Temps"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study weather words.",
+    "pt-BR": "Vamos estudar palavras sobre o tempo.",
+    "es-ES": "Vamos a estudiar palabras del tiempo.",
+    "fr-FR": "Étudions les mots du temps."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "sun", "pt-BR": "sol", "es-ES": "sol", "fr-FR": "soleil" },
+      "sample_sentences": {
+        "en": "The sun is bright today.",
+        "pt-BR": "O sol está forte hoje.",
+        "es-ES": "El sol está fuerte hoy.",
+        "fr-FR": "Le soleil brille aujourd'hui."
+      }
+    },
+    {
+      "terms": { "en": "rain", "pt-BR": "chuva", "es-ES": "lluvia", "fr-FR": "pluie" },
+      "sample_sentences": {
+        "en": "The rain started in the afternoon.",
+        "pt-BR": "A chuva começou à tarde.",
+        "es-ES": "La lluvia empezó por la tarde.",
+        "fr-FR": "La pluie a commencé dans l'après-midi."
+      }
+    },
+    {
+      "terms": { "en": "cloud", "pt-BR": "nuvem", "es-ES": "nube", "fr-FR": "nuage" },
+      "sample_sentences": {
+        "en": "A dark cloud is over the town.",
+        "pt-BR": "Uma nuvem escura está sobre a cidade.",
+        "es-ES": "Una nube oscura está sobre la ciudad.",
+        "fr-FR": "Un nuage sombre est au-dessus de la ville."
+      }
+    },
+    {
+      "terms": { "en": "wind", "pt-BR": "vento", "es-ES": "viento", "fr-FR": "vent" },
+      "sample_sentences": {
+        "en": "The wind is strong near the beach.",
+        "pt-BR": "O vento está forte perto da praia.",
+        "es-ES": "El viento es fuerte cerca de la playa.",
+        "fr-FR": "Le vent est fort près de la plage."
+      }
+    },
+    {
+      "terms": { "en": "storm", "pt-BR": "tempestade", "es-ES": "tormenta", "fr-FR": "orage" },
+      "sample_sentences": {
+        "en": "A storm is coming tonight.",
+        "pt-BR": "Uma tempestade vem esta noite.",
+        "es-ES": "Esta noche viene una tormenta.",
+        "fr-FR": "Un orage arrive ce soir."
+      }
+    },
+    {
+      "terms": { "en": "hot", "pt-BR": "quente", "es-ES": "caliente", "fr-FR": "chaud" },
+      "sample_sentences": {
+        "en": "It is very hot in July.",
+        "pt-BR": "Faz muito calor em julho.",
+        "es-ES": "Hace mucho calor en julio.",
+        "fr-FR": "Il fait très chaud en juillet."
+      }
+    },
+    {
+      "terms": { "en": "cold", "pt-BR": "frio", "es-ES": "frío", "fr-FR": "froid" },
+      "sample_sentences": {
+        "en": "The water feels cold today.",
+        "pt-BR": "A água está fria hoje.",
+        "es-ES": "El agua está fría hoy.",
+        "fr-FR": "L'eau est froide aujourd'hui."
+      }
+    },
+    {
+      "terms": { "en": "warm", "pt-BR": "morno", "es-ES": "templado", "fr-FR": "doux" },
+      "sample_sentences": {
+        "en": "The evening is warm and pleasant.",
+        "pt-BR": "A noite está morna e agradável.",
+        "es-ES": "La tarde está templada y agradable.",
+        "fr-FR": "La soirée est douce et agréable."
+      }
+    },
+    {
+      "terms": { "en": "snow", "pt-BR": "neve", "es-ES": "nieve", "fr-FR": "neige" },
+      "sample_sentences": {
+        "en": "The snow covered the road.",
+        "pt-BR": "A neve cobriu a estrada.",
+        "es-ES": "La nieve cubrió la carretera.",
+        "fr-FR": "La neige a couvert la route."
+      }
+    },
+    {
+      "terms": { "en": "fog", "pt-BR": "neblina", "es-ES": "niebla", "fr-FR": "brouillard" },
+      "sample_sentences": {
+        "en": "The fog is thick this morning.",
+        "pt-BR": "A neblina está forte esta manhã.",
+        "es-ES": "La niebla es espesa esta mañana.",
+        "fr-FR": "Le brouillard est épais ce matin."
+      }
+    }
+  ]
+}

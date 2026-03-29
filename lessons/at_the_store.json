@@ -1,0 +1,116 @@
+{
+  "lesson_id": "at_the_store",
+  "title": "At the Store",
+  "titles": {
+    "en": "At the Store",
+    "pt": "Na Loja",
+    "es": "En la Tienda",
+    "fr": "Au Magasin"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study words for the store.",
+    "pt-BR": "Vamos estudar palavras para a loja.",
+    "es-ES": "Vamos a estudiar palabras para la tienda.",
+    "fr-FR": "Étudions des mots pour le magasin."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "price", "pt-BR": "preço", "es-ES": "precio", "fr-FR": "prix" },
+      "sample_sentences": {
+        "en": "The price is on the label.",
+        "pt-BR": "O preço está na etiqueta.",
+        "es-ES": "El precio está en la etiqueta.",
+        "fr-FR": "Le prix est sur l'étiquette."
+      }
+    },
+    {
+      "terms": { "en": "money", "pt-BR": "dinheiro", "es-ES": "dinero", "fr-FR": "argent" },
+      "sample_sentences": {
+        "en": "I do not have much money today.",
+        "pt-BR": "Eu não tenho muito dinheiro hoje.",
+        "es-ES": "No tengo mucho dinero hoy.",
+        "fr-FR": "Je n'ai pas beaucoup d'argent aujourd'hui."
+      }
+    },
+    {
+      "terms": { "en": "cash", "pt-BR": "dinheiro em espécie", "es-ES": "efectivo", "fr-FR": "espèces" },
+      "sample_sentences": {
+        "en": "He paid in cash.",
+        "pt-BR": "Ele pagou em dinheiro.",
+        "es-ES": "Pagó en efectivo.",
+        "fr-FR": "Il a payé en espèces."
+      }
+    },
+    {
+      "terms": { "en": "card", "pt-BR": "cartão", "es-ES": "tarjeta", "fr-FR": "carte" },
+      "sample_sentences": {
+        "en": "Can I pay by card?",
+        "pt-BR": "Posso pagar com cartão?",
+        "es-ES": "¿Puedo pagar con tarjeta?",
+        "fr-FR": "Puis-je payer par carte ?"
+      }
+    },
+    {
+      "terms": { "en": "bag", "pt-BR": "sacola", "es-ES": "bolsa", "fr-FR": "sac" },
+      "sample_sentences": {
+        "en": "The cashier gave me a paper bag.",
+        "pt-BR": "A caixa me deu uma sacola de papel.",
+        "es-ES": "La cajera me dio una bolsa de papel.",
+        "fr-FR": "La caissière m'a donné un sac en papier."
+      }
+    },
+    {
+      "terms": { "en": "receipt", "pt-BR": "recibo", "es-ES": "recibo", "fr-FR": "ticket" },
+      "sample_sentences": {
+        "en": "Please keep the receipt.",
+        "pt-BR": "Por favor, guarde o recibo.",
+        "es-ES": "Por favor, guarda el recibo.",
+        "fr-FR": "Veuillez garder le ticket."
+      }
+    },
+    {
+      "terms": { "en": "cashier", "pt-BR": "caixa", "es-ES": "cajero", "fr-FR": "caissier" },
+      "sample_sentences": {
+        "en": "The cashier is very friendly.",
+        "pt-BR": "O caixa é muito simpático.",
+        "es-ES": "El cajero es muy amable.",
+        "fr-FR": "Le caissier est très aimable."
+      }
+    },
+    {
+      "terms": { "en": "shelf", "pt-BR": "prateleira", "es-ES": "estante", "fr-FR": "étagère" },
+      "sample_sentences": {
+        "en": "The cereal is on the top shelf.",
+        "pt-BR": "O cereal está na prateleira de cima.",
+        "es-ES": "Los cereales están en la estantería de arriba.",
+        "fr-FR": "Les céréales sont sur l'étagère du haut."
+      }
+    },
+    {
+      "terms": { "en": "bottle", "pt-BR": "garrafa", "es-ES": "botella", "fr-FR": "bouteille" },
+      "sample_sentences": {
+        "en": "We bought a bottle of water.",
+        "pt-BR": "Nós compramos uma garrafa de água.",
+        "es-ES": "Compramos una botella de agua.",
+        "fr-FR": "Nous avons acheté une bouteille d'eau."
+      }
+    },
+    {
+      "terms": { "en": "bread", "pt-BR": "pão", "es-ES": "pan", "fr-FR": "pain" },
+      "sample_sentences": {
+        "en": "Fresh bread is near the entrance.",
+        "pt-BR": "O pão fresco fica perto da entrada.",
+        "es-ES": "El pan fresco está cerca de la entrada.",
+        "fr-FR": "Le pain frais est près de l'entrée."
+      }
+    }
+  ]
+}

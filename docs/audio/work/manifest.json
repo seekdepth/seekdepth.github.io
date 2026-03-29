@@ -1,0 +1,385 @@
+{
+  "lesson_id": "work",
+  "title": "Work",
+  "titles": {
+    "en": "Work",
+    "pt": "Trabalho",
+    "es": "Trabajo",
+    "fr": "Le Travail"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/work.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Work",
+      "pt": "Trabalho",
+      "es": "Trabajo",
+      "fr": "Le Travail"
+    },
+    "sample_sentences": {
+      "en": "Let's study work words.",
+      "pt-BR": "Vamos estudar palavras sobre o trabalho.",
+      "es-ES": "Vamos a estudiar palabras del trabajo.",
+      "fr-FR": "Étudions les mots du travail.",
+      "en-US": "Let's study work words.",
+      "en-GB": "Let's study work words."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "office",
+        "pt-BR": "escritório",
+        "es-ES": "oficina",
+        "fr-FR": "bureau",
+        "en-US": "office",
+        "en-GB": "office"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Her office is downtown.",
+        "pt-BR": "O escritório dela fica no centro.",
+        "es-ES": "Su oficina está en el centro.",
+        "fr-FR": "Son bureau est au centre-ville.",
+        "en-US": "Her office is downtown.",
+        "en-GB": "Her office is downtown."
+      }
+    },
+    {
+      "terms": {
+        "en": "meeting",
+        "pt-BR": "reunião",
+        "es-ES": "reunión",
+        "fr-FR": "réunion",
+        "en-US": "meeting",
+        "en-GB": "meeting"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The meeting starts at nine.",
+        "pt-BR": "A reunião começa às nove.",
+        "es-ES": "La reunión empieza a las nueve.",
+        "fr-FR": "La réunion commence à neuf heures.",
+        "en-US": "The meeting starts at nine.",
+        "en-GB": "The meeting starts at nine."
+      }
+    },
+    {
+      "terms": {
+        "en": "computer",
+        "pt-BR": "computador",
+        "es-ES": "ordenador",
+        "fr-FR": "ordinateur",
+        "en-US": "computer",
+        "en-GB": "computer"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My computer is very slow today.",
+        "pt-BR": "Meu computador está muito lento hoje.",
+        "es-ES": "Mi ordenador está muy lento hoy.",
+        "fr-FR": "Mon ordinateur est très lent aujourd'hui.",
+        "en-US": "My computer is very slow today.",
+        "en-GB": "My computer is very slow today."
+      }
+    },
+    {
+      "terms": {
+        "en": "email",
+        "pt-BR": "e-mail",
+        "es-ES": "correo electrónico",
+        "fr-FR": "e-mail",
+        "en-US": "email",
+        "en-GB": "email"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I sent the email this morning.",
+        "pt-BR": "Eu enviei o e-mail esta manhã.",
+        "es-ES": "Envié el correo electrónico esta mañana.",
+        "fr-FR": "J'ai envoyé l'e-mail ce matin.",
+        "en-US": "I sent the email this morning.",
+        "en-GB": "I sent the email this morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "manager",
+        "pt-BR": "gerente",
+        "es-ES": "gerente",
+        "fr-FR": "responsable",
+        "en-US": "manager",
+        "en-GB": "manager"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The manager approved the plan.",
+        "pt-BR": "O gerente aprovou o plano.",
+        "es-ES": "El gerente aprobó el plan.",
+        "fr-FR": "Le responsable a approuvé le plan.",
+        "en-US": "The manager approved the plan.",
+        "en-GB": "The manager approved the plan."
+      }
+    },
+    {
+      "terms": {
+        "en": "coworker",
+        "pt-BR": "colega de trabalho",
+        "es-ES": "compañero de trabajo",
+        "fr-FR": "collègue",
+        "en-US": "coworker",
+        "en-GB": "coworker"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My coworker helped me yesterday.",
+        "pt-BR": "Meu colega de trabalho me ajudou ontem.",
+        "es-ES": "Mi compañero de trabajo me ayudó ayer.",
+        "fr-FR": "Mon collègue m'a aidé hier.",
+        "en-US": "My coworker helped me yesterday.",
+        "en-GB": "My coworker helped me yesterday."
+      }
+    },
+    {
+      "terms": {
+        "en": "calendar",
+        "pt-BR": "calendário",
+        "es-ES": "calendario",
+        "fr-FR": "calendrier",
+        "en-US": "calendar",
+        "en-GB": "calendar"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Check the calendar before scheduling it.",
+        "pt-BR": "Confira o calendário antes de marcar.",
+        "es-ES": "Mira el calendario antes de programarlo.",
+        "fr-FR": "Vérifie le calendrier avant de le planifier.",
+        "en-US": "Check the calendar before scheduling it.",
+        "en-GB": "Check the calendar before scheduling it."
+      }
+    },
+    {
+      "terms": {
+        "en": "project",
+        "pt-BR": "projeto",
+        "es-ES": "proyecto",
+        "fr-FR": "projet",
+        "en-US": "project",
+        "en-GB": "project"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "This project is due next week.",
+        "pt-BR": "Este projeto vence na próxima semana.",
+        "es-ES": "Este proyecto vence la próxima semana.",
+        "fr-FR": "Ce projet est à rendre la semaine prochaine.",
+        "en-US": "This project is due next week.",
+        "en-GB": "This project is due next week."
+      }
+    },
+    {
+      "terms": {
+        "en": "lunch break",
+        "pt-BR": "pausa para o almoço",
+        "es-ES": "pausa para comer",
+        "fr-FR": "pause déjeuner",
+        "en-US": "lunch break",
+        "en-GB": "lunch break"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We talk in the kitchen during lunch break.",
+        "pt-BR": "Nós conversamos na cozinha durante a pausa para o almoço.",
+        "es-ES": "Hablamos en la cocina durante la pausa para comer.",
+        "fr-FR": "Nous parlons dans la cuisine pendant la pause déjeuner.",
+        "en-US": "We talk in the kitchen during lunch break.",
+        "en-GB": "We talk in the kitchen during lunch break."
+      }
+    },
+    {
+      "terms": {
+        "en": "phone",
+        "pt-BR": "telefone",
+        "es-ES": "teléfono",
+        "fr-FR": "téléphone",
+        "en-US": "phone",
+        "en-GB": "phone"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Her phone rang during the meeting.",
+        "pt-BR": "O telefone dela tocou durante a reunião.",
+        "es-ES": "Su teléfono sonó durante la reunión.",
+        "fr-FR": "Son téléphone a sonné pendant la réunion.",
+        "en-US": "Her phone rang during the meeting.",
+        "en-GB": "Her phone rang during the meeting."
+      }
+    }
+  ]
+}

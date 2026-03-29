@@ -1,0 +1,385 @@
+{
+  "lesson_id": "family",
+  "title": "Family",
+  "titles": {
+    "en": "Family",
+    "pt": "Família",
+    "es": "Familia",
+    "fr": "La Famille"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/family.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Family",
+      "pt": "Família",
+      "es": "Familia",
+      "fr": "La Famille"
+    },
+    "sample_sentences": {
+      "en": "Let's study family words.",
+      "pt-BR": "Vamos estudar palavras sobre a família.",
+      "es-ES": "Vamos a estudiar palabras sobre la familia.",
+      "fr-FR": "Étudions les mots de la famille.",
+      "en-US": "Let's study family words.",
+      "en-GB": "Let's study family words."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "mother",
+        "pt-BR": "mãe",
+        "es-ES": "madre",
+        "fr-FR": "mère",
+        "en-US": "mother",
+        "en-GB": "mother"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My mother loves gardening.",
+        "pt-BR": "Minha mãe adora jardinagem.",
+        "es-ES": "Mi madre adora la jardinería.",
+        "fr-FR": "Ma mère adore le jardinage.",
+        "en-US": "My mother loves gardening.",
+        "en-GB": "My mother loves gardening."
+      }
+    },
+    {
+      "terms": {
+        "en": "father",
+        "pt-BR": "pai",
+        "es-ES": "padre",
+        "fr-FR": "père",
+        "en-US": "father",
+        "en-GB": "father"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "His father works in a hospital.",
+        "pt-BR": "O pai dele trabalha em um hospital.",
+        "es-ES": "Su padre trabaja en un hospital.",
+        "fr-FR": "Son père travaille dans un hôpital.",
+        "en-US": "His father works in a hospital.",
+        "en-GB": "His father works in a hospital."
+      }
+    },
+    {
+      "terms": {
+        "en": "sister",
+        "pt-BR": "irmã",
+        "es-ES": "hermana",
+        "fr-FR": "soeur",
+        "en-US": "sister",
+        "en-GB": "sister"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My sister is younger than me.",
+        "pt-BR": "Minha irmã é mais nova do que eu.",
+        "es-ES": "Mi hermana es menor que yo.",
+        "fr-FR": "Ma soeur est plus jeune que moi.",
+        "en-US": "My sister is younger than me.",
+        "en-GB": "My sister is younger than me."
+      }
+    },
+    {
+      "terms": {
+        "en": "brother",
+        "pt-BR": "irmão",
+        "es-ES": "hermano",
+        "fr-FR": "frère",
+        "en-US": "brother",
+        "en-GB": "brother"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Her brother plays soccer every weekend.",
+        "pt-BR": "O irmão dela joga futebol todo fim de semana.",
+        "es-ES": "Su hermano juega al fútbol cada fin de semana.",
+        "fr-FR": "Son frère joue au football chaque week-end.",
+        "en-US": "Her brother plays soccer every weekend.",
+        "en-GB": "Her brother plays soccer every weekend."
+      }
+    },
+    {
+      "terms": {
+        "en": "son",
+        "pt-BR": "filho",
+        "es-ES": "hijo",
+        "fr-FR": "fils",
+        "en-US": "son",
+        "en-GB": "son"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Their son starts school this year.",
+        "pt-BR": "O filho deles começa a escola este ano.",
+        "es-ES": "Su hijo empieza la escuela este año.",
+        "fr-FR": "Leur fils commence l'école cette année.",
+        "en-US": "Their son starts school this year.",
+        "en-GB": "Their son starts school this year."
+      }
+    },
+    {
+      "terms": {
+        "en": "daughter",
+        "pt-BR": "filha",
+        "es-ES": "hija",
+        "fr-FR": "fille",
+        "en-US": "daughter",
+        "en-GB": "daughter"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Their daughter likes to draw.",
+        "pt-BR": "A filha deles gosta de desenhar.",
+        "es-ES": "A su hija le gusta dibujar.",
+        "fr-FR": "Leur fille aime dessiner.",
+        "en-US": "Their daughter likes to draw.",
+        "en-GB": "Their daughter likes to draw."
+      }
+    },
+    {
+      "terms": {
+        "en": "baby",
+        "pt-BR": "bebê",
+        "es-ES": "bebé",
+        "fr-FR": "bébé",
+        "en-US": "baby",
+        "en-GB": "baby"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The baby is sleeping now.",
+        "pt-BR": "O bebê está dormindo agora.",
+        "es-ES": "El bebé está durmiendo ahora.",
+        "fr-FR": "Le bébé dort maintenant.",
+        "en-US": "The baby is sleeping now.",
+        "en-GB": "The baby is sleeping now."
+      }
+    },
+    {
+      "terms": {
+        "en": "grandparents",
+        "pt-BR": "avós",
+        "es-ES": "abuelos",
+        "fr-FR": "grands-parents",
+        "en-US": "grandparents",
+        "en-GB": "grandparents"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We visit our grandparents on Sundays.",
+        "pt-BR": "Nós visitamos nossos avós aos domingos.",
+        "es-ES": "Visitamos a nuestros abuelos los domingos.",
+        "fr-FR": "Nous rendons visite à nos grands-parents le dimanche.",
+        "en-US": "We visit our grandparents on Sundays.",
+        "en-GB": "We visit our grandparents on Sundays."
+      }
+    },
+    {
+      "terms": {
+        "en": "husband",
+        "pt-BR": "marido",
+        "es-ES": "marido",
+        "fr-FR": "mari",
+        "en-US": "husband",
+        "en-GB": "husband"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Her husband makes dinner every Friday.",
+        "pt-BR": "O marido dela faz o jantar toda sexta-feira.",
+        "es-ES": "Su marido prepara la cena todos los viernes.",
+        "fr-FR": "Son mari prépare le dîner tous les vendredis.",
+        "en-US": "Her husband makes dinner every Friday.",
+        "en-GB": "Her husband makes dinner every Friday."
+      }
+    },
+    {
+      "terms": {
+        "en": "wife",
+        "pt-BR": "esposa",
+        "es-ES": "esposa",
+        "fr-FR": "femme",
+        "en-US": "wife",
+        "en-GB": "wife"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "His wife speaks three languages.",
+        "pt-BR": "A esposa dele fala três idiomas.",
+        "es-ES": "Su esposa habla tres idiomas.",
+        "fr-FR": "Sa femme parle trois langues.",
+        "en-US": "His wife speaks three languages.",
+        "en-GB": "His wife speaks three languages."
+      }
+    }
+  ]
+}

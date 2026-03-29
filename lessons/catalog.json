@@ -144,6 +144,126 @@
       },
       "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
       "manifest_path": "./audio/colors/manifest.json"
+    },
+    {
+      "lesson_id": "at_home",
+      "title": "At Home",
+      "titles": {
+        "en": "At Home",
+        "pt": "Em Casa",
+        "es": "En Casa",
+        "fr": "À la Maison"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/at_home/manifest.json"
+    },
+    {
+      "lesson_id": "family",
+      "title": "Family",
+      "titles": {
+        "en": "Family",
+        "pt": "Família",
+        "es": "Familia",
+        "fr": "La Famille"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/family/manifest.json"
+    },
+    {
+      "lesson_id": "clothing",
+      "title": "Clothing",
+      "titles": {
+        "en": "Clothing",
+        "pt": "Roupas",
+        "es": "Ropa",
+        "fr": "Vêtements"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/clothing/manifest.json"
+    },
+    {
+      "lesson_id": "weather",
+      "title": "Weather",
+      "titles": {
+        "en": "Weather",
+        "pt": "Tempo",
+        "es": "El Tiempo",
+        "fr": "Le Temps"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/weather/manifest.json"
+    },
+    {
+      "lesson_id": "at_the_store",
+      "title": "At the Store",
+      "titles": {
+        "en": "At the Store",
+        "pt": "Na Loja",
+        "es": "En la Tienda",
+        "fr": "Au Magasin"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/at_the_store/manifest.json"
+    },
+    {
+      "lesson_id": "body_parts",
+      "title": "Body Parts",
+      "titles": {
+        "en": "Body Parts",
+        "pt": "Partes do Corpo",
+        "es": "Partes del Cuerpo",
+        "fr": "Les Parties du Corps"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/body_parts/manifest.json"
+    },
+    {
+      "lesson_id": "transportation",
+      "title": "Transportation",
+      "titles": {
+        "en": "Transportation",
+        "pt": "Transporte",
+        "es": "Transporte",
+        "fr": "Les Transports"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/transportation/manifest.json"
+    },
+    {
+      "lesson_id": "school",
+      "title": "School",
+      "titles": {
+        "en": "School",
+        "pt": "Escola",
+        "es": "Escuela",
+        "fr": "L'École"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/school/manifest.json"
+    },
+    {
+      "lesson_id": "work",
+      "title": "Work",
+      "titles": {
+        "en": "Work",
+        "pt": "Trabalho",
+        "es": "Trabajo",
+        "fr": "Le Travail"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/work/manifest.json"
+    },
+    {
+      "lesson_id": "time_of_day",
+      "title": "Time of Day",
+      "titles": {
+        "en": "Time of Day",
+        "pt": "Hora do Dia",
+        "es": "Momento del Día",
+        "fr": "Moments de la Journée"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/time_of_day/manifest.json"
     }
   ]
 }
