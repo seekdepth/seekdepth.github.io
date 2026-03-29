@@ -4,6 +4,7 @@ const QUIZ_HISTORY_LIMIT = 8;
 const AUTOPLAY_SLIDE_PAUSE_MS = 1200;
 const PROFILES_KEY = "simple_lang_profiles";
 const ACTIVE_PROFILE_KEY = "simple_lang_active_profile_id";
+const LESSON_PROGRESS_KEY_PREFIX = "simple_lang_lesson_progress_";
 const APP_VIEWS = { lesson: "lesson", quiz: "quiz" };
 const LESSON_CARD_VISUALS = {
   numbers_1_to_10: [
@@ -184,10 +185,15 @@ const TRANSLATIONS = {
     profileSummary: "Using profile: {name}. Primary language: {primary}. Secondary language: {secondary}.",
     noProfilesYet: "No profiles yet",
     introSentence: "Let's study {lesson}.",
+    filterAll: "All",
+    filterNew: "New",
+    filterStarted: "Started",
+    filterCompleted: "Completed",
     profileNameRequired: "Enter a profile name.",
     profileLanguagesDifferent: "Choose two different languages.",
     lessonsHome: "Lessons",
     noLessonsAvailable: "No lessons match this language pair yet.",
+    noLessonsForFilter: "No lessons match this filter yet.",
     lessonSubtitle: "",
     logout: "Logout",
     backToLessons: "Back to lessons",
@@ -248,10 +254,15 @@ const TRANSLATIONS = {
     profileSummary: "Perfil em uso: {name}. Idioma principal: {primary}. Idioma secundário: {secondary}.",
     noProfilesYet: "Ainda não há perfis",
     introSentence: "Vamos estudar {lesson}.",
+    filterAll: "Todas",
+    filterNew: "Novas",
+    filterStarted: "Iniciadas",
+    filterCompleted: "Concluídas",
     profileNameRequired: "Digite um nome de perfil.",
     profileLanguagesDifferent: "Escolha dois idiomas diferentes.",
     lessonsHome: "Lições",
     noLessonsAvailable: "Ainda não há lições para este par de idiomas.",
+    noLessonsForFilter: "Nenhuma lição corresponde a este filtro ainda.",
     lessonSubtitle: "",
     logout: "Sair",
     backToLessons: "Voltar às lições",
@@ -312,10 +323,15 @@ const TRANSLATIONS = {
     profileSummary: "Perfil en uso: {name}. Idioma principal: {primary}. Idioma secundario: {secondary}.",
     noProfilesYet: "Todavía no hay perfiles",
     introSentence: "Vamos a estudiar {lesson}.",
+    filterAll: "Todas",
+    filterNew: "Nuevas",
+    filterStarted: "Iniciadas",
+    filterCompleted: "Completadas",
     profileNameRequired: "Escribe un nombre de perfil.",
     profileLanguagesDifferent: "Elige dos idiomas diferentes.",
     lessonsHome: "Lecciones",
     noLessonsAvailable: "Todavía no hay lecciones para este par de idiomas.",
+    noLessonsForFilter: "Todavía no hay lecciones para este filtro.",
     lessonSubtitle: "",
     logout: "Salir",
     backToLessons: "Volver a las lecciones",
@@ -376,10 +392,15 @@ const TRANSLATIONS = {
     profileSummary: "Profil utilisé : {name}. Langue principale : {primary}. Langue secondaire : {secondary}.",
     noProfilesYet: "Aucun profil",
     introSentence: "Étudions {lesson}.",
+    filterAll: "Toutes",
+    filterNew: "Nouvelles",
+    filterStarted: "Commencées",
+    filterCompleted: "Terminées",
     profileNameRequired: "Saisissez un nom de profil.",
     profileLanguagesDifferent: "Choisissez deux langues différentes.",
     lessonsHome: "Leçons",
     noLessonsAvailable: "Aucune leçon ne correspond encore à cette paire de langues.",
+    noLessonsForFilter: "Aucune leçon ne correspond encore à ce filtre.",
     lessonSubtitle: "",
     logout: "Se déconnecter",
     backToLessons: "Retour aux leçons",
@@ -455,7 +476,7 @@ const lessonSubtitle = document.querySelector("#lesson-subtitle");
 const backToLessonsButton = document.querySelector("#back-to-lessons-button");
 const logoutButton = document.querySelector("#logout-button");
 const lessonsHome = document.querySelector("#lessons-home");
-const lessonsHomeLabel = document.querySelector("#lessons-home-label");
+const lessonFilterButtons = [...document.querySelectorAll("[data-lesson-filter]")];
 const lessonList = document.querySelector("#lesson-list");
 const learningShell = document.querySelector("#learning-shell");
 const modeQuizButton = document.querySelector("#mode-quiz");
@@ -534,9 +555,11 @@ let quizCurrentIndex = 0;
 let quizScore = 0;
 let quizAnswered = false;
 let quizHistoryItems = [];
+let lessonProgress = {};
 let isProfileModalOpen = false;
 let slideRenderTimer = null;
 let isSettingsMenuOpen = false;
+let selectedLessonFilter = "all";
 
 function normalizeLanguageCode(code) {
   if (code === "en") return "en-US";
@@ -644,6 +667,58 @@ function getQuizHistoryKey() {
   return `simple_lang_${activeProfile.id}_${selectedLessonId}_quiz_history`;
 }
 
+function getLessonProgressStorageKey() {
+  if (!activeProfile) {
+    return `${LESSON_PROGRESS_KEY_PREFIX}guest`;
+  }
+  return `${LESSON_PROGRESS_KEY_PREFIX}${activeProfile.id}`;
+}
+
+function loadLessonProgress() {
+  if (!activeProfile) {
+    lessonProgress = {};
+    return;
+  }
+  try {
+    const stored = window.localStorage.getItem(getLessonProgressStorageKey());
+    const parsed = stored ? JSON.parse(stored) : {};
+    lessonProgress = parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    lessonProgress = {};
+  }
+}
+
+function saveLessonProgress() {
+  if (!activeProfile) return;
+  window.localStorage.setItem(getLessonProgressStorageKey(), JSON.stringify(lessonProgress));
+}
+
+function getLessonProgressState(lessonId) {
+  const state = lessonProgress?.[lessonId];
+  return {
+    started: Boolean(state?.started),
+    mastered: Boolean(state?.mastered),
+  };
+}
+
+function updateLessonProgress(lessonId, patch) {
+  if (!activeProfile || !lessonId) return;
+  const current = getLessonProgressState(lessonId);
+  const next = {
+    started: current.started || Boolean(patch.started),
+    mastered: current.mastered || Boolean(patch.mastered),
+  };
+  if (current.started === next.started && current.mastered === next.mastered) {
+    return;
+  }
+  lessonProgress = {
+    ...lessonProgress,
+    [lessonId]: next,
+  };
+  saveLessonProgress();
+  renderLessonsHome();
+}
+
 function setStatus(message, playing = false) {
   if (!playbackStatus) return;
   playbackStatus.textContent = message;
@@ -737,6 +812,14 @@ function renderAutoPlayButtons() {
 function renderRandomizeButtons() {
   for (const button of randomizeButtons) {
     const selected = (button.dataset.randomize === "on") === randomizeEnabled;
+    button.classList.toggle("is-selected", selected);
+    button.setAttribute("aria-pressed", String(selected));
+  }
+}
+
+function renderLessonFilterButtons() {
+  for (const button of lessonFilterButtons) {
+    const selected = button.dataset.lessonFilter === selectedLessonFilter;
     button.classList.toggle("is-selected", selected);
     button.setAttribute("aria-pressed", String(selected));
   }
@@ -988,6 +1071,9 @@ function finishQuiz() {
   quizHistoryItems.unshift({ score: quizScore, total, percent });
   quizHistoryItems = quizHistoryItems.slice(0, QUIZ_HISTORY_LIMIT);
   saveQuizHistory();
+  if (percent === 100) {
+    updateLessonProgress(selectedLessonId, { mastered: true });
+  }
   renderQuizHistory();
 }
 
@@ -1151,10 +1237,30 @@ function renderLessonsHome() {
     lessonList.append(empty);
     return;
   }
-  for (const lesson of availableLessons) {
+  const filteredLessons = availableLessons.filter((lesson) => {
+    const progress = getLessonProgressState(lesson.lesson_id);
+    if (selectedLessonFilter === "new") return !progress.started && !progress.mastered;
+    if (selectedLessonFilter === "started") return progress.started && !progress.mastered;
+    if (selectedLessonFilter === "completed") return progress.mastered;
+    return true;
+  });
+  if (filteredLessons.length === 0) {
+    const empty = document.createElement("p");
+    empty.className = "profile-empty";
+    empty.textContent = t("noLessonsForFilter");
+    lessonList.append(empty);
+    return;
+  }
+  for (const lesson of filteredLessons) {
+    const progress = getLessonProgressState(lesson.lesson_id);
     const button = document.createElement("button");
     button.type = "button";
     button.className = "button lesson-card";
+    if (progress.mastered) {
+      button.classList.add("is-mastered");
+    } else if (progress.started) {
+      button.classList.add("is-started");
+    }
     button.textContent = lesson.titles?.[getUiLanguage()] ?? lesson.title;
     button.addEventListener("click", async () => {
       await loadSelectedLesson(lesson.lesson_id);
@@ -1181,7 +1287,10 @@ function applyUiText() {
   lessonSubtitle.textContent = lessonOpen ? "" : t("lessonSubtitle");
   backToLessonsButton.textContent = t("lessonsHome");
   logoutButton.textContent = t("logout");
-  lessonsHomeLabel.textContent = t("lessonsHome");
+  document.querySelector("#lesson-filter-all").textContent = t("filterAll");
+  document.querySelector("#lesson-filter-new").textContent = t("filterNew");
+  document.querySelector("#lesson-filter-started").textContent = t("filterStarted");
+  document.querySelector("#lesson-filter-completed").textContent = t("filterCompleted");
   modeQuizButton.textContent = t("quiz");
   labelWordPrimary.textContent = getLanguageName(getLanguageKeys().primary);
   labelWordSecondary.textContent = getLanguageName(getLanguageKeys().secondary);
@@ -1208,6 +1317,7 @@ function applyUiText() {
   renderSpeedButtons();
   renderIllustrationsButtons();
   renderRandomizeButtons();
+  renderLessonFilterButtons();
   renderSettingsMenu();
   renderPlayPauseButton();
   renderProfileSummary();
@@ -1235,6 +1345,7 @@ function setActiveProfile(profile) {
   activeProfile = profile;
   if (profile) window.localStorage.setItem(ACTIVE_PROFILE_KEY, profile.id);
   else window.localStorage.removeItem(ACTIVE_PROFILE_KEY);
+  loadLessonProgress();
   renderProfileList();
   renderAppStateVisibility();
   applyUiText();
@@ -1245,7 +1356,10 @@ function restoreActiveProfile() {
   const id = window.localStorage.getItem(ACTIVE_PROFILE_KEY);
   if (!id) return;
   const match = profiles.find((profile) => profile.id === id);
-  if (match) activeProfile = match;
+  if (match) {
+    activeProfile = match;
+    loadLessonProgress();
+  }
 }
 
 function loadProfiles() {
@@ -1443,6 +1557,7 @@ async function playCurrentSlide() {
       }
     }
     hasStarted = true;
+    updateLessonProgress(selectedLessonId, { started: true });
     clearActivePanels();
     setStatus(t("slideComplete", { speed: t(speedSetting.key) }));
     keepPlaying = autoPlayEnabled && currentIndex < slides.length - 1;
@@ -1585,6 +1700,13 @@ nextButton.addEventListener("click", async () => {
   updateButtons();
   if (shouldContinuePlaying) await playCurrentSlide();
 });
+for (const button of lessonFilterButtons) {
+  button.addEventListener("click", () => {
+    selectedLessonFilter = button.dataset.lessonFilter ?? "all";
+    renderLessonFilterButtons();
+    renderLessonsHome();
+  });
+}
 modeQuizButton.addEventListener("click", () => switchView(APP_VIEWS.quiz));
 quizCloseButton.addEventListener("click", () => switchView(APP_VIEWS.lesson));
 quizStartButton.addEventListener("click", () => startQuiz());

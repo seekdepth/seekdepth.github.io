@@ -331,6 +331,17 @@ h1 {
   font-weight: 600;
 }
 
+.lesson-filter-row {
+  justify-content: flex-end;
+}
+
+.lesson-filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.55rem;
+}
+
 .card-actions {
   display: flex;
   align-items: center;
@@ -622,6 +633,51 @@ h1 {
   justify-content: center;
   font-size: 1.08rem;
   line-height: 1.25;
+}
+
+#lessons-home .lesson-filter-button {
+  padding: 0.62rem 1rem;
+  font-size: 0.92rem;
+  font-weight: 700;
+  background: rgba(23, 50, 74, 0.1);
+  border: 1px solid transparent;
+}
+
+#lessons-home .lesson-filter-button-new {
+  background: rgba(23, 50, 74, 0.08);
+  border-color: rgba(23, 50, 74, 0.12);
+}
+
+#lessons-home .lesson-filter-button-started {
+  background: rgba(92, 156, 104, 0.18);
+  border-color: rgba(92, 156, 104, 0.32);
+}
+
+#lessons-home .lesson-filter-button-completed {
+  background: rgba(93, 145, 201, 0.2);
+  border-color: rgba(93, 145, 201, 0.34);
+}
+
+#lessons-home .lesson-filter-button.is-selected {
+  box-shadow: inset 0 0 0 2px rgba(23, 50, 74, 0.35);
+}
+
+.lesson-card.is-started {
+  background: rgba(92, 156, 104, 0.14);
+  border-color: rgba(92, 156, 104, 0.28);
+}
+
+.lesson-card.is-started:hover:not(:disabled) {
+  background: rgba(92, 156, 104, 0.2);
+}
+
+.lesson-card.is-mastered {
+  background: rgba(93, 145, 201, 0.16);
+  border-color: rgba(93, 145, 201, 0.3);
+}
+
+.lesson-card.is-mastered:hover:not(:disabled) {
+  background: rgba(93, 145, 201, 0.22);
 }
 
 .quiz-summary h3 {
