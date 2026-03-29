@@ -5,6 +5,21 @@ const AUTOPLAY_SLIDE_PAUSE_MS = 1200;
 const PROFILES_KEY = "simple_lang_profiles";
 const ACTIVE_PROFILE_KEY = "simple_lang_active_profile_id";
 const APP_VIEWS = { lesson: "lesson", quiz: "quiz" };
+const LESSON_CARD_VISUALS = {
+  numbers_1_to_10: [
+    null,
+    "📘",
+    "🐈  🐈",
+    "🚗\n🚗  🚗",
+    "🪑  🪑\n🪑  🪑",
+    "🍇  🍇  🍇",
+    "🍎  🍎\n🍎  🍎",
+    "📅  ✨",
+    "🎓  🎓",
+    "⭐  ⭐  ⭐",
+    "🐦  🐦  🐦",
+  ],
+};
 
 const TRANSLATIONS = {
   en: {
@@ -46,6 +61,10 @@ const TRANSLATIONS = {
     readyQuizChoose: "Choose the matching answer",
     quizPromptLabel: "Prompt",
     speed: "Speed",
+    illustrations: "Illustrations",
+    autoplay: "Autoplay",
+    on: "On",
+    off: "Off",
     fast: "Fast",
     normal: "Normal",
     slow: "Slow",
@@ -106,6 +125,10 @@ const TRANSLATIONS = {
     readyQuizChoose: "Escolha a resposta correspondente",
     quizPromptLabel: "Pergunta",
     speed: "Velocidade",
+    illustrations: "Ilustrações",
+    autoplay: "Reprodução automática",
+    on: "Ligado",
+    off: "Desligado",
     fast: "Rápido",
     normal: "Normal",
     slow: "Lento",
@@ -166,6 +189,10 @@ const TRANSLATIONS = {
     readyQuizChoose: "Elige la respuesta correspondiente",
     quizPromptLabel: "Pregunta",
     speed: "Velocidad",
+    illustrations: "Ilustraciones",
+    autoplay: "Reproducción automática",
+    on: "Activado",
+    off: "Desactivado",
     fast: "Rápido",
     normal: "Normal",
     slow: "Lento",
@@ -226,6 +253,10 @@ const TRANSLATIONS = {
     readyQuizChoose: "Choisissez la bonne réponse",
     quizPromptLabel: "Question",
     speed: "Vitesse",
+    illustrations: "Illustrations",
+    autoplay: "Lecture automatique",
+    on: "Activé",
+    off: "Désactivé",
     fast: "Rapide",
     normal: "Normale",
     slow: "Lente",
@@ -281,10 +312,10 @@ const lessonsHome = document.querySelector("#lessons-home");
 const lessonsHomeLabel = document.querySelector("#lessons-home-label");
 const lessonList = document.querySelector("#lesson-list");
 const learningShell = document.querySelector("#learning-shell");
-const modeLessonButton = document.querySelector("#mode-lesson");
 const modeQuizButton = document.querySelector("#mode-quiz");
 const lessonView = document.querySelector("#lesson-view");
 const quizView = document.querySelector("#quiz-view");
+const lessonCard = document.querySelector(".lesson-card");
 
 const slideCounter = document.querySelector("#slide-counter");
 const playbackStatus = document.querySelector("#playback-status");
@@ -292,19 +323,23 @@ const wordPrimary = document.querySelector("#word-english");
 const wordSecondary = document.querySelector("#word-portuguese");
 const sentencePrimary = document.querySelector("#sentence-english");
 const sentenceSecondary = document.querySelector("#sentence-portuguese");
+const lessonCardVisual = document.querySelector("#lesson-card-visual");
 const labelWordPrimary = document.querySelector("#label-word-primary");
 const labelWordSecondary = document.querySelector("#label-word-secondary");
-const labelSentencePrimary = document.querySelector("#label-sentence-primary");
-const labelSentenceSecondary = document.querySelector("#label-sentence-secondary");
-const startButton = document.querySelector("#start-button");
 const repeatButton = document.querySelector("#repeat-button");
 const prevButton = document.querySelector("#prev-button");
 const playPauseButton = document.querySelector("#play-pause-button");
 const nextButton = document.querySelector("#next-button");
-const autoplayButton = document.querySelector("#autoplay-button");
-const randomizeButton = document.querySelector("#randomize-button");
+const settingsButton = document.querySelector("#settings-button");
+const settingsMenu = document.querySelector("#settings-menu");
 const speedButtons = [...document.querySelectorAll("[data-speed]")];
 const speedLabel = document.querySelector("#speed-label");
+const illustrationsButtons = [...document.querySelectorAll("[data-illustrations]")];
+const illustrationsLabel = document.querySelector("#illustrations-label");
+const autoplayButtons = [...document.querySelectorAll("[data-autoplay]")];
+const autoplayLabel = document.querySelector("#autoplay-label");
+const randomizeButtons = [...document.querySelectorAll("[data-randomize]")];
+const randomizeLabel = document.querySelector("#randomize-label");
 
 const quizCounter = document.querySelector("#quiz-counter");
 const quizStatus = document.querySelector("#quiz-status");
@@ -320,6 +355,7 @@ const quizHistory = document.querySelector("#quiz-history");
 const quizHistoryLabel = document.querySelector("#quiz-history-label");
 const quizStartButton = document.querySelector("#quiz-start-button");
 const quizRestartButton = document.querySelector("#quiz-restart-button");
+const quizCloseButton = document.querySelector("#quiz-close-button");
 
 const SPEED_SETTINGS = {
   fast: { key: "fast", pauseMs: 0, playbackRate: 1 },
@@ -333,6 +369,8 @@ let profiles = [];
 let activeView = APP_VIEWS.lesson;
 let selectedSpeed = "normal";
 let autoPlayEnabled = true;
+let illustrationsEnabled = true;
+let randomizeEnabled = false;
 let manifest = null;
 let manifestBaseUrl = null;
 let sourceSlides = [];
@@ -351,6 +389,8 @@ let quizScore = 0;
 let quizAnswered = false;
 let quizHistoryItems = [];
 let isProfileModalOpen = false;
+let slideRenderTimer = null;
+let isSettingsMenuOpen = false;
 
 function normalizeLanguageCode(code) {
   if (code === "en") return "en-US";
@@ -459,6 +499,7 @@ function getQuizHistoryKey() {
 }
 
 function setStatus(message, playing = false) {
+  if (!playbackStatus) return;
   playbackStatus.textContent = message;
   playbackStatus.classList.toggle("is-playing", playing);
 }
@@ -531,10 +572,35 @@ function renderSpeedButtons() {
   }
 }
 
-function renderAutoPlayButton() {
-  autoplayButton.classList.toggle("is-selected", autoPlayEnabled);
-  autoplayButton.setAttribute("aria-pressed", String(autoPlayEnabled));
-  autoplayButton.textContent = autoPlayEnabled ? t("autoPlayOn") : t("autoPlayOff");
+function renderIllustrationsButtons() {
+  for (const button of illustrationsButtons) {
+    const selected = (button.dataset.illustrations === "on") === illustrationsEnabled;
+    button.classList.toggle("is-selected", selected);
+    button.setAttribute("aria-pressed", String(selected));
+  }
+}
+
+function renderAutoPlayButtons() {
+  for (const button of autoplayButtons) {
+    const selected = (button.dataset.autoplay === "on") === autoPlayEnabled;
+    button.classList.toggle("is-selected", selected);
+    button.setAttribute("aria-pressed", String(selected));
+  }
+}
+
+function renderRandomizeButtons() {
+  for (const button of randomizeButtons) {
+    const selected = (button.dataset.randomize === "on") === randomizeEnabled;
+    button.classList.toggle("is-selected", selected);
+    button.setAttribute("aria-pressed", String(selected));
+  }
+}
+
+function renderSettingsMenu() {
+  if (!settingsButton || !settingsMenu) return;
+  settingsButton.setAttribute("aria-expanded", String(isSettingsMenuOpen));
+  settingsMenu.classList.toggle("is-hidden", !isSettingsMenuOpen);
+  settingsMenu.setAttribute("aria-hidden", String(!isSettingsMenuOpen));
 }
 
 function renderPlayPauseButton() {
@@ -592,23 +658,74 @@ function buildIntroSlide(lesson) {
   };
 }
 
-function renderSlide() {
-  const item = slides[currentIndex];
-  if (!item) {
+function getLessonCardVisual() {
+  const visuals = LESSON_CARD_VISUALS[selectedLessonId];
+  if (!visuals) return null;
+  return visuals[currentIndex] ?? null;
+}
+
+function renderLessonCardVisual() {
+  if (!lessonCardVisual) return;
+  const visual = illustrationsEnabled ? getLessonCardVisual() : null;
+  lessonCardVisual.textContent = visual ?? "";
+  lessonCardVisual.classList.toggle("is-hidden", !visual);
+}
+
+function setSlideContent(display) {
+  if (!display) {
     slideCounter.textContent = "0 / 0";
     wordPrimary.textContent = "-";
     wordSecondary.textContent = "-";
     sentencePrimary.textContent = "-";
     sentenceSecondary.textContent = "-";
+    renderLessonCardVisual();
     return;
   }
-  const display = getDisplayData(item);
   slideCounter.textContent = `${currentIndex + 1} / ${slides.length}`;
   wordPrimary.textContent = display.primaryWord;
   wordSecondary.textContent = display.secondaryWord;
   sentencePrimary.textContent = display.primarySentence;
   sentenceSecondary.textContent = display.secondarySentence;
+  renderLessonCardVisual();
+}
+
+function renderSlide() {
+  if (slideRenderTimer) {
+    window.clearTimeout(slideRenderTimer);
+    slideRenderTimer = null;
+  }
+  const item = slides[currentIndex];
+  if (!item) {
+    lessonCard?.classList.remove("is-transitioning");
+    setSlideContent(null);
+    return;
+  }
+  const display = getDisplayData(item);
+  if (!lessonCard) {
+    setSlideContent(display);
+    clearActivePanels();
+    return;
+  }
+  lessonCard.classList.add("is-transitioning");
+  slideRenderTimer = window.setTimeout(() => {
+    setSlideContent(display);
+    lessonCard.classList.remove("is-transitioning");
+    slideRenderTimer = null;
+  }, 110);
   clearActivePanels();
+}
+
+function rebuildSlides() {
+  const lesson = catalog?.lessons.find((item) => item.lesson_id === selectedLessonId);
+  if (!lesson) return;
+  const orderedSlides = randomizeEnabled ? shuffle(sourceSlides) : [...sourceSlides];
+  slides = [buildIntroSlide(lesson), ...orderedSlides];
+}
+
+function closeSettingsMenu() {
+  if (!isSettingsMenuOpen) return;
+  isSettingsMenuOpen = false;
+  renderSettingsMenu();
 }
 
 function shuffle(items) {
@@ -753,7 +870,6 @@ function handleQuizAnswer(selectedAnswer, selectedButton) {
 
 function updateButtons() {
   const hasProfile = Boolean(activeProfile);
-  const lessonReady = slides.length > 0;
   const lessonActive = hasProfile && lessonOpen && activeView === APP_VIEWS.lesson;
   logoutButton.disabled = !hasProfile;
   openCreateProfileButton.disabled = hasProfile;
@@ -761,14 +877,23 @@ function updateButtons() {
   closeProfileModalButton.disabled = hasProfile;
   cancelProfileModalButton.disabled = hasProfile;
   backToLessonsButton.disabled = !lessonOpen || isPlaying;
-  startButton.disabled = !lessonActive || isPlaying;
   repeatButton.disabled = !lessonActive || isPlaying;
   prevButton.disabled = !lessonActive || isPlaying || currentIndex <= 0;
   nextButton.disabled = !lessonActive || isPlaying || currentIndex >= slides.length - 1;
-  autoplayButton.disabled = !lessonActive;
-  randomizeButton.disabled = !lessonActive || isPlaying;
+  settingsButton.disabled = !lessonActive;
+  modeQuizButton.disabled = !lessonOpen || isPlaying;
+  quizCloseButton.disabled = !lessonOpen || activeView !== APP_VIEWS.quiz;
   for (const button of speedButtons) {
     button.disabled = !lessonActive;
+  }
+  for (const button of illustrationsButtons) {
+    button.disabled = !lessonActive;
+  }
+  for (const button of autoplayButtons) {
+    button.disabled = !lessonActive;
+  }
+  for (const button of randomizeButtons) {
+    button.disabled = !lessonActive || isPlaying;
   }
   quizStartButton.disabled = !hasProfile || !lessonOpen || activeView !== APP_VIEWS.quiz || quizQuestions.length > 0;
   quizRestartButton.disabled = !hasProfile || !lessonOpen || activeView !== APP_VIEWS.quiz;
@@ -903,29 +1028,36 @@ function applyUiText() {
     lessonTitle.textContent = t("lessonsHome");
   }
   lessonSubtitle.textContent = lessonOpen ? "" : t("lessonSubtitle");
-  backToLessonsButton.textContent = t("backToLessons");
+  backToLessonsButton.textContent = t("lessonsHome");
   logoutButton.textContent = t("logout");
   lessonsHomeLabel.textContent = t("lessonsHome");
-  modeLessonButton.textContent = t("lesson");
   modeQuizButton.textContent = t("quiz");
   labelWordPrimary.textContent = getLanguageName(getLanguageKeys().primary);
   labelWordSecondary.textContent = getLanguageName(getLanguageKeys().secondary);
-  labelSentencePrimary.textContent = `${getLanguageName(getLanguageKeys().primary)} ${t("sentence").toLowerCase()}`;
-  labelSentenceSecondary.textContent = `${getLanguageName(getLanguageKeys().secondary)} ${t("sentence").toLowerCase()}`;
-  startButton.textContent = t("startLesson");
   speedLabel.textContent = t("speed");
+  illustrationsLabel.textContent = t("illustrations");
+  autoplayLabel.textContent = t("autoplay");
+  randomizeLabel.textContent = t("randomize");
   document.querySelector("#speed-fast").textContent = t("fast");
   document.querySelector("#speed-normal").textContent = t("normal");
   document.querySelector("#speed-slow").textContent = t("slow");
-  randomizeButton.textContent = t("randomize");
+  document.querySelector("#illustrations-on").textContent = t("on");
+  document.querySelector("#illustrations-off").textContent = t("off");
+  document.querySelector("#autoplay-on").textContent = t("on");
+  document.querySelector("#autoplay-off").textContent = t("off");
+  document.querySelector("#randomize-on").textContent = t("on");
+  document.querySelector("#randomize-off").textContent = t("off");
   quizPromptLabel.textContent = t("quizPromptLabel");
   quizSpeakButton.textContent = t("speakWord");
   quizHistoryLabel.textContent = t("recentScores");
   quizScoreHeading.textContent = t("quizComplete");
   quizRestartButton.textContent = t("tryAgain");
   quizStartButton.textContent = t("startQuiz");
-  renderAutoPlayButton();
+  renderAutoPlayButtons();
   renderSpeedButtons();
+  renderIllustrationsButtons();
+  renderRandomizeButtons();
+  renderSettingsMenu();
   renderPlayPauseButton();
   renderProfileSummary();
   renderQuizHistory();
@@ -942,6 +1074,7 @@ function renderAppStateVisibility() {
   lessonsHome.classList.toggle("is-hidden", !hasProfile || lessonOpen);
   learningShell.classList.toggle("is-hidden", !lessonOpen);
   backToLessonsButton.classList.toggle("is-hidden", !lessonOpen);
+  if (!lessonOpen) closeSettingsMenu();
   if (hasProfile) {
     closeProfileModal();
   }
@@ -1000,7 +1133,7 @@ async function loadSelectedLesson(lessonId) {
   manifest = await response.json();
   manifestBaseUrl = manifestUrl;
   sourceSlides = [...manifest.generated_files];
-  slides = [buildIntroSlide(lesson), ...sourceSlides];
+  rebuildSlides();
   currentIndex = 0;
   hasStarted = false;
   quizQuestions = [];
@@ -1032,8 +1165,7 @@ function returnToLessonsHome() {
 }
 
 function randomizeSlides() {
-  const lesson = catalog.lessons.find((item) => item.lesson_id === selectedLessonId);
-  slides = [buildIntroSlide(lesson), ...shuffle(sourceSlides)];
+  rebuildSlides();
   currentIndex = 0;
   hasStarted = false;
   renderSlide();
@@ -1140,6 +1272,7 @@ async function playCurrentSlide() {
   cancelPlayback();
   const token = playbackToken;
   const speedSetting = getSpeedSetting();
+  let keepPlaying = false;
   isPlaying = true;
   updateButtons();
   try {
@@ -1161,17 +1294,21 @@ async function playCurrentSlide() {
     hasStarted = true;
     clearActivePanels();
     setStatus(t("slideComplete", { speed: t(speedSetting.key) }));
+    keepPlaying = autoPlayEnabled && currentIndex < slides.length - 1;
   } catch {
     clearActivePanels();
     setStatus(t("playbackFailedLesson"));
   } finally {
     if (token === playbackToken) {
-      isPlaying = false;
-      updateButtons();
+      if (keepPlaying) {
+        setStatus(t("nextSlideIn", { seconds: (AUTOPLAY_SLIDE_PAUSE_MS / 1000).toFixed(1) }), true);
+      } else {
+        isPlaying = false;
+        updateButtons();
+      }
     }
   }
-  if (!autoPlayEnabled || currentIndex >= slides.length - 1 || token !== playbackToken) return;
-  setStatus(t("nextSlideIn", { seconds: (AUTOPLAY_SLIDE_PAUSE_MS / 1000).toFixed(1) }), true);
+  if (!keepPlaying || token !== playbackToken) return;
   await wait(AUTOPLAY_SLIDE_PAUSE_MS);
   if (token !== playbackToken) return;
   currentIndex += 1;
@@ -1184,8 +1321,7 @@ function switchView(nextView) {
   activeView = nextView;
   lessonView.classList.toggle("is-hidden", nextView !== APP_VIEWS.lesson);
   quizView.classList.toggle("is-hidden", nextView !== APP_VIEWS.quiz);
-  modeLessonButton.classList.toggle("is-selected", nextView === APP_VIEWS.lesson);
-  modeQuizButton.classList.toggle("is-selected", nextView === APP_VIEWS.quiz);
+  closeSettingsMenu();
   if (nextView === APP_VIEWS.lesson) renderSlide();
   else renderQuizQuestion();
   updateButtons();
@@ -1264,12 +1400,19 @@ profileModal.addEventListener("click", (event) => {
 document.addEventListener("keydown", (event) => {
   if (event.key === "Escape" && isProfileModalOpen) {
     closeProfileModal();
+    return;
+  }
+  if (event.key === "Escape" && isSettingsMenuOpen) {
+    closeSettingsMenu();
   }
 });
 
 logoutButton.addEventListener("click", () => logout());
 backToLessonsButton.addEventListener("click", () => returnToLessonsHome());
-startButton.addEventListener("click", async () => playCurrentSlide());
+settingsButton.addEventListener("click", () => {
+  isSettingsMenuOpen = !isSettingsMenuOpen;
+  renderSettingsMenu();
+});
 repeatButton.addEventListener("click", async () => playCurrentSlide());
 prevButton.addEventListener("click", async () => {
   if (currentIndex <= 0) return;
@@ -1290,13 +1433,8 @@ nextButton.addEventListener("click", async () => {
   updateButtons();
   if (hasStarted) await playCurrentSlide();
 });
-autoplayButton.addEventListener("click", () => {
-  autoPlayEnabled = !autoPlayEnabled;
-  renderAutoPlayButton();
-});
-randomizeButton.addEventListener("click", () => randomizeSlides());
-modeLessonButton.addEventListener("click", () => switchView(APP_VIEWS.lesson));
 modeQuizButton.addEventListener("click", () => switchView(APP_VIEWS.quiz));
+quizCloseButton.addEventListener("click", () => switchView(APP_VIEWS.lesson));
 quizStartButton.addEventListener("click", () => startQuiz());
 quizRestartButton.addEventListener("click", () => startQuiz());
 quizSpeakButton.addEventListener("click", async () => speakQuizWord());
@@ -1307,6 +1445,38 @@ for (const button of speedButtons) {
     renderSpeedButtons();
   });
 }
+
+for (const button of illustrationsButtons) {
+  button.addEventListener("click", () => {
+    illustrationsEnabled = button.dataset.illustrations !== "off";
+    renderIllustrationsButtons();
+    renderLessonCardVisual();
+  });
+}
+
+for (const button of autoplayButtons) {
+  button.addEventListener("click", () => {
+    autoPlayEnabled = button.dataset.autoplay !== "off";
+    renderAutoPlayButtons();
+  });
+}
+
+for (const button of randomizeButtons) {
+  button.addEventListener("click", () => {
+    const nextEnabled = button.dataset.randomize === "on";
+    if (randomizeEnabled === nextEnabled) return;
+    randomizeEnabled = nextEnabled;
+    renderRandomizeButtons();
+    if (lessonOpen) randomizeSlides();
+  });
+}
+
+document.addEventListener("click", (event) => {
+  if (!isSettingsMenuOpen) return;
+  if (event.target instanceof Node && settingsMenu?.contains(event.target)) return;
+  if (event.target instanceof Node && settingsButton?.contains(event.target)) return;
+  closeSettingsMenu();
+});
 
 [
   ["primaryWord", document.querySelector("#panel-word-english")],
