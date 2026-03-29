@@ -480,6 +480,8 @@ const lessonSubtitle = document.querySelector("#lesson-subtitle");
 const backToLessonsButton = document.querySelector("#back-to-lessons-button");
 const logoutButton = document.querySelector("#logout-button");
 const lessonsHome = document.querySelector("#lessons-home");
+const lessonFilterButton = document.querySelector("#lesson-filter-button");
+const lessonFilterMenu = document.querySelector("#lesson-filter-menu");
 const lessonFilterButtons = [...document.querySelectorAll("[data-lesson-filter]")];
 const lessonList = document.querySelector("#lesson-list");
 const learningShell = document.querySelector("#learning-shell");
@@ -566,6 +568,7 @@ let isProfileModalOpen = false;
 let slideRenderTimer = null;
 let isSettingsMenuOpen = false;
 let selectedLessonFilter = "all";
+let isLessonFilterMenuOpen = false;
 let quizAudioToken = 0;
 const QUIZ_ADVANCE_DELAY_MS = 450;
 
@@ -838,6 +841,13 @@ function renderRandomizeButtons() {
   }
 }
 
+function getLessonFilterLabel() {
+  if (selectedLessonFilter === "new") return t("filterNew");
+  if (selectedLessonFilter === "started") return t("filterStarted");
+  if (selectedLessonFilter === "completed") return t("filterCompleted");
+  return t("filterAll");
+}
+
 function renderQuizProgressDots() {
   if (!quizProgressDots) return;
   quizProgressDots.innerHTML = "";
@@ -860,11 +870,27 @@ function renderQuizProgressDots() {
 }
 
 function renderLessonFilterButtons() {
+  if (lessonFilterButton && lessonFilterMenu) {
+    lessonFilterButton.textContent = getLessonFilterLabel();
+    lessonFilterButton.setAttribute("aria-expanded", String(isLessonFilterMenuOpen));
+    lessonFilterMenu.classList.toggle("is-hidden", !isLessonFilterMenuOpen);
+    lessonFilterMenu.setAttribute("aria-hidden", String(!isLessonFilterMenuOpen));
+    lessonFilterButton.classList.remove("is-new", "is-started", "is-completed");
+    if (selectedLessonFilter === "new") lessonFilterButton.classList.add("is-new");
+    if (selectedLessonFilter === "started") lessonFilterButton.classList.add("is-started");
+    if (selectedLessonFilter === "completed") lessonFilterButton.classList.add("is-completed");
+  }
   for (const button of lessonFilterButtons) {
     const selected = button.dataset.lessonFilter === selectedLessonFilter;
     button.classList.toggle("is-selected", selected);
     button.setAttribute("aria-pressed", String(selected));
   }
+}
+
+function closeLessonFilterMenu() {
+  if (!isLessonFilterMenuOpen) return;
+  isLessonFilterMenuOpen = false;
+  renderLessonFilterButtons();
 }
 
 function renderSettingsMenu() {
@@ -1414,6 +1440,7 @@ function renderAppStateVisibility() {
   learningShell.classList.toggle("is-hidden", !lessonOpen);
   backToLessonsButton.classList.toggle("is-hidden", !lessonOpen);
   if (!lessonOpen) closeSettingsMenu();
+  if (lessonOpen) closeLessonFilterMenu();
   if (hasProfile) {
     closeProfileModal();
   }
@@ -1744,6 +1771,10 @@ document.addEventListener("keydown", (event) => {
   }
   if (event.key === "Escape" && isSettingsMenuOpen) {
     closeSettingsMenu();
+    return;
+  }
+  if (event.key === "Escape" && isLessonFilterMenuOpen) {
+    closeLessonFilterMenu();
   }
 });
 
@@ -1752,6 +1783,10 @@ backToLessonsButton.addEventListener("click", () => returnToLessonsHome());
 settingsButton.addEventListener("click", () => {
   isSettingsMenuOpen = !isSettingsMenuOpen;
   renderSettingsMenu();
+});
+lessonFilterButton?.addEventListener("click", () => {
+  isLessonFilterMenuOpen = !isLessonFilterMenuOpen;
+  renderLessonFilterButtons();
 });
 repeatButton.addEventListener("click", async () => playCurrentSlide());
 prevButton.addEventListener("click", async () => {
@@ -1777,6 +1812,7 @@ nextButton.addEventListener("click", async () => {
 for (const button of lessonFilterButtons) {
   button.addEventListener("click", () => {
     selectedLessonFilter = button.dataset.lessonFilter ?? "all";
+    closeLessonFilterMenu();
     renderLessonFilterButtons();
     renderLessonsHome();
   });
@@ -1790,6 +1826,12 @@ quizWord.addEventListener("click", async () => {
   await playQuizAudio(question.wordAudio);
 });
 quizBackdrop?.addEventListener("click", () => closeQuizOverlay());
+document.addEventListener("click", (event) => {
+  if (!isLessonFilterMenuOpen) return;
+  if (event.target instanceof Node && lessonFilterButton?.contains(event.target)) return;
+  if (event.target instanceof Node && lessonFilterMenu?.contains(event.target)) return;
+  closeLessonFilterMenu();
+});
 
 for (const button of speedButtons) {
   button.addEventListener("click", () => {

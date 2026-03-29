@@ -74,11 +74,14 @@
 
         <section id="lessons-home" class="slide">
           <div class="progress-row lesson-filter-row">
-            <div id="lesson-filters" class="lesson-filters" role="group" aria-label="Lesson filters">
-              <button id="lesson-filter-all" class="button lesson-filter-button is-selected" type="button" data-lesson-filter="all">All</button>
-              <button id="lesson-filter-new" class="button lesson-filter-button lesson-filter-button-new" type="button" data-lesson-filter="new">New</button>
-              <button id="lesson-filter-started" class="button lesson-filter-button lesson-filter-button-started" type="button" data-lesson-filter="started">Started</button>
-              <button id="lesson-filter-completed" class="button lesson-filter-button lesson-filter-button-completed" type="button" data-lesson-filter="completed">Completed</button>
+            <div class="lesson-filter-shell">
+              <button id="lesson-filter-button" class="button lesson-filter-button" type="button" aria-expanded="false">All</button>
+              <div id="lesson-filter-menu" class="lesson-filter-menu is-hidden" role="menu" aria-hidden="true">
+                <button id="lesson-filter-all" class="button lesson-filter-option" type="button" data-lesson-filter="all" role="menuitem">All</button>
+                <button id="lesson-filter-new" class="button lesson-filter-option lesson-filter-option-new" type="button" data-lesson-filter="new" role="menuitem">New</button>
+                <button id="lesson-filter-started" class="button lesson-filter-option lesson-filter-option-started" type="button" data-lesson-filter="started" role="menuitem">Started</button>
+                <button id="lesson-filter-completed" class="button lesson-filter-option lesson-filter-option-completed" type="button" data-lesson-filter="completed" role="menuitem">Completed</button>
+              </div>
             </div>
           </div>
           <div class="card">
