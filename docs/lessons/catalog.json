@@ -26,6 +26,114 @@
       "manifest_path": "./audio/numbers_1_to_10/manifest.json"
     },
     {
+      "lesson_id": "numbers_11_to_20",
+      "title": "Numbers 11 to 20",
+      "titles": {
+        "en": "Numbers 11 to 20",
+        "pt": "Números de 11 a 20",
+        "es": "Números del 11 al 20",
+        "fr": "Nombres de 11 à 20"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/numbers_11_to_20/manifest.json"
+    },
+    {
+      "lesson_id": "numbers_21_to_100",
+      "title": "Numbers 21 to 100",
+      "titles": {
+        "en": "Numbers 21 to 100",
+        "pt": "Números de 21 a 100",
+        "es": "Números del 21 al 100",
+        "fr": "Nombres de 21 à 100"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/numbers_21_to_100/manifest.json"
+    },
+    {
+      "lesson_id": "city_life",
+      "title": "City Life",
+      "titles": {
+        "en": "City Life",
+        "pt": "Vida na Cidade",
+        "es": "Vida en la Ciudad",
+        "fr": "La Vie en Ville"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/city_life/manifest.json"
+    },
+    {
+      "lesson_id": "the_countryside",
+      "title": "The Countryside",
+      "titles": {
+        "en": "The Countryside",
+        "pt": "O Campo",
+        "es": "El Campo",
+        "fr": "La Campagne"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/the_countryside/manifest.json"
+    },
+    {
+      "lesson_id": "sun_and_sea",
+      "title": "Sun and Sea",
+      "titles": {
+        "en": "Sun and Sea",
+        "pt": "Sol e Mar",
+        "es": "Sol y Mar",
+        "fr": "Soleil et Mer"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/sun_and_sea/manifest.json"
+    },
+    {
+      "lesson_id": "breakfast",
+      "title": "Breakfast",
+      "titles": {
+        "en": "Breakfast",
+        "pt": "Café da Manhã",
+        "es": "Desayuno",
+        "fr": "Petit-déjeuner"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/breakfast/manifest.json"
+    },
+    {
+      "lesson_id": "fast_food",
+      "title": "Fast Food",
+      "titles": {
+        "en": "Fast Food",
+        "pt": "Comida Rápida",
+        "es": "Comida Rápida",
+        "fr": "Restauration Rapide"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/fast_food/manifest.json"
+    },
+    {
+      "lesson_id": "fine_dining",
+      "title": "Fine Dining",
+      "titles": {
+        "en": "Fine Dining",
+        "pt": "Alta Gastronomia",
+        "es": "Alta Cocina",
+        "fr": "Gastronomie"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/fine_dining/manifest.json"
+    },
+    {
+      "lesson_id": "the_months",
+      "title": "The Months",
+      "titles": {
+        "en": "The Months",
+        "pt": "Os Meses",
+        "es": "Los Meses",
+        "fr": "Les Mois"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/the_months/manifest.json"
+    },
+    {
       "lesson_id": "colors",
       "title": "Colors",
       "titles": {

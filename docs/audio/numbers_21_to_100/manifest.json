@@ -1,0 +1,353 @@
+{
+  "lesson_id": "numbers_21_to_100",
+  "title": "Numbers 21 to 100",
+  "titles": {
+    "en": "Numbers 21 to 100",
+    "pt": "Números de 21 a 100",
+    "es": "Números del 21 al 100",
+    "fr": "Nombres de 21 à 100"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/numbers_21_to_100.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Numbers 21 to 100",
+      "pt": "Números de 21 a 100",
+      "es": "Números del 21 al 100",
+      "fr": "Nombres de 21 à 100"
+    },
+    "sample_sentences": {
+      "en": "Let's study numbers 21 to 100.",
+      "pt-BR": "Vamos estudar os números de 21 a 100.",
+      "es-ES": "Vamos a estudiar los números del 21 al 100.",
+      "fr-FR": "Étudions les nombres de 21 à 100.",
+      "en-US": "Let's study numbers 21 to 100.",
+      "en-GB": "Let's study numbers 21 to 100."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "Twenty-one",
+        "pt-BR": "vinte e um",
+        "es-ES": "veintiuno",
+        "fr-FR": "vingt et un",
+        "en-US": "Twenty-one",
+        "en-GB": "Twenty-one"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We counted twenty-one candles on the cake.",
+        "pt-BR": "Nós contamos vinte e uma velas no bolo.",
+        "es-ES": "Contamos veintiuna velas en el pastel.",
+        "fr-FR": "Nous avons compté vingt et une bougies sur le gâteau.",
+        "en-US": "We counted twenty-one candles on the cake.",
+        "en-GB": "We counted twenty-one candles on the cake."
+      }
+    },
+    {
+      "terms": {
+        "en": "Thirty-five",
+        "pt-BR": "trinta e cinco",
+        "es-ES": "treinta y cinco",
+        "fr-FR": "trente-cinq",
+        "en-US": "Thirty-five",
+        "en-GB": "Thirty-five"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The library has thirty-five new books.",
+        "pt-BR": "A biblioteca tem trinta e cinco livros novos.",
+        "es-ES": "La biblioteca tiene treinta y cinco libros nuevos.",
+        "fr-FR": "La bibliothèque a trente-cinq nouveaux livres.",
+        "en-US": "The library has thirty-five new books.",
+        "en-GB": "The library has thirty-five new books."
+      }
+    },
+    {
+      "terms": {
+        "en": "Forty-three",
+        "pt-BR": "quarenta e três",
+        "es-ES": "cuarenta y tres",
+        "fr-FR": "quarante-trois",
+        "en-US": "Forty-three",
+        "en-GB": "Forty-three"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He answered forty-three emails this morning.",
+        "pt-BR": "Ele respondeu quarenta e três e-mails esta manhã.",
+        "es-ES": "Respondió cuarenta y tres correos esta mañana.",
+        "fr-FR": "Il a répondu à quarante-trois e-mails ce matin.",
+        "en-US": "He answered forty-three emails this morning.",
+        "en-GB": "He answered forty-three emails this morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fifty-nine",
+        "pt-BR": "cinquenta e nove",
+        "es-ES": "cincuenta y nueve",
+        "fr-FR": "cinquante-neuf",
+        "en-US": "Fifty-nine",
+        "en-GB": "Fifty-nine"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The train leaves in fifty-nine minutes.",
+        "pt-BR": "O trem sai em cinquenta e nove minutos.",
+        "es-ES": "El tren sale en cincuenta y nueve minutos.",
+        "fr-FR": "Le train part dans cinquante-neuf minutes.",
+        "en-US": "The train leaves in fifty-nine minutes.",
+        "en-GB": "The train leaves in fifty-nine minutes."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sixty-two",
+        "pt-BR": "sessenta e dois",
+        "es-ES": "sesenta y dos",
+        "fr-FR": "soixante-deux",
+        "en-US": "Sixty-two",
+        "en-GB": "Sixty-two"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She solved sixty-two math problems.",
+        "pt-BR": "Ela resolveu sessenta e dois problemas de matemática.",
+        "es-ES": "Ella resolvió sesenta y dos problemas de matemáticas.",
+        "fr-FR": "Elle a résolu soixante-deux problèmes de mathématiques.",
+        "en-US": "She solved sixty-two math problems.",
+        "en-GB": "She solved sixty-two math problems."
+      }
+    },
+    {
+      "terms": {
+        "en": "Seventy-seven",
+        "pt-BR": "setenta e sete",
+        "es-ES": "setenta y siete",
+        "fr-FR": "soixante-dix-sept",
+        "en-US": "Seventy-seven",
+        "en-GB": "Seventy-seven"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "There are seventy-seven seats in the hall.",
+        "pt-BR": "Há setenta e sete lugares no salão.",
+        "es-ES": "Hay setenta y siete asientos en la sala.",
+        "fr-FR": "Il y a soixante-dix-sept places dans la salle.",
+        "en-US": "There are seventy-seven seats in the hall.",
+        "en-GB": "There are seventy-seven seats in the hall."
+      }
+    },
+    {
+      "terms": {
+        "en": "Eighty-four",
+        "pt-BR": "oitenta e quatro",
+        "es-ES": "ochenta y cuatro",
+        "fr-FR": "quatre-vingt-quatre",
+        "en-US": "Eighty-four",
+        "en-GB": "Eighty-four"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The team scored eighty-four points.",
+        "pt-BR": "O time marcou oitenta e quatro pontos.",
+        "es-ES": "El equipo anotó ochenta y cuatro puntos.",
+        "fr-FR": "L'équipe a marqué quatre-vingt-quatre points.",
+        "en-US": "The team scored eighty-four points.",
+        "en-GB": "The team scored eighty-four points."
+      }
+    },
+    {
+      "terms": {
+        "en": "Ninety-six",
+        "pt-BR": "noventa e seis",
+        "es-ES": "noventa y seis",
+        "fr-FR": "quatre-vingt-seize",
+        "en-US": "Ninety-six",
+        "en-GB": "Ninety-six"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We packed ninety-six boxes for shipping.",
+        "pt-BR": "Nós embalamos noventa e seis caixas para envio.",
+        "es-ES": "Empacamos noventa y seis cajas para el envío.",
+        "fr-FR": "Nous avons emballé quatre-vingt-seize cartons pour l'expédition.",
+        "en-US": "We packed ninety-six boxes for shipping.",
+        "en-GB": "We packed ninety-six boxes for shipping."
+      }
+    },
+    {
+      "terms": {
+        "en": "One hundred",
+        "pt-BR": "cem",
+        "es-ES": "cien",
+        "fr-FR": "cent",
+        "en-US": "One hundred",
+        "en-GB": "One hundred"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "One hundred people joined the event.",
+        "pt-BR": "Cem pessoas participaram do evento.",
+        "es-ES": "Cien personas participaron en el evento.",
+        "fr-FR": "Cent personnes ont participé à l'événement.",
+        "en-US": "One hundred people joined the event.",
+        "en-GB": "One hundred people joined the event."
+      }
+    }
+  ]
+}

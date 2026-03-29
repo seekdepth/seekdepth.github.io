@@ -1,0 +1,385 @@
+{
+  "lesson_id": "numbers_11_to_20",
+  "title": "Numbers 11 to 20",
+  "titles": {
+    "en": "Numbers 11 to 20",
+    "pt": "Números de 11 a 20",
+    "es": "Números del 11 al 20",
+    "fr": "Nombres de 11 à 20"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/numbers_11_to_20.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Numbers 11 to 20",
+      "pt": "Números de 11 a 20",
+      "es": "Números del 11 al 20",
+      "fr": "Nombres de 11 à 20"
+    },
+    "sample_sentences": {
+      "en": "Let's study numbers 11 to 20.",
+      "pt-BR": "Vamos estudar os números de 11 a 20.",
+      "es-ES": "Vamos a estudiar los números del 11 al 20.",
+      "fr-FR": "Étudions les nombres de 11 à 20.",
+      "en-US": "Let's study numbers 11 to 20.",
+      "en-GB": "Let's study numbers 11 to 20."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "Eleven",
+        "pt-BR": "onze",
+        "es-ES": "once",
+        "fr-FR": "onze",
+        "en-US": "Eleven",
+        "en-GB": "Eleven"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "There are eleven players on the field.",
+        "pt-BR": "Há onze jogadores no campo.",
+        "es-ES": "Hay once jugadores en el campo.",
+        "fr-FR": "Il y a onze joueurs sur le terrain.",
+        "en-US": "There are eleven players on the field.",
+        "en-GB": "There are eleven players on the field."
+      }
+    },
+    {
+      "terms": {
+        "en": "Twelve",
+        "pt-BR": "doze",
+        "es-ES": "doce",
+        "fr-FR": "douze",
+        "en-US": "Twelve",
+        "en-GB": "Twelve"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The clock shows twelve o'clock.",
+        "pt-BR": "O relógio marca doze horas.",
+        "es-ES": "El reloj marca las doce.",
+        "fr-FR": "L'horloge indique douze heures.",
+        "en-US": "The clock shows twelve o'clock.",
+        "en-GB": "The clock shows twelve o'clock."
+      }
+    },
+    {
+      "terms": {
+        "en": "Thirteen",
+        "pt-BR": "treze",
+        "es-ES": "trece",
+        "fr-FR": "treize",
+        "en-US": "Thirteen",
+        "en-GB": "Thirteen"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She baked thirteen cookies.",
+        "pt-BR": "Ela assou treze biscoitos.",
+        "es-ES": "Ella horneó trece galletas.",
+        "fr-FR": "Elle a préparé treize biscuits.",
+        "en-US": "She baked thirteen cookies.",
+        "en-GB": "She baked thirteen cookies."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fourteen",
+        "pt-BR": "quatorze",
+        "es-ES": "catorce",
+        "fr-FR": "quatorze",
+        "en-US": "Fourteen",
+        "en-GB": "Fourteen"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He read fourteen pages today.",
+        "pt-BR": "Ele leu quatorze páginas hoje.",
+        "es-ES": "Él leyó catorce páginas hoy.",
+        "fr-FR": "Il a lu quatorze pages aujourd'hui.",
+        "en-US": "He read fourteen pages today.",
+        "en-GB": "He read fourteen pages today."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fifteen",
+        "pt-BR": "quinze",
+        "es-ES": "quince",
+        "fr-FR": "quinze",
+        "en-US": "Fifteen",
+        "en-GB": "Fifteen"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We need fifteen chairs for dinner.",
+        "pt-BR": "Precisamos de quinze cadeiras para o jantar.",
+        "es-ES": "Necesitamos quince sillas para la cena.",
+        "fr-FR": "Nous avons besoin de quinze chaises pour le dîner.",
+        "en-US": "We need fifteen chairs for dinner.",
+        "en-GB": "We need fifteen chairs for dinner."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sixteen",
+        "pt-BR": "dezesseis",
+        "es-ES": "dieciséis",
+        "fr-FR": "seize",
+        "en-US": "Sixteen",
+        "en-GB": "Sixteen"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The bus carries sixteen passengers.",
+        "pt-BR": "O ônibus leva dezesseis passageiros.",
+        "es-ES": "El autobús lleva dieciséis pasajeros.",
+        "fr-FR": "Le bus transporte seize passagers.",
+        "en-US": "The bus carries sixteen passengers.",
+        "en-GB": "The bus carries sixteen passengers."
+      }
+    },
+    {
+      "terms": {
+        "en": "Seventeen",
+        "pt-BR": "dezessete",
+        "es-ES": "diecisiete",
+        "fr-FR": "dix-sept",
+        "en-US": "Seventeen",
+        "en-GB": "Seventeen"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They planted seventeen trees.",
+        "pt-BR": "Eles plantaram dezessete árvores.",
+        "es-ES": "Plantaron diecisiete árboles.",
+        "fr-FR": "Ils ont planté dix-sept arbres.",
+        "en-US": "They planted seventeen trees.",
+        "en-GB": "They planted seventeen trees."
+      }
+    },
+    {
+      "terms": {
+        "en": "Eighteen",
+        "pt-BR": "dezoito",
+        "es-ES": "dieciocho",
+        "fr-FR": "dix-huit",
+        "en-US": "Eighteen",
+        "en-GB": "Eighteen"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I counted eighteen steps.",
+        "pt-BR": "Eu contei dezoito degraus.",
+        "es-ES": "Conté dieciocho escalones.",
+        "fr-FR": "J'ai compté dix-huit marches.",
+        "en-US": "I counted eighteen steps.",
+        "en-GB": "I counted eighteen steps."
+      }
+    },
+    {
+      "terms": {
+        "en": "Nineteen",
+        "pt-BR": "dezenove",
+        "es-ES": "diecinueve",
+        "fr-FR": "dix-neuf",
+        "en-US": "Nineteen",
+        "en-GB": "Nineteen"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The class has nineteen desks.",
+        "pt-BR": "A turma tem dezenove carteiras.",
+        "es-ES": "La clase tiene diecinueve pupitres.",
+        "fr-FR": "La classe a dix-neuf pupitres.",
+        "en-US": "The class has nineteen desks.",
+        "en-GB": "The class has nineteen desks."
+      }
+    },
+    {
+      "terms": {
+        "en": "Twenty",
+        "pt-BR": "vinte",
+        "es-ES": "veinte",
+        "fr-FR": "vingt",
+        "en-US": "Twenty",
+        "en-GB": "Twenty"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We bought twenty tickets.",
+        "pt-BR": "Nós compramos vinte ingressos.",
+        "es-ES": "Compramos veinte entradas.",
+        "fr-FR": "Nous avons acheté vingt billets.",
+        "en-US": "We bought twenty tickets.",
+        "en-GB": "We bought twenty tickets."
+      }
+    }
+  ]
+}

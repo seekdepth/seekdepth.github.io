@@ -1,0 +1,166 @@
+{
+  "lesson_id": "breakfast",
+  "title": "Breakfast",
+  "titles": {
+    "en": "Breakfast",
+    "pt": "Café da Manhã",
+    "es": "Desayuno",
+    "fr": "Petit-déjeuner"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study breakfast.",
+    "pt-BR": "Vamos estudar o café da manhã.",
+    "es-ES": "Vamos a estudiar el desayuno.",
+    "fr-FR": "Étudions le petit-déjeuner."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Coffee",
+        "pt-BR": "café",
+        "es-ES": "café",
+        "fr-FR": "café"
+      },
+      "sample_sentences": {
+        "en": "I drink coffee every morning.",
+        "pt-BR": "Eu tomo café todas as manhãs.",
+        "es-ES": "Tomo café todas las mañanas.",
+        "fr-FR": "Je bois du café tous les matins."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tea",
+        "pt-BR": "chá",
+        "es-ES": "té",
+        "fr-FR": "thé"
+      },
+      "sample_sentences": {
+        "en": "She prefers tea with breakfast.",
+        "pt-BR": "Ela prefere chá no café da manhã.",
+        "es-ES": "Ella prefiere té en el desayuno.",
+        "fr-FR": "Elle préfère le thé au petit-déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "Bread",
+        "pt-BR": "pão",
+        "es-ES": "pan",
+        "fr-FR": "pain"
+      },
+      "sample_sentences": {
+        "en": "The bread is fresh from the bakery.",
+        "pt-BR": "O pão está fresco da padaria.",
+        "es-ES": "El pan está fresco de la panadería.",
+        "fr-FR": "Le pain est frais de la boulangerie."
+      }
+    },
+    {
+      "terms": {
+        "en": "Butter",
+        "pt-BR": "manteiga",
+        "es-ES": "mantequilla",
+        "fr-FR": "beurre"
+      },
+      "sample_sentences": {
+        "en": "Spread butter on the toast.",
+        "pt-BR": "Passe manteiga na torrada.",
+        "es-ES": "Unta mantequilla en la tostada.",
+        "fr-FR": "Étalez du beurre sur le pain grillé."
+      }
+    },
+    {
+      "terms": {
+        "en": "Jam",
+        "pt-BR": "geleia",
+        "es-ES": "mermelada",
+        "fr-FR": "confiture"
+      },
+      "sample_sentences": {
+        "en": "Strawberry jam is my favorite.",
+        "pt-BR": "Geleia de morango é a minha favorita.",
+        "es-ES": "La mermelada de fresa es mi favorita.",
+        "fr-FR": "La confiture de fraises est ma préférée."
+      }
+    },
+    {
+      "terms": {
+        "en": "Eggs",
+        "pt-BR": "ovos",
+        "es-ES": "huevos",
+        "fr-FR": "oeufs"
+      },
+      "sample_sentences": {
+        "en": "We cooked eggs for breakfast.",
+        "pt-BR": "Nós fizemos ovos no café da manhã.",
+        "es-ES": "Cocinamos huevos para el desayuno.",
+        "fr-FR": "Nous avons préparé des oeufs pour le petit-déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "Cheese",
+        "pt-BR": "queijo",
+        "es-ES": "queso",
+        "fr-FR": "fromage"
+      },
+      "sample_sentences": {
+        "en": "This cheese goes well with bread.",
+        "pt-BR": "Este queijo combina bem com pão.",
+        "es-ES": "Este queso combina bien con pan.",
+        "fr-FR": "Ce fromage va bien avec le pain."
+      }
+    },
+    {
+      "terms": {
+        "en": "Juice",
+        "pt-BR": "suco",
+        "es-ES": "zumo",
+        "fr-FR": "jus"
+      },
+      "sample_sentences": {
+        "en": "He poured a glass of orange juice.",
+        "pt-BR": "Ele serviu um copo de suco de laranja.",
+        "es-ES": "Sirvió un vaso de zumo de naranja.",
+        "fr-FR": "Il a versé un verre de jus d'orange."
+      }
+    },
+    {
+      "terms": {
+        "en": "Cereal",
+        "pt-BR": "cereal",
+        "es-ES": "cereales",
+        "fr-FR": "céréales"
+      },
+      "sample_sentences": {
+        "en": "The kids ate cereal with milk.",
+        "pt-BR": "As crianças comeram cereal com leite.",
+        "es-ES": "Los niños comieron cereales con leche.",
+        "fr-FR": "Les enfants ont mangé des céréales avec du lait."
+      }
+    },
+    {
+      "terms": {
+        "en": "Pancakes",
+        "pt-BR": "panquecas",
+        "es-ES": "panqueques",
+        "fr-FR": "crêpes"
+      },
+      "sample_sentences": {
+        "en": "We made pancakes on Sunday morning.",
+        "pt-BR": "Nós fizemos panquecas no domingo de manhã.",
+        "es-ES": "Hicimos panqueques el domingo por la mañana.",
+        "fr-FR": "Nous avons préparé des crêpes dimanche matin."
+      }
+    }
+  ]
+}

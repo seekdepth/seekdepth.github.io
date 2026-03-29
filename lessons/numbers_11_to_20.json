@@ -1,0 +1,166 @@
+{
+  "lesson_id": "numbers_11_to_20",
+  "title": "Numbers 11 to 20",
+  "titles": {
+    "en": "Numbers 11 to 20",
+    "pt": "Números de 11 a 20",
+    "es": "Números del 11 al 20",
+    "fr": "Nombres de 11 à 20"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study numbers 11 to 20.",
+    "pt-BR": "Vamos estudar os números de 11 a 20.",
+    "es-ES": "Vamos a estudiar los números del 11 al 20.",
+    "fr-FR": "Étudions les nombres de 11 à 20."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Eleven",
+        "pt-BR": "onze",
+        "es-ES": "once",
+        "fr-FR": "onze"
+      },
+      "sample_sentences": {
+        "en": "There are eleven players on the field.",
+        "pt-BR": "Há onze jogadores no campo.",
+        "es-ES": "Hay once jugadores en el campo.",
+        "fr-FR": "Il y a onze joueurs sur le terrain."
+      }
+    },
+    {
+      "terms": {
+        "en": "Twelve",
+        "pt-BR": "doze",
+        "es-ES": "doce",
+        "fr-FR": "douze"
+      },
+      "sample_sentences": {
+        "en": "The clock shows twelve o'clock.",
+        "pt-BR": "O relógio marca doze horas.",
+        "es-ES": "El reloj marca las doce.",
+        "fr-FR": "L'horloge indique douze heures."
+      }
+    },
+    {
+      "terms": {
+        "en": "Thirteen",
+        "pt-BR": "treze",
+        "es-ES": "trece",
+        "fr-FR": "treize"
+      },
+      "sample_sentences": {
+        "en": "She baked thirteen cookies.",
+        "pt-BR": "Ela assou treze biscoitos.",
+        "es-ES": "Ella horneó trece galletas.",
+        "fr-FR": "Elle a préparé treize biscuits."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fourteen",
+        "pt-BR": "quatorze",
+        "es-ES": "catorce",
+        "fr-FR": "quatorze"
+      },
+      "sample_sentences": {
+        "en": "He read fourteen pages today.",
+        "pt-BR": "Ele leu quatorze páginas hoje.",
+        "es-ES": "Él leyó catorce páginas hoy.",
+        "fr-FR": "Il a lu quatorze pages aujourd'hui."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fifteen",
+        "pt-BR": "quinze",
+        "es-ES": "quince",
+        "fr-FR": "quinze"
+      },
+      "sample_sentences": {
+        "en": "We need fifteen chairs for dinner.",
+        "pt-BR": "Precisamos de quinze cadeiras para o jantar.",
+        "es-ES": "Necesitamos quince sillas para la cena.",
+        "fr-FR": "Nous avons besoin de quinze chaises pour le dîner."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sixteen",
+        "pt-BR": "dezesseis",
+        "es-ES": "dieciséis",
+        "fr-FR": "seize"
+      },
+      "sample_sentences": {
+        "en": "The bus carries sixteen passengers.",
+        "pt-BR": "O ônibus leva dezesseis passageiros.",
+        "es-ES": "El autobús lleva dieciséis pasajeros.",
+        "fr-FR": "Le bus transporte seize passagers."
+      }
+    },
+    {
+      "terms": {
+        "en": "Seventeen",
+        "pt-BR": "dezessete",
+        "es-ES": "diecisiete",
+        "fr-FR": "dix-sept"
+      },
+      "sample_sentences": {
+        "en": "They planted seventeen trees.",
+        "pt-BR": "Eles plantaram dezessete árvores.",
+        "es-ES": "Plantaron diecisiete árboles.",
+        "fr-FR": "Ils ont planté dix-sept arbres."
+      }
+    },
+    {
+      "terms": {
+        "en": "Eighteen",
+        "pt-BR": "dezoito",
+        "es-ES": "dieciocho",
+        "fr-FR": "dix-huit"
+      },
+      "sample_sentences": {
+        "en": "I counted eighteen steps.",
+        "pt-BR": "Eu contei dezoito degraus.",
+        "es-ES": "Conté dieciocho escalones.",
+        "fr-FR": "J'ai compté dix-huit marches."
+      }
+    },
+    {
+      "terms": {
+        "en": "Nineteen",
+        "pt-BR": "dezenove",
+        "es-ES": "diecinueve",
+        "fr-FR": "dix-neuf"
+      },
+      "sample_sentences": {
+        "en": "The class has nineteen desks.",
+        "pt-BR": "A turma tem dezenove carteiras.",
+        "es-ES": "La clase tiene diecinueve pupitres.",
+        "fr-FR": "La classe a dix-neuf pupitres."
+      }
+    },
+    {
+      "terms": {
+        "en": "Twenty",
+        "pt-BR": "vinte",
+        "es-ES": "veinte",
+        "fr-FR": "vingt"
+      },
+      "sample_sentences": {
+        "en": "We bought twenty tickets.",
+        "pt-BR": "Nós compramos vinte ingressos.",
+        "es-ES": "Compramos veinte entradas.",
+        "fr-FR": "Nous avons acheté vingt billets."
+      }
+    }
+  ]
+}

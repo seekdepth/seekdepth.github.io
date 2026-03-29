@@ -1,0 +1,385 @@
+{
+  "lesson_id": "breakfast",
+  "title": "Breakfast",
+  "titles": {
+    "en": "Breakfast",
+    "pt": "Café da Manhã",
+    "es": "Desayuno",
+    "fr": "Petit-déjeuner"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/breakfast.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Breakfast",
+      "pt": "Café da Manhã",
+      "es": "Desayuno",
+      "fr": "Petit-déjeuner"
+    },
+    "sample_sentences": {
+      "en": "Let's study breakfast.",
+      "pt-BR": "Vamos estudar o café da manhã.",
+      "es-ES": "Vamos a estudiar el desayuno.",
+      "fr-FR": "Étudions le petit-déjeuner.",
+      "en-US": "Let's study breakfast.",
+      "en-GB": "Let's study breakfast."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "Coffee",
+        "pt-BR": "café",
+        "es-ES": "café",
+        "fr-FR": "café",
+        "en-US": "Coffee",
+        "en-GB": "Coffee"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I drink coffee every morning.",
+        "pt-BR": "Eu tomo café todas as manhãs.",
+        "es-ES": "Tomo café todas las mañanas.",
+        "fr-FR": "Je bois du café tous les matins.",
+        "en-US": "I drink coffee every morning.",
+        "en-GB": "I drink coffee every morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tea",
+        "pt-BR": "chá",
+        "es-ES": "té",
+        "fr-FR": "thé",
+        "en-US": "Tea",
+        "en-GB": "Tea"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She prefers tea with breakfast.",
+        "pt-BR": "Ela prefere chá no café da manhã.",
+        "es-ES": "Ella prefiere té en el desayuno.",
+        "fr-FR": "Elle préfère le thé au petit-déjeuner.",
+        "en-US": "She prefers tea with breakfast.",
+        "en-GB": "She prefers tea with breakfast."
+      }
+    },
+    {
+      "terms": {
+        "en": "Bread",
+        "pt-BR": "pão",
+        "es-ES": "pan",
+        "fr-FR": "pain",
+        "en-US": "Bread",
+        "en-GB": "Bread"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The bread is fresh from the bakery.",
+        "pt-BR": "O pão está fresco da padaria.",
+        "es-ES": "El pan está fresco de la panadería.",
+        "fr-FR": "Le pain est frais de la boulangerie.",
+        "en-US": "The bread is fresh from the bakery.",
+        "en-GB": "The bread is fresh from the bakery."
+      }
+    },
+    {
+      "terms": {
+        "en": "Butter",
+        "pt-BR": "manteiga",
+        "es-ES": "mantequilla",
+        "fr-FR": "beurre",
+        "en-US": "Butter",
+        "en-GB": "Butter"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Spread butter on the toast.",
+        "pt-BR": "Passe manteiga na torrada.",
+        "es-ES": "Unta mantequilla en la tostada.",
+        "fr-FR": "Étalez du beurre sur le pain grillé.",
+        "en-US": "Spread butter on the toast.",
+        "en-GB": "Spread butter on the toast."
+      }
+    },
+    {
+      "terms": {
+        "en": "Jam",
+        "pt-BR": "geleia",
+        "es-ES": "mermelada",
+        "fr-FR": "confiture",
+        "en-US": "Jam",
+        "en-GB": "Jam"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Strawberry jam is my favorite.",
+        "pt-BR": "Geleia de morango é a minha favorita.",
+        "es-ES": "La mermelada de fresa es mi favorita.",
+        "fr-FR": "La confiture de fraises est ma préférée.",
+        "en-US": "Strawberry jam is my favorite.",
+        "en-GB": "Strawberry jam is my favorite."
+      }
+    },
+    {
+      "terms": {
+        "en": "Eggs",
+        "pt-BR": "ovos",
+        "es-ES": "huevos",
+        "fr-FR": "oeufs",
+        "en-US": "Eggs",
+        "en-GB": "Eggs"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We cooked eggs for breakfast.",
+        "pt-BR": "Nós fizemos ovos no café da manhã.",
+        "es-ES": "Cocinamos huevos para el desayuno.",
+        "fr-FR": "Nous avons préparé des oeufs pour le petit-déjeuner.",
+        "en-US": "We cooked eggs for breakfast.",
+        "en-GB": "We cooked eggs for breakfast."
+      }
+    },
+    {
+      "terms": {
+        "en": "Cheese",
+        "pt-BR": "queijo",
+        "es-ES": "queso",
+        "fr-FR": "fromage",
+        "en-US": "Cheese",
+        "en-GB": "Cheese"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "This cheese goes well with bread.",
+        "pt-BR": "Este queijo combina bem com pão.",
+        "es-ES": "Este queso combina bien con pan.",
+        "fr-FR": "Ce fromage va bien avec le pain.",
+        "en-US": "This cheese goes well with bread.",
+        "en-GB": "This cheese goes well with bread."
+      }
+    },
+    {
+      "terms": {
+        "en": "Juice",
+        "pt-BR": "suco",
+        "es-ES": "zumo",
+        "fr-FR": "jus",
+        "en-US": "Juice",
+        "en-GB": "Juice"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He poured a glass of orange juice.",
+        "pt-BR": "Ele serviu um copo de suco de laranja.",
+        "es-ES": "Sirvió un vaso de zumo de naranja.",
+        "fr-FR": "Il a versé un verre de jus d'orange.",
+        "en-US": "He poured a glass of orange juice.",
+        "en-GB": "He poured a glass of orange juice."
+      }
+    },
+    {
+      "terms": {
+        "en": "Cereal",
+        "pt-BR": "cereal",
+        "es-ES": "cereales",
+        "fr-FR": "céréales",
+        "en-US": "Cereal",
+        "en-GB": "Cereal"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The kids ate cereal with milk.",
+        "pt-BR": "As crianças comeram cereal com leite.",
+        "es-ES": "Los niños comieron cereales con leche.",
+        "fr-FR": "Les enfants ont mangé des céréales avec du lait.",
+        "en-US": "The kids ate cereal with milk.",
+        "en-GB": "The kids ate cereal with milk."
+      }
+    },
+    {
+      "terms": {
+        "en": "Pancakes",
+        "pt-BR": "panquecas",
+        "es-ES": "panqueques",
+        "fr-FR": "crêpes",
+        "en-US": "Pancakes",
+        "en-GB": "Pancakes"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We made pancakes on Sunday morning.",
+        "pt-BR": "Nós fizemos panquecas no domingo de manhã.",
+        "es-ES": "Hicimos panqueques el domingo por la mañana.",
+        "fr-FR": "Nous avons préparé des crêpes dimanche matin.",
+        "en-US": "We made pancakes on Sunday morning.",
+        "en-GB": "We made pancakes on Sunday morning."
+      }
+    }
+  ]
+}

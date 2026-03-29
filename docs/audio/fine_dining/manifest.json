@@ -1,0 +1,385 @@
+{
+  "lesson_id": "fine_dining",
+  "title": "Fine Dining",
+  "titles": {
+    "en": "Fine Dining",
+    "pt": "Alta Gastronomia",
+    "es": "Alta Cocina",
+    "fr": "Gastronomie"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/fine_dining.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Fine Dining",
+      "pt": "Alta Gastronomia",
+      "es": "Alta Cocina",
+      "fr": "Gastronomie"
+    },
+    "sample_sentences": {
+      "en": "Let's study fine dining.",
+      "pt-BR": "Vamos estudar alta gastronomia.",
+      "es-ES": "Vamos a estudiar la alta cocina.",
+      "fr-FR": "Étudions la gastronomie.",
+      "en-US": "Let's study fine dining.",
+      "en-GB": "Let's study fine dining."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "Reservation",
+        "pt-BR": "reserva",
+        "es-ES": "reserva",
+        "fr-FR": "réservation",
+        "en-US": "Reservation",
+        "en-GB": "Reservation"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We made a reservation for eight o'clock.",
+        "pt-BR": "Nós fizemos uma reserva para as oito horas.",
+        "es-ES": "Hicimos una reserva para las ocho.",
+        "fr-FR": "Nous avons fait une réservation pour huit heures.",
+        "en-US": "We made a reservation for eight o'clock.",
+        "en-GB": "We made a reservation for eight o'clock."
+      }
+    },
+    {
+      "terms": {
+        "en": "Menu",
+        "pt-BR": "cardápio",
+        "es-ES": "menú",
+        "fr-FR": "menu",
+        "en-US": "Menu",
+        "en-GB": "Menu"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The menu changes with the season.",
+        "pt-BR": "O cardápio muda conforme a estação.",
+        "es-ES": "El menú cambia según la temporada.",
+        "fr-FR": "Le menu change selon la saison.",
+        "en-US": "The menu changes with the season.",
+        "en-GB": "The menu changes with the season."
+      }
+    },
+    {
+      "terms": {
+        "en": "Appetizer",
+        "pt-BR": "entrada",
+        "es-ES": "entrante",
+        "fr-FR": "entrée",
+        "en-US": "Appetizer",
+        "en-GB": "Appetizer"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The appetizer was elegant and light.",
+        "pt-BR": "A entrada estava elegante e leve.",
+        "es-ES": "El entrante era elegante y ligero.",
+        "fr-FR": "L'entrée était élégante et légère.",
+        "en-US": "The appetizer was elegant and light.",
+        "en-GB": "The appetizer was elegant and light."
+      }
+    },
+    {
+      "terms": {
+        "en": "Main course",
+        "pt-BR": "prato principal",
+        "es-ES": "plato principal",
+        "fr-FR": "plat principal",
+        "en-US": "Main course",
+        "en-GB": "Main course"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The main course arrived beautifully plated.",
+        "pt-BR": "O prato principal chegou muito bem apresentado.",
+        "es-ES": "El plato principal llegó muy bien presentado.",
+        "fr-FR": "Le plat principal est arrivé joliment dressé.",
+        "en-US": "The main course arrived beautifully plated.",
+        "en-GB": "The main course arrived beautifully plated."
+      }
+    },
+    {
+      "terms": {
+        "en": "Dessert",
+        "pt-BR": "sobremesa",
+        "es-ES": "postre",
+        "fr-FR": "dessert",
+        "en-US": "Dessert",
+        "en-GB": "Dessert"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We shared dessert at the end of the meal.",
+        "pt-BR": "Nós dividimos a sobremesa no fim da refeição.",
+        "es-ES": "Compartimos el postre al final de la comida.",
+        "fr-FR": "Nous avons partagé le dessert à la fin du repas.",
+        "en-US": "We shared dessert at the end of the meal.",
+        "en-GB": "We shared dessert at the end of the meal."
+      }
+    },
+    {
+      "terms": {
+        "en": "Wine list",
+        "pt-BR": "carta de vinhos",
+        "es-ES": "carta de vinos",
+        "fr-FR": "carte des vins",
+        "en-US": "Wine list",
+        "en-GB": "Wine list"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The waiter brought the wine list first.",
+        "pt-BR": "O garçom trouxe a carta de vinhos primeiro.",
+        "es-ES": "El camarero trajo primero la carta de vinos.",
+        "fr-FR": "Le serveur a apporté la carte des vins d'abord.",
+        "en-US": "The waiter brought the wine list first.",
+        "en-GB": "The waiter brought the wine list first."
+      }
+    },
+    {
+      "terms": {
+        "en": "Waiter",
+        "pt-BR": "garçom",
+        "es-ES": "camarero",
+        "fr-FR": "serveur",
+        "en-US": "Waiter",
+        "en-GB": "Waiter"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The waiter explained each dish carefully.",
+        "pt-BR": "O garçom explicou cada prato com cuidado.",
+        "es-ES": "El camarero explicó cada plato con cuidado.",
+        "fr-FR": "Le serveur a expliqué chaque plat avec soin.",
+        "en-US": "The waiter explained each dish carefully.",
+        "en-GB": "The waiter explained each dish carefully."
+      }
+    },
+    {
+      "terms": {
+        "en": "Chef",
+        "pt-BR": "chef",
+        "es-ES": "chef",
+        "fr-FR": "chef",
+        "en-US": "Chef",
+        "en-GB": "Chef"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The chef created a special tasting menu.",
+        "pt-BR": "O chef criou um menu degustação especial.",
+        "es-ES": "El chef creó un menú degustación especial.",
+        "fr-FR": "Le chef a créé un menu dégustation spécial.",
+        "en-US": "The chef created a special tasting menu.",
+        "en-GB": "The chef created a special tasting menu."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tablecloth",
+        "pt-BR": "toalha de mesa",
+        "es-ES": "mantel",
+        "fr-FR": "nappe",
+        "en-US": "Tablecloth",
+        "en-GB": "Tablecloth"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The white tablecloth looked immaculate.",
+        "pt-BR": "A toalha de mesa branca parecia impecável.",
+        "es-ES": "El mantel blanco parecía impecable.",
+        "fr-FR": "La nappe blanche semblait impeccable.",
+        "en-US": "The white tablecloth looked immaculate.",
+        "en-GB": "The white tablecloth looked immaculate."
+      }
+    },
+    {
+      "terms": {
+        "en": "Bill",
+        "pt-BR": "conta",
+        "es-ES": "cuenta",
+        "fr-FR": "addition",
+        "en-US": "Bill",
+        "en-GB": "Bill"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Could we have the bill, please?",
+        "pt-BR": "Poderia trazer a conta, por favor?",
+        "es-ES": "¿Podría traernos la cuenta, por favor?",
+        "fr-FR": "Pourrions-nous avoir l'addition, s'il vous plaît ?",
+        "en-US": "Could we have the bill, please?",
+        "en-GB": "Could we have the bill, please?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "lesson_id": "sun_and_sea",
+  "title": "Sun and Sea",
+  "titles": {
+    "en": "Sun and Sea",
+    "pt": "Sol e Mar",
+    "es": "Sol y Mar",
+    "fr": "Soleil et Mer"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study sun and sea.",
+    "pt-BR": "Vamos estudar sol e mar.",
+    "es-ES": "Vamos a estudiar sol y mar.",
+    "fr-FR": "Étudions le soleil et la mer."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Beach",
+        "pt-BR": "praia",
+        "es-ES": "playa",
+        "fr-FR": "plage"
+      },
+      "sample_sentences": {
+        "en": "We spent the afternoon at the beach.",
+        "pt-BR": "Nós passamos a tarde na praia.",
+        "es-ES": "Pasamos la tarde en la playa.",
+        "fr-FR": "Nous avons passé l'après-midi à la plage."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sun",
+        "pt-BR": "sol",
+        "es-ES": "sol",
+        "fr-FR": "soleil"
+      },
+      "sample_sentences": {
+        "en": "The sun is strong at noon.",
+        "pt-BR": "O sol está forte ao meio-dia.",
+        "es-ES": "El sol está fuerte al mediodía.",
+        "fr-FR": "Le soleil est fort à midi."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sea",
+        "pt-BR": "mar",
+        "es-ES": "mar",
+        "fr-FR": "mer"
+      },
+      "sample_sentences": {
+        "en": "The sea looks calm this morning.",
+        "pt-BR": "O mar parece calmo esta manhã.",
+        "es-ES": "El mar parece tranquilo esta mañana.",
+        "fr-FR": "La mer semble calme ce matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "Waves",
+        "pt-BR": "ondas",
+        "es-ES": "olas",
+        "fr-FR": "vagues"
+      },
+      "sample_sentences": {
+        "en": "The waves are perfect for surfing.",
+        "pt-BR": "As ondas estão perfeitas para surfar.",
+        "es-ES": "Las olas están perfectas para surfear.",
+        "fr-FR": "Les vagues sont parfaites pour surfer."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sand",
+        "pt-BR": "areia",
+        "es-ES": "arena",
+        "fr-FR": "sable"
+      },
+      "sample_sentences": {
+        "en": "The sand is warm under our feet.",
+        "pt-BR": "A areia está quente sob nossos pés.",
+        "es-ES": "La arena está tibia bajo nuestros pies.",
+        "fr-FR": "Le sable est chaud sous nos pieds."
+      }
+    },
+    {
+      "terms": {
+        "en": "Swimsuit",
+        "pt-BR": "maiô",
+        "es-ES": "bañador",
+        "fr-FR": "maillot de bain"
+      },
+      "sample_sentences": {
+        "en": "She packed her swimsuit for the trip.",
+        "pt-BR": "Ela levou seu maiô para a viagem.",
+        "es-ES": "Ella llevó su bañador para el viaje.",
+        "fr-FR": "Elle a emporté son maillot de bain pour le voyage."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sunscreen",
+        "pt-BR": "protetor solar",
+        "es-ES": "protector solar",
+        "fr-FR": "crème solaire"
+      },
+      "sample_sentences": {
+        "en": "Put on sunscreen before going outside.",
+        "pt-BR": "Passe protetor solar antes de sair.",
+        "es-ES": "Ponte protector solar antes de salir.",
+        "fr-FR": "Mettez de la crème solaire avant de sortir."
+      }
+    },
+    {
+      "terms": {
+        "en": "Boat",
+        "pt-BR": "barco",
+        "es-ES": "barco",
+        "fr-FR": "bateau"
+      },
+      "sample_sentences": {
+        "en": "A small boat is near the shore.",
+        "pt-BR": "Um pequeno barco está perto da costa.",
+        "es-ES": "Un pequeño barco está cerca de la orilla.",
+        "fr-FR": "Un petit bateau est près du rivage."
+      }
+    },
+    {
+      "terms": {
+        "en": "Shell",
+        "pt-BR": "concha",
+        "es-ES": "concha",
+        "fr-FR": "coquillage"
+      },
+      "sample_sentences": {
+        "en": "The child found a shell in the sand.",
+        "pt-BR": "A criança encontrou uma concha na areia.",
+        "es-ES": "El niño encontró una concha en la arena.",
+        "fr-FR": "L'enfant a trouvé un coquillage dans le sable."
+      }
+    },
+    {
+      "terms": {
+        "en": "Towel",
+        "pt-BR": "toalha",
+        "es-ES": "toalla",
+        "fr-FR": "serviette"
+      },
+      "sample_sentences": {
+        "en": "My towel is drying in the sun.",
+        "pt-BR": "Minha toalha está secando ao sol.",
+        "es-ES": "Mi toalla se está secando al sol.",
+        "fr-FR": "Ma serviette sèche au soleil."
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "lesson_id": "fast_food",
+  "title": "Fast Food",
+  "titles": {
+    "en": "Fast Food",
+    "pt": "Comida Rápida",
+    "es": "Comida Rápida",
+    "fr": "Restauration Rapide"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study fast food.",
+    "pt-BR": "Vamos estudar comida rápida.",
+    "es-ES": "Vamos a estudiar la comida rápida.",
+    "fr-FR": "Étudions la restauration rapide."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Burger",
+        "pt-BR": "hambúrguer",
+        "es-ES": "hamburguesa",
+        "fr-FR": "burger"
+      },
+      "sample_sentences": {
+        "en": "He ordered a burger with extra cheese.",
+        "pt-BR": "Ele pediu um hambúrguer com queijo extra.",
+        "es-ES": "Pidió una hamburguesa con queso extra.",
+        "fr-FR": "Il a commandé un burger avec du fromage en plus."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fries",
+        "pt-BR": "batatas fritas",
+        "es-ES": "patatas fritas",
+        "fr-FR": "frites"
+      },
+      "sample_sentences": {
+        "en": "The fries are hot and crispy.",
+        "pt-BR": "As batatas fritas estão quentes e crocantes.",
+        "es-ES": "Las patatas fritas están calientes y crujientes.",
+        "fr-FR": "Les frites sont chaudes et croustillantes."
+      }
+    },
+    {
+      "terms": {
+        "en": "Soda",
+        "pt-BR": "refrigerante",
+        "es-ES": "refresco",
+        "fr-FR": "soda"
+      },
+      "sample_sentences": {
+        "en": "She wants a cold soda with lunch.",
+        "pt-BR": "Ela quer um refrigerante gelado no almoço.",
+        "es-ES": "Quiere un refresco frío con el almuerzo.",
+        "fr-FR": "Elle veut un soda bien frais pour le déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "Combo meal",
+        "pt-BR": "combo",
+        "es-ES": "menú combinado",
+        "fr-FR": "menu combo"
+      },
+      "sample_sentences": {
+        "en": "The combo meal comes with a drink.",
+        "pt-BR": "O combo vem com bebida.",
+        "es-ES": "El menú combinado viene con bebida.",
+        "fr-FR": "Le menu combo comprend une boisson."
+      }
+    },
+    {
+      "terms": {
+        "en": "Drive-thru",
+        "pt-BR": "drive-thru",
+        "es-ES": "autoservicio",
+        "fr-FR": "drive"
+      },
+      "sample_sentences": {
+        "en": "We used the drive-thru after work.",
+        "pt-BR": "Nós usamos o drive-thru depois do trabalho.",
+        "es-ES": "Usamos el autoservicio después del trabajo.",
+        "fr-FR": "Nous avons pris le drive après le travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "Chicken nuggets",
+        "pt-BR": "nuggets de frango",
+        "es-ES": "nuggets de pollo",
+        "fr-FR": "nuggets de poulet"
+      },
+      "sample_sentences": {
+        "en": "The children shared chicken nuggets.",
+        "pt-BR": "As crianças dividiram nuggets de frango.",
+        "es-ES": "Los niños compartieron nuggets de pollo.",
+        "fr-FR": "Les enfants ont partagé des nuggets de poulet."
+      }
+    },
+    {
+      "terms": {
+        "en": "Ketchup",
+        "pt-BR": "ketchup",
+        "es-ES": "kétchup",
+        "fr-FR": "ketchup"
+      },
+      "sample_sentences": {
+        "en": "Can I have more ketchup, please?",
+        "pt-BR": "Posso pegar mais ketchup, por favor?",
+        "es-ES": "¿Puedo tener más kétchup, por favor?",
+        "fr-FR": "Je peux avoir plus de ketchup, s'il vous plaît ?"
+      }
+    },
+    {
+      "terms": {
+        "en": "Milkshake",
+        "pt-BR": "milk-shake",
+        "es-ES": "batido",
+        "fr-FR": "milk-shake"
+      },
+      "sample_sentences": {
+        "en": "The chocolate milkshake is very thick.",
+        "pt-BR": "O milk-shake de chocolate é bem cremoso.",
+        "es-ES": "El batido de chocolate es muy espeso.",
+        "fr-FR": "Le milk-shake au chocolat est très épais."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tray",
+        "pt-BR": "bandeja",
+        "es-ES": "bandeja",
+        "fr-FR": "plateau"
+      },
+      "sample_sentences": {
+        "en": "Put the tray on the table by the window.",
+        "pt-BR": "Coloque a bandeja na mesa perto da janela.",
+        "es-ES": "Pon la bandeja en la mesa junto a la ventana.",
+        "fr-FR": "Posez le plateau sur la table près de la fenêtre."
+      }
+    },
+    {
+      "terms": {
+        "en": "Receipt",
+        "pt-BR": "recibo",
+        "es-ES": "recibo",
+        "fr-FR": "ticket"
+      },
+      "sample_sentences": {
+        "en": "Keep the receipt in case of a mistake.",
+        "pt-BR": "Guarde o recibo em caso de erro.",
+        "es-ES": "Guarda el recibo por si hay un error.",
+        "fr-FR": "Gardez le ticket en cas d'erreur."
+      }
+    }
+  ]
+}

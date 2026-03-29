@@ -1,0 +1,385 @@
+{
+  "lesson_id": "fast_food",
+  "title": "Fast Food",
+  "titles": {
+    "en": "Fast Food",
+    "pt": "Comida Rápida",
+    "es": "Comida Rápida",
+    "fr": "Restauration Rapide"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/fast_food.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Fast Food",
+      "pt": "Comida Rápida",
+      "es": "Comida Rápida",
+      "fr": "Restauration Rapide"
+    },
+    "sample_sentences": {
+      "en": "Let's study fast food.",
+      "pt-BR": "Vamos estudar comida rápida.",
+      "es-ES": "Vamos a estudiar la comida rápida.",
+      "fr-FR": "Étudions la restauration rapide.",
+      "en-US": "Let's study fast food.",
+      "en-GB": "Let's study fast food."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "Burger",
+        "pt-BR": "hambúrguer",
+        "es-ES": "hamburguesa",
+        "fr-FR": "burger",
+        "en-US": "Burger",
+        "en-GB": "Burger"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He ordered a burger with extra cheese.",
+        "pt-BR": "Ele pediu um hambúrguer com queijo extra.",
+        "es-ES": "Pidió una hamburguesa con queso extra.",
+        "fr-FR": "Il a commandé un burger avec du fromage en plus.",
+        "en-US": "He ordered a burger with extra cheese.",
+        "en-GB": "He ordered a burger with extra cheese."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fries",
+        "pt-BR": "batatas fritas",
+        "es-ES": "patatas fritas",
+        "fr-FR": "frites",
+        "en-US": "Fries",
+        "en-GB": "Fries"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The fries are hot and crispy.",
+        "pt-BR": "As batatas fritas estão quentes e crocantes.",
+        "es-ES": "Las patatas fritas están calientes y crujientes.",
+        "fr-FR": "Les frites sont chaudes et croustillantes.",
+        "en-US": "The fries are hot and crispy.",
+        "en-GB": "The fries are hot and crispy."
+      }
+    },
+    {
+      "terms": {
+        "en": "Soda",
+        "pt-BR": "refrigerante",
+        "es-ES": "refresco",
+        "fr-FR": "soda",
+        "en-US": "Soda",
+        "en-GB": "Soda"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She wants a cold soda with lunch.",
+        "pt-BR": "Ela quer um refrigerante gelado no almoço.",
+        "es-ES": "Quiere un refresco frío con el almuerzo.",
+        "fr-FR": "Elle veut un soda bien frais pour le déjeuner.",
+        "en-US": "She wants a cold soda with lunch.",
+        "en-GB": "She wants a cold soda with lunch."
+      }
+    },
+    {
+      "terms": {
+        "en": "Combo meal",
+        "pt-BR": "combo",
+        "es-ES": "menú combinado",
+        "fr-FR": "menu combo",
+        "en-US": "Combo meal",
+        "en-GB": "Combo meal"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The combo meal comes with a drink.",
+        "pt-BR": "O combo vem com bebida.",
+        "es-ES": "El menú combinado viene con bebida.",
+        "fr-FR": "Le menu combo comprend une boisson.",
+        "en-US": "The combo meal comes with a drink.",
+        "en-GB": "The combo meal comes with a drink."
+      }
+    },
+    {
+      "terms": {
+        "en": "Drive-thru",
+        "pt-BR": "drive-thru",
+        "es-ES": "autoservicio",
+        "fr-FR": "drive",
+        "en-US": "Drive-thru",
+        "en-GB": "Drive-thru"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We used the drive-thru after work.",
+        "pt-BR": "Nós usamos o drive-thru depois do trabalho.",
+        "es-ES": "Usamos el autoservicio después del trabajo.",
+        "fr-FR": "Nous avons pris le drive après le travail.",
+        "en-US": "We used the drive-thru after work.",
+        "en-GB": "We used the drive-thru after work."
+      }
+    },
+    {
+      "terms": {
+        "en": "Chicken nuggets",
+        "pt-BR": "nuggets de frango",
+        "es-ES": "nuggets de pollo",
+        "fr-FR": "nuggets de poulet",
+        "en-US": "Chicken nuggets",
+        "en-GB": "Chicken nuggets"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The children shared chicken nuggets.",
+        "pt-BR": "As crianças dividiram nuggets de frango.",
+        "es-ES": "Los niños compartieron nuggets de pollo.",
+        "fr-FR": "Les enfants ont partagé des nuggets de poulet.",
+        "en-US": "The children shared chicken nuggets.",
+        "en-GB": "The children shared chicken nuggets."
+      }
+    },
+    {
+      "terms": {
+        "en": "Ketchup",
+        "pt-BR": "ketchup",
+        "es-ES": "kétchup",
+        "fr-FR": "ketchup",
+        "en-US": "Ketchup",
+        "en-GB": "Ketchup"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Can I have more ketchup, please?",
+        "pt-BR": "Posso pegar mais ketchup, por favor?",
+        "es-ES": "¿Puedo tener más kétchup, por favor?",
+        "fr-FR": "Je peux avoir plus de ketchup, s'il vous plaît ?",
+        "en-US": "Can I have more ketchup, please?",
+        "en-GB": "Can I have more ketchup, please?"
+      }
+    },
+    {
+      "terms": {
+        "en": "Milkshake",
+        "pt-BR": "milk-shake",
+        "es-ES": "batido",
+        "fr-FR": "milk-shake",
+        "en-US": "Milkshake",
+        "en-GB": "Milkshake"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The chocolate milkshake is very thick.",
+        "pt-BR": "O milk-shake de chocolate é bem cremoso.",
+        "es-ES": "El batido de chocolate es muy espeso.",
+        "fr-FR": "Le milk-shake au chocolat est très épais.",
+        "en-US": "The chocolate milkshake is very thick.",
+        "en-GB": "The chocolate milkshake is very thick."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tray",
+        "pt-BR": "bandeja",
+        "es-ES": "bandeja",
+        "fr-FR": "plateau",
+        "en-US": "Tray",
+        "en-GB": "Tray"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Put the tray on the table by the window.",
+        "pt-BR": "Coloque a bandeja na mesa perto da janela.",
+        "es-ES": "Pon la bandeja en la mesa junto a la ventana.",
+        "fr-FR": "Posez le plateau sur la table près de la fenêtre.",
+        "en-US": "Put the tray on the table by the window.",
+        "en-GB": "Put the tray on the table by the window."
+      }
+    },
+    {
+      "terms": {
+        "en": "Receipt",
+        "pt-BR": "recibo",
+        "es-ES": "recibo",
+        "fr-FR": "ticket",
+        "en-US": "Receipt",
+        "en-GB": "Receipt"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Keep the receipt in case of a mistake.",
+        "pt-BR": "Guarde o recibo em caso de erro.",
+        "es-ES": "Guarda el recibo por si hay un error.",
+        "fr-FR": "Gardez le ticket en cas d'erreur.",
+        "en-US": "Keep the receipt in case of a mistake.",
+        "en-GB": "Keep the receipt in case of a mistake."
+      }
+    }
+  ]
+}

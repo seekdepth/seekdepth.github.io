@@ -1,0 +1,166 @@
+{
+  "lesson_id": "the_countryside",
+  "title": "The Countryside",
+  "titles": {
+    "en": "The Countryside",
+    "pt": "O Campo",
+    "es": "El Campo",
+    "fr": "La Campagne"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the countryside.",
+    "pt-BR": "Vamos estudar o campo.",
+    "es-ES": "Vamos a estudiar el campo.",
+    "fr-FR": "Étudions la campagne."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Farm",
+        "pt-BR": "fazenda",
+        "es-ES": "granja",
+        "fr-FR": "ferme"
+      },
+      "sample_sentences": {
+        "en": "The farm grows vegetables all year.",
+        "pt-BR": "A fazenda cultiva legumes o ano inteiro.",
+        "es-ES": "La granja cultiva verduras todo el año.",
+        "fr-FR": "La ferme cultive des légumes toute l'année."
+      }
+    },
+    {
+      "terms": {
+        "en": "Field",
+        "pt-BR": "campo",
+        "es-ES": "campo",
+        "fr-FR": "champ"
+      },
+      "sample_sentences": {
+        "en": "The cows are grazing in the field.",
+        "pt-BR": "As vacas estão pastando no campo.",
+        "es-ES": "Las vacas están pastando en el campo.",
+        "fr-FR": "Les vaches broutent dans le champ."
+      }
+    },
+    {
+      "terms": {
+        "en": "Barn",
+        "pt-BR": "celeiro",
+        "es-ES": "granero",
+        "fr-FR": "grange"
+      },
+      "sample_sentences": {
+        "en": "The tools are stored in the barn.",
+        "pt-BR": "As ferramentas ficam guardadas no celeiro.",
+        "es-ES": "Las herramientas se guardan en el granero.",
+        "fr-FR": "Les outils sont rangés dans la grange."
+      }
+    },
+    {
+      "terms": {
+        "en": "River",
+        "pt-BR": "rio",
+        "es-ES": "río",
+        "fr-FR": "rivière"
+      },
+      "sample_sentences": {
+        "en": "The river runs behind the house.",
+        "pt-BR": "O rio passa atrás da casa.",
+        "es-ES": "El río pasa detrás de la casa.",
+        "fr-FR": "La rivière passe derrière la maison."
+      }
+    },
+    {
+      "terms": {
+        "en": "Hill",
+        "pt-BR": "colina",
+        "es-ES": "colina",
+        "fr-FR": "colline"
+      },
+      "sample_sentences": {
+        "en": "You can see the village from the hill.",
+        "pt-BR": "Você pode ver a vila da colina.",
+        "es-ES": "Se puede ver el pueblo desde la colina.",
+        "fr-FR": "On peut voir le village depuis la colline."
+      }
+    },
+    {
+      "terms": {
+        "en": "Forest",
+        "pt-BR": "floresta",
+        "es-ES": "bosque",
+        "fr-FR": "forêt"
+      },
+      "sample_sentences": {
+        "en": "We walked through the forest at sunset.",
+        "pt-BR": "Nós caminhamos pela floresta ao pôr do sol.",
+        "es-ES": "Caminamos por el bosque al atardecer.",
+        "fr-FR": "Nous avons marché dans la forêt au coucher du soleil."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tractor",
+        "pt-BR": "trator",
+        "es-ES": "tractor",
+        "fr-FR": "tracteur"
+      },
+      "sample_sentences": {
+        "en": "The tractor is working in the corn field.",
+        "pt-BR": "O trator está trabalhando no milharal.",
+        "es-ES": "El tractor está trabajando en el campo de maíz.",
+        "fr-FR": "Le tracteur travaille dans le champ de maïs."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fence",
+        "pt-BR": "cerca",
+        "es-ES": "cerca",
+        "fr-FR": "clôture"
+      },
+      "sample_sentences": {
+        "en": "The fence keeps the animals safe.",
+        "pt-BR": "A cerca mantém os animais seguros.",
+        "es-ES": "La cerca mantiene seguros a los animales.",
+        "fr-FR": "La clôture protège les animaux."
+      }
+    },
+    {
+      "terms": {
+        "en": "Village",
+        "pt-BR": "vila",
+        "es-ES": "pueblo",
+        "fr-FR": "village"
+      },
+      "sample_sentences": {
+        "en": "The village is quiet at night.",
+        "pt-BR": "A vila fica tranquila à noite.",
+        "es-ES": "El pueblo está tranquilo por la noche.",
+        "fr-FR": "Le village est calme la nuit."
+      }
+    },
+    {
+      "terms": {
+        "en": "Path",
+        "pt-BR": "trilha",
+        "es-ES": "sendero",
+        "fr-FR": "sentier"
+      },
+      "sample_sentences": {
+        "en": "The path leads to the old farmhouse.",
+        "pt-BR": "A trilha leva até a antiga casa da fazenda.",
+        "es-ES": "El sendero lleva hasta la antigua casa de campo.",
+        "fr-FR": "Le sentier mène à la vieille ferme."
+      }
+    }
+  ]
+}

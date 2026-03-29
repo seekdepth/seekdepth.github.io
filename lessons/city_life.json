@@ -1,0 +1,166 @@
+{
+  "lesson_id": "city_life",
+  "title": "City Life",
+  "titles": {
+    "en": "City Life",
+    "pt": "Vida na Cidade",
+    "es": "Vida en la Ciudad",
+    "fr": "La Vie en Ville"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study city life.",
+    "pt-BR": "Vamos estudar a vida na cidade.",
+    "es-ES": "Vamos a estudiar la vida en la ciudad.",
+    "fr-FR": "Étudions la vie en ville."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Street",
+        "pt-BR": "rua",
+        "es-ES": "calle",
+        "fr-FR": "rue"
+      },
+      "sample_sentences": {
+        "en": "The street is busy in the morning.",
+        "pt-BR": "A rua fica movimentada de manhã.",
+        "es-ES": "La calle está muy transitada por la mañana.",
+        "fr-FR": "La rue est animée le matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "Apartment",
+        "pt-BR": "apartamento",
+        "es-ES": "apartamento",
+        "fr-FR": "appartement"
+      },
+      "sample_sentences": {
+        "en": "She lives in a small apartment downtown.",
+        "pt-BR": "Ela mora em um pequeno apartamento no centro.",
+        "es-ES": "Ella vive en un pequeño apartamento en el centro.",
+        "fr-FR": "Elle vit dans un petit appartement au centre-ville."
+      }
+    },
+    {
+      "terms": {
+        "en": "Bus",
+        "pt-BR": "ônibus",
+        "es-ES": "autobús",
+        "fr-FR": "bus"
+      },
+      "sample_sentences": {
+        "en": "We take the bus to work every day.",
+        "pt-BR": "Nós pegamos o ônibus para o trabalho todos os dias.",
+        "es-ES": "Tomamos el autobús al trabajo todos los días.",
+        "fr-FR": "Nous prenons le bus pour aller au travail tous les jours."
+      }
+    },
+    {
+      "terms": {
+        "en": "Subway",
+        "pt-BR": "metrô",
+        "es-ES": "metro",
+        "fr-FR": "métro"
+      },
+      "sample_sentences": {
+        "en": "The subway arrives every five minutes.",
+        "pt-BR": "O metrô chega a cada cinco minutos.",
+        "es-ES": "El metro llega cada cinco minutos.",
+        "fr-FR": "Le métro arrive toutes les cinq minutes."
+      }
+    },
+    {
+      "terms": {
+        "en": "Traffic",
+        "pt-BR": "trânsito",
+        "es-ES": "tráfico",
+        "fr-FR": "circulation"
+      },
+      "sample_sentences": {
+        "en": "Traffic is heavy near the bridge.",
+        "pt-BR": "O trânsito é intenso perto da ponte.",
+        "es-ES": "Hay mucho tráfico cerca del puente.",
+        "fr-FR": "La circulation est dense près du pont."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sidewalk",
+        "pt-BR": "calçada",
+        "es-ES": "acera",
+        "fr-FR": "trottoir"
+      },
+      "sample_sentences": {
+        "en": "People walk quickly on the sidewalk.",
+        "pt-BR": "As pessoas andam rápido na calçada.",
+        "es-ES": "La gente camina rápido por la acera.",
+        "fr-FR": "Les gens marchent vite sur le trottoir."
+      }
+    },
+    {
+      "terms": {
+        "en": "Office building",
+        "pt-BR": "prédio comercial",
+        "es-ES": "edificio de oficinas",
+        "fr-FR": "immeuble de bureaux"
+      },
+      "sample_sentences": {
+        "en": "The office building has twenty floors.",
+        "pt-BR": "O prédio comercial tem vinte andares.",
+        "es-ES": "El edificio de oficinas tiene veinte plantas.",
+        "fr-FR": "L'immeuble de bureaux a vingt étages."
+      }
+    },
+    {
+      "terms": {
+        "en": "Restaurant",
+        "pt-BR": "restaurante",
+        "es-ES": "restaurante",
+        "fr-FR": "restaurant"
+      },
+      "sample_sentences": {
+        "en": "That restaurant stays open late.",
+        "pt-BR": "Aquele restaurante fica aberto até tarde.",
+        "es-ES": "Ese restaurante permanece abierto hasta tarde.",
+        "fr-FR": "Ce restaurant reste ouvert tard."
+      }
+    },
+    {
+      "terms": {
+        "en": "Park",
+        "pt-BR": "parque",
+        "es-ES": "parque",
+        "fr-FR": "parc"
+      },
+      "sample_sentences": {
+        "en": "Families relax in the park on Sundays.",
+        "pt-BR": "As famílias relaxam no parque aos domingos.",
+        "es-ES": "Las familias descansan en el parque los domingos.",
+        "fr-FR": "Les familles se détendent au parc le dimanche."
+      }
+    },
+    {
+      "terms": {
+        "en": "Crosswalk",
+        "pt-BR": "faixa de pedestres",
+        "es-ES": "paso de peatones",
+        "fr-FR": "passage piéton"
+      },
+      "sample_sentences": {
+        "en": "Wait at the crosswalk before crossing.",
+        "pt-BR": "Espere na faixa de pedestres antes de atravessar.",
+        "es-ES": "Espera en el paso de peatones antes de cruzar.",
+        "fr-FR": "Attendez au passage piéton avant de traverser."
+      }
+    }
+  ]
+}

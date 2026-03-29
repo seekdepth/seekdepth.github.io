@@ -1,0 +1,152 @@
+{
+  "lesson_id": "numbers_21_to_100",
+  "title": "Numbers 21 to 100",
+  "titles": {
+    "en": "Numbers 21 to 100",
+    "pt": "Números de 21 a 100",
+    "es": "Números del 21 al 100",
+    "fr": "Nombres de 21 à 100"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study numbers 21 to 100.",
+    "pt-BR": "Vamos estudar os números de 21 a 100.",
+    "es-ES": "Vamos a estudiar los números del 21 al 100.",
+    "fr-FR": "Étudions les nombres de 21 à 100."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Twenty-one",
+        "pt-BR": "vinte e um",
+        "es-ES": "veintiuno",
+        "fr-FR": "vingt et un"
+      },
+      "sample_sentences": {
+        "en": "We counted twenty-one candles on the cake.",
+        "pt-BR": "Nós contamos vinte e uma velas no bolo.",
+        "es-ES": "Contamos veintiuna velas en el pastel.",
+        "fr-FR": "Nous avons compté vingt et une bougies sur le gâteau."
+      }
+    },
+    {
+      "terms": {
+        "en": "Thirty-five",
+        "pt-BR": "trinta e cinco",
+        "es-ES": "treinta y cinco",
+        "fr-FR": "trente-cinq"
+      },
+      "sample_sentences": {
+        "en": "The library has thirty-five new books.",
+        "pt-BR": "A biblioteca tem trinta e cinco livros novos.",
+        "es-ES": "La biblioteca tiene treinta y cinco libros nuevos.",
+        "fr-FR": "La bibliothèque a trente-cinq nouveaux livres."
+      }
+    },
+    {
+      "terms": {
+        "en": "Forty-three",
+        "pt-BR": "quarenta e três",
+        "es-ES": "cuarenta y tres",
+        "fr-FR": "quarante-trois"
+      },
+      "sample_sentences": {
+        "en": "He answered forty-three emails this morning.",
+        "pt-BR": "Ele respondeu quarenta e três e-mails esta manhã.",
+        "es-ES": "Respondió cuarenta y tres correos esta mañana.",
+        "fr-FR": "Il a répondu à quarante-trois e-mails ce matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fifty-nine",
+        "pt-BR": "cinquenta e nove",
+        "es-ES": "cincuenta y nueve",
+        "fr-FR": "cinquante-neuf"
+      },
+      "sample_sentences": {
+        "en": "The train leaves in fifty-nine minutes.",
+        "pt-BR": "O trem sai em cinquenta e nove minutos.",
+        "es-ES": "El tren sale en cincuenta y nueve minutos.",
+        "fr-FR": "Le train part dans cinquante-neuf minutes."
+      }
+    },
+    {
+      "terms": {
+        "en": "Sixty-two",
+        "pt-BR": "sessenta e dois",
+        "es-ES": "sesenta y dos",
+        "fr-FR": "soixante-deux"
+      },
+      "sample_sentences": {
+        "en": "She solved sixty-two math problems.",
+        "pt-BR": "Ela resolveu sessenta e dois problemas de matemática.",
+        "es-ES": "Ella resolvió sesenta y dos problemas de matemáticas.",
+        "fr-FR": "Elle a résolu soixante-deux problèmes de mathématiques."
+      }
+    },
+    {
+      "terms": {
+        "en": "Seventy-seven",
+        "pt-BR": "setenta e sete",
+        "es-ES": "setenta y siete",
+        "fr-FR": "soixante-dix-sept"
+      },
+      "sample_sentences": {
+        "en": "There are seventy-seven seats in the hall.",
+        "pt-BR": "Há setenta e sete lugares no salão.",
+        "es-ES": "Hay setenta y siete asientos en la sala.",
+        "fr-FR": "Il y a soixante-dix-sept places dans la salle."
+      }
+    },
+    {
+      "terms": {
+        "en": "Eighty-four",
+        "pt-BR": "oitenta e quatro",
+        "es-ES": "ochenta y cuatro",
+        "fr-FR": "quatre-vingt-quatre"
+      },
+      "sample_sentences": {
+        "en": "The team scored eighty-four points.",
+        "pt-BR": "O time marcou oitenta e quatro pontos.",
+        "es-ES": "El equipo anotó ochenta y cuatro puntos.",
+        "fr-FR": "L'équipe a marqué quatre-vingt-quatre points."
+      }
+    },
+    {
+      "terms": {
+        "en": "Ninety-six",
+        "pt-BR": "noventa e seis",
+        "es-ES": "noventa y seis",
+        "fr-FR": "quatre-vingt-seize"
+      },
+      "sample_sentences": {
+        "en": "We packed ninety-six boxes for shipping.",
+        "pt-BR": "Nós embalamos noventa e seis caixas para envio.",
+        "es-ES": "Empacamos noventa y seis cajas para el envío.",
+        "fr-FR": "Nous avons emballé quatre-vingt-seize cartons pour l'expédition."
+      }
+    },
+    {
+      "terms": {
+        "en": "One hundred",
+        "pt-BR": "cem",
+        "es-ES": "cien",
+        "fr-FR": "cent"
+      },
+      "sample_sentences": {
+        "en": "One hundred people joined the event.",
+        "pt-BR": "Cem pessoas participaram do evento.",
+        "es-ES": "Cien personas participaron en el evento.",
+        "fr-FR": "Cent personnes ont participé à l'événement."
+      }
+    }
+  ]
+}

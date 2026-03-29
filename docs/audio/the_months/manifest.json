@@ -1,0 +1,449 @@
+{
+  "lesson_id": "the_months",
+  "title": "The Months",
+  "titles": {
+    "en": "The Months",
+    "pt": "Os Meses",
+    "es": "Los Meses",
+    "fr": "Les Mois"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/the_months.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "The Months",
+      "pt": "Os Meses",
+      "es": "Los Meses",
+      "fr": "Les Mois"
+    },
+    "sample_sentences": {
+      "en": "Let's study the months.",
+      "pt-BR": "Vamos estudar os meses.",
+      "es-ES": "Vamos a estudiar los meses.",
+      "fr-FR": "Étudions les mois.",
+      "en-US": "Let's study the months.",
+      "en-GB": "Let's study the months."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "January",
+        "pt-BR": "janeiro",
+        "es-ES": "enero",
+        "fr-FR": "janvier",
+        "en-US": "January",
+        "en-GB": "January"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "January is often very cold.",
+        "pt-BR": "Janeiro costuma ser muito quente no Brasil.",
+        "es-ES": "Enero suele ser muy frío.",
+        "fr-FR": "Janvier est souvent très froid.",
+        "en-US": "January is often very cold.",
+        "en-GB": "January is often very cold."
+      }
+    },
+    {
+      "terms": {
+        "en": "February",
+        "pt-BR": "fevereiro",
+        "es-ES": "febrero",
+        "fr-FR": "février",
+        "en-US": "February",
+        "en-GB": "February"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "February is the shortest month.",
+        "pt-BR": "Fevereiro é o mês mais curto.",
+        "es-ES": "Febrero es el mes más corto.",
+        "fr-FR": "Février est le mois le plus court.",
+        "en-US": "February is the shortest month.",
+        "en-GB": "February is the shortest month."
+      }
+    },
+    {
+      "terms": {
+        "en": "March",
+        "pt-BR": "março",
+        "es-ES": "marzo",
+        "fr-FR": "mars",
+        "en-US": "March",
+        "en-GB": "March"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Flowers begin to appear in March.",
+        "pt-BR": "As flores começam a aparecer em março.",
+        "es-ES": "Las flores empiezan a aparecer en marzo.",
+        "fr-FR": "Les fleurs commencent à apparaître en mars.",
+        "en-US": "Flowers begin to appear in March.",
+        "en-GB": "Flowers begin to appear in March."
+      }
+    },
+    {
+      "terms": {
+        "en": "April",
+        "pt-BR": "abril",
+        "es-ES": "abril",
+        "fr-FR": "avril",
+        "en-US": "April",
+        "en-GB": "April"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "April brings a lot of rain here.",
+        "pt-BR": "Abril traz muita chuva aqui.",
+        "es-ES": "Abril trae mucha lluvia aquí.",
+        "fr-FR": "Avril apporte beaucoup de pluie ici.",
+        "en-US": "April brings a lot of rain here.",
+        "en-GB": "April brings a lot of rain here."
+      }
+    },
+    {
+      "terms": {
+        "en": "May",
+        "pt-BR": "maio",
+        "es-ES": "mayo",
+        "fr-FR": "mai",
+        "en-US": "May",
+        "en-GB": "May"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We travel in May when the weather is mild.",
+        "pt-BR": "Nós viajamos em maio quando o clima está ameno.",
+        "es-ES": "Viajamos en mayo cuando el clima es suave.",
+        "fr-FR": "Nous voyageons en mai quand le temps est doux.",
+        "en-US": "We travel in May when the weather is mild.",
+        "en-GB": "We travel in May when the weather is mild."
+      }
+    },
+    {
+      "terms": {
+        "en": "June",
+        "pt-BR": "junho",
+        "es-ES": "junio",
+        "fr-FR": "juin",
+        "en-US": "June",
+        "en-GB": "June"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "School ends in June.",
+        "pt-BR": "A escola termina em junho.",
+        "es-ES": "La escuela termina en junio.",
+        "fr-FR": "L'école se termine en juin.",
+        "en-US": "School ends in June.",
+        "en-GB": "School ends in June."
+      }
+    },
+    {
+      "terms": {
+        "en": "July",
+        "pt-BR": "julho",
+        "es-ES": "julio",
+        "fr-FR": "juillet",
+        "en-US": "July",
+        "en-GB": "July"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "July is perfect for beach trips.",
+        "pt-BR": "Julho é perfeito para ir à praia.",
+        "es-ES": "Julio es perfecto para ir a la playa.",
+        "fr-FR": "Juillet est parfait pour aller à la plage.",
+        "en-US": "July is perfect for beach trips.",
+        "en-GB": "July is perfect for beach trips."
+      }
+    },
+    {
+      "terms": {
+        "en": "August",
+        "pt-BR": "agosto",
+        "es-ES": "agosto",
+        "fr-FR": "août",
+        "en-US": "August",
+        "en-GB": "August"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "Many people take vacation in August.",
+        "pt-BR": "Muitas pessoas tiram férias em agosto.",
+        "es-ES": "Mucha gente se va de vacaciones en agosto.",
+        "fr-FR": "Beaucoup de gens partent en vacances en août.",
+        "en-US": "Many people take vacation in August.",
+        "en-GB": "Many people take vacation in August."
+      }
+    },
+    {
+      "terms": {
+        "en": "September",
+        "pt-BR": "setembro",
+        "es-ES": "septiembre",
+        "fr-FR": "septembre",
+        "en-US": "September",
+        "en-GB": "September"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The leaves begin to change in September.",
+        "pt-BR": "As folhas começam a mudar em setembro.",
+        "es-ES": "Las hojas empiezan a cambiar en septiembre.",
+        "fr-FR": "Les feuilles commencent à changer en septembre.",
+        "en-US": "The leaves begin to change in September.",
+        "en-GB": "The leaves begin to change in September."
+      }
+    },
+    {
+      "terms": {
+        "en": "October",
+        "pt-BR": "outubro",
+        "es-ES": "octubre",
+        "fr-FR": "octobre",
+        "en-US": "October",
+        "en-GB": "October"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "October evenings feel cool and quiet.",
+        "pt-BR": "As noites de outubro são frescas e tranquilas.",
+        "es-ES": "Las noches de octubre son frescas y tranquilas.",
+        "fr-FR": "Les soirées d'octobre sont fraîches et calmes.",
+        "en-US": "October evenings feel cool and quiet.",
+        "en-GB": "October evenings feel cool and quiet."
+      }
+    },
+    {
+      "terms": {
+        "en": "November",
+        "pt-BR": "novembro",
+        "es-ES": "noviembre",
+        "fr-FR": "novembre",
+        "en-US": "November",
+        "en-GB": "November"
+      },
+      "word_audio": {
+        "en-US": "words/011_en_US.opus",
+        "en-GB": "words/011_en_GB.opus",
+        "pt-BR": "words/011_pt_BR.opus",
+        "es-ES": "words/011_es_ES.opus",
+        "fr-FR": "words/011_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/011_en_US.opus",
+        "en-GB": "sentences/011_en_GB.opus",
+        "pt-BR": "sentences/011_pt_BR.opus",
+        "es-ES": "sentences/011_es_ES.opus",
+        "fr-FR": "sentences/011_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "November days get shorter quickly.",
+        "pt-BR": "Os dias de novembro ficam mais curtos rapidamente.",
+        "es-ES": "Los días de noviembre se acortan rápidamente.",
+        "fr-FR": "Les journées de novembre raccourcissent vite.",
+        "en-US": "November days get shorter quickly.",
+        "en-GB": "November days get shorter quickly."
+      }
+    },
+    {
+      "terms": {
+        "en": "December",
+        "pt-BR": "dezembro",
+        "es-ES": "diciembre",
+        "fr-FR": "décembre",
+        "en-US": "December",
+        "en-GB": "December"
+      },
+      "word_audio": {
+        "en-US": "words/012_en_US.opus",
+        "en-GB": "words/012_en_GB.opus",
+        "pt-BR": "words/012_pt_BR.opus",
+        "es-ES": "words/012_es_ES.opus",
+        "fr-FR": "words/012_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/012_en_US.opus",
+        "en-GB": "sentences/012_en_GB.opus",
+        "pt-BR": "sentences/012_pt_BR.opus",
+        "es-ES": "sentences/012_es_ES.opus",
+        "fr-FR": "sentences/012_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "December is full of celebrations.",
+        "pt-BR": "Dezembro é cheio de comemorações.",
+        "es-ES": "Diciembre está lleno de celebraciones.",
+        "fr-FR": "Décembre est plein de célébrations.",
+        "en-US": "December is full of celebrations.",
+        "en-GB": "December is full of celebrations."
+      }
+    }
+  ]
+}

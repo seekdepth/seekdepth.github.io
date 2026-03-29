@@ -1,0 +1,385 @@
+{
+  "lesson_id": "the_countryside",
+  "title": "The Countryside",
+  "titles": {
+    "en": "The Countryside",
+    "pt": "O Campo",
+    "es": "El Campo",
+    "fr": "La Campagne"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/the_countryside.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "The Countryside",
+      "pt": "O Campo",
+      "es": "El Campo",
+      "fr": "La Campagne"
+    },
+    "sample_sentences": {
+      "en": "Let's study the countryside.",
+      "pt-BR": "Vamos estudar o campo.",
+      "es-ES": "Vamos a estudiar el campo.",
+      "fr-FR": "Étudions la campagne.",
+      "en-US": "Let's study the countryside.",
+      "en-GB": "Let's study the countryside."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "Farm",
+        "pt-BR": "fazenda",
+        "es-ES": "granja",
+        "fr-FR": "ferme",
+        "en-US": "Farm",
+        "en-GB": "Farm"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The farm grows vegetables all year.",
+        "pt-BR": "A fazenda cultiva legumes o ano inteiro.",
+        "es-ES": "La granja cultiva verduras todo el año.",
+        "fr-FR": "La ferme cultive des légumes toute l'année.",
+        "en-US": "The farm grows vegetables all year.",
+        "en-GB": "The farm grows vegetables all year."
+      }
+    },
+    {
+      "terms": {
+        "en": "Field",
+        "pt-BR": "campo",
+        "es-ES": "campo",
+        "fr-FR": "champ",
+        "en-US": "Field",
+        "en-GB": "Field"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The cows are grazing in the field.",
+        "pt-BR": "As vacas estão pastando no campo.",
+        "es-ES": "Las vacas están pastando en el campo.",
+        "fr-FR": "Les vaches broutent dans le champ.",
+        "en-US": "The cows are grazing in the field.",
+        "en-GB": "The cows are grazing in the field."
+      }
+    },
+    {
+      "terms": {
+        "en": "Barn",
+        "pt-BR": "celeiro",
+        "es-ES": "granero",
+        "fr-FR": "grange",
+        "en-US": "Barn",
+        "en-GB": "Barn"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The tools are stored in the barn.",
+        "pt-BR": "As ferramentas ficam guardadas no celeiro.",
+        "es-ES": "Las herramientas se guardan en el granero.",
+        "fr-FR": "Les outils sont rangés dans la grange.",
+        "en-US": "The tools are stored in the barn.",
+        "en-GB": "The tools are stored in the barn."
+      }
+    },
+    {
+      "terms": {
+        "en": "River",
+        "pt-BR": "rio",
+        "es-ES": "río",
+        "fr-FR": "rivière",
+        "en-US": "River",
+        "en-GB": "River"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The river runs behind the house.",
+        "pt-BR": "O rio passa atrás da casa.",
+        "es-ES": "El río pasa detrás de la casa.",
+        "fr-FR": "La rivière passe derrière la maison.",
+        "en-US": "The river runs behind the house.",
+        "en-GB": "The river runs behind the house."
+      }
+    },
+    {
+      "terms": {
+        "en": "Hill",
+        "pt-BR": "colina",
+        "es-ES": "colina",
+        "fr-FR": "colline",
+        "en-US": "Hill",
+        "en-GB": "Hill"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You can see the village from the hill.",
+        "pt-BR": "Você pode ver a vila da colina.",
+        "es-ES": "Se puede ver el pueblo desde la colina.",
+        "fr-FR": "On peut voir le village depuis la colline.",
+        "en-US": "You can see the village from the hill.",
+        "en-GB": "You can see the village from the hill."
+      }
+    },
+    {
+      "terms": {
+        "en": "Forest",
+        "pt-BR": "floresta",
+        "es-ES": "bosque",
+        "fr-FR": "forêt",
+        "en-US": "Forest",
+        "en-GB": "Forest"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We walked through the forest at sunset.",
+        "pt-BR": "Nós caminhamos pela floresta ao pôr do sol.",
+        "es-ES": "Caminamos por el bosque al atardecer.",
+        "fr-FR": "Nous avons marché dans la forêt au coucher du soleil.",
+        "en-US": "We walked through the forest at sunset.",
+        "en-GB": "We walked through the forest at sunset."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tractor",
+        "pt-BR": "trator",
+        "es-ES": "tractor",
+        "fr-FR": "tracteur",
+        "en-US": "Tractor",
+        "en-GB": "Tractor"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The tractor is working in the corn field.",
+        "pt-BR": "O trator está trabalhando no milharal.",
+        "es-ES": "El tractor está trabajando en el campo de maíz.",
+        "fr-FR": "Le tracteur travaille dans le champ de maïs.",
+        "en-US": "The tractor is working in the corn field.",
+        "en-GB": "The tractor is working in the corn field."
+      }
+    },
+    {
+      "terms": {
+        "en": "Fence",
+        "pt-BR": "cerca",
+        "es-ES": "cerca",
+        "fr-FR": "clôture",
+        "en-US": "Fence",
+        "en-GB": "Fence"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The fence keeps the animals safe.",
+        "pt-BR": "A cerca mantém os animais seguros.",
+        "es-ES": "La cerca mantiene seguros a los animales.",
+        "fr-FR": "La clôture protège les animaux.",
+        "en-US": "The fence keeps the animals safe.",
+        "en-GB": "The fence keeps the animals safe."
+      }
+    },
+    {
+      "terms": {
+        "en": "Village",
+        "pt-BR": "vila",
+        "es-ES": "pueblo",
+        "fr-FR": "village",
+        "en-US": "Village",
+        "en-GB": "Village"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The village is quiet at night.",
+        "pt-BR": "A vila fica tranquila à noite.",
+        "es-ES": "El pueblo está tranquilo por la noche.",
+        "fr-FR": "Le village est calme la nuit.",
+        "en-US": "The village is quiet at night.",
+        "en-GB": "The village is quiet at night."
+      }
+    },
+    {
+      "terms": {
+        "en": "Path",
+        "pt-BR": "trilha",
+        "es-ES": "sendero",
+        "fr-FR": "sentier",
+        "en-US": "Path",
+        "en-GB": "Path"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The path leads to the old farmhouse.",
+        "pt-BR": "A trilha leva até a antiga casa da fazenda.",
+        "es-ES": "El sendero lleva hasta la antigua casa de campo.",
+        "fr-FR": "Le sentier mène à la vieille ferme.",
+        "en-US": "The path leads to the old farmhouse.",
+        "en-GB": "The path leads to the old farmhouse."
+      }
+    }
+  ]
+}

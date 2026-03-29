@@ -1,0 +1,166 @@
+{
+  "lesson_id": "fine_dining",
+  "title": "Fine Dining",
+  "titles": {
+    "en": "Fine Dining",
+    "pt": "Alta Gastronomia",
+    "es": "Alta Cocina",
+    "fr": "Gastronomie"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study fine dining.",
+    "pt-BR": "Vamos estudar alta gastronomia.",
+    "es-ES": "Vamos a estudiar la alta cocina.",
+    "fr-FR": "Étudions la gastronomie."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Reservation",
+        "pt-BR": "reserva",
+        "es-ES": "reserva",
+        "fr-FR": "réservation"
+      },
+      "sample_sentences": {
+        "en": "We made a reservation for eight o'clock.",
+        "pt-BR": "Nós fizemos uma reserva para as oito horas.",
+        "es-ES": "Hicimos una reserva para las ocho.",
+        "fr-FR": "Nous avons fait une réservation pour huit heures."
+      }
+    },
+    {
+      "terms": {
+        "en": "Menu",
+        "pt-BR": "cardápio",
+        "es-ES": "menú",
+        "fr-FR": "menu"
+      },
+      "sample_sentences": {
+        "en": "The menu changes with the season.",
+        "pt-BR": "O cardápio muda conforme a estação.",
+        "es-ES": "El menú cambia según la temporada.",
+        "fr-FR": "Le menu change selon la saison."
+      }
+    },
+    {
+      "terms": {
+        "en": "Appetizer",
+        "pt-BR": "entrada",
+        "es-ES": "entrante",
+        "fr-FR": "entrée"
+      },
+      "sample_sentences": {
+        "en": "The appetizer was elegant and light.",
+        "pt-BR": "A entrada estava elegante e leve.",
+        "es-ES": "El entrante era elegante y ligero.",
+        "fr-FR": "L'entrée était élégante et légère."
+      }
+    },
+    {
+      "terms": {
+        "en": "Main course",
+        "pt-BR": "prato principal",
+        "es-ES": "plato principal",
+        "fr-FR": "plat principal"
+      },
+      "sample_sentences": {
+        "en": "The main course arrived beautifully plated.",
+        "pt-BR": "O prato principal chegou muito bem apresentado.",
+        "es-ES": "El plato principal llegó muy bien presentado.",
+        "fr-FR": "Le plat principal est arrivé joliment dressé."
+      }
+    },
+    {
+      "terms": {
+        "en": "Dessert",
+        "pt-BR": "sobremesa",
+        "es-ES": "postre",
+        "fr-FR": "dessert"
+      },
+      "sample_sentences": {
+        "en": "We shared dessert at the end of the meal.",
+        "pt-BR": "Nós dividimos a sobremesa no fim da refeição.",
+        "es-ES": "Compartimos el postre al final de la comida.",
+        "fr-FR": "Nous avons partagé le dessert à la fin du repas."
+      }
+    },
+    {
+      "terms": {
+        "en": "Wine list",
+        "pt-BR": "carta de vinhos",
+        "es-ES": "carta de vinos",
+        "fr-FR": "carte des vins"
+      },
+      "sample_sentences": {
+        "en": "The waiter brought the wine list first.",
+        "pt-BR": "O garçom trouxe a carta de vinhos primeiro.",
+        "es-ES": "El camarero trajo primero la carta de vinos.",
+        "fr-FR": "Le serveur a apporté la carte des vins d'abord."
+      }
+    },
+    {
+      "terms": {
+        "en": "Waiter",
+        "pt-BR": "garçom",
+        "es-ES": "camarero",
+        "fr-FR": "serveur"
+      },
+      "sample_sentences": {
+        "en": "The waiter explained each dish carefully.",
+        "pt-BR": "O garçom explicou cada prato com cuidado.",
+        "es-ES": "El camarero explicó cada plato con cuidado.",
+        "fr-FR": "Le serveur a expliqué chaque plat avec soin."
+      }
+    },
+    {
+      "terms": {
+        "en": "Chef",
+        "pt-BR": "chef",
+        "es-ES": "chef",
+        "fr-FR": "chef"
+      },
+      "sample_sentences": {
+        "en": "The chef created a special tasting menu.",
+        "pt-BR": "O chef criou um menu degustação especial.",
+        "es-ES": "El chef creó un menú degustación especial.",
+        "fr-FR": "Le chef a créé un menu dégustation spécial."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tablecloth",
+        "pt-BR": "toalha de mesa",
+        "es-ES": "mantel",
+        "fr-FR": "nappe"
+      },
+      "sample_sentences": {
+        "en": "The white tablecloth looked immaculate.",
+        "pt-BR": "A toalha de mesa branca parecia impecável.",
+        "es-ES": "El mantel blanco parecía impecable.",
+        "fr-FR": "La nappe blanche semblait impeccable."
+      }
+    },
+    {
+      "terms": {
+        "en": "Bill",
+        "pt-BR": "conta",
+        "es-ES": "cuenta",
+        "fr-FR": "addition"
+      },
+      "sample_sentences": {
+        "en": "Could we have the bill, please?",
+        "pt-BR": "Poderia trazer a conta, por favor?",
+        "es-ES": "¿Podría traernos la cuenta, por favor?",
+        "fr-FR": "Pourrions-nous avoir l'addition, s'il vous plaît ?"
+      }
+    }
+  ]
+}
