@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "Beach",
+        "en": "beach",
         "pt-BR": "praia",
         "es-ES": "playa",
         "fr-FR": "plage"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Sun",
+        "en": "sun",
         "pt-BR": "sol",
         "es-ES": "sol",
         "fr-FR": "soleil"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Sea",
+        "en": "sea",
         "pt-BR": "mar",
         "es-ES": "mar",
         "fr-FR": "mer"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "Waves",
+        "en": "waves",
         "pt-BR": "ondas",
         "es-ES": "olas",
         "fr-FR": "vagues"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Sand",
+        "en": "sand",
         "pt-BR": "areia",
         "es-ES": "arena",
         "fr-FR": "sable"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "Swimsuit",
+        "en": "swimsuit",
         "pt-BR": "maiô",
         "es-ES": "bañador",
         "fr-FR": "maillot de bain"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Sunscreen",
+        "en": "sunscreen",
         "pt-BR": "protetor solar",
         "es-ES": "protector solar",
         "fr-FR": "crème solaire"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Boat",
+        "en": "boat",
         "pt-BR": "barco",
         "es-ES": "barco",
         "fr-FR": "bateau"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "Shell",
+        "en": "shell",
         "pt-BR": "concha",
         "es-ES": "concha",
         "fr-FR": "coquillage"
@@ -150,7 +150,7 @@
     },
     {
       "terms": {
-        "en": "Towel",
+        "en": "towel",
         "pt-BR": "toalha",
         "es-ES": "toalla",
         "fr-FR": "serviette"

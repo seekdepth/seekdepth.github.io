@@ -8,7 +8,7 @@
     "fr": "Couleurs"
   },
   "audience": "US English speaker",
-  "source_lesson": "/Users/jarad/git/simple_lang/seekdepth.github.io/lessons/colors.json",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/colors.json",
   "languages": [
     "en-US",
     "en-GB",
@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "Red",
+        "en": "red",
         "pt-BR": "vermelho",
         "es-ES": "rojo",
         "fr-FR": "rouge",
-        "en-US": "Red",
-        "en-GB": "Red"
+        "en-US": "red",
+        "en-GB": "red"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Blue",
+        "en": "blue",
         "pt-BR": "azul",
         "es-ES": "azul",
         "fr-FR": "bleu",
-        "en-US": "Blue",
-        "en-GB": "Blue"
+        "en-US": "blue",
+        "en-GB": "blue"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Yellow",
+        "en": "yellow",
         "pt-BR": "amarelo",
         "es-ES": "amarillo",
         "fr-FR": "jaune",
-        "en-US": "Yellow",
-        "en-GB": "Yellow"
+        "en-US": "yellow",
+        "en-GB": "yellow"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "Green",
+        "en": "green",
         "pt-BR": "verde",
         "es-ES": "verde",
         "fr-FR": "vert",
-        "en-US": "Green",
-        "en-GB": "Green"
+        "en-US": "green",
+        "en-GB": "green"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Black",
+        "en": "black",
         "pt-BR": "preto",
         "es-ES": "negro",
         "fr-FR": "noir",
-        "en-US": "Black",
-        "en-GB": "Black"
+        "en-US": "black",
+        "en-GB": "black"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "White",
+        "en": "white",
         "pt-BR": "branco",
         "es-ES": "blanco",
         "fr-FR": "blanc",
-        "en-US": "White",
-        "en-GB": "White"
+        "en-US": "white",
+        "en-GB": "white"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Orange",
+        "en": "orange",
         "pt-BR": "laranja",
         "es-ES": "naranja",
         "fr-FR": "orange",
-        "en-US": "Orange",
-        "en-GB": "Orange"
+        "en-US": "orange",
+        "en-GB": "orange"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Purple",
+        "en": "purple",
         "pt-BR": "roxo",
         "es-ES": "morado",
         "fr-FR": "violet",
-        "en-US": "Purple",
-        "en-GB": "Purple"
+        "en-US": "purple",
+        "en-GB": "purple"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "Pink",
+        "en": "pink",
         "pt-BR": "rosa",
         "es-ES": "rosa",
         "fr-FR": "rose",
-        "en-US": "Pink",
-        "en-GB": "Pink"
+        "en-US": "pink",
+        "en-GB": "pink"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",
@@ -351,12 +351,12 @@
     },
     {
       "terms": {
-        "en": "Brown",
+        "en": "brown",
         "pt-BR": "marrom",
         "es-ES": "marrón",
         "fr-FR": "marron",
-        "en-US": "Brown",
-        "en-GB": "Brown"
+        "en-US": "brown",
+        "en-GB": "brown"
       },
       "word_audio": {
         "en-US": "words/010_en_US.opus",
@@ -383,12 +383,12 @@
     },
     {
       "terms": {
-        "en": "Gray",
+        "en": "gray",
         "pt-BR": "cinza",
         "es-ES": "gris",
         "fr-FR": "gris",
-        "en-US": "Gray",
-        "en-GB": "Gray"
+        "en-US": "gray",
+        "en-GB": "gray"
       },
       "word_audio": {
         "en-US": "words/011_en_US.opus",
@@ -415,12 +415,12 @@
     },
     {
       "terms": {
-        "en": "Light",
+        "en": "light",
         "pt-BR": "claro",
         "es-ES": "claro",
         "fr-FR": "clair",
-        "en-US": "Light",
-        "en-GB": "Light"
+        "en-US": "light",
+        "en-GB": "light"
       },
       "word_audio": {
         "en-US": "words/012_en_US.opus",
@@ -447,12 +447,12 @@
     },
     {
       "terms": {
-        "en": "Dark",
+        "en": "dark",
         "pt-BR": "escuro",
         "es-ES": "oscuro",
         "fr-FR": "foncé",
-        "en-US": "Dark",
-        "en-GB": "Dark"
+        "en-US": "dark",
+        "en-GB": "dark"
       },
       "word_audio": {
         "en-US": "words/013_en_US.opus",
@@ -479,12 +479,12 @@
     },
     {
       "terms": {
-        "en": "Bright",
+        "en": "bright",
         "pt-BR": "brilhante",
         "es-ES": "brillante",
         "fr-FR": "vif",
-        "en-US": "Bright",
-        "en-GB": "Bright"
+        "en-US": "bright",
+        "en-GB": "bright"
       },
       "word_audio": {
         "en-US": "words/014_en_US.opus",

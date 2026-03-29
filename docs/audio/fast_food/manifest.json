@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "Burger",
+        "en": "burger",
         "pt-BR": "hambúrguer",
         "es-ES": "hamburguesa",
         "fr-FR": "burger",
-        "en-US": "Burger",
-        "en-GB": "Burger"
+        "en-US": "burger",
+        "en-GB": "burger"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Fries",
+        "en": "fries",
         "pt-BR": "batatas fritas",
         "es-ES": "patatas fritas",
         "fr-FR": "frites",
-        "en-US": "Fries",
-        "en-GB": "Fries"
+        "en-US": "fries",
+        "en-GB": "fries"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Soda",
+        "en": "soda",
         "pt-BR": "refrigerante",
         "es-ES": "refresco",
         "fr-FR": "soda",
-        "en-US": "Soda",
-        "en-GB": "Soda"
+        "en-US": "soda",
+        "en-GB": "soda"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "Combo meal",
+        "en": "combo meal",
         "pt-BR": "combo",
         "es-ES": "menú combinado",
         "fr-FR": "menu combo",
-        "en-US": "Combo meal",
-        "en-GB": "Combo meal"
+        "en-US": "combo meal",
+        "en-GB": "combo meal"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Drive-thru",
+        "en": "drive-thru",
         "pt-BR": "drive-thru",
         "es-ES": "autoservicio",
         "fr-FR": "drive",
-        "en-US": "Drive-thru",
-        "en-GB": "Drive-thru"
+        "en-US": "drive-thru",
+        "en-GB": "drive-thru"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "Chicken nuggets",
+        "en": "chicken nuggets",
         "pt-BR": "nuggets de frango",
         "es-ES": "nuggets de pollo",
         "fr-FR": "nuggets de poulet",
-        "en-US": "Chicken nuggets",
-        "en-GB": "Chicken nuggets"
+        "en-US": "chicken nuggets",
+        "en-GB": "chicken nuggets"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Ketchup",
+        "en": "ketchup",
         "pt-BR": "ketchup",
         "es-ES": "kétchup",
         "fr-FR": "ketchup",
-        "en-US": "Ketchup",
-        "en-GB": "Ketchup"
+        "en-US": "ketchup",
+        "en-GB": "ketchup"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Milkshake",
+        "en": "milkshake",
         "pt-BR": "milk-shake",
         "es-ES": "batido",
         "fr-FR": "milk-shake",
-        "en-US": "Milkshake",
-        "en-GB": "Milkshake"
+        "en-US": "milkshake",
+        "en-GB": "milkshake"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "Tray",
+        "en": "tray",
         "pt-BR": "bandeja",
         "es-ES": "bandeja",
         "fr-FR": "plateau",
-        "en-US": "Tray",
-        "en-GB": "Tray"
+        "en-US": "tray",
+        "en-GB": "tray"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",
@@ -351,12 +351,12 @@
     },
     {
       "terms": {
-        "en": "Receipt",
+        "en": "receipt",
         "pt-BR": "recibo",
         "es-ES": "recibo",
         "fr-FR": "ticket",
-        "en-US": "Receipt",
-        "en-GB": "Receipt"
+        "en-US": "receipt",
+        "en-GB": "receipt"
       },
       "word_audio": {
         "en-US": "words/010_en_US.opus",

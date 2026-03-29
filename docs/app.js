@@ -209,9 +209,10 @@ const TRANSLATIONS = {
     quizScore: "You scored {score} out of {total} ({percent}%).",
     quizCorrect: "Correct.",
     quizIncorrect: "Incorrect. Correct answer: {answer}.",
+    quizPerfectFeedback: "Perfect score. Excellent work.",
+    quizEncouragement: "Nice effort. Try again and aim for 100%.",
     readyQuiz: "Ready to start quiz",
     readyQuizChoose: "Choose the matching answer",
-    quizPromptLabel: "Prompt",
     speed: "Speed",
     illustrations: "Illustrations",
     autoplay: "Autoplay",
@@ -278,9 +279,10 @@ const TRANSLATIONS = {
     quizScore: "Você acertou {score} de {total} ({percent}%).",
     quizCorrect: "Correto.",
     quizIncorrect: "Incorreto. Resposta correta: {answer}.",
+    quizPerfectFeedback: "Pontuação perfeita. Excelente trabalho.",
+    quizEncouragement: "Bom trabalho. Tente novamente e busque 100%.",
     readyQuiz: "Pronto para começar o quiz",
     readyQuizChoose: "Escolha a resposta correspondente",
-    quizPromptLabel: "Pergunta",
     speed: "Velocidade",
     illustrations: "Ilustrações",
     autoplay: "Reprodução automática",
@@ -347,9 +349,10 @@ const TRANSLATIONS = {
     quizScore: "Has acertado {score} de {total} ({percent}%).",
     quizCorrect: "Correcto.",
     quizIncorrect: "Incorrecto. Respuesta correcta: {answer}.",
+    quizPerfectFeedback: "Puntuación perfecta. Excelente trabajo.",
+    quizEncouragement: "Buen intento. Inténtalo de nuevo y busca el 100 %.",
     readyQuiz: "Listo para empezar el quiz",
     readyQuizChoose: "Elige la respuesta correspondiente",
-    quizPromptLabel: "Pregunta",
     speed: "Velocidad",
     illustrations: "Ilustraciones",
     autoplay: "Reproducción automática",
@@ -416,9 +419,10 @@ const TRANSLATIONS = {
     quizScore: "Vous avez obtenu {score} sur {total} ({percent}%).",
     quizCorrect: "Correct.",
     quizIncorrect: "Incorrect. Bonne réponse : {answer}.",
+    quizPerfectFeedback: "Score parfait. Excellent travail.",
+    quizEncouragement: "Bon effort. Réessayez et visez 100 %.",
     readyQuiz: "Prêt à commencer le quiz",
     readyQuizChoose: "Choisissez la bonne réponse",
-    quizPromptLabel: "Question",
     speed: "Vitesse",
     illustrations: "Illustrations",
     autoplay: "Lecture automatique",
@@ -482,6 +486,7 @@ const learningShell = document.querySelector("#learning-shell");
 const modeQuizButton = document.querySelector("#mode-quiz");
 const lessonView = document.querySelector("#lesson-view");
 const quizView = document.querySelector("#quiz-view");
+const quizBackdrop = document.querySelector("#quiz-backdrop");
 const lessonCard = document.querySelector(".lesson-card");
 
 const slideCounter = document.querySelector("#slide-counter");
@@ -510,17 +515,16 @@ const randomizeLabel = document.querySelector("#randomize-label");
 
 const quizCounter = document.querySelector("#quiz-counter");
 const quizStatus = document.querySelector("#quiz-status");
-const quizPromptLabel = document.querySelector("#quiz-prompt-label");
 const quizWord = document.querySelector("#quiz-word");
-const quizSpeakButton = document.querySelector("#quiz-speak-button");
 const quizOptions = document.querySelector("#quiz-options");
 const quizResult = document.querySelector("#quiz-result");
 const quizSummary = document.querySelector("#quiz-summary");
 const quizScoreHeading = document.querySelector("#quiz-score-heading");
 const quizScoreText = document.querySelector("#quiz-score-text");
+const quizFeedbackText = document.querySelector("#quiz-feedback-text");
 const quizHistory = document.querySelector("#quiz-history");
 const quizHistoryLabel = document.querySelector("#quiz-history-label");
-const quizStartButton = document.querySelector("#quiz-start-button");
+const quizProgressDots = document.querySelector("#quiz-progress-dots");
 const quizRestartButton = document.querySelector("#quiz-restart-button");
 const quizCloseButton = document.querySelector("#quiz-close-button");
 
@@ -555,11 +559,15 @@ let quizCurrentIndex = 0;
 let quizScore = 0;
 let quizAnswered = false;
 let quizHistoryItems = [];
+let quizAnswerStates = [];
+let shouldReturnToLessonsAfterQuizClose = false;
 let lessonProgress = {};
 let isProfileModalOpen = false;
 let slideRenderTimer = null;
 let isSettingsMenuOpen = false;
 let selectedLessonFilter = "all";
+let quizAudioToken = 0;
+const QUIZ_ADVANCE_DELAY_MS = 450;
 
 function normalizeLanguageCode(code) {
   if (code === "en") return "en-US";
@@ -785,6 +793,19 @@ function playAudioFile(src, playbackRate) {
   });
 }
 
+async function playQuizAudio(src) {
+  if (!src) return;
+  const token = ++quizAudioToken;
+  stopCurrentAudio();
+  try {
+    await playAudioFile(buildAudioUrl(src), getSpeedSetting().playbackRate);
+  } catch {
+    if (token === quizAudioToken) {
+      setQuizStatus(t("playbackFailedQuiz"));
+    }
+  }
+}
+
 function renderSpeedButtons() {
   for (const button of speedButtons) {
     const selected = button.dataset.speed === selectedSpeed;
@@ -814,6 +835,27 @@ function renderRandomizeButtons() {
     const selected = (button.dataset.randomize === "on") === randomizeEnabled;
     button.classList.toggle("is-selected", selected);
     button.setAttribute("aria-pressed", String(selected));
+  }
+}
+
+function renderQuizProgressDots() {
+  if (!quizProgressDots) return;
+  quizProgressDots.innerHTML = "";
+  for (let index = 0; index < quizQuestions.length; index += 1) {
+    const dot = document.createElement("span");
+    dot.className = "quiz-progress-dot";
+    const state = quizAnswerStates[index];
+    if (state === "correct") {
+      dot.classList.add("is-correct");
+      dot.textContent = "✓";
+    } else if (state === "wrong") {
+      dot.classList.add("is-wrong");
+      dot.textContent = "×";
+    } else {
+      dot.classList.add("is-pending");
+      dot.textContent = "";
+    }
+    quizProgressDots.append(dot);
   }
 }
 
@@ -1022,13 +1064,20 @@ function buildQuizQuestions() {
     const distractors = shuffle(
       eligibleSlides
         .filter((candidate) => resolveLocalizedValue(getItemTerms(candidate), secondary) !== resolveLocalizedValue(terms, secondary))
-        .map((candidate) => resolveLocalizedValue(getItemTerms(candidate), secondary))
+        .map((candidate) => ({
+          answer: resolveLocalizedValue(getItemTerms(candidate), secondary),
+          audio: resolveLocalizedValue(getItemWordAudio(candidate), secondary),
+        }))
     ).slice(0, QUIZ_OPTION_COUNT - 1);
+    const correctAnswer = resolveLocalizedValue(terms, secondary);
+    const correctAnswerAudio = resolveLocalizedValue(wordAudio, secondary);
+    const allOptions = shuffle([{ answer: correctAnswer, audio: correctAnswerAudio }, ...distractors]);
     return {
       prompt: resolveLocalizedValue(terms, primary),
-      correctAnswer: resolveLocalizedValue(terms, secondary),
+      correctAnswer,
       wordAudio: resolveLocalizedValue(wordAudio, primary),
-      options: shuffle([resolveLocalizedValue(terms, secondary), ...distractors]),
+      optionAudioByAnswer: Object.fromEntries(allOptions.map((option) => [option.answer, option.audio])),
+      options: allOptions.map((option) => option.answer),
     };
   });
 }
@@ -1038,7 +1087,9 @@ function renderQuizQuestion() {
   updateQuizCounter();
   quizResult.textContent = "";
   quizSummary.classList.add("is-hidden");
+  quizFeedbackText.textContent = "";
   quizOptions.setAttribute("aria-label", t("answerChoiceGroup"));
+  renderQuizProgressDots();
   if (!question) {
     quizWord.textContent = "-";
     quizOptions.innerHTML = "";
@@ -1048,24 +1099,49 @@ function renderQuizQuestion() {
   quizOptions.innerHTML = "";
   quizAnswered = false;
   for (const option of question.options) {
+    const optionRow = document.createElement("div");
+    optionRow.className = "quiz-option-row";
+
     const button = document.createElement("button");
     button.type = "button";
     button.className = "button quiz-option";
     button.textContent = option;
     button.addEventListener("click", () => handleQuizAnswer(option, button));
-    quizOptions.append(button);
+
+    const audioButton = document.createElement("button");
+    audioButton.type = "button";
+    audioButton.className = "quiz-option-audio";
+    audioButton.textContent = "🔊";
+    audioButton.setAttribute("aria-label", `${t("speakWord")}: ${option}`);
+    audioButton.setAttribute("title", `${t("speakWord")}: ${option}`);
+    audioButton.addEventListener("click", async (event) => {
+      event.stopPropagation();
+      if (quizAnswered) return;
+      await playQuizAudio(question.optionAudioByAnswer?.[option] ?? null);
+    });
+
+    optionRow.append(button, audioButton);
+    quizOptions.append(optionRow);
   }
+  window.setTimeout(() => {
+    const currentQuestion = getCurrentQuizQuestion();
+    if (currentQuestion === question && activeView === APP_VIEWS.quiz) {
+      void playQuizAudio(question.wordAudio);
+    }
+  }, 0);
 }
 
 function finishQuiz() {
   const total = quizQuestions.length;
   const percent = total ? Math.round((quizScore / total) * 100) : 0;
+  shouldReturnToLessonsAfterQuizClose = percent === 100;
   quizScoreHeading.textContent = t("quizComplete");
   quizScoreText.textContent = t("quizScore", {
     score: String(quizScore),
     total: String(total),
     percent: String(percent),
   });
+  quizFeedbackText.textContent = percent === 100 ? t("quizPerfectFeedback") : t("quizEncouragement");
   quizSummary.classList.remove("is-hidden");
   setQuizStatus(t("quizComplete"));
   quizHistoryItems.unshift({ score: quizScore, total, percent });
@@ -1075,14 +1151,17 @@ function finishQuiz() {
     updateLessonProgress(selectedLessonId, { mastered: true });
   }
   renderQuizHistory();
+  renderQuizProgressDots();
 }
 
-function handleQuizAnswer(selectedAnswer, selectedButton) {
+async function handleQuizAnswer(selectedAnswer, selectedButton) {
   if (quizAnswered) return;
   const question = getCurrentQuizQuestion();
   if (!question) return;
   quizAnswered = true;
   const isCorrect = selectedAnswer === question.correctAnswer;
+  quizAnswerStates[quizCurrentIndex] = isCorrect ? "correct" : "wrong";
+  renderQuizProgressDots();
   if (isCorrect) {
     quizScore += 1;
     quizResult.textContent = t("quizCorrect");
@@ -1094,15 +1173,18 @@ function handleQuizAnswer(selectedAnswer, selectedButton) {
     if (button.textContent === question.correctAnswer) button.classList.add("is-correct");
     else if (button === selectedButton && !isCorrect) button.classList.add("is-wrong");
   });
-  window.setTimeout(() => {
-    quizCurrentIndex += 1;
-    if (quizCurrentIndex >= quizQuestions.length) {
-      finishQuiz();
-      return;
-    }
-    setQuizStatus(t("readyQuizChoose"));
-    renderQuizQuestion();
-  }, 900);
+  quizOptions.querySelectorAll(".quiz-option-audio").forEach((button) => {
+    button.disabled = true;
+  });
+  await playQuizAudio(question.optionAudioByAnswer?.[selectedAnswer] ?? null);
+  await wait(QUIZ_ADVANCE_DELAY_MS);
+  quizCurrentIndex += 1;
+  if (quizCurrentIndex >= quizQuestions.length) {
+    finishQuiz();
+    return;
+  }
+  setQuizStatus(t("readyQuizChoose"));
+  renderQuizQuestion();
 }
 
 function updateButtons() {
@@ -1132,9 +1214,8 @@ function updateButtons() {
   for (const button of randomizeButtons) {
     button.disabled = !lessonActive || isPlaying;
   }
-  quizStartButton.disabled = !hasProfile || !lessonOpen || activeView !== APP_VIEWS.quiz || quizQuestions.length > 0;
   quizRestartButton.disabled = !hasProfile || !lessonOpen || activeView !== APP_VIEWS.quiz;
-  quizSpeakButton.disabled = !hasProfile || !lessonOpen || activeView !== APP_VIEWS.quiz || !getCurrentQuizQuestion();
+  quizWord.disabled = !hasProfile || !lessonOpen || activeView !== APP_VIEWS.quiz || !getCurrentQuizQuestion();
   renderPlayPauseButton();
 }
 
@@ -1307,12 +1388,9 @@ function applyUiText() {
   document.querySelector("#autoplay-off").textContent = t("off");
   document.querySelector("#randomize-on").textContent = t("on");
   document.querySelector("#randomize-off").textContent = t("off");
-  quizPromptLabel.textContent = t("quizPromptLabel");
-  quizSpeakButton.textContent = t("speakWord");
   quizHistoryLabel.textContent = t("recentScores");
   quizScoreHeading.textContent = t("quizComplete");
   quizRestartButton.textContent = t("tryAgain");
-  quizStartButton.textContent = t("startQuiz");
   renderAutoPlayButtons();
   renderSpeedButtons();
   renderIllustrationsButtons();
@@ -1339,6 +1417,7 @@ function renderAppStateVisibility() {
   if (hasProfile) {
     closeProfileModal();
   }
+  quizView.setAttribute("aria-hidden", String(activeView !== APP_VIEWS.quiz));
 }
 
 function setActiveProfile(profile) {
@@ -1405,6 +1484,7 @@ async function loadSelectedLesson(lessonId) {
   quizCurrentIndex = 0;
   quizScore = 0;
   quizAnswered = false;
+  quizAnswerStates = [];
   lessonOpen = true;
   loadQuizHistory();
   renderAppStateVisibility();
@@ -1422,6 +1502,7 @@ function returnToLessonsHome() {
   slides = [];
   currentIndex = 0;
   quizQuestions = [];
+  quizAnswerStates = [];
   renderAppStateVisibility();
   applyUiText();
   setStatus(t("waiting"));
@@ -1451,39 +1532,16 @@ async function togglePlayPause() {
 
 function startQuiz() {
   cancelPlayback();
+  stopCurrentAudio();
   quizQuestions = buildQuizQuestions();
   quizCurrentIndex = 0;
   quizScore = 0;
   quizAnswered = false;
+  quizAnswerStates = new Array(quizQuestions.length).fill(null);
+  shouldReturnToLessonsAfterQuizClose = false;
   setQuizStatus(t("readyQuizChoose"));
   renderQuizQuestion();
   updateButtons();
-}
-
-async function speakQuizWord() {
-  const question = getCurrentQuizQuestion();
-  if (!question) return;
-  cancelPlayback();
-  const token = playbackToken;
-  const speedSetting = getSpeedSetting();
-  if (!question.wordAudio) {
-    setStatus(t("readyShort", { speed: t(speedSetting.key) }));
-    return;
-  }
-  isPlaying = true;
-  updateButtons();
-  try {
-    await playAudioFile(buildAudioUrl(question.wordAudio), speedSetting.playbackRate);
-    if (token !== playbackToken) return;
-    setQuizStatus(t("readyQuizChoose"));
-  } catch {
-    setQuizStatus(t("playbackFailedQuiz"));
-  } finally {
-    if (token === playbackToken) {
-      isPlaying = false;
-      updateButtons();
-    }
-  }
 }
 
 async function playSinglePart(partKey) {
@@ -1585,12 +1643,28 @@ async function playCurrentSlide() {
 
 function switchView(nextView) {
   activeView = nextView;
-  lessonView.classList.toggle("is-hidden", nextView !== APP_VIEWS.lesson);
+  lessonView.classList.remove("is-hidden");
   quizView.classList.toggle("is-hidden", nextView !== APP_VIEWS.quiz);
+  quizView.setAttribute("aria-hidden", String(nextView !== APP_VIEWS.quiz));
   closeSettingsMenu();
-  if (nextView === APP_VIEWS.lesson) renderSlide();
-  else renderQuizQuestion();
+  if (nextView === APP_VIEWS.lesson) {
+    stopCurrentAudio();
+    renderSlide();
+  } else if (quizQuestions.length === 0) {
+    startQuiz();
+  } else {
+    renderQuizQuestion();
+  }
   updateButtons();
+}
+
+function closeQuizOverlay() {
+  if (shouldReturnToLessonsAfterQuizClose) {
+    shouldReturnToLessonsAfterQuizClose = false;
+    returnToLessonsHome();
+    return;
+  }
+  switchView(APP_VIEWS.lesson);
 }
 
 function createProfile() {
@@ -1708,10 +1782,14 @@ for (const button of lessonFilterButtons) {
   });
 }
 modeQuizButton.addEventListener("click", () => switchView(APP_VIEWS.quiz));
-quizCloseButton.addEventListener("click", () => switchView(APP_VIEWS.lesson));
-quizStartButton.addEventListener("click", () => startQuiz());
+quizCloseButton.addEventListener("click", () => closeQuizOverlay());
 quizRestartButton.addEventListener("click", () => startQuiz());
-quizSpeakButton.addEventListener("click", async () => speakQuizWord());
+quizWord.addEventListener("click", async () => {
+  const question = getCurrentQuizQuestion();
+  if (!question || activeView !== APP_VIEWS.quiz) return;
+  await playQuizAudio(question.wordAudio);
+});
+quizBackdrop?.addEventListener("click", () => closeQuizOverlay());
 
 for (const button of speedButtons) {
   button.addEventListener("click", () => {

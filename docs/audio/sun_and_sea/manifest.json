@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "Beach",
+        "en": "beach",
         "pt-BR": "praia",
         "es-ES": "playa",
         "fr-FR": "plage",
-        "en-US": "Beach",
-        "en-GB": "Beach"
+        "en-US": "beach",
+        "en-GB": "beach"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Sun",
+        "en": "sun",
         "pt-BR": "sol",
         "es-ES": "sol",
         "fr-FR": "soleil",
-        "en-US": "Sun",
-        "en-GB": "Sun"
+        "en-US": "sun",
+        "en-GB": "sun"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Sea",
+        "en": "sea",
         "pt-BR": "mar",
         "es-ES": "mar",
         "fr-FR": "mer",
-        "en-US": "Sea",
-        "en-GB": "Sea"
+        "en-US": "sea",
+        "en-GB": "sea"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "Waves",
+        "en": "waves",
         "pt-BR": "ondas",
         "es-ES": "olas",
         "fr-FR": "vagues",
-        "en-US": "Waves",
-        "en-GB": "Waves"
+        "en-US": "waves",
+        "en-GB": "waves"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Sand",
+        "en": "sand",
         "pt-BR": "areia",
         "es-ES": "arena",
         "fr-FR": "sable",
-        "en-US": "Sand",
-        "en-GB": "Sand"
+        "en-US": "sand",
+        "en-GB": "sand"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "Swimsuit",
+        "en": "swimsuit",
         "pt-BR": "maiô",
         "es-ES": "bañador",
         "fr-FR": "maillot de bain",
-        "en-US": "Swimsuit",
-        "en-GB": "Swimsuit"
+        "en-US": "swimsuit",
+        "en-GB": "swimsuit"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Sunscreen",
+        "en": "sunscreen",
         "pt-BR": "protetor solar",
         "es-ES": "protector solar",
         "fr-FR": "crème solaire",
-        "en-US": "Sunscreen",
-        "en-GB": "Sunscreen"
+        "en-US": "sunscreen",
+        "en-GB": "sunscreen"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Boat",
+        "en": "boat",
         "pt-BR": "barco",
         "es-ES": "barco",
         "fr-FR": "bateau",
-        "en-US": "Boat",
-        "en-GB": "Boat"
+        "en-US": "boat",
+        "en-GB": "boat"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "Shell",
+        "en": "shell",
         "pt-BR": "concha",
         "es-ES": "concha",
         "fr-FR": "coquillage",
-        "en-US": "Shell",
-        "en-GB": "Shell"
+        "en-US": "shell",
+        "en-GB": "shell"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",
@@ -351,12 +351,12 @@
     },
     {
       "terms": {
-        "en": "Towel",
+        "en": "towel",
         "pt-BR": "toalha",
         "es-ES": "toalla",
         "fr-FR": "serviette",
-        "en-US": "Towel",
-        "en-GB": "Towel"
+        "en-US": "towel",
+        "en-GB": "towel"
       },
       "word_audio": {
         "en-US": "words/010_en_US.opus",

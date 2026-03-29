@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "Farm",
+        "en": "farm",
         "pt-BR": "fazenda",
         "es-ES": "granja",
         "fr-FR": "ferme",
-        "en-US": "Farm",
-        "en-GB": "Farm"
+        "en-US": "farm",
+        "en-GB": "farm"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Field",
+        "en": "field",
         "pt-BR": "campo",
         "es-ES": "campo",
         "fr-FR": "champ",
-        "en-US": "Field",
-        "en-GB": "Field"
+        "en-US": "field",
+        "en-GB": "field"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Barn",
+        "en": "barn",
         "pt-BR": "celeiro",
         "es-ES": "granero",
         "fr-FR": "grange",
-        "en-US": "Barn",
-        "en-GB": "Barn"
+        "en-US": "barn",
+        "en-GB": "barn"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "River",
+        "en": "river",
         "pt-BR": "rio",
         "es-ES": "río",
         "fr-FR": "rivière",
-        "en-US": "River",
-        "en-GB": "River"
+        "en-US": "river",
+        "en-GB": "river"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Hill",
+        "en": "hill",
         "pt-BR": "colina",
         "es-ES": "colina",
         "fr-FR": "colline",
-        "en-US": "Hill",
-        "en-GB": "Hill"
+        "en-US": "hill",
+        "en-GB": "hill"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "Forest",
+        "en": "forest",
         "pt-BR": "floresta",
         "es-ES": "bosque",
         "fr-FR": "forêt",
-        "en-US": "Forest",
-        "en-GB": "Forest"
+        "en-US": "forest",
+        "en-GB": "forest"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Tractor",
+        "en": "tractor",
         "pt-BR": "trator",
         "es-ES": "tractor",
         "fr-FR": "tracteur",
-        "en-US": "Tractor",
-        "en-GB": "Tractor"
+        "en-US": "tractor",
+        "en-GB": "tractor"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Fence",
+        "en": "fence",
         "pt-BR": "cerca",
         "es-ES": "cerca",
         "fr-FR": "clôture",
-        "en-US": "Fence",
-        "en-GB": "Fence"
+        "en-US": "fence",
+        "en-GB": "fence"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "Village",
+        "en": "village",
         "pt-BR": "vila",
         "es-ES": "pueblo",
         "fr-FR": "village",
-        "en-US": "Village",
-        "en-GB": "Village"
+        "en-US": "village",
+        "en-GB": "village"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",
@@ -351,12 +351,12 @@
     },
     {
       "terms": {
-        "en": "Path",
+        "en": "path",
         "pt-BR": "trilha",
         "es-ES": "sendero",
         "fr-FR": "sentier",
-        "en-US": "Path",
-        "en-GB": "Path"
+        "en-US": "path",
+        "en-GB": "path"
       },
       "word_audio": {
         "en-US": "words/010_en_US.opus",

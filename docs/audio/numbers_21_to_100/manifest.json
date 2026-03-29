@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "Twenty-one",
+        "en": "twenty-one",
         "pt-BR": "vinte e um",
         "es-ES": "veintiuno",
         "fr-FR": "vingt et un",
-        "en-US": "Twenty-one",
-        "en-GB": "Twenty-one"
+        "en-US": "twenty-one",
+        "en-GB": "twenty-one"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Thirty-five",
+        "en": "thirty-five",
         "pt-BR": "trinta e cinco",
         "es-ES": "treinta y cinco",
         "fr-FR": "trente-cinq",
-        "en-US": "Thirty-five",
-        "en-GB": "Thirty-five"
+        "en-US": "thirty-five",
+        "en-GB": "thirty-five"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Forty-three",
+        "en": "forty-three",
         "pt-BR": "quarenta e três",
         "es-ES": "cuarenta y tres",
         "fr-FR": "quarante-trois",
-        "en-US": "Forty-three",
-        "en-GB": "Forty-three"
+        "en-US": "forty-three",
+        "en-GB": "forty-three"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "Fifty-nine",
+        "en": "fifty-nine",
         "pt-BR": "cinquenta e nove",
         "es-ES": "cincuenta y nueve",
         "fr-FR": "cinquante-neuf",
-        "en-US": "Fifty-nine",
-        "en-GB": "Fifty-nine"
+        "en-US": "fifty-nine",
+        "en-GB": "fifty-nine"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Sixty-two",
+        "en": "sixty-two",
         "pt-BR": "sessenta e dois",
         "es-ES": "sesenta y dos",
         "fr-FR": "soixante-deux",
-        "en-US": "Sixty-two",
-        "en-GB": "Sixty-two"
+        "en-US": "sixty-two",
+        "en-GB": "sixty-two"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "Seventy-seven",
+        "en": "seventy-seven",
         "pt-BR": "setenta e sete",
         "es-ES": "setenta y siete",
         "fr-FR": "soixante-dix-sept",
-        "en-US": "Seventy-seven",
-        "en-GB": "Seventy-seven"
+        "en-US": "seventy-seven",
+        "en-GB": "seventy-seven"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Eighty-four",
+        "en": "eighty-four",
         "pt-BR": "oitenta e quatro",
         "es-ES": "ochenta y cuatro",
         "fr-FR": "quatre-vingt-quatre",
-        "en-US": "Eighty-four",
-        "en-GB": "Eighty-four"
+        "en-US": "eighty-four",
+        "en-GB": "eighty-four"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Ninety-six",
+        "en": "ninety-six",
         "pt-BR": "noventa e seis",
         "es-ES": "noventa y seis",
         "fr-FR": "quatre-vingt-seize",
-        "en-US": "Ninety-six",
-        "en-GB": "Ninety-six"
+        "en-US": "ninety-six",
+        "en-GB": "ninety-six"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "One hundred",
+        "en": "one hundred",
         "pt-BR": "cem",
         "es-ES": "cien",
         "fr-FR": "cent",
-        "en-US": "One hundred",
-        "en-GB": "One hundred"
+        "en-US": "one hundred",
+        "en-GB": "one hundred"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",

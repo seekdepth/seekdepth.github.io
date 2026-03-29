@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "Farm",
+        "en": "farm",
         "pt-BR": "fazenda",
         "es-ES": "granja",
         "fr-FR": "ferme"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Field",
+        "en": "field",
         "pt-BR": "campo",
         "es-ES": "campo",
         "fr-FR": "champ"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Barn",
+        "en": "barn",
         "pt-BR": "celeiro",
         "es-ES": "granero",
         "fr-FR": "grange"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "River",
+        "en": "river",
         "pt-BR": "rio",
         "es-ES": "río",
         "fr-FR": "rivière"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Hill",
+        "en": "hill",
         "pt-BR": "colina",
         "es-ES": "colina",
         "fr-FR": "colline"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "Forest",
+        "en": "forest",
         "pt-BR": "floresta",
         "es-ES": "bosque",
         "fr-FR": "forêt"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Tractor",
+        "en": "tractor",
         "pt-BR": "trator",
         "es-ES": "tractor",
         "fr-FR": "tracteur"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Fence",
+        "en": "fence",
         "pt-BR": "cerca",
         "es-ES": "cerca",
         "fr-FR": "clôture"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "Village",
+        "en": "village",
         "pt-BR": "vila",
         "es-ES": "pueblo",
         "fr-FR": "village"
@@ -150,7 +150,7 @@
     },
     {
       "terms": {
-        "en": "Path",
+        "en": "path",
         "pt-BR": "trilha",
         "es-ES": "sendero",
         "fr-FR": "sentier"

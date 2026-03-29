@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "Reservation",
+        "en": "reservation",
         "pt-BR": "reserva",
         "es-ES": "reserva",
         "fr-FR": "réservation",
-        "en-US": "Reservation",
-        "en-GB": "Reservation"
+        "en-US": "reservation",
+        "en-GB": "reservation"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Menu",
+        "en": "menu",
         "pt-BR": "cardápio",
         "es-ES": "menú",
         "fr-FR": "menu",
-        "en-US": "Menu",
-        "en-GB": "Menu"
+        "en-US": "menu",
+        "en-GB": "menu"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Appetizer",
+        "en": "appetizer",
         "pt-BR": "entrada",
         "es-ES": "entrante",
         "fr-FR": "entrée",
-        "en-US": "Appetizer",
-        "en-GB": "Appetizer"
+        "en-US": "appetizer",
+        "en-GB": "appetizer"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "Main course",
+        "en": "main course",
         "pt-BR": "prato principal",
         "es-ES": "plato principal",
         "fr-FR": "plat principal",
-        "en-US": "Main course",
-        "en-GB": "Main course"
+        "en-US": "main course",
+        "en-GB": "main course"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Dessert",
+        "en": "dessert",
         "pt-BR": "sobremesa",
         "es-ES": "postre",
         "fr-FR": "dessert",
-        "en-US": "Dessert",
-        "en-GB": "Dessert"
+        "en-US": "dessert",
+        "en-GB": "dessert"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "Wine list",
+        "en": "wine list",
         "pt-BR": "carta de vinhos",
         "es-ES": "carta de vinos",
         "fr-FR": "carte des vins",
-        "en-US": "Wine list",
-        "en-GB": "Wine list"
+        "en-US": "wine list",
+        "en-GB": "wine list"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Waiter",
+        "en": "waiter",
         "pt-BR": "garçom",
         "es-ES": "camarero",
         "fr-FR": "serveur",
-        "en-US": "Waiter",
-        "en-GB": "Waiter"
+        "en-US": "waiter",
+        "en-GB": "waiter"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Chef",
+        "en": "chef",
         "pt-BR": "chef",
         "es-ES": "chef",
         "fr-FR": "chef",
-        "en-US": "Chef",
-        "en-GB": "Chef"
+        "en-US": "chef",
+        "en-GB": "chef"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "Tablecloth",
+        "en": "tablecloth",
         "pt-BR": "toalha de mesa",
         "es-ES": "mantel",
         "fr-FR": "nappe",
-        "en-US": "Tablecloth",
-        "en-GB": "Tablecloth"
+        "en-US": "tablecloth",
+        "en-GB": "tablecloth"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",
@@ -351,12 +351,12 @@
     },
     {
       "terms": {
-        "en": "Bill",
+        "en": "bill",
         "pt-BR": "conta",
         "es-ES": "cuenta",
         "fr-FR": "addition",
-        "en-US": "Bill",
-        "en-GB": "Bill"
+        "en-US": "bill",
+        "en-GB": "bill"
       },
       "word_audio": {
         "en-US": "words/010_en_US.opus",

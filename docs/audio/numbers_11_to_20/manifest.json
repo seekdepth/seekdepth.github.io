@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "Eleven",
+        "en": "eleven",
         "pt-BR": "onze",
         "es-ES": "once",
         "fr-FR": "onze",
-        "en-US": "Eleven",
-        "en-GB": "Eleven"
+        "en-US": "eleven",
+        "en-GB": "eleven"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Twelve",
+        "en": "twelve",
         "pt-BR": "doze",
         "es-ES": "doce",
         "fr-FR": "douze",
-        "en-US": "Twelve",
-        "en-GB": "Twelve"
+        "en-US": "twelve",
+        "en-GB": "twelve"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Thirteen",
+        "en": "thirteen",
         "pt-BR": "treze",
         "es-ES": "trece",
         "fr-FR": "treize",
-        "en-US": "Thirteen",
-        "en-GB": "Thirteen"
+        "en-US": "thirteen",
+        "en-GB": "thirteen"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "Fourteen",
+        "en": "fourteen",
         "pt-BR": "quatorze",
         "es-ES": "catorce",
         "fr-FR": "quatorze",
-        "en-US": "Fourteen",
-        "en-GB": "Fourteen"
+        "en-US": "fourteen",
+        "en-GB": "fourteen"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Fifteen",
+        "en": "fifteen",
         "pt-BR": "quinze",
         "es-ES": "quince",
         "fr-FR": "quinze",
-        "en-US": "Fifteen",
-        "en-GB": "Fifteen"
+        "en-US": "fifteen",
+        "en-GB": "fifteen"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "Sixteen",
+        "en": "sixteen",
         "pt-BR": "dezesseis",
         "es-ES": "dieciséis",
         "fr-FR": "seize",
-        "en-US": "Sixteen",
-        "en-GB": "Sixteen"
+        "en-US": "sixteen",
+        "en-GB": "sixteen"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Seventeen",
+        "en": "seventeen",
         "pt-BR": "dezessete",
         "es-ES": "diecisiete",
         "fr-FR": "dix-sept",
-        "en-US": "Seventeen",
-        "en-GB": "Seventeen"
+        "en-US": "seventeen",
+        "en-GB": "seventeen"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Eighteen",
+        "en": "eighteen",
         "pt-BR": "dezoito",
         "es-ES": "dieciocho",
         "fr-FR": "dix-huit",
-        "en-US": "Eighteen",
-        "en-GB": "Eighteen"
+        "en-US": "eighteen",
+        "en-GB": "eighteen"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "Nineteen",
+        "en": "nineteen",
         "pt-BR": "dezenove",
         "es-ES": "diecinueve",
         "fr-FR": "dix-neuf",
-        "en-US": "Nineteen",
-        "en-GB": "Nineteen"
+        "en-US": "nineteen",
+        "en-GB": "nineteen"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",
@@ -351,12 +351,12 @@
     },
     {
       "terms": {
-        "en": "Twenty",
+        "en": "twenty",
         "pt-BR": "vinte",
         "es-ES": "veinte",
         "fr-FR": "vingt",
-        "en-US": "Twenty",
-        "en-GB": "Twenty"
+        "en-US": "twenty",
+        "en-GB": "twenty"
       },
       "word_audio": {
         "en-US": "words/010_en_US.opus",

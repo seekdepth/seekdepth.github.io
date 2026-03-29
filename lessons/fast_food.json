@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "Burger",
+        "en": "burger",
         "pt-BR": "hambúrguer",
         "es-ES": "hamburguesa",
         "fr-FR": "burger"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Fries",
+        "en": "fries",
         "pt-BR": "batatas fritas",
         "es-ES": "patatas fritas",
         "fr-FR": "frites"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Soda",
+        "en": "soda",
         "pt-BR": "refrigerante",
         "es-ES": "refresco",
         "fr-FR": "soda"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "Combo meal",
+        "en": "combo meal",
         "pt-BR": "combo",
         "es-ES": "menú combinado",
         "fr-FR": "menu combo"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Drive-thru",
+        "en": "drive-thru",
         "pt-BR": "drive-thru",
         "es-ES": "autoservicio",
         "fr-FR": "drive"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "Chicken nuggets",
+        "en": "chicken nuggets",
         "pt-BR": "nuggets de frango",
         "es-ES": "nuggets de pollo",
         "fr-FR": "nuggets de poulet"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Ketchup",
+        "en": "ketchup",
         "pt-BR": "ketchup",
         "es-ES": "kétchup",
         "fr-FR": "ketchup"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Milkshake",
+        "en": "milkshake",
         "pt-BR": "milk-shake",
         "es-ES": "batido",
         "fr-FR": "milk-shake"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "Tray",
+        "en": "tray",
         "pt-BR": "bandeja",
         "es-ES": "bandeja",
         "fr-FR": "plateau"
@@ -150,7 +150,7 @@
     },
     {
       "terms": {
-        "en": "Receipt",
+        "en": "receipt",
         "pt-BR": "recibo",
         "es-ES": "recibo",
         "fr-FR": "ticket"

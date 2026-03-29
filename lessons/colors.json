@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "Red",
+        "en": "red",
         "pt-BR": "vermelho",
         "es-ES": "rojo",
         "fr-FR": "rouge"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Blue",
+        "en": "blue",
         "pt-BR": "azul",
         "es-ES": "azul",
         "fr-FR": "bleu"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Yellow",
+        "en": "yellow",
         "pt-BR": "amarelo",
         "es-ES": "amarillo",
         "fr-FR": "jaune"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "Green",
+        "en": "green",
         "pt-BR": "verde",
         "es-ES": "verde",
         "fr-FR": "vert"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Black",
+        "en": "black",
         "pt-BR": "preto",
         "es-ES": "negro",
         "fr-FR": "noir"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "White",
+        "en": "white",
         "pt-BR": "branco",
         "es-ES": "blanco",
         "fr-FR": "blanc"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Orange",
+        "en": "orange",
         "pt-BR": "laranja",
         "es-ES": "naranja",
         "fr-FR": "orange"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Purple",
+        "en": "purple",
         "pt-BR": "roxo",
         "es-ES": "morado",
         "fr-FR": "violet"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "Pink",
+        "en": "pink",
         "pt-BR": "rosa",
         "es-ES": "rosa",
         "fr-FR": "rose"
@@ -150,7 +150,7 @@
     },
     {
       "terms": {
-        "en": "Brown",
+        "en": "brown",
         "pt-BR": "marrom",
         "es-ES": "marrón",
         "fr-FR": "marron"
@@ -164,7 +164,7 @@
     },
     {
       "terms": {
-        "en": "Gray",
+        "en": "gray",
         "pt-BR": "cinza",
         "es-ES": "gris",
         "fr-FR": "gris"
@@ -178,7 +178,7 @@
     },
     {
       "terms": {
-        "en": "Light",
+        "en": "light",
         "pt-BR": "claro",
         "es-ES": "claro",
         "fr-FR": "clair"
@@ -192,7 +192,7 @@
     },
     {
       "terms": {
-        "en": "Dark",
+        "en": "dark",
         "pt-BR": "escuro",
         "es-ES": "oscuro",
         "fr-FR": "foncé"
@@ -206,7 +206,7 @@
     },
     {
       "terms": {
-        "en": "Bright",
+        "en": "bright",
         "pt-BR": "brilhante",
         "es-ES": "brillante",
         "fr-FR": "vif"

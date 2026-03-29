@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "One",
+        "en": "one",
         "pt-BR": "um",
         "es-ES": "uno",
         "fr-FR": "un"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Two",
+        "en": "two",
         "pt-BR": "dois",
         "es-ES": "dos",
         "fr-FR": "deux"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Three",
+        "en": "three",
         "pt-BR": "três",
         "es-ES": "tres",
         "fr-FR": "trois"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "Four",
+        "en": "four",
         "pt-BR": "quatro",
         "es-ES": "cuatro",
         "fr-FR": "quatre"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Five",
+        "en": "five",
         "pt-BR": "cinco",
         "es-ES": "cinco",
         "fr-FR": "cinq"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "Six",
+        "en": "six",
         "pt-BR": "seis",
         "es-ES": "seis",
         "fr-FR": "six"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Seven",
+        "en": "seven",
         "pt-BR": "sete",
         "es-ES": "siete",
         "fr-FR": "sept"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Eight",
+        "en": "eight",
         "pt-BR": "oito",
         "es-ES": "ocho",
         "fr-FR": "huit"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "Nine",
+        "en": "nine",
         "pt-BR": "nove",
         "es-ES": "nueve",
         "fr-FR": "neuf"
@@ -150,7 +150,7 @@
     },
     {
       "terms": {
-        "en": "Ten",
+        "en": "ten",
         "pt-BR": "dez",
         "es-ES": "diez",
         "fr-FR": "dix"

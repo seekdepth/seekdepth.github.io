@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "Reservation",
+        "en": "reservation",
         "pt-BR": "reserva",
         "es-ES": "reserva",
         "fr-FR": "réservation"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Menu",
+        "en": "menu",
         "pt-BR": "cardápio",
         "es-ES": "menú",
         "fr-FR": "menu"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Appetizer",
+        "en": "appetizer",
         "pt-BR": "entrada",
         "es-ES": "entrante",
         "fr-FR": "entrée"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "Main course",
+        "en": "main course",
         "pt-BR": "prato principal",
         "es-ES": "plato principal",
         "fr-FR": "plat principal"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Dessert",
+        "en": "dessert",
         "pt-BR": "sobremesa",
         "es-ES": "postre",
         "fr-FR": "dessert"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "Wine list",
+        "en": "wine list",
         "pt-BR": "carta de vinhos",
         "es-ES": "carta de vinos",
         "fr-FR": "carte des vins"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Waiter",
+        "en": "waiter",
         "pt-BR": "garçom",
         "es-ES": "camarero",
         "fr-FR": "serveur"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Chef",
+        "en": "chef",
         "pt-BR": "chef",
         "es-ES": "chef",
         "fr-FR": "chef"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "Tablecloth",
+        "en": "tablecloth",
         "pt-BR": "toalha de mesa",
         "es-ES": "mantel",
         "fr-FR": "nappe"
@@ -150,7 +150,7 @@
     },
     {
       "terms": {
-        "en": "Bill",
+        "en": "bill",
         "pt-BR": "conta",
         "es-ES": "cuenta",
         "fr-FR": "addition"

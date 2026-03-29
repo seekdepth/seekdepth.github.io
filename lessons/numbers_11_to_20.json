@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "Eleven",
+        "en": "eleven",
         "pt-BR": "onze",
         "es-ES": "once",
         "fr-FR": "onze"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Twelve",
+        "en": "twelve",
         "pt-BR": "doze",
         "es-ES": "doce",
         "fr-FR": "douze"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Thirteen",
+        "en": "thirteen",
         "pt-BR": "treze",
         "es-ES": "trece",
         "fr-FR": "treize"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "Fourteen",
+        "en": "fourteen",
         "pt-BR": "quatorze",
         "es-ES": "catorce",
         "fr-FR": "quatorze"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Fifteen",
+        "en": "fifteen",
         "pt-BR": "quinze",
         "es-ES": "quince",
         "fr-FR": "quinze"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "Sixteen",
+        "en": "sixteen",
         "pt-BR": "dezesseis",
         "es-ES": "dieciséis",
         "fr-FR": "seize"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Seventeen",
+        "en": "seventeen",
         "pt-BR": "dezessete",
         "es-ES": "diecisiete",
         "fr-FR": "dix-sept"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Eighteen",
+        "en": "eighteen",
         "pt-BR": "dezoito",
         "es-ES": "dieciocho",
         "fr-FR": "dix-huit"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "Nineteen",
+        "en": "nineteen",
         "pt-BR": "dezenove",
         "es-ES": "diecinueve",
         "fr-FR": "dix-neuf"
@@ -150,7 +150,7 @@
     },
     {
       "terms": {
-        "en": "Twenty",
+        "en": "twenty",
         "pt-BR": "vinte",
         "es-ES": "veinte",
         "fr-FR": "vingt"

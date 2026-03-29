@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "Twenty-one",
+        "en": "twenty-one",
         "pt-BR": "vinte e um",
         "es-ES": "veintiuno",
         "fr-FR": "vingt et un"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Thirty-five",
+        "en": "thirty-five",
         "pt-BR": "trinta e cinco",
         "es-ES": "treinta y cinco",
         "fr-FR": "trente-cinq"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Forty-three",
+        "en": "forty-three",
         "pt-BR": "quarenta e três",
         "es-ES": "cuarenta y tres",
         "fr-FR": "quarante-trois"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "Fifty-nine",
+        "en": "fifty-nine",
         "pt-BR": "cinquenta e nove",
         "es-ES": "cincuenta y nueve",
         "fr-FR": "cinquante-neuf"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Sixty-two",
+        "en": "sixty-two",
         "pt-BR": "sessenta e dois",
         "es-ES": "sesenta y dos",
         "fr-FR": "soixante-deux"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "Seventy-seven",
+        "en": "seventy-seven",
         "pt-BR": "setenta e sete",
         "es-ES": "setenta y siete",
         "fr-FR": "soixante-dix-sept"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Eighty-four",
+        "en": "eighty-four",
         "pt-BR": "oitenta e quatro",
         "es-ES": "ochenta y cuatro",
         "fr-FR": "quatre-vingt-quatre"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Ninety-six",
+        "en": "ninety-six",
         "pt-BR": "noventa e seis",
         "es-ES": "noventa y seis",
         "fr-FR": "quatre-vingt-seize"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "One hundred",
+        "en": "one hundred",
         "pt-BR": "cem",
         "es-ES": "cien",
         "fr-FR": "cent"

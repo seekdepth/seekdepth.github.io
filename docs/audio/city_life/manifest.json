@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "Street",
+        "en": "street",
         "pt-BR": "rua",
         "es-ES": "calle",
         "fr-FR": "rue",
-        "en-US": "Street",
-        "en-GB": "Street"
+        "en-US": "street",
+        "en-GB": "street"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Apartment",
+        "en": "apartment",
         "pt-BR": "apartamento",
         "es-ES": "apartamento",
         "fr-FR": "appartement",
-        "en-US": "Apartment",
-        "en-GB": "Apartment"
+        "en-US": "apartment",
+        "en-GB": "apartment"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Bus",
+        "en": "bus",
         "pt-BR": "ônibus",
         "es-ES": "autobús",
         "fr-FR": "bus",
-        "en-US": "Bus",
-        "en-GB": "Bus"
+        "en-US": "bus",
+        "en-GB": "bus"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "Subway",
+        "en": "subway",
         "pt-BR": "metrô",
         "es-ES": "metro",
         "fr-FR": "métro",
-        "en-US": "Subway",
-        "en-GB": "Subway"
+        "en-US": "subway",
+        "en-GB": "subway"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Traffic",
+        "en": "traffic",
         "pt-BR": "trânsito",
         "es-ES": "tráfico",
         "fr-FR": "circulation",
-        "en-US": "Traffic",
-        "en-GB": "Traffic"
+        "en-US": "traffic",
+        "en-GB": "traffic"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "Sidewalk",
+        "en": "sidewalk",
         "pt-BR": "calçada",
         "es-ES": "acera",
         "fr-FR": "trottoir",
-        "en-US": "Sidewalk",
-        "en-GB": "Sidewalk"
+        "en-US": "sidewalk",
+        "en-GB": "sidewalk"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Office building",
+        "en": "office building",
         "pt-BR": "prédio comercial",
         "es-ES": "edificio de oficinas",
         "fr-FR": "immeuble de bureaux",
-        "en-US": "Office building",
-        "en-GB": "Office building"
+        "en-US": "office building",
+        "en-GB": "office building"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Restaurant",
+        "en": "restaurant",
         "pt-BR": "restaurante",
         "es-ES": "restaurante",
         "fr-FR": "restaurant",
-        "en-US": "Restaurant",
-        "en-GB": "Restaurant"
+        "en-US": "restaurant",
+        "en-GB": "restaurant"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "Park",
+        "en": "park",
         "pt-BR": "parque",
         "es-ES": "parque",
         "fr-FR": "parc",
-        "en-US": "Park",
-        "en-GB": "Park"
+        "en-US": "park",
+        "en-GB": "park"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",
@@ -351,12 +351,12 @@
     },
     {
       "terms": {
-        "en": "Crosswalk",
+        "en": "crosswalk",
         "pt-BR": "faixa de pedestres",
         "es-ES": "paso de peatones",
         "fr-FR": "passage piéton",
-        "en-US": "Crosswalk",
-        "en-GB": "Crosswalk"
+        "en-US": "crosswalk",
+        "en-GB": "crosswalk"
       },
       "word_audio": {
         "en-US": "words/010_en_US.opus",

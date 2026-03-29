@@ -24,7 +24,7 @@
   "items": [
     {
       "terms": {
-        "en": "Coffee",
+        "en": "coffee",
         "pt-BR": "café",
         "es-ES": "café",
         "fr-FR": "café"
@@ -38,7 +38,7 @@
     },
     {
       "terms": {
-        "en": "Tea",
+        "en": "tea",
         "pt-BR": "chá",
         "es-ES": "té",
         "fr-FR": "thé"
@@ -52,7 +52,7 @@
     },
     {
       "terms": {
-        "en": "Bread",
+        "en": "bread",
         "pt-BR": "pão",
         "es-ES": "pan",
         "fr-FR": "pain"
@@ -66,7 +66,7 @@
     },
     {
       "terms": {
-        "en": "Butter",
+        "en": "butter",
         "pt-BR": "manteiga",
         "es-ES": "mantequilla",
         "fr-FR": "beurre"
@@ -80,7 +80,7 @@
     },
     {
       "terms": {
-        "en": "Jam",
+        "en": "jam",
         "pt-BR": "geleia",
         "es-ES": "mermelada",
         "fr-FR": "confiture"
@@ -94,7 +94,7 @@
     },
     {
       "terms": {
-        "en": "Eggs",
+        "en": "eggs",
         "pt-BR": "ovos",
         "es-ES": "huevos",
         "fr-FR": "oeufs"
@@ -108,7 +108,7 @@
     },
     {
       "terms": {
-        "en": "Cheese",
+        "en": "cheese",
         "pt-BR": "queijo",
         "es-ES": "queso",
         "fr-FR": "fromage"
@@ -122,7 +122,7 @@
     },
     {
       "terms": {
-        "en": "Juice",
+        "en": "juice",
         "pt-BR": "suco",
         "es-ES": "zumo",
         "fr-FR": "jus"
@@ -136,7 +136,7 @@
     },
     {
       "terms": {
-        "en": "Cereal",
+        "en": "cereal",
         "pt-BR": "cereal",
         "es-ES": "cereales",
         "fr-FR": "céréales"
@@ -150,7 +150,7 @@
     },
     {
       "terms": {
-        "en": "Pancakes",
+        "en": "pancakes",
         "pt-BR": "panquecas",
         "es-ES": "panqueques",
         "fr-FR": "crêpes"

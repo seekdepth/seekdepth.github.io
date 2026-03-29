@@ -8,7 +8,7 @@
     "fr": "Nombres de 1 à 10"
   },
   "audience": "US English speaker",
-  "source_lesson": "/Users/jarad/git/simple_lang/seekdepth.github.io/lessons/numbers_1_to_10.json",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/numbers_1_to_10.json",
   "languages": [
     "en-US",
     "en-GB",
@@ -63,12 +63,12 @@
   "generated_files": [
     {
       "terms": {
-        "en": "One",
+        "en": "one",
         "pt-BR": "um",
         "es-ES": "uno",
         "fr-FR": "un",
-        "en-US": "One",
-        "en-GB": "One"
+        "en-US": "one",
+        "en-GB": "one"
       },
       "word_audio": {
         "en-US": "words/001_en_US.opus",
@@ -95,12 +95,12 @@
     },
     {
       "terms": {
-        "en": "Two",
+        "en": "two",
         "pt-BR": "dois",
         "es-ES": "dos",
         "fr-FR": "deux",
-        "en-US": "Two",
-        "en-GB": "Two"
+        "en-US": "two",
+        "en-GB": "two"
       },
       "word_audio": {
         "en-US": "words/002_en_US.opus",
@@ -127,12 +127,12 @@
     },
     {
       "terms": {
-        "en": "Three",
+        "en": "three",
         "pt-BR": "três",
         "es-ES": "tres",
         "fr-FR": "trois",
-        "en-US": "Three",
-        "en-GB": "Three"
+        "en-US": "three",
+        "en-GB": "three"
       },
       "word_audio": {
         "en-US": "words/003_en_US.opus",
@@ -159,12 +159,12 @@
     },
     {
       "terms": {
-        "en": "Four",
+        "en": "four",
         "pt-BR": "quatro",
         "es-ES": "cuatro",
         "fr-FR": "quatre",
-        "en-US": "Four",
-        "en-GB": "Four"
+        "en-US": "four",
+        "en-GB": "four"
       },
       "word_audio": {
         "en-US": "words/004_en_US.opus",
@@ -191,12 +191,12 @@
     },
     {
       "terms": {
-        "en": "Five",
+        "en": "five",
         "pt-BR": "cinco",
         "es-ES": "cinco",
         "fr-FR": "cinq",
-        "en-US": "Five",
-        "en-GB": "Five"
+        "en-US": "five",
+        "en-GB": "five"
       },
       "word_audio": {
         "en-US": "words/005_en_US.opus",
@@ -223,12 +223,12 @@
     },
     {
       "terms": {
-        "en": "Six",
+        "en": "six",
         "pt-BR": "seis",
         "es-ES": "seis",
         "fr-FR": "six",
-        "en-US": "Six",
-        "en-GB": "Six"
+        "en-US": "six",
+        "en-GB": "six"
       },
       "word_audio": {
         "en-US": "words/006_en_US.opus",
@@ -255,12 +255,12 @@
     },
     {
       "terms": {
-        "en": "Seven",
+        "en": "seven",
         "pt-BR": "sete",
         "es-ES": "siete",
         "fr-FR": "sept",
-        "en-US": "Seven",
-        "en-GB": "Seven"
+        "en-US": "seven",
+        "en-GB": "seven"
       },
       "word_audio": {
         "en-US": "words/007_en_US.opus",
@@ -287,12 +287,12 @@
     },
     {
       "terms": {
-        "en": "Eight",
+        "en": "eight",
         "pt-BR": "oito",
         "es-ES": "ocho",
         "fr-FR": "huit",
-        "en-US": "Eight",
-        "en-GB": "Eight"
+        "en-US": "eight",
+        "en-GB": "eight"
       },
       "word_audio": {
         "en-US": "words/008_en_US.opus",
@@ -319,12 +319,12 @@
     },
     {
       "terms": {
-        "en": "Nine",
+        "en": "nine",
         "pt-BR": "nove",
         "es-ES": "nueve",
         "fr-FR": "neuf",
-        "en-US": "Nine",
-        "en-GB": "Nine"
+        "en-US": "nine",
+        "en-GB": "nine"
       },
       "word_audio": {
         "en-US": "words/009_en_US.opus",
@@ -351,12 +351,12 @@
     },
     {
       "terms": {
-        "en": "Ten",
+        "en": "ten",
         "pt-BR": "dez",
         "es-ES": "diez",
         "fr-FR": "dix",
-        "en-US": "Ten",
-        "en-GB": "Ten"
+        "en-US": "ten",
+        "en-GB": "ten"
       },
       "word_audio": {
         "en-US": "words/010_en_US.opus",
