@@ -1,0 +1,385 @@
+{
+  "lesson_id": "numbers_1_to_10",
+  "title": "Numbers 1 to 10",
+  "titles": {
+    "en": "Numbers 1 to 10",
+    "pt": "Números de 1 a 10",
+    "es": "Números del 1 al 10",
+    "fr": "Nombres de 1 à 10"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/simple_lang/seekdepth.github.io/lessons/numbers_1_to_10.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Numbers 1 to 10",
+      "pt": "Números de 1 a 10",
+      "es": "Números del 1 al 10",
+      "fr": "Nombres de 1 à 10"
+    },
+    "sample_sentences": {
+      "en": "Let's study numbers 1 to 10.",
+      "pt-BR": "Vamos estudar os números de 1 a 10.",
+      "es-ES": "Vamos a estudiar los números del 1 al 10.",
+      "fr-FR": "Étudions les nombres de 1 à 10.",
+      "en-US": "Let's study numbers 1 to 10.",
+      "en-GB": "Let's study numbers 1 to 10."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "One",
+        "pt-BR": "um",
+        "es-ES": "uno",
+        "fr-FR": "un",
+        "en-US": "One",
+        "en-GB": "One"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I have one book.",
+        "pt-BR": "Eu tenho um livro.",
+        "es-ES": "Tengo un libro.",
+        "fr-FR": "J'ai un livre.",
+        "en-US": "I have one book.",
+        "en-GB": "I have one book."
+      }
+    },
+    {
+      "terms": {
+        "en": "Two",
+        "pt-BR": "dois",
+        "es-ES": "dos",
+        "fr-FR": "deux",
+        "en-US": "Two",
+        "en-GB": "Two"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She has two cats.",
+        "pt-BR": "Ela tem dois gatos.",
+        "es-ES": "Ella tiene dos gatos.",
+        "fr-FR": "Elle a deux chats.",
+        "en-US": "She has two cats.",
+        "en-GB": "She has two cats."
+      }
+    },
+    {
+      "terms": {
+        "en": "Three",
+        "pt-BR": "três",
+        "es-ES": "tres",
+        "fr-FR": "trois",
+        "en-US": "Three",
+        "en-GB": "Three"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We see three cars.",
+        "pt-BR": "Nós vemos três carros.",
+        "es-ES": "Vemos tres coches.",
+        "fr-FR": "Nous voyons trois voitures.",
+        "en-US": "We see three cars.",
+        "en-GB": "We see three cars."
+      }
+    },
+    {
+      "terms": {
+        "en": "Four",
+        "pt-BR": "quatro",
+        "es-ES": "cuatro",
+        "fr-FR": "quatre",
+        "en-US": "Four",
+        "en-GB": "Four"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They need four chairs.",
+        "pt-BR": "Eles precisam de quatro cadeiras.",
+        "es-ES": "Necesitan cuatro sillas.",
+        "fr-FR": "Ils ont besoin de quatre chaises.",
+        "en-US": "They need four chairs.",
+        "en-GB": "They need four chairs."
+      }
+    },
+    {
+      "terms": {
+        "en": "Five",
+        "pt-BR": "cinco",
+        "es-ES": "cinco",
+        "fr-FR": "cinq",
+        "en-US": "Five",
+        "en-GB": "Five"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I eat five grapes.",
+        "pt-BR": "Eu como cinco uvas.",
+        "es-ES": "Como cinco uvas.",
+        "fr-FR": "Je mange cinq raisins.",
+        "en-US": "I eat five grapes.",
+        "en-GB": "I eat five grapes."
+      }
+    },
+    {
+      "terms": {
+        "en": "Six",
+        "pt-BR": "seis",
+        "es-ES": "seis",
+        "fr-FR": "six",
+        "en-US": "Six",
+        "en-GB": "Six"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He buys six apples.",
+        "pt-BR": "Ele compra seis maçãs.",
+        "es-ES": "Él compra seis manzanas.",
+        "fr-FR": "Il achète six pommes.",
+        "en-US": "He buys six apples.",
+        "en-GB": "He buys six apples."
+      }
+    },
+    {
+      "terms": {
+        "en": "Seven",
+        "pt-BR": "sete",
+        "es-ES": "siete",
+        "fr-FR": "sept",
+        "en-US": "Seven",
+        "en-GB": "Seven"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We count seven days.",
+        "pt-BR": "Nós contamos sete dias.",
+        "es-ES": "Contamos siete días.",
+        "fr-FR": "Nous comptons sept jours.",
+        "en-US": "We count seven days.",
+        "en-GB": "We count seven days."
+      }
+    },
+    {
+      "terms": {
+        "en": "Eight",
+        "pt-BR": "oito",
+        "es-ES": "ocho",
+        "fr-FR": "huit",
+        "en-US": "Eight",
+        "en-GB": "Eight"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The class has eight students.",
+        "pt-BR": "A turma tem oito alunos.",
+        "es-ES": "La clase tiene ocho estudiantes.",
+        "fr-FR": "La classe a huit élèves.",
+        "en-US": "The class has eight students.",
+        "en-GB": "The class has eight students."
+      }
+    },
+    {
+      "terms": {
+        "en": "Nine",
+        "pt-BR": "nove",
+        "es-ES": "nueve",
+        "fr-FR": "neuf",
+        "en-US": "Nine",
+        "en-GB": "Nine"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She draws nine stars.",
+        "pt-BR": "Ela desenha nove estrelas.",
+        "es-ES": "Ella dibuja nueve estrellas.",
+        "fr-FR": "Elle dessine neuf étoiles.",
+        "en-US": "She draws nine stars.",
+        "en-GB": "She draws nine stars."
+      }
+    },
+    {
+      "terms": {
+        "en": "Ten",
+        "pt-BR": "dez",
+        "es-ES": "diez",
+        "fr-FR": "dix",
+        "en-US": "Ten",
+        "en-GB": "Ten"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I see ten birds.",
+        "pt-BR": "Eu vejo dez pássaros.",
+        "es-ES": "Veo diez pájaros.",
+        "fr-FR": "Je vois dix oiseaux.",
+        "en-US": "I see ten birds.",
+        "en-GB": "I see ten birds."
+      }
+    }
+  ]
+}

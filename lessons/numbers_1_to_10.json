@@ -1,0 +1,166 @@
+{
+  "lesson_id": "numbers_1_to_10",
+  "title": "Numbers 1 to 10",
+  "titles": {
+    "en": "Numbers 1 to 10",
+    "pt": "Números de 1 a 10",
+    "es": "Números del 1 al 10",
+    "fr": "Nombres de 1 à 10"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study numbers 1 to 10.",
+    "pt-BR": "Vamos estudar os números de 1 a 10.",
+    "es-ES": "Vamos a estudiar los números del 1 al 10.",
+    "fr-FR": "Étudions les nombres de 1 à 10."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "One",
+        "pt-BR": "um",
+        "es-ES": "uno",
+        "fr-FR": "un"
+      },
+      "sample_sentences": {
+        "en": "I have one book.",
+        "pt-BR": "Eu tenho um livro.",
+        "es-ES": "Tengo un libro.",
+        "fr-FR": "J'ai un livre."
+      }
+    },
+    {
+      "terms": {
+        "en": "Two",
+        "pt-BR": "dois",
+        "es-ES": "dos",
+        "fr-FR": "deux"
+      },
+      "sample_sentences": {
+        "en": "She has two cats.",
+        "pt-BR": "Ela tem dois gatos.",
+        "es-ES": "Ella tiene dos gatos.",
+        "fr-FR": "Elle a deux chats."
+      }
+    },
+    {
+      "terms": {
+        "en": "Three",
+        "pt-BR": "três",
+        "es-ES": "tres",
+        "fr-FR": "trois"
+      },
+      "sample_sentences": {
+        "en": "We see three cars.",
+        "pt-BR": "Nós vemos três carros.",
+        "es-ES": "Vemos tres coches.",
+        "fr-FR": "Nous voyons trois voitures."
+      }
+    },
+    {
+      "terms": {
+        "en": "Four",
+        "pt-BR": "quatro",
+        "es-ES": "cuatro",
+        "fr-FR": "quatre"
+      },
+      "sample_sentences": {
+        "en": "They need four chairs.",
+        "pt-BR": "Eles precisam de quatro cadeiras.",
+        "es-ES": "Necesitan cuatro sillas.",
+        "fr-FR": "Ils ont besoin de quatre chaises."
+      }
+    },
+    {
+      "terms": {
+        "en": "Five",
+        "pt-BR": "cinco",
+        "es-ES": "cinco",
+        "fr-FR": "cinq"
+      },
+      "sample_sentences": {
+        "en": "I eat five grapes.",
+        "pt-BR": "Eu como cinco uvas.",
+        "es-ES": "Como cinco uvas.",
+        "fr-FR": "Je mange cinq raisins."
+      }
+    },
+    {
+      "terms": {
+        "en": "Six",
+        "pt-BR": "seis",
+        "es-ES": "seis",
+        "fr-FR": "six"
+      },
+      "sample_sentences": {
+        "en": "He buys six apples.",
+        "pt-BR": "Ele compra seis maçãs.",
+        "es-ES": "Él compra seis manzanas.",
+        "fr-FR": "Il achète six pommes."
+      }
+    },
+    {
+      "terms": {
+        "en": "Seven",
+        "pt-BR": "sete",
+        "es-ES": "siete",
+        "fr-FR": "sept"
+      },
+      "sample_sentences": {
+        "en": "We count seven days.",
+        "pt-BR": "Nós contamos sete dias.",
+        "es-ES": "Contamos siete días.",
+        "fr-FR": "Nous comptons sept jours."
+      }
+    },
+    {
+      "terms": {
+        "en": "Eight",
+        "pt-BR": "oito",
+        "es-ES": "ocho",
+        "fr-FR": "huit"
+      },
+      "sample_sentences": {
+        "en": "The class has eight students.",
+        "pt-BR": "A turma tem oito alunos.",
+        "es-ES": "La clase tiene ocho estudiantes.",
+        "fr-FR": "La classe a huit élèves."
+      }
+    },
+    {
+      "terms": {
+        "en": "Nine",
+        "pt-BR": "nove",
+        "es-ES": "nueve",
+        "fr-FR": "neuf"
+      },
+      "sample_sentences": {
+        "en": "She draws nine stars.",
+        "pt-BR": "Ela desenha nove estrelas.",
+        "es-ES": "Ella dibuja nueve estrellas.",
+        "fr-FR": "Elle dessine neuf étoiles."
+      }
+    },
+    {
+      "terms": {
+        "en": "Ten",
+        "pt-BR": "dez",
+        "es-ES": "diez",
+        "fr-FR": "dix"
+      },
+      "sample_sentences": {
+        "en": "I see ten birds.",
+        "pt-BR": "Eu vejo dez pássaros.",
+        "es-ES": "Veo diez pájaros.",
+        "fr-FR": "Je vois dix oiseaux."
+      }
+    }
+  ]
+}

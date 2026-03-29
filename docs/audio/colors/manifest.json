@@ -1,0 +1,545 @@
+{
+  "lesson_id": "colors",
+  "title": "Colors",
+  "titles": {
+    "en": "Colors",
+    "pt": "Cores",
+    "es": "Colores",
+    "fr": "Couleurs"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/simple_lang/seekdepth.github.io/lessons/colors.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "Colors",
+      "pt": "Cores",
+      "es": "Colores",
+      "fr": "Couleurs"
+    },
+    "sample_sentences": {
+      "en": "Let's study colors.",
+      "pt-BR": "Vamos estudar as cores.",
+      "es-ES": "Vamos a estudiar los colores.",
+      "fr-FR": "Étudions les couleurs.",
+      "en-US": "Let's study colors.",
+      "en-GB": "Let's study colors."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "Red",
+        "pt-BR": "vermelho",
+        "es-ES": "rojo",
+        "fr-FR": "rouge",
+        "en-US": "Red",
+        "en-GB": "Red"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The apple is red.",
+        "pt-BR": "A maçã é vermelha.",
+        "es-ES": "La manzana es roja.",
+        "fr-FR": "La pomme est rouge.",
+        "en-US": "The apple is red.",
+        "en-GB": "The apple is red."
+      }
+    },
+    {
+      "terms": {
+        "en": "Blue",
+        "pt-BR": "azul",
+        "es-ES": "azul",
+        "fr-FR": "bleu",
+        "en-US": "Blue",
+        "en-GB": "Blue"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The sky is blue.",
+        "pt-BR": "O céu é azul.",
+        "es-ES": "El cielo es azul.",
+        "fr-FR": "Le ciel est bleu.",
+        "en-US": "The sky is blue.",
+        "en-GB": "The sky is blue."
+      }
+    },
+    {
+      "terms": {
+        "en": "Yellow",
+        "pt-BR": "amarelo",
+        "es-ES": "amarillo",
+        "fr-FR": "jaune",
+        "en-US": "Yellow",
+        "en-GB": "Yellow"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The sun looks yellow.",
+        "pt-BR": "O sol parece amarelo.",
+        "es-ES": "El sol parece amarillo.",
+        "fr-FR": "Le soleil paraît jaune.",
+        "en-US": "The sun looks yellow.",
+        "en-GB": "The sun looks yellow."
+      }
+    },
+    {
+      "terms": {
+        "en": "Green",
+        "pt-BR": "verde",
+        "es-ES": "verde",
+        "fr-FR": "vert",
+        "en-US": "Green",
+        "en-GB": "Green"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The grass is green.",
+        "pt-BR": "A grama é verde.",
+        "es-ES": "La hierba es verde.",
+        "fr-FR": "L'herbe est verte.",
+        "en-US": "The grass is green.",
+        "en-GB": "The grass is green."
+      }
+    },
+    {
+      "terms": {
+        "en": "Black",
+        "pt-BR": "preto",
+        "es-ES": "negro",
+        "fr-FR": "noir",
+        "en-US": "Black",
+        "en-GB": "Black"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "My shoes are black.",
+        "pt-BR": "Meus sapatos são pretos.",
+        "es-ES": "Mis zapatos son negros.",
+        "fr-FR": "Mes chaussures sont noires.",
+        "en-US": "My shoes are black.",
+        "en-GB": "My shoes are black."
+      }
+    },
+    {
+      "terms": {
+        "en": "White",
+        "pt-BR": "branco",
+        "es-ES": "blanco",
+        "fr-FR": "blanc",
+        "en-US": "White",
+        "en-GB": "White"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The paper is white.",
+        "pt-BR": "O papel é branco.",
+        "es-ES": "El papel es blanco.",
+        "fr-FR": "Le papier est blanc.",
+        "en-US": "The paper is white.",
+        "en-GB": "The paper is white."
+      }
+    },
+    {
+      "terms": {
+        "en": "Orange",
+        "pt-BR": "laranja",
+        "es-ES": "naranja",
+        "fr-FR": "orange",
+        "en-US": "Orange",
+        "en-GB": "Orange"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The orange ball is bright.",
+        "pt-BR": "A bola laranja é brilhante.",
+        "es-ES": "La pelota naranja es brillante.",
+        "fr-FR": "La balle orange est vive.",
+        "en-US": "The orange ball is bright.",
+        "en-GB": "The orange ball is bright."
+      }
+    },
+    {
+      "terms": {
+        "en": "Purple",
+        "pt-BR": "roxo",
+        "es-ES": "morado",
+        "fr-FR": "violet",
+        "en-US": "Purple",
+        "en-GB": "Purple"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She wears a purple dress.",
+        "pt-BR": "Ela usa um vestido roxo.",
+        "es-ES": "Ella lleva un vestido morado.",
+        "fr-FR": "Elle porte une robe violette.",
+        "en-US": "She wears a purple dress.",
+        "en-GB": "She wears a purple dress."
+      }
+    },
+    {
+      "terms": {
+        "en": "Pink",
+        "pt-BR": "rosa",
+        "es-ES": "rosa",
+        "fr-FR": "rose",
+        "en-US": "Pink",
+        "en-GB": "Pink"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The flower is pink.",
+        "pt-BR": "A flor é rosa.",
+        "es-ES": "La flor es rosa.",
+        "fr-FR": "La fleur est rose.",
+        "en-US": "The flower is pink.",
+        "en-GB": "The flower is pink."
+      }
+    },
+    {
+      "terms": {
+        "en": "Brown",
+        "pt-BR": "marrom",
+        "es-ES": "marrón",
+        "fr-FR": "marron",
+        "en-US": "Brown",
+        "en-GB": "Brown"
+      },
+      "word_audio": {
+        "en-US": "words/010_en_US.opus",
+        "en-GB": "words/010_en_GB.opus",
+        "pt-BR": "words/010_pt_BR.opus",
+        "es-ES": "words/010_es_ES.opus",
+        "fr-FR": "words/010_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/010_en_US.opus",
+        "en-GB": "sentences/010_en_GB.opus",
+        "pt-BR": "sentences/010_pt_BR.opus",
+        "es-ES": "sentences/010_es_ES.opus",
+        "fr-FR": "sentences/010_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The table is brown.",
+        "pt-BR": "A mesa é marrom.",
+        "es-ES": "La mesa es marrón.",
+        "fr-FR": "La table est marron.",
+        "en-US": "The table is brown.",
+        "en-GB": "The table is brown."
+      }
+    },
+    {
+      "terms": {
+        "en": "Gray",
+        "pt-BR": "cinza",
+        "es-ES": "gris",
+        "fr-FR": "gris",
+        "en-US": "Gray",
+        "en-GB": "Gray"
+      },
+      "word_audio": {
+        "en-US": "words/011_en_US.opus",
+        "en-GB": "words/011_en_GB.opus",
+        "pt-BR": "words/011_pt_BR.opus",
+        "es-ES": "words/011_es_ES.opus",
+        "fr-FR": "words/011_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/011_en_US.opus",
+        "en-GB": "sentences/011_en_GB.opus",
+        "pt-BR": "sentences/011_pt_BR.opus",
+        "es-ES": "sentences/011_es_ES.opus",
+        "fr-FR": "sentences/011_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The road looks gray.",
+        "pt-BR": "A estrada parece cinza.",
+        "es-ES": "La carretera parece gris.",
+        "fr-FR": "La route paraît grise.",
+        "en-US": "The road looks gray.",
+        "en-GB": "The road looks gray."
+      }
+    },
+    {
+      "terms": {
+        "en": "Light",
+        "pt-BR": "claro",
+        "es-ES": "claro",
+        "fr-FR": "clair",
+        "en-US": "Light",
+        "en-GB": "Light"
+      },
+      "word_audio": {
+        "en-US": "words/012_en_US.opus",
+        "en-GB": "words/012_en_GB.opus",
+        "pt-BR": "words/012_pt_BR.opus",
+        "es-ES": "words/012_es_ES.opus",
+        "fr-FR": "words/012_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/012_en_US.opus",
+        "en-GB": "sentences/012_en_GB.opus",
+        "pt-BR": "sentences/012_pt_BR.opus",
+        "es-ES": "sentences/012_es_ES.opus",
+        "fr-FR": "sentences/012_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "This blue is light.",
+        "pt-BR": "Este azul é claro.",
+        "es-ES": "Este azul es claro.",
+        "fr-FR": "Ce bleu est clair.",
+        "en-US": "This blue is light.",
+        "en-GB": "This blue is light."
+      }
+    },
+    {
+      "terms": {
+        "en": "Dark",
+        "pt-BR": "escuro",
+        "es-ES": "oscuro",
+        "fr-FR": "foncé",
+        "en-US": "Dark",
+        "en-GB": "Dark"
+      },
+      "word_audio": {
+        "en-US": "words/013_en_US.opus",
+        "en-GB": "words/013_en_GB.opus",
+        "pt-BR": "words/013_pt_BR.opus",
+        "es-ES": "words/013_es_ES.opus",
+        "fr-FR": "words/013_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/013_en_US.opus",
+        "en-GB": "sentences/013_en_GB.opus",
+        "pt-BR": "sentences/013_pt_BR.opus",
+        "es-ES": "sentences/013_es_ES.opus",
+        "fr-FR": "sentences/013_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "This green is dark.",
+        "pt-BR": "Este verde é escuro.",
+        "es-ES": "Este verde es oscuro.",
+        "fr-FR": "Ce vert est foncé.",
+        "en-US": "This green is dark.",
+        "en-GB": "This green is dark."
+      }
+    },
+    {
+      "terms": {
+        "en": "Bright",
+        "pt-BR": "brilhante",
+        "es-ES": "brillante",
+        "fr-FR": "vif",
+        "en-US": "Bright",
+        "en-GB": "Bright"
+      },
+      "word_audio": {
+        "en-US": "words/014_en_US.opus",
+        "en-GB": "words/014_en_GB.opus",
+        "pt-BR": "words/014_pt_BR.opus",
+        "es-ES": "words/014_es_ES.opus",
+        "fr-FR": "words/014_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/014_en_US.opus",
+        "en-GB": "sentences/014_en_GB.opus",
+        "pt-BR": "sentences/014_pt_BR.opus",
+        "es-ES": "sentences/014_es_ES.opus",
+        "fr-FR": "sentences/014_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The sign is bright.",
+        "pt-BR": "A placa é brilhante.",
+        "es-ES": "El cartel es brillante.",
+        "fr-FR": "Le panneau est vif.",
+        "en-US": "The sign is bright.",
+        "en-GB": "The sign is bright."
+      }
+    },
+    {
+      "terms": {
+        "en": "Dull",
+        "pt-BR": "opaco",
+        "es-ES": "apagado",
+        "fr-FR": "terne",
+        "en-US": "Dull",
+        "en-GB": "Dull"
+      },
+      "word_audio": {
+        "en-US": "words/015_en_US.opus",
+        "en-GB": "words/015_en_GB.opus",
+        "pt-BR": "words/015_pt_BR.opus",
+        "es-ES": "words/015_es_ES.opus",
+        "fr-FR": "words/015_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/015_en_US.opus",
+        "en-GB": "sentences/015_en_GB.opus",
+        "pt-BR": "sentences/015_pt_BR.opus",
+        "es-ES": "sentences/015_es_ES.opus",
+        "fr-FR": "sentences/015_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The paint looks dull.",
+        "pt-BR": "A tinta parece opaca.",
+        "es-ES": "La pintura parece apagada.",
+        "fr-FR": "La peinture paraît terne.",
+        "en-US": "The paint looks dull.",
+        "en-GB": "The paint looks dull."
+      }
+    }
+  ]
+}

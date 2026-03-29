@@ -1,0 +1,41 @@
+{
+  "default_lesson_id": "days_of_week",
+  "lessons": [
+    {
+      "lesson_id": "days_of_week",
+      "title": "Days of the Week",
+      "titles": {
+        "en": "Days of the Week",
+        "pt": "Dias da Semana",
+        "es": "Días de la Semana",
+        "fr": "Jours de la Semaine"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/days_of_week/manifest.json"
+    },
+    {
+      "lesson_id": "numbers_1_to_10",
+      "title": "Numbers 1 to 10",
+      "titles": {
+        "en": "Numbers 1 to 10",
+        "pt": "Números de 1 a 10",
+        "es": "Números del 1 al 10",
+        "fr": "Nombres de 1 à 10"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/numbers_1_to_10/manifest.json"
+    },
+    {
+      "lesson_id": "colors",
+      "title": "Colors",
+      "titles": {
+        "en": "Colors",
+        "pt": "Cores",
+        "es": "Colores",
+        "fr": "Couleurs"
+      },
+      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "manifest_path": "./audio/colors/manifest.json"
+    }
+  ]
+}

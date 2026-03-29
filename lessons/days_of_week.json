@@ -1,0 +1,124 @@
+{
+  "lesson_id": "days_of_week",
+  "title": "Days of the Week",
+  "titles": {
+    "en": "Days of the Week",
+    "pt": "Dias da Semana",
+    "es": "Días de la Semana",
+    "fr": "Jours de la Semaine"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study days of the week.",
+    "pt-BR": "Vamos estudar os dias da semana.",
+    "es-ES": "Vamos a estudiar los días de la semana.",
+    "fr-FR": "Étudions les jours de la semaine."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "Sunday",
+        "pt-BR": "domingo",
+        "es-ES": "domingo",
+        "fr-FR": "dimanche"
+      },
+      "sample_sentences": {
+        "en": "On Sunday, I rest at home.",
+        "pt-BR": "No domingo, eu descanso em casa.",
+        "es-ES": "El domingo, descanso en casa.",
+        "fr-FR": "Le dimanche, je me repose à la maison."
+      }
+    },
+    {
+      "terms": {
+        "en": "Monday",
+        "pt-BR": "segunda-feira",
+        "es-ES": "lunes",
+        "fr-FR": "lundi"
+      },
+      "sample_sentences": {
+        "en": "On Monday, I go to work.",
+        "pt-BR": "Na segunda-feira, eu vou ao trabalho.",
+        "es-ES": "El lunes, voy al trabajo.",
+        "fr-FR": "Le lundi, je vais au travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "Tuesday",
+        "pt-BR": "terça-feira",
+        "es-ES": "martes",
+        "fr-FR": "mardi"
+      },
+      "sample_sentences": {
+        "en": "On Tuesday, I study at the library.",
+        "pt-BR": "Na terça-feira, eu estudo na biblioteca.",
+        "es-ES": "El martes, estudio en la biblioteca.",
+        "fr-FR": "Le mardi, j'étudie à la bibliothèque."
+      }
+    },
+    {
+      "terms": {
+        "en": "Wednesday",
+        "pt-BR": "quarta-feira",
+        "es-ES": "miércoles",
+        "fr-FR": "mercredi"
+      },
+      "sample_sentences": {
+        "en": "On Wednesday, we have class.",
+        "pt-BR": "Na quarta-feira, nós temos aula.",
+        "es-ES": "El miércoles, tenemos clase.",
+        "fr-FR": "Le mercredi, nous avons cours."
+      }
+    },
+    {
+      "terms": {
+        "en": "Thursday",
+        "pt-BR": "quinta-feira",
+        "es-ES": "jueves",
+        "fr-FR": "jeudi"
+      },
+      "sample_sentences": {
+        "en": "On Thursday, she cooks dinner.",
+        "pt-BR": "Na quinta-feira, ela cozinha o jantar.",
+        "es-ES": "El jueves, ella cocina la cena.",
+        "fr-FR": "Le jeudi, elle prépare le dîner."
+      }
+    },
+    {
+      "terms": {
+        "en": "Friday",
+        "pt-BR": "sexta-feira",
+        "es-ES": "viernes",
+        "fr-FR": "vendredi"
+      },
+      "sample_sentences": {
+        "en": "On Friday, they watch a movie.",
+        "pt-BR": "Na sexta-feira, eles assistem a um filme.",
+        "es-ES": "El viernes, ven una película.",
+        "fr-FR": "Le vendredi, ils regardent un film."
+      }
+    },
+    {
+      "terms": {
+        "en": "Saturday",
+        "pt-BR": "sábado",
+        "es-ES": "sábado",
+        "fr-FR": "samedi"
+      },
+      "sample_sentences": {
+        "en": "On Saturday, we visit friends.",
+        "pt-BR": "No sábado, nós visitamos amigos.",
+        "es-ES": "El sábado, visitamos a unos amigos.",
+        "fr-FR": "Le samedi, nous rendons visite à des amis."
+      }
+    }
+  ]
+}

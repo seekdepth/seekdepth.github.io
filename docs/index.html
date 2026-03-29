@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simple Lang Lesson</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section id="auth-view" class="profile-shell">
+        <div class="card">
+          <p class="eyebrow">Simple Lang</p>
+          <h1 id="auth-title">Choose a Profile</h1>
+          <p id="auth-subtitle" class="subtitle"></p>
+          <div class="profile-block">
+            <p id="profile-existing-label" class="label">Existing profile</p>
+            <div id="profile-list" class="profile-list" aria-label="Existing profiles"></div>
+          </div>
+          <div class="auth-actions">
+            <button id="open-create-profile-button" class="button button-primary" type="button">Create profile</button>
+          </div>
+          <p id="profile-summary" class="subtitle">Select or create a profile to begin.</p>
+        </div>
+
+        <div id="profile-modal" class="modal-shell is-hidden" aria-hidden="true">
+          <div class="modal-backdrop" data-close-profile-modal="true"></div>
+          <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="profile-modal-title">
+            <div class="modal-header">
+              <div>
+                <p id="profile-new-label" class="label">Create profile</p>
+                <h2 id="profile-modal-title">Create profile</h2>
+              </div>
+              <button id="close-profile-modal-button" class="icon-button" type="button" aria-label="Close">✕</button>
+            </div>
+            <div class="profile-form">
+              <input id="profile-name-input" class="profile-input" type="text" placeholder="Profile name" />
+              <select id="profile-primary-select" class="lesson-select" aria-label="Primary language">
+                <option value="en-US">English (US)</option>
+                <option value="en-GB">English (UK)</option>
+                <option value="pt-BR">Português (Brasil)</option>
+                <option value="es-ES">Spanish (Spain)</option>
+                <option value="fr-FR">Français (France)</option>
+              </select>
+              <select id="profile-secondary-select" class="lesson-select" aria-label="Secondary language">
+                <option value="en-US">English (US)</option>
+                <option value="en-GB">English (UK)</option>
+                <option value="pt-BR">Português (Brasil)</option>
+                <option value="es-ES">Spanish (Spain)</option>
+                <option value="fr-FR">Français (France)</option>
+              </select>
+            </div>
+            <div class="modal-actions">
+              <button id="cancel-profile-modal-button" class="button" type="button">Cancel</button>
+              <button id="profile-create-button" class="button button-primary" type="button">Create profile</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="app-view" class="is-hidden">
+        <header class="app-header">
+          <div class="hero">
+            <p class="eyebrow">Simple Lang</p>
+            <h1 id="lesson-title">Loading lesson…</h1>
+            <p id="lesson-subtitle" class="subtitle">Preparing the presentation.</p>
+            <button id="back-to-lessons-button" class="button is-hidden" type="button">Back to lessons</button>
+          </div>
+
+          <div class="session-box">
+            <button id="logout-button" class="button" type="button">Logout</button>
+          </div>
+        </header>
+
+        <section id="lessons-home" class="slide">
+          <div class="progress-row">
+            <span id="lessons-home-label">Lessons</span>
+          </div>
+          <div class="card">
+            <div id="lesson-list" class="lesson-list"></div>
+          </div>
+        </section>
+
+        <section id="learning-shell" class="is-hidden">
+        <section class="mode-bar" aria-label="App modes">
+          <div class="mode-options" role="group" aria-label="Lesson or quiz">
+            <button id="mode-lesson" class="button button-mode is-selected" type="button">Lesson</button>
+            <button id="mode-quiz" class="button button-mode" type="button">Quiz</button>
+          </div>
+        </section>
+
+        <section id="lesson-view" class="slide" aria-live="polite">
+          <div class="progress-row">
+            <span id="slide-counter">0 / 0</span>
+            <span id="playback-status" class="status">Waiting to start</span>
+            <div class="card-actions">
+              <button id="prev-button" class="icon-button" type="button" aria-label="Previous">←</button>
+              <button id="play-pause-button" class="icon-button" type="button" aria-label="Play">▶</button>
+              <button id="next-button" class="icon-button" type="button" aria-label="Next">→</button>
+              <button id="repeat-button" class="icon-button" type="button" aria-label="Repeat">↻</button>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="word-panel">
+              <div id="panel-word-english" class="content-panel">
+                <p id="label-word-primary" class="label">English</p>
+                <h2 id="word-english">-</h2>
+              </div>
+              <div id="panel-word-portuguese" class="content-panel">
+                <p id="label-word-secondary" class="label">Portuguese</p>
+                <h2 id="word-portuguese">-</h2>
+              </div>
+            </div>
+
+            <div class="sentence-panel">
+              <div id="panel-sentence-english" class="sentence-block content-panel">
+                <p id="label-sentence-primary" class="label">English sentence</p>
+                <p id="sentence-english" class="sentence">-</p>
+              </div>
+              <div id="panel-sentence-portuguese" class="sentence-block content-panel">
+                <p id="label-sentence-secondary" class="label">Portuguese sentence</p>
+                <p id="sentence-portuguese" class="sentence">-</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="controls">
+            <button id="start-button" class="button button-primary">Start lesson</button>
+            <button id="autoplay-button" class="button button-toggle" type="button" aria-pressed="false">Auto Play Off</button>
+            <button id="randomize-button" class="button" type="button">Randomize</button>
+          </div>
+
+          <div class="speed-bar" aria-label="Playback speed controls">
+            <span id="speed-label" class="speed-label">Speed</span>
+            <div class="speed-options" role="group" aria-label="Playback speed">
+              <button id="speed-fast" class="button button-speed" type="button" data-speed="fast">Fast</button>
+              <button id="speed-normal" class="button button-speed is-selected" type="button" data-speed="normal">Normal</button>
+              <button id="speed-slow" class="button button-speed" type="button" data-speed="slow">Slow</button>
+            </div>
+          </div>
+        </section>
+
+        <section id="quiz-view" class="slide is-hidden" aria-live="polite">
+          <div class="progress-row">
+            <span id="quiz-counter">0 / 0</span>
+            <span id="quiz-status" class="status">Ready to start quiz</span>
+          </div>
+
+          <div class="card">
+            <div class="quiz-prompt">
+              <p id="quiz-prompt-label" class="label">Portuguese</p>
+              <h2 id="quiz-word">-</h2>
+              <button id="quiz-speak-button" class="button button-secondary" type="button">Speak word</button>
+            </div>
+
+            <div id="quiz-options" class="quiz-options" role="group" aria-label="Quiz answer choices"></div>
+
+            <div id="quiz-result" class="quiz-result"></div>
+
+            <div id="quiz-summary" class="quiz-summary is-hidden">
+              <h3 id="quiz-score-heading">Quiz complete</h3>
+              <p id="quiz-score-text" class="subtitle"></p>
+              <div class="controls">
+                <button id="quiz-restart-button" class="button button-primary" type="button">Try again</button>
+              </div>
+            </div>
+
+            <div class="history-block">
+              <p id="quiz-history-label" class="label">Recent scores</p>
+              <ul id="quiz-history" class="history-list"></ul>
+            </div>
+          </div>
+
+          <div class="controls">
+            <button id="quiz-start-button" class="button button-primary" type="button">Start quiz</button>
+          </div>
+        </section>
+        </section>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
