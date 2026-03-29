@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_have_simple_future",
+  "title": "To Have",
+  "titles": {
+    "en": "To Have",
+    "pt": "Ter",
+    "es": "Tener",
+    "fr": "Avoir"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to have.",
+    "pt-BR": "Vamos estudar o futuro simples de ter.",
+    "es-ES": "Vamos a estudiar el futuro simple de tener.",
+    "fr-FR": "Étudions le futur simple de avoir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to have",
+        "pt-BR": "ter",
+        "es-ES": "tener",
+        "fr-FR": "avoir"
+      },
+      "sample_sentences": {
+        "en": "The verb to have is very common in the future.",
+        "pt-BR": "O verbo ter é muito comum no futuro.",
+        "es-ES": "El verbo tener es muy común en el futuro.",
+        "fr-FR": "Le verbe avoir est très courant au futur."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will have",
+        "pt-BR": "eu terei",
+        "es-ES": "yo tendré",
+        "fr-FR": "j'aurai"
+      },
+      "sample_sentences": {
+        "en": "I will have more time tomorrow.",
+        "pt-BR": "Eu terei mais tempo amanhã.",
+        "es-ES": "Yo tendré más tiempo mañana.",
+        "fr-FR": "J’aurai plus de temps demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will have",
+        "pt-BR": "você terá",
+        "es-ES": "tú tendrás",
+        "fr-FR": "tu auras"
+      },
+      "sample_sentences": {
+        "en": "You will have a good idea soon.",
+        "pt-BR": "Você terá uma boa ideia em breve.",
+        "es-ES": "Tú tendrás una buena idea pronto.",
+        "fr-FR": "Tu auras bientôt une bonne idée."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will have",
+        "pt-BR": "ele terá",
+        "es-ES": "él tendrá",
+        "fr-FR": "il aura"
+      },
+      "sample_sentences": {
+        "en": "He will have a meeting this afternoon.",
+        "pt-BR": "Ele terá uma reunião esta tarde.",
+        "es-ES": "Él tendrá una reunión esta tarde.",
+        "fr-FR": "Il aura une réunion cet après-midi."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will have",
+        "pt-BR": "ela terá",
+        "es-ES": "ella tendrá",
+        "fr-FR": "elle aura"
+      },
+      "sample_sentences": {
+        "en": "She will have a red bag.",
+        "pt-BR": "Ela terá uma bolsa vermelha.",
+        "es-ES": "Ella tendrá un bolso rojo.",
+        "fr-FR": "Elle aura un sac rouge."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will have",
+        "pt-BR": "terá",
+        "es-ES": "tendrá",
+        "fr-FR": "il aura"
+      },
+      "sample_sentences": {
+        "en": "It will have four wheels.",
+        "pt-BR": "Terá quatro rodas.",
+        "es-ES": "Tendrá cuatro ruedas.",
+        "fr-FR": "Il aura quatre roues."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will have",
+        "pt-BR": "nós teremos",
+        "es-ES": "nosotros tendremos",
+        "fr-FR": "nous aurons"
+      },
+      "sample_sentences": {
+        "en": "We will have time before lunch.",
+        "pt-BR": "Nós teremos tempo antes do almoço.",
+        "es-ES": "Nosotros tendremos tiempo antes del almuerzo.",
+        "fr-FR": "Nous aurons du temps avant le déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will have (plural)",
+        "pt-BR": "vocês terão",
+        "es-ES": "ustedes tendrán",
+        "fr-FR": "vous aurez"
+      },
+      "sample_sentences": {
+        "en": "You all will have the same teacher.",
+        "pt-BR": "Vocês terão o mesmo professor.",
+        "es-ES": "Ustedes tendrán el mismo profesor.",
+        "fr-FR": "Vous aurez le même professeur."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will have",
+        "pt-BR": "eles terão",
+        "es-ES": "ellos tendrán",
+        "fr-FR": "ils auront"
+      },
+      "sample_sentences": {
+        "en": "They will have a new apartment next year.",
+        "pt-BR": "Eles terão um apartamento novo no próximo ano.",
+        "es-ES": "Ellos tendrán un apartamento nuevo el próximo año.",
+        "fr-FR": "Ils auront un nouvel appartement l’année prochaine."
+      }
+    }
+  ]
+}

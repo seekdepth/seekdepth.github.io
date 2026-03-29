@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_come_simple_future",
+  "title": "To Come",
+  "titles": {
+    "en": "To Come",
+    "pt": "Vir",
+    "es": "Venir",
+    "fr": "Venir"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to come.",
+    "pt-BR": "Vamos estudar o futuro simples de vir.",
+    "es-ES": "Vamos a estudiar el futuro simple de venir.",
+    "fr-FR": "Étudions le futur simple de venir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to come",
+        "pt-BR": "vir",
+        "es-ES": "venir",
+        "fr-FR": "venir"
+      },
+      "sample_sentences": {
+        "en": "The verb to come is useful for invitations and plans.",
+        "pt-BR": "O verbo vir é útil para convites e planos.",
+        "es-ES": "El verbo venir es útil para invitaciones y planes.",
+        "fr-FR": "Le verbe venir est utile pour les invitations et les projets."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will come",
+        "pt-BR": "eu virei",
+        "es-ES": "yo vendré",
+        "fr-FR": "je viendrai"
+      },
+      "sample_sentences": {
+        "en": "I will come after work.",
+        "pt-BR": "Eu virei depois do trabalho.",
+        "es-ES": "Yo vendré después del trabajo.",
+        "fr-FR": "Je viendrai après le travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will come",
+        "pt-BR": "você virá",
+        "es-ES": "tú vendrás",
+        "fr-FR": "tu viendras"
+      },
+      "sample_sentences": {
+        "en": "You will come with us tomorrow.",
+        "pt-BR": "Você virá conosco amanhã.",
+        "es-ES": "Tú vendrás con nosotros mañana.",
+        "fr-FR": "Tu viendras avec nous demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will come",
+        "pt-BR": "ele virá",
+        "es-ES": "él vendrá",
+        "fr-FR": "il viendra"
+      },
+      "sample_sentences": {
+        "en": "He will come to class on time.",
+        "pt-BR": "Ele virá para a aula no horário.",
+        "es-ES": "Él vendrá a clase a tiempo.",
+        "fr-FR": "Il viendra en cours à l’heure."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will come",
+        "pt-BR": "ela virá",
+        "es-ES": "ella vendrá",
+        "fr-FR": "elle viendra"
+      },
+      "sample_sentences": {
+        "en": "She will come to dinner tonight.",
+        "pt-BR": "Ela virá para o jantar esta noite.",
+        "es-ES": "Ella vendrá a cenar esta noche.",
+        "fr-FR": "Elle viendra dîner ce soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will come",
+        "pt-BR": "virá",
+        "es-ES": "vendrá",
+        "fr-FR": "il viendra"
+      },
+      "sample_sentences": {
+        "en": "It will come later.",
+        "pt-BR": "Virá mais tarde.",
+        "es-ES": "Vendrá más tarde.",
+        "fr-FR": "Il viendra plus tard."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will come",
+        "pt-BR": "nós viremos",
+        "es-ES": "nosotros vendremos",
+        "fr-FR": "nous viendrons"
+      },
+      "sample_sentences": {
+        "en": "We will come back next week.",
+        "pt-BR": "Nós viremos de volta na próxima semana.",
+        "es-ES": "Nosotros volveremos la próxima semana.",
+        "fr-FR": "Nous viendrons de nouveau la semaine prochaine."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will come (plural)",
+        "pt-BR": "vocês virão",
+        "es-ES": "ustedes vendrán",
+        "fr-FR": "vous viendrez"
+      },
+      "sample_sentences": {
+        "en": "You all will come by train.",
+        "pt-BR": "Vocês virão de trem.",
+        "es-ES": "Ustedes vendrán en tren.",
+        "fr-FR": "Vous viendrez en train."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will come",
+        "pt-BR": "eles virão",
+        "es-ES": "ellos vendrán",
+        "fr-FR": "ils viendront"
+      },
+      "sample_sentences": {
+        "en": "They will come to the party.",
+        "pt-BR": "Eles virão para a festa.",
+        "es-ES": "Ellos vendrán a la fiesta.",
+        "fr-FR": "Ils viendront à la fête."
+      }
+    }
+  ]
+}

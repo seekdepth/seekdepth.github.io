@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_know_simple_future",
+  "title": "To Know",
+  "titles": {
+    "en": "To Know",
+    "pt": "Saber / Conhecer",
+    "es": "Saber / Conocer",
+    "fr": "Savoir / Connaître"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to know.",
+    "pt-BR": "Vamos estudar o futuro simples de saber e conhecer.",
+    "es-ES": "Vamos a estudiar el futuro simple de saber y conocer.",
+    "fr-FR": "Étudions le futur simple de savoir et connaître."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to know",
+        "pt-BR": "saber e conhecer",
+        "es-ES": "saber y conocer",
+        "fr-FR": "savoir et connaître"
+      },
+      "sample_sentences": {
+        "en": "The verb to know can have more than one meaning.",
+        "pt-BR": "O verbo saber e conhecer pode ter mais de um sentido.",
+        "es-ES": "El verbo saber y conocer puede tener más de un sentido.",
+        "fr-FR": "Le verbe savoir et connaître peut avoir plus d’un sens."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will know",
+        "pt-BR": "eu saberei",
+        "es-ES": "yo sabré",
+        "fr-FR": "je saurai"
+      },
+      "sample_sentences": {
+        "en": "I will know the answer tomorrow.",
+        "pt-BR": "Eu saberei a resposta amanhã.",
+        "es-ES": "Yo sabré la respuesta mañana.",
+        "fr-FR": "Je saurai la réponse demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will know",
+        "pt-BR": "você saberá",
+        "es-ES": "tú sabrás",
+        "fr-FR": "tu sauras"
+      },
+      "sample_sentences": {
+        "en": "You will know the truth soon.",
+        "pt-BR": "Você saberá a verdade em breve.",
+        "es-ES": "Tú sabrás la verdad pronto.",
+        "fr-FR": "Tu sauras bientôt la vérité."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will know",
+        "pt-BR": "ele saberá",
+        "es-ES": "él sabrá",
+        "fr-FR": "il saura"
+      },
+      "sample_sentences": {
+        "en": "He will know the address.",
+        "pt-BR": "Ele saberá o endereço.",
+        "es-ES": "Él sabrá la dirección.",
+        "fr-FR": "Il saura l’adresse."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will know",
+        "pt-BR": "ela saberá",
+        "es-ES": "ella sabrá",
+        "fr-FR": "elle saura"
+      },
+      "sample_sentences": {
+        "en": "She will know the right time.",
+        "pt-BR": "Ela saberá a hora certa.",
+        "es-ES": "Ella sabrá la hora correcta.",
+        "fr-FR": "Elle saura la bonne heure."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will know",
+        "pt-BR": "saberá",
+        "es-ES": "sabrá",
+        "fr-FR": "il saura"
+      },
+      "sample_sentences": {
+        "en": "It will know its route.",
+        "pt-BR": "Saberá sua rota.",
+        "es-ES": "Sabrá su ruta.",
+        "fr-FR": "Il saura son itinéraire."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will know",
+        "pt-BR": "nós saberemos",
+        "es-ES": "nosotros sabremos",
+        "fr-FR": "nous saurons"
+      },
+      "sample_sentences": {
+        "en": "We will know the results next week.",
+        "pt-BR": "Nós saberemos os resultados na próxima semana.",
+        "es-ES": "Nosotros sabremos los resultados la próxima semana.",
+        "fr-FR": "Nous saurons les résultats la semaine prochaine."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will know (plural)",
+        "pt-BR": "vocês saberão",
+        "es-ES": "ustedes sabrán",
+        "fr-FR": "vous saurez"
+      },
+      "sample_sentences": {
+        "en": "You all will know what to do.",
+        "pt-BR": "Vocês saberão o que fazer.",
+        "es-ES": "Ustedes sabrán qué hacer.",
+        "fr-FR": "Vous saurez quoi faire."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will know",
+        "pt-BR": "eles saberão",
+        "es-ES": "ellos sabrán",
+        "fr-FR": "ils sauront"
+      },
+      "sample_sentences": {
+        "en": "They will know our names soon.",
+        "pt-BR": "Eles saberão nossos nomes em breve.",
+        "es-ES": "Ellos sabrán nuestros nombres pronto.",
+        "fr-FR": "Ils sauront bientôt nos noms."
+      }
+    }
+  ]
+}

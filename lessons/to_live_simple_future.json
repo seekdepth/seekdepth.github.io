@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_live_simple_future",
+  "title": "To Live",
+  "titles": {
+    "en": "To Live",
+    "pt": "Morar / Viver",
+    "es": "Vivir",
+    "fr": "Vivre / Habiter"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to live.",
+    "pt-BR": "Vamos estudar o futuro simples de morar e viver.",
+    "es-ES": "Vamos a estudiar el futuro simple de vivir.",
+    "fr-FR": "Étudions le futur simple de vivre et habiter."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to live",
+        "pt-BR": "morar e viver",
+        "es-ES": "vivir",
+        "fr-FR": "vivre et habiter"
+      },
+      "sample_sentences": {
+        "en": "The verb to live is useful for places and life situations.",
+        "pt-BR": "O verbo morar e viver é útil para lugares e situações de vida.",
+        "es-ES": "El verbo vivir es útil para lugares y situaciones de vida.",
+        "fr-FR": "Le verbe vivre et habiter est utile pour les lieux et les situations de vie."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will live",
+        "pt-BR": "eu morarei",
+        "es-ES": "yo viviré",
+        "fr-FR": "je vivrai"
+      },
+      "sample_sentences": {
+        "en": "I will live in the city next year.",
+        "pt-BR": "Eu morarei na cidade no próximo ano.",
+        "es-ES": "Yo viviré en la ciudad el próximo año.",
+        "fr-FR": "Je vivrai en ville l’année prochaine."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will live",
+        "pt-BR": "você morará",
+        "es-ES": "tú vivirás",
+        "fr-FR": "tu vivras"
+      },
+      "sample_sentences": {
+        "en": "You will live near the school.",
+        "pt-BR": "Você morará perto da escola.",
+        "es-ES": "Tú vivirás cerca de la escuela.",
+        "fr-FR": "Tu vivras près de l’école."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will live",
+        "pt-BR": "ele morará",
+        "es-ES": "él vivirá",
+        "fr-FR": "il vivra"
+      },
+      "sample_sentences": {
+        "en": "He will live with his family.",
+        "pt-BR": "Ele morará com a família dele.",
+        "es-ES": "Él vivirá con su familia.",
+        "fr-FR": "Il vivra avec sa famille."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will live",
+        "pt-BR": "ela morará",
+        "es-ES": "ella vivirá",
+        "fr-FR": "elle vivra"
+      },
+      "sample_sentences": {
+        "en": "She will live near the beach.",
+        "pt-BR": "Ela morará perto da praia.",
+        "es-ES": "Ella vivirá cerca de la playa.",
+        "fr-FR": "Elle vivra près de la plage."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will live",
+        "pt-BR": "viverá",
+        "es-ES": "vivirá",
+        "fr-FR": "il vivra"
+      },
+      "sample_sentences": {
+        "en": "It will live in warm water.",
+        "pt-BR": "Viverá em água morna.",
+        "es-ES": "Vivirá en agua templada.",
+        "fr-FR": "Il vivra dans l’eau tiède."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will live",
+        "pt-BR": "nós moraremos",
+        "es-ES": "nosotros viviremos",
+        "fr-FR": "nous vivrons"
+      },
+      "sample_sentences": {
+        "en": "We will live here for two years.",
+        "pt-BR": "Nós moraremos aqui por dois anos.",
+        "es-ES": "Nosotros viviremos aquí por dos años.",
+        "fr-FR": "Nous vivrons ici pendant deux ans."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will live (plural)",
+        "pt-BR": "vocês morarão",
+        "es-ES": "ustedes vivirán",
+        "fr-FR": "vous vivrez"
+      },
+      "sample_sentences": {
+        "en": "You all will live close to work.",
+        "pt-BR": "Vocês morarão perto do trabalho.",
+        "es-ES": "Ustedes vivirán cerca del trabajo.",
+        "fr-FR": "Vous vivrez près du travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will live",
+        "pt-BR": "eles morarão",
+        "es-ES": "ellos vivirán",
+        "fr-FR": "ils vivront"
+      },
+      "sample_sentences": {
+        "en": "They will live in a small town.",
+        "pt-BR": "Eles morarão em uma cidade pequena.",
+        "es-ES": "Ellos vivirán en un pueblo pequeño.",
+        "fr-FR": "Ils vivront dans une petite ville."
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_eat_simple_future",
+  "title": "To Eat",
+  "titles": {
+    "en": "To Eat",
+    "pt": "Comer",
+    "es": "Comer",
+    "fr": "Manger"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to eat.",
+    "pt-BR": "Vamos estudar o futuro simples de comer.",
+    "es-ES": "Vamos a estudiar el futuro simple de comer.",
+    "fr-FR": "Étudions le futur simple de manger."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to eat",
+        "pt-BR": "comer",
+        "es-ES": "comer",
+        "fr-FR": "manger"
+      },
+      "sample_sentences": {
+        "en": "The verb to eat is useful in daily routines.",
+        "pt-BR": "O verbo comer é útil nas rotinas diárias.",
+        "es-ES": "El verbo comer es útil en las rutinas diarias.",
+        "fr-FR": "Le verbe manger est utile dans les routines quotidiennes."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will eat",
+        "pt-BR": "eu comerei",
+        "es-ES": "yo comeré",
+        "fr-FR": "je mangerai"
+      },
+      "sample_sentences": {
+        "en": "I will eat at home tonight.",
+        "pt-BR": "Eu comerei em casa esta noite.",
+        "es-ES": "Yo comeré en casa esta noche.",
+        "fr-FR": "Je mangerai à la maison ce soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will eat",
+        "pt-BR": "você comerá",
+        "es-ES": "tú comerás",
+        "fr-FR": "tu mangeras"
+      },
+      "sample_sentences": {
+        "en": "You will eat breakfast early.",
+        "pt-BR": "Você comerá o café da manhã cedo.",
+        "es-ES": "Tú comerás el desayuno temprano.",
+        "fr-FR": "Tu mangeras tôt le petit-déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will eat",
+        "pt-BR": "ele comerá",
+        "es-ES": "él comerá",
+        "fr-FR": "il mangera"
+      },
+      "sample_sentences": {
+        "en": "He will eat with us tomorrow.",
+        "pt-BR": "Ele comerá conosco amanhã.",
+        "es-ES": "Él comerá con nosotros mañana.",
+        "fr-FR": "Il mangera avec nous demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will eat",
+        "pt-BR": "ela comerá",
+        "es-ES": "ella comerá",
+        "fr-FR": "elle mangera"
+      },
+      "sample_sentences": {
+        "en": "She will eat after class.",
+        "pt-BR": "Ela comerá depois da aula.",
+        "es-ES": "Ella comerá después de clase.",
+        "fr-FR": "Elle mangera après le cours."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will eat",
+        "pt-BR": "comerá",
+        "es-ES": "comerá",
+        "fr-FR": "il mangera"
+      },
+      "sample_sentences": {
+        "en": "It will eat in a few minutes.",
+        "pt-BR": "Comerá em alguns minutos.",
+        "es-ES": "Comerá en unos minutos.",
+        "fr-FR": "Il mangera dans quelques minutes."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will eat",
+        "pt-BR": "nós comeremos",
+        "es-ES": "nosotros comeremos",
+        "fr-FR": "nous mangerons"
+      },
+      "sample_sentences": {
+        "en": "We will eat together on Sunday.",
+        "pt-BR": "Nós comeremos juntos no domingo.",
+        "es-ES": "Nosotros comeremos juntos el domingo.",
+        "fr-FR": "Nous mangerons ensemble dimanche."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will eat (plural)",
+        "pt-BR": "vocês comerão",
+        "es-ES": "ustedes comerán",
+        "fr-FR": "vous mangerez"
+      },
+      "sample_sentences": {
+        "en": "You all will eat at noon.",
+        "pt-BR": "Vocês comerão ao meio-dia.",
+        "es-ES": "Ustedes comerán al mediodía.",
+        "fr-FR": "Vous mangerez à midi."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will eat",
+        "pt-BR": "eles comerão",
+        "es-ES": "ellos comerán",
+        "fr-FR": "ils mangeront"
+      },
+      "sample_sentences": {
+        "en": "They will eat at the new restaurant.",
+        "pt-BR": "Eles comerão no restaurante novo.",
+        "es-ES": "Ellos comerán en el restaurante nuevo.",
+        "fr-FR": "Ils mangeront au nouveau restaurant."
+      }
+    }
+  ]
+}

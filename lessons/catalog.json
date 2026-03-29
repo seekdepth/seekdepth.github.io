@@ -978,6 +978,286 @@
         "fr-FR"
       ],
       "manifest_path": "./audio/to_live_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_be_simple_future",
+      "title": "To Be",
+      "titles": {
+        "en": "To Be",
+        "pt": "Ser / Estar",
+        "es": "Ser / Estar",
+        "fr": "Être"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_be_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_go_simple_future",
+      "title": "To Go",
+      "titles": {
+        "en": "To Go",
+        "pt": "Ir",
+        "es": "Ir",
+        "fr": "Aller"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_go_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_have_simple_future",
+      "title": "To Have",
+      "titles": {
+        "en": "To Have",
+        "pt": "Ter",
+        "es": "Tener",
+        "fr": "Avoir"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_have_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_do_simple_future",
+      "title": "To Do",
+      "titles": {
+        "en": "To Do",
+        "pt": "Fazer",
+        "es": "Hacer",
+        "fr": "Faire"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_do_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_make_simple_future",
+      "title": "To Make",
+      "titles": {
+        "en": "To Make",
+        "pt": "Fazer",
+        "es": "Hacer",
+        "fr": "Faire"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_make_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_come_simple_future",
+      "title": "To Come",
+      "titles": {
+        "en": "To Come",
+        "pt": "Vir",
+        "es": "Venir",
+        "fr": "Venir"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_come_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_see_simple_future",
+      "title": "To See",
+      "titles": {
+        "en": "To See",
+        "pt": "Ver",
+        "es": "Ver",
+        "fr": "Voir"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_see_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_want_simple_future",
+      "title": "To Want",
+      "titles": {
+        "en": "To Want",
+        "pt": "Querer",
+        "es": "Querer",
+        "fr": "Vouloir"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_want_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_know_simple_future",
+      "title": "To Know",
+      "titles": {
+        "en": "To Know",
+        "pt": "Saber / Conhecer",
+        "es": "Saber / Conocer",
+        "fr": "Savoir / Connaître"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_know_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_like_simple_future",
+      "title": "To Like",
+      "titles": {
+        "en": "To Like",
+        "pt": "Gostar",
+        "es": "Gustar",
+        "fr": "Aimer"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_like_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_eat_simple_future",
+      "title": "To Eat",
+      "titles": {
+        "en": "To Eat",
+        "pt": "Comer",
+        "es": "Comer",
+        "fr": "Manger"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_eat_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_drink_simple_future",
+      "title": "To Drink",
+      "titles": {
+        "en": "To Drink",
+        "pt": "Beber",
+        "es": "Beber",
+        "fr": "Boire"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_drink_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_need_simple_future",
+      "title": "To Need",
+      "titles": {
+        "en": "To Need",
+        "pt": "Precisar",
+        "es": "Necesitar",
+        "fr": "Avoir Besoin / Devoir"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_need_simple_future/manifest.json"
+    },
+    {
+      "lesson_id": "to_live_simple_future",
+      "title": "To Live",
+      "titles": {
+        "en": "To Live",
+        "pt": "Morar / Viver",
+        "es": "Vivir",
+        "fr": "Vivre / Habiter"
+      },
+      "category": "verbs_simple_future",
+      "tense": "simple_future",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_live_simple_future/manifest.json"
     }
   ]
 }

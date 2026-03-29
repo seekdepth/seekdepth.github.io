@@ -192,6 +192,7 @@ const TRANSLATIONS = {
     categoryVocabularyBasic: "Vocabulary - Basic",
     categoryVerbsSimplePresent: "Verbs - Simple Present",
     categoryVerbsSimplePast: "Verbs - Simple Past",
+    categoryVerbsSimpleFuture: "Verbs - Simple Future",
     profileNameRequired: "Enter a profile name.",
     profileLanguagesDifferent: "Choose two different languages.",
     lessonsHome: "Lessons",
@@ -265,6 +266,7 @@ const TRANSLATIONS = {
     categoryVocabularyBasic: "Vocabulário - Básico",
     categoryVerbsSimplePresent: "Verbos - Presente Simples",
     categoryVerbsSimplePast: "Verbos - Passado Simples",
+    categoryVerbsSimpleFuture: "Verbos - Futuro Simples",
     profileNameRequired: "Digite um nome de perfil.",
     profileLanguagesDifferent: "Escolha dois idiomas diferentes.",
     lessonsHome: "Lições",
@@ -338,6 +340,7 @@ const TRANSLATIONS = {
     categoryVocabularyBasic: "Vocabulario - Básico",
     categoryVerbsSimplePresent: "Verbos - Presente Simple",
     categoryVerbsSimplePast: "Verbos - Pasado Simple",
+    categoryVerbsSimpleFuture: "Verbos - Futuro Simple",
     profileNameRequired: "Escribe un nombre de perfil.",
     profileLanguagesDifferent: "Elige dos idiomas diferentes.",
     lessonsHome: "Lecciones",
@@ -411,6 +414,7 @@ const TRANSLATIONS = {
     categoryVocabularyBasic: "Vocabulaire - Base",
     categoryVerbsSimplePresent: "Verbes - Présent Simple",
     categoryVerbsSimplePast: "Verbes - Passé Simple",
+    categoryVerbsSimpleFuture: "Verbes - Futur Simple",
     profileNameRequired: "Saisissez un nom de profil.",
     profileLanguagesDifferent: "Choisissez deux langues différentes.",
     lessonsHome: "Leçons",
@@ -868,6 +872,7 @@ function getLessonFilterLabel() {
 function getLessonCategoryLabel() {
   if (selectedLessonCategory === "verbs_simple_present") return t("categoryVerbsSimplePresent");
   if (selectedLessonCategory === "verbs_simple_past") return t("categoryVerbsSimplePast");
+  if (selectedLessonCategory === "verbs_simple_future") return t("categoryVerbsSimpleFuture");
   return t("categoryVocabularyBasic");
 }
 
@@ -1443,6 +1448,7 @@ function applyUiText() {
   document.querySelector("#lesson-category-basic").textContent = t("categoryVocabularyBasic");
   document.querySelector("#lesson-category-verbs-present").textContent = t("categoryVerbsSimplePresent");
   document.querySelector("#lesson-category-verbs-past").textContent = t("categoryVerbsSimplePast");
+  document.querySelector("#lesson-category-verbs-future").textContent = t("categoryVerbsSimpleFuture");
   document.querySelector("#lesson-filter-all").textContent = t("filterAll");
   document.querySelector("#lesson-filter-new").textContent = t("filterNew");
   document.querySelector("#lesson-filter-started").textContent = t("filterStarted");

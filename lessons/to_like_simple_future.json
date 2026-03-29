@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_like_simple_future",
+  "title": "To Like",
+  "titles": {
+    "en": "To Like",
+    "pt": "Gostar",
+    "es": "Gustar",
+    "fr": "Aimer"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to like.",
+    "pt-BR": "Vamos estudar o futuro simples de gostar.",
+    "es-ES": "Vamos a estudiar el futuro simple de gustar.",
+    "fr-FR": "Étudions le futur simple de aimer."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to like",
+        "pt-BR": "gostar",
+        "es-ES": "gustar",
+        "fr-FR": "aimer"
+      },
+      "sample_sentences": {
+        "en": "The verb to like helps express preferences.",
+        "pt-BR": "O verbo gostar ajuda a expressar preferências.",
+        "es-ES": "El verbo gustar ayuda a expresar preferencias.",
+        "fr-FR": "Le verbe aimer aide à exprimer des préférences."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will like",
+        "pt-BR": "eu gostarei",
+        "es-ES": "me gustará",
+        "fr-FR": "j'aimerai"
+      },
+      "sample_sentences": {
+        "en": "I will like that restaurant.",
+        "pt-BR": "Eu gostarei daquele restaurante.",
+        "es-ES": "Me gustará ese restaurante.",
+        "fr-FR": "J’aimerai ce restaurant."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will like",
+        "pt-BR": "você gostará",
+        "es-ES": "te gustará",
+        "fr-FR": "tu aimeras"
+      },
+      "sample_sentences": {
+        "en": "You will like this lesson.",
+        "pt-BR": "Você gostará desta lição.",
+        "es-ES": "Te gustará esta lección.",
+        "fr-FR": "Tu aimeras cette leçon."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will like",
+        "pt-BR": "ele gostará",
+        "es-ES": "le gustará",
+        "fr-FR": "il aimera"
+      },
+      "sample_sentences": {
+        "en": "He will like the new apartment.",
+        "pt-BR": "Ele gostará do apartamento novo.",
+        "es-ES": "Le gustará el apartamento nuevo.",
+        "fr-FR": "Il aimera le nouvel appartement."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will like",
+        "pt-BR": "ela gostará",
+        "es-ES": "le gustará",
+        "fr-FR": "elle aimera"
+      },
+      "sample_sentences": {
+        "en": "She will like the blue dress.",
+        "pt-BR": "Ela gostará do vestido azul.",
+        "es-ES": "Le gustará el vestido azul.",
+        "fr-FR": "Elle aimera la robe bleue."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will like",
+        "pt-BR": "gostará",
+        "es-ES": "le gustará",
+        "fr-FR": "il aimera"
+      },
+      "sample_sentences": {
+        "en": "It will like the new space.",
+        "pt-BR": "Gostará do novo espaço.",
+        "es-ES": "Le gustará el nuevo espacio.",
+        "fr-FR": "Il aimera le nouvel espace."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will like",
+        "pt-BR": "nós gostaremos",
+        "es-ES": "nos gustará",
+        "fr-FR": "nous aimerons"
+      },
+      "sample_sentences": {
+        "en": "We will like this city.",
+        "pt-BR": "Nós gostaremos desta cidade.",
+        "es-ES": "Nos gustará esta ciudad.",
+        "fr-FR": "Nous aimerons cette ville."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will like (plural)",
+        "pt-BR": "vocês gostarão",
+        "es-ES": "les gustará",
+        "fr-FR": "vous aimerez"
+      },
+      "sample_sentences": {
+        "en": "You all will like the music.",
+        "pt-BR": "Vocês gostarão da música.",
+        "es-ES": "Les gustará la música.",
+        "fr-FR": "Vous aimerez la musique."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will like",
+        "pt-BR": "eles gostarão",
+        "es-ES": "les gustará",
+        "fr-FR": "ils aimeront"
+      },
+      "sample_sentences": {
+        "en": "They will like the new teacher.",
+        "pt-BR": "Eles gostarão do novo professor.",
+        "es-ES": "Les gustará el nuevo profesor.",
+        "fr-FR": "Ils aimeront le nouveau professeur."
+      }
+    }
+  ]
+}

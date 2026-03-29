@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_see_simple_future",
+  "title": "To See",
+  "titles": {
+    "en": "To See",
+    "pt": "Ver",
+    "es": "Ver",
+    "fr": "Voir"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to see.",
+    "pt-BR": "Vamos estudar o futuro simples de ver.",
+    "es-ES": "Vamos a estudiar el futuro simple de ver.",
+    "fr-FR": "Étudions le futur simple de voir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to see",
+        "pt-BR": "ver",
+        "es-ES": "ver",
+        "fr-FR": "voir"
+      },
+      "sample_sentences": {
+        "en": "The verb to see is common in daily conversation.",
+        "pt-BR": "O verbo ver é comum na conversa do dia a dia.",
+        "es-ES": "El verbo ver es común en la conversación cotidiana.",
+        "fr-FR": "Le verbe voir est courant dans la conversation quotidienne."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will see",
+        "pt-BR": "eu verei",
+        "es-ES": "yo veré",
+        "fr-FR": "je verrai"
+      },
+      "sample_sentences": {
+        "en": "I will see my family this weekend.",
+        "pt-BR": "Eu verei minha família neste fim de semana.",
+        "es-ES": "Yo veré a mi familia este fin de semana.",
+        "fr-FR": "Je verrai ma famille ce week-end."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will see",
+        "pt-BR": "você verá",
+        "es-ES": "tú verás",
+        "fr-FR": "tu verras"
+      },
+      "sample_sentences": {
+        "en": "You will see the difference soon.",
+        "pt-BR": "Você verá a diferença em breve.",
+        "es-ES": "Tú verás la diferencia pronto.",
+        "fr-FR": "Tu verras bientôt la différence."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will see",
+        "pt-BR": "ele verá",
+        "es-ES": "él verá",
+        "fr-FR": "il verra"
+      },
+      "sample_sentences": {
+        "en": "He will see the doctor tomorrow.",
+        "pt-BR": "Ele verá o médico amanhã.",
+        "es-ES": "Él verá al médico mañana.",
+        "fr-FR": "Il verra le médecin demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will see",
+        "pt-BR": "ela verá",
+        "es-ES": "ella verá",
+        "fr-FR": "elle verra"
+      },
+      "sample_sentences": {
+        "en": "She will see the message later.",
+        "pt-BR": "Ela verá a mensagem mais tarde.",
+        "es-ES": "Ella verá el mensaje más tarde.",
+        "fr-FR": "Elle verra le message plus tard."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will see",
+        "pt-BR": "verá",
+        "es-ES": "verá",
+        "fr-FR": "il verra"
+      },
+      "sample_sentences": {
+        "en": "It will see a lot of use.",
+        "pt-BR": "Verá muito uso.",
+        "es-ES": "Verá mucho uso.",
+        "fr-FR": "Il verra beaucoup d’usage."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will see",
+        "pt-BR": "nós veremos",
+        "es-ES": "nosotros veremos",
+        "fr-FR": "nous verrons"
+      },
+      "sample_sentences": {
+        "en": "We will see what happens.",
+        "pt-BR": "Nós veremos o que acontece.",
+        "es-ES": "Nosotros veremos qué pasa.",
+        "fr-FR": "Nous verrons ce qui se passe."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will see (plural)",
+        "pt-BR": "vocês verão",
+        "es-ES": "ustedes verán",
+        "fr-FR": "vous verrez"
+      },
+      "sample_sentences": {
+        "en": "You all will see the results next month.",
+        "pt-BR": "Vocês verão os resultados no próximo mês.",
+        "es-ES": "Ustedes verán los resultados el próximo mes.",
+        "fr-FR": "Vous verrez les résultats le mois prochain."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will see",
+        "pt-BR": "eles verão",
+        "es-ES": "ellos verán",
+        "fr-FR": "ils verront"
+      },
+      "sample_sentences": {
+        "en": "They will see the city tomorrow.",
+        "pt-BR": "Eles verão a cidade amanhã.",
+        "es-ES": "Ellos verán la ciudad mañana.",
+        "fr-FR": "Ils verront la ville demain."
+      }
+    }
+  ]
+}

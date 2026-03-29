@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_need_simple_future",
+  "title": "To Need",
+  "titles": {
+    "en": "To Need",
+    "pt": "Precisar",
+    "es": "Necesitar",
+    "fr": "Avoir Besoin / Devoir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_need_simple_future.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Need",
+      "pt": "Precisar",
+      "es": "Necesitar",
+      "fr": "Avoir Besoin / Devoir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple future of to need.",
+      "pt-BR": "Vamos estudar o futuro simples de precisar.",
+      "es-ES": "Vamos a estudiar el futuro simple de necesitar.",
+      "fr-FR": "Étudions le futur simple de avoir besoin.",
+      "en-US": "Let's study the simple future of to need.",
+      "en-GB": "Let's study the simple future of to need."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to need",
+        "pt-BR": "precisar",
+        "es-ES": "necesitar",
+        "fr-FR": "avoir besoin de",
+        "en-US": "to need",
+        "en-GB": "to need"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to need helps express necessity.",
+        "pt-BR": "O verbo precisar ajuda a expressar necessidade.",
+        "es-ES": "El verbo necesitar ayuda a expresar necesidad.",
+        "fr-FR": "Le verbe avoir besoin aide à exprimer la nécessité.",
+        "en-US": "The verb to need helps express necessity.",
+        "en-GB": "The verb to need helps express necessity."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will need",
+        "pt-BR": "eu precisarei",
+        "es-ES": "yo necesitaré",
+        "fr-FR": "j'aurai besoin de",
+        "en-US": "I will need",
+        "en-GB": "I will need"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I will need more practice.",
+        "pt-BR": "Eu precisarei de mais prática.",
+        "es-ES": "Yo necesitaré más práctica.",
+        "fr-FR": "J’aurai besoin de plus de pratique.",
+        "en-US": "I will need more practice.",
+        "en-GB": "I will need more practice."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will need",
+        "pt-BR": "você precisará",
+        "es-ES": "tú necesitarás",
+        "fr-FR": "tu auras besoin de",
+        "en-US": "you will need",
+        "en-GB": "you will need"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You will need a ticket.",
+        "pt-BR": "Você precisará de um bilhete.",
+        "es-ES": "Tú necesitarás un billete.",
+        "fr-FR": "Tu auras besoin d’un billet.",
+        "en-US": "You will need a ticket.",
+        "en-GB": "You will need a ticket."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will need",
+        "pt-BR": "ele precisará",
+        "es-ES": "él necesitará",
+        "fr-FR": "il aura besoin de",
+        "en-US": "he will need",
+        "en-GB": "he will need"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He will need more time.",
+        "pt-BR": "Ele precisará de mais tempo.",
+        "es-ES": "Él necesitará más tiempo.",
+        "fr-FR": "Il aura besoin de plus de temps.",
+        "en-US": "He will need more time.",
+        "en-GB": "He will need more time."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will need",
+        "pt-BR": "ela precisará",
+        "es-ES": "ella necesitará",
+        "fr-FR": "elle aura besoin de",
+        "en-US": "she will need",
+        "en-GB": "she will need"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She will need a new notebook.",
+        "pt-BR": "Ela precisará de um caderno novo.",
+        "es-ES": "Ella necesitará un cuaderno nuevo.",
+        "fr-FR": "Elle aura besoin d’un nouveau cahier.",
+        "en-US": "She will need a new notebook.",
+        "en-GB": "She will need a new notebook."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will need",
+        "pt-BR": "precisará",
+        "es-ES": "necesitará",
+        "fr-FR": "il aura besoin de",
+        "en-US": "it will need",
+        "en-GB": "it will need"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It will need more space.",
+        "pt-BR": "Precisará de mais espaço.",
+        "es-ES": "Necesitará más espacio.",
+        "fr-FR": "Il aura besoin de plus d’espace.",
+        "en-US": "It will need more space.",
+        "en-GB": "It will need more space."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will need",
+        "pt-BR": "nós precisaremos",
+        "es-ES": "nosotros necesitaremos",
+        "fr-FR": "nous aurons besoin de",
+        "en-US": "we will need",
+        "en-GB": "we will need"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We will need a bigger table.",
+        "pt-BR": "Nós precisaremos de uma mesa maior.",
+        "es-ES": "Nosotros necesitaremos una mesa más grande.",
+        "fr-FR": "Nous aurons besoin d’une plus grande table.",
+        "en-US": "We will need a bigger table.",
+        "en-GB": "We will need a bigger table."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will need (plural)",
+        "pt-BR": "vocês precisarão",
+        "es-ES": "ustedes necesitarán",
+        "fr-FR": "vous aurez besoin de",
+        "en-US": "you will need (plural)",
+        "en-GB": "you will need (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all will need clear directions.",
+        "pt-BR": "Vocês precisarão de instruções claras.",
+        "es-ES": "Ustedes necesitarán instrucciones claras.",
+        "fr-FR": "Vous aurez besoin d’indications claires.",
+        "en-US": "You all will need clear directions.",
+        "en-GB": "You all will need clear directions."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will need",
+        "pt-BR": "eles precisarão",
+        "es-ES": "ellos necesitarán",
+        "fr-FR": "ils auront besoin de",
+        "en-US": "they will need",
+        "en-GB": "they will need"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They will need more help tomorrow.",
+        "pt-BR": "Eles precisarão de mais ajuda amanhã.",
+        "es-ES": "Ellos necesitarán más ayuda mañana.",
+        "fr-FR": "Ils auront besoin de plus d’aide demain.",
+        "en-US": "They will need more help tomorrow.",
+        "en-GB": "They will need more help tomorrow."
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_eat_simple_future",
+  "title": "To Eat",
+  "titles": {
+    "en": "To Eat",
+    "pt": "Comer",
+    "es": "Comer",
+    "fr": "Manger"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_eat_simple_future.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Eat",
+      "pt": "Comer",
+      "es": "Comer",
+      "fr": "Manger"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple future of to eat.",
+      "pt-BR": "Vamos estudar o futuro simples de comer.",
+      "es-ES": "Vamos a estudiar el futuro simple de comer.",
+      "fr-FR": "Étudions le futur simple de manger.",
+      "en-US": "Let's study the simple future of to eat.",
+      "en-GB": "Let's study the simple future of to eat."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to eat",
+        "pt-BR": "comer",
+        "es-ES": "comer",
+        "fr-FR": "manger",
+        "en-US": "to eat",
+        "en-GB": "to eat"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to eat is useful in daily routines.",
+        "pt-BR": "O verbo comer é útil nas rotinas diárias.",
+        "es-ES": "El verbo comer es útil en las rutinas diarias.",
+        "fr-FR": "Le verbe manger est utile dans les routines quotidiennes.",
+        "en-US": "The verb to eat is useful in daily routines.",
+        "en-GB": "The verb to eat is useful in daily routines."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will eat",
+        "pt-BR": "eu comerei",
+        "es-ES": "yo comeré",
+        "fr-FR": "je mangerai",
+        "en-US": "I will eat",
+        "en-GB": "I will eat"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I will eat at home tonight.",
+        "pt-BR": "Eu comerei em casa esta noite.",
+        "es-ES": "Yo comeré en casa esta noche.",
+        "fr-FR": "Je mangerai à la maison ce soir.",
+        "en-US": "I will eat at home tonight.",
+        "en-GB": "I will eat at home tonight."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will eat",
+        "pt-BR": "você comerá",
+        "es-ES": "tú comerás",
+        "fr-FR": "tu mangeras",
+        "en-US": "you will eat",
+        "en-GB": "you will eat"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You will eat breakfast early.",
+        "pt-BR": "Você comerá o café da manhã cedo.",
+        "es-ES": "Tú comerás el desayuno temprano.",
+        "fr-FR": "Tu mangeras tôt le petit-déjeuner.",
+        "en-US": "You will eat breakfast early.",
+        "en-GB": "You will eat breakfast early."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will eat",
+        "pt-BR": "ele comerá",
+        "es-ES": "él comerá",
+        "fr-FR": "il mangera",
+        "en-US": "he will eat",
+        "en-GB": "he will eat"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He will eat with us tomorrow.",
+        "pt-BR": "Ele comerá conosco amanhã.",
+        "es-ES": "Él comerá con nosotros mañana.",
+        "fr-FR": "Il mangera avec nous demain.",
+        "en-US": "He will eat with us tomorrow.",
+        "en-GB": "He will eat with us tomorrow."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will eat",
+        "pt-BR": "ela comerá",
+        "es-ES": "ella comerá",
+        "fr-FR": "elle mangera",
+        "en-US": "she will eat",
+        "en-GB": "she will eat"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She will eat after class.",
+        "pt-BR": "Ela comerá depois da aula.",
+        "es-ES": "Ella comerá después de clase.",
+        "fr-FR": "Elle mangera après le cours.",
+        "en-US": "She will eat after class.",
+        "en-GB": "She will eat after class."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will eat",
+        "pt-BR": "comerá",
+        "es-ES": "comerá",
+        "fr-FR": "il mangera",
+        "en-US": "it will eat",
+        "en-GB": "it will eat"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It will eat in a few minutes.",
+        "pt-BR": "Comerá em alguns minutos.",
+        "es-ES": "Comerá en unos minutos.",
+        "fr-FR": "Il mangera dans quelques minutes.",
+        "en-US": "It will eat in a few minutes.",
+        "en-GB": "It will eat in a few minutes."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will eat",
+        "pt-BR": "nós comeremos",
+        "es-ES": "nosotros comeremos",
+        "fr-FR": "nous mangerons",
+        "en-US": "we will eat",
+        "en-GB": "we will eat"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We will eat together on Sunday.",
+        "pt-BR": "Nós comeremos juntos no domingo.",
+        "es-ES": "Nosotros comeremos juntos el domingo.",
+        "fr-FR": "Nous mangerons ensemble dimanche.",
+        "en-US": "We will eat together on Sunday.",
+        "en-GB": "We will eat together on Sunday."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will eat (plural)",
+        "pt-BR": "vocês comerão",
+        "es-ES": "ustedes comerán",
+        "fr-FR": "vous mangerez",
+        "en-US": "you will eat (plural)",
+        "en-GB": "you will eat (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all will eat at noon.",
+        "pt-BR": "Vocês comerão ao meio-dia.",
+        "es-ES": "Ustedes comerán al mediodía.",
+        "fr-FR": "Vous mangerez à midi.",
+        "en-US": "You all will eat at noon.",
+        "en-GB": "You all will eat at noon."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will eat",
+        "pt-BR": "eles comerão",
+        "es-ES": "ellos comerán",
+        "fr-FR": "ils mangeront",
+        "en-US": "they will eat",
+        "en-GB": "they will eat"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They will eat at the new restaurant.",
+        "pt-BR": "Eles comerão no restaurante novo.",
+        "es-ES": "Ellos comerán en el restaurante nuevo.",
+        "fr-FR": "Ils mangeront au nouveau restaurant.",
+        "en-US": "They will eat at the new restaurant.",
+        "en-GB": "They will eat at the new restaurant."
+      }
+    }
+  ]
+}

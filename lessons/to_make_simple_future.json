@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_make_simple_future",
+  "title": "To Make",
+  "titles": {
+    "en": "To Make",
+    "pt": "Fazer",
+    "es": "Hacer",
+    "fr": "Faire"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to make.",
+    "pt-BR": "Vamos estudar o futuro simples de fazer.",
+    "es-ES": "Vamos a estudiar el futuro simple de hacer.",
+    "fr-FR": "Étudions le futur simple de faire."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to make",
+        "pt-BR": "fazer",
+        "es-ES": "hacer",
+        "fr-FR": "faire"
+      },
+      "sample_sentences": {
+        "en": "The verb to make is used for creation and results.",
+        "pt-BR": "O verbo fazer é usado para criação e resultados.",
+        "es-ES": "El verbo hacer se usa para creación y resultados.",
+        "fr-FR": "Le verbe faire sert pour la création et les résultats."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will make",
+        "pt-BR": "eu farei",
+        "es-ES": "yo haré",
+        "fr-FR": "je ferai"
+      },
+      "sample_sentences": {
+        "en": "I will make dinner tonight.",
+        "pt-BR": "Eu farei o jantar esta noite.",
+        "es-ES": "Yo haré la cena esta noche.",
+        "fr-FR": "Je ferai le dîner ce soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will make",
+        "pt-BR": "você fará",
+        "es-ES": "tú harás",
+        "fr-FR": "tu feras"
+      },
+      "sample_sentences": {
+        "en": "You will make a cake tomorrow.",
+        "pt-BR": "Você fará um bolo amanhã.",
+        "es-ES": "Tú harás un pastel mañana.",
+        "fr-FR": "Tu feras un gâteau demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will make",
+        "pt-BR": "ele fará",
+        "es-ES": "él hará",
+        "fr-FR": "il fera"
+      },
+      "sample_sentences": {
+        "en": "He will make coffee for everyone.",
+        "pt-BR": "Ele fará café para todos.",
+        "es-ES": "Él hará café para todos.",
+        "fr-FR": "Il fera du café pour tout le monde."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will make",
+        "pt-BR": "ela fará",
+        "es-ES": "ella hará",
+        "fr-FR": "elle fera"
+      },
+      "sample_sentences": {
+        "en": "She will make a list before the trip.",
+        "pt-BR": "Ela fará uma lista antes da viagem.",
+        "es-ES": "Ella hará una lista antes del viaje.",
+        "fr-FR": "Elle fera une liste avant le voyage."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will make",
+        "pt-BR": "fará",
+        "es-ES": "hará",
+        "fr-FR": "il fera"
+      },
+      "sample_sentences": {
+        "en": "It will make a loud sound.",
+        "pt-BR": "Fará um som alto.",
+        "es-ES": "Hará un sonido fuerte.",
+        "fr-FR": "Il fera un bruit fort."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will make",
+        "pt-BR": "nós faremos",
+        "es-ES": "nosotros haremos",
+        "fr-FR": "nous ferons"
+      },
+      "sample_sentences": {
+        "en": "We will make a plan together.",
+        "pt-BR": "Nós faremos um plano juntos.",
+        "es-ES": "Nosotros haremos un plan juntos.",
+        "fr-FR": "Nous ferons un plan ensemble."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will make (plural)",
+        "pt-BR": "vocês farão",
+        "es-ES": "ustedes harán",
+        "fr-FR": "vous ferez"
+      },
+      "sample_sentences": {
+        "en": "You all will make good progress.",
+        "pt-BR": "Vocês farão um bom progresso.",
+        "es-ES": "Ustedes harán un buen progreso.",
+        "fr-FR": "Vous ferez de bons progrès."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will make",
+        "pt-BR": "eles farão",
+        "es-ES": "ellos harán",
+        "fr-FR": "ils feront"
+      },
+      "sample_sentences": {
+        "en": "They will make a new website soon.",
+        "pt-BR": "Eles farão um novo site em breve.",
+        "es-ES": "Ellos harán un nuevo sitio web pronto.",
+        "fr-FR": "Ils feront un nouveau site bientôt."
+      }
+    }
+  ]
+}

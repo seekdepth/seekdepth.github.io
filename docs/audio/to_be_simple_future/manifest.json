@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_be_simple_future",
+  "title": "To Be",
+  "titles": {
+    "en": "To Be",
+    "pt": "Ser / Estar",
+    "es": "Ser / Estar",
+    "fr": "Être"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_be_simple_future.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Be",
+      "pt": "Ser / Estar",
+      "es": "Ser / Estar",
+      "fr": "Être"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple future of to be.",
+      "pt-BR": "Vamos estudar o futuro simples de ser e estar.",
+      "es-ES": "Vamos a estudiar el futuro simple de ser y estar.",
+      "fr-FR": "Étudions le futur simple de être.",
+      "en-US": "Let's study the simple future of to be.",
+      "en-GB": "Let's study the simple future of to be."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to be",
+        "pt-BR": "ser e estar",
+        "es-ES": "ser y estar",
+        "fr-FR": "être",
+        "en-US": "to be",
+        "en-GB": "to be"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to be is used in many future expressions.",
+        "pt-BR": "Os verbos ser e estar aparecem em muitas expressões no futuro.",
+        "es-ES": "Los verbos ser y estar aparecen en muchas expresiones en el futuro.",
+        "fr-FR": "Le verbe être apparaît dans beaucoup d’expressions au futur.",
+        "en-US": "The verb to be is used in many future expressions.",
+        "en-GB": "The verb to be is used in many future expressions."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will be",
+        "pt-BR": "eu estarei",
+        "es-ES": "yo estaré",
+        "fr-FR": "je serai",
+        "en-US": "I will be",
+        "en-GB": "I will be"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I will be at home tonight.",
+        "pt-BR": "Eu estarei em casa esta noite.",
+        "es-ES": "Yo estaré en casa esta noche.",
+        "fr-FR": "Je serai à la maison ce soir.",
+        "en-US": "I will be at home tonight.",
+        "en-GB": "I will be at home tonight."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will be",
+        "pt-BR": "você será",
+        "es-ES": "tú serás",
+        "fr-FR": "tu seras",
+        "en-US": "you will be",
+        "en-GB": "you will be"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You will be my partner tomorrow.",
+        "pt-BR": "Você será meu parceiro amanhã.",
+        "es-ES": "Tú serás mi compañero mañana.",
+        "fr-FR": "Tu seras mon partenaire demain.",
+        "en-US": "You will be my partner tomorrow.",
+        "en-GB": "You will be my partner tomorrow."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will be",
+        "pt-BR": "ele estará",
+        "es-ES": "él estará",
+        "fr-FR": "il sera",
+        "en-US": "he will be",
+        "en-GB": "he will be"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He will be at work early.",
+        "pt-BR": "Ele estará no trabalho cedo.",
+        "es-ES": "Él estará en el trabajo temprano.",
+        "fr-FR": "Il sera au travail tôt.",
+        "en-US": "He will be at work early.",
+        "en-GB": "He will be at work early."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will be",
+        "pt-BR": "ela estará",
+        "es-ES": "ella estará",
+        "fr-FR": "elle sera",
+        "en-US": "she will be",
+        "en-GB": "she will be"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She will be happy to help.",
+        "pt-BR": "Ela estará feliz em ajudar.",
+        "es-ES": "Ella estará feliz de ayudar.",
+        "fr-FR": "Elle sera heureuse d’aider.",
+        "en-US": "She will be happy to help.",
+        "en-GB": "She will be happy to help."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will be",
+        "pt-BR": "será",
+        "es-ES": "será",
+        "fr-FR": "ce sera",
+        "en-US": "it will be",
+        "en-GB": "it will be"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It will be a long trip.",
+        "pt-BR": "Será uma viagem longa.",
+        "es-ES": "Será un viaje largo.",
+        "fr-FR": "Ce sera un long voyage.",
+        "en-US": "It will be a long trip.",
+        "en-GB": "It will be a long trip."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will be",
+        "pt-BR": "nós estaremos",
+        "es-ES": "nosotros estaremos",
+        "fr-FR": "nous serons",
+        "en-US": "we will be",
+        "en-GB": "we will be"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We will be ready soon.",
+        "pt-BR": "Nós estaremos prontos em breve.",
+        "es-ES": "Nosotros estaremos listos pronto.",
+        "fr-FR": "Nous serons prêts bientôt.",
+        "en-US": "We will be ready soon.",
+        "en-GB": "We will be ready soon."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will be (plural)",
+        "pt-BR": "vocês estarão",
+        "es-ES": "ustedes estarán",
+        "fr-FR": "vous serez",
+        "en-US": "you will be (plural)",
+        "en-GB": "you will be (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all will be welcome here.",
+        "pt-BR": "Vocês estarão bem-vindos aqui.",
+        "es-ES": "Ustedes serán bienvenidos aquí.",
+        "fr-FR": "Vous serez les bienvenus ici.",
+        "en-US": "You all will be welcome here.",
+        "en-GB": "You all will be welcome here."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will be",
+        "pt-BR": "eles estarão",
+        "es-ES": "ellos estarán",
+        "fr-FR": "ils seront",
+        "en-US": "they will be",
+        "en-GB": "they will be"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They will be in class on Monday.",
+        "pt-BR": "Eles estarão na aula na segunda-feira.",
+        "es-ES": "Ellos estarán en clase el lunes.",
+        "fr-FR": "Ils seront en cours lundi.",
+        "en-US": "They will be in class on Monday.",
+        "en-GB": "They will be in class on Monday."
+      }
+    }
+  ]
+}

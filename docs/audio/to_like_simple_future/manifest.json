@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_like_simple_future",
+  "title": "To Like",
+  "titles": {
+    "en": "To Like",
+    "pt": "Gostar",
+    "es": "Gustar",
+    "fr": "Aimer"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_like_simple_future.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Like",
+      "pt": "Gostar",
+      "es": "Gustar",
+      "fr": "Aimer"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple future of to like.",
+      "pt-BR": "Vamos estudar o futuro simples de gostar.",
+      "es-ES": "Vamos a estudiar el futuro simple de gustar.",
+      "fr-FR": "Étudions le futur simple de aimer.",
+      "en-US": "Let's study the simple future of to like.",
+      "en-GB": "Let's study the simple future of to like."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to like",
+        "pt-BR": "gostar",
+        "es-ES": "gustar",
+        "fr-FR": "aimer",
+        "en-US": "to like",
+        "en-GB": "to like"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to like helps express preferences.",
+        "pt-BR": "O verbo gostar ajuda a expressar preferências.",
+        "es-ES": "El verbo gustar ayuda a expresar preferencias.",
+        "fr-FR": "Le verbe aimer aide à exprimer des préférences.",
+        "en-US": "The verb to like helps express preferences.",
+        "en-GB": "The verb to like helps express preferences."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will like",
+        "pt-BR": "eu gostarei",
+        "es-ES": "me gustará",
+        "fr-FR": "j'aimerai",
+        "en-US": "I will like",
+        "en-GB": "I will like"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I will like that restaurant.",
+        "pt-BR": "Eu gostarei daquele restaurante.",
+        "es-ES": "Me gustará ese restaurante.",
+        "fr-FR": "J’aimerai ce restaurant.",
+        "en-US": "I will like that restaurant.",
+        "en-GB": "I will like that restaurant."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will like",
+        "pt-BR": "você gostará",
+        "es-ES": "te gustará",
+        "fr-FR": "tu aimeras",
+        "en-US": "you will like",
+        "en-GB": "you will like"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You will like this lesson.",
+        "pt-BR": "Você gostará desta lição.",
+        "es-ES": "Te gustará esta lección.",
+        "fr-FR": "Tu aimeras cette leçon.",
+        "en-US": "You will like this lesson.",
+        "en-GB": "You will like this lesson."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will like",
+        "pt-BR": "ele gostará",
+        "es-ES": "le gustará",
+        "fr-FR": "il aimera",
+        "en-US": "he will like",
+        "en-GB": "he will like"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He will like the new apartment.",
+        "pt-BR": "Ele gostará do apartamento novo.",
+        "es-ES": "Le gustará el apartamento nuevo.",
+        "fr-FR": "Il aimera le nouvel appartement.",
+        "en-US": "He will like the new apartment.",
+        "en-GB": "He will like the new apartment."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will like",
+        "pt-BR": "ela gostará",
+        "es-ES": "le gustará",
+        "fr-FR": "elle aimera",
+        "en-US": "she will like",
+        "en-GB": "she will like"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She will like the blue dress.",
+        "pt-BR": "Ela gostará do vestido azul.",
+        "es-ES": "Le gustará el vestido azul.",
+        "fr-FR": "Elle aimera la robe bleue.",
+        "en-US": "She will like the blue dress.",
+        "en-GB": "She will like the blue dress."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will like",
+        "pt-BR": "gostará",
+        "es-ES": "le gustará",
+        "fr-FR": "il aimera",
+        "en-US": "it will like",
+        "en-GB": "it will like"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It will like the new space.",
+        "pt-BR": "Gostará do novo espaço.",
+        "es-ES": "Le gustará el nuevo espacio.",
+        "fr-FR": "Il aimera le nouvel espace.",
+        "en-US": "It will like the new space.",
+        "en-GB": "It will like the new space."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will like",
+        "pt-BR": "nós gostaremos",
+        "es-ES": "nos gustará",
+        "fr-FR": "nous aimerons",
+        "en-US": "we will like",
+        "en-GB": "we will like"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We will like this city.",
+        "pt-BR": "Nós gostaremos desta cidade.",
+        "es-ES": "Nos gustará esta ciudad.",
+        "fr-FR": "Nous aimerons cette ville.",
+        "en-US": "We will like this city.",
+        "en-GB": "We will like this city."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will like (plural)",
+        "pt-BR": "vocês gostarão",
+        "es-ES": "les gustará",
+        "fr-FR": "vous aimerez",
+        "en-US": "you will like (plural)",
+        "en-GB": "you will like (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all will like the music.",
+        "pt-BR": "Vocês gostarão da música.",
+        "es-ES": "Les gustará la música.",
+        "fr-FR": "Vous aimerez la musique.",
+        "en-US": "You all will like the music.",
+        "en-GB": "You all will like the music."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will like",
+        "pt-BR": "eles gostarão",
+        "es-ES": "les gustará",
+        "fr-FR": "ils aimeront",
+        "en-US": "they will like",
+        "en-GB": "they will like"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They will like the new teacher.",
+        "pt-BR": "Eles gostarão do novo professor.",
+        "es-ES": "Les gustará el nuevo profesor.",
+        "fr-FR": "Ils aimeront le nouveau professeur.",
+        "en-US": "They will like the new teacher.",
+        "en-GB": "They will like the new teacher."
+      }
+    }
+  ]
+}

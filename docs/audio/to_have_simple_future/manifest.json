@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_have_simple_future",
+  "title": "To Have",
+  "titles": {
+    "en": "To Have",
+    "pt": "Ter",
+    "es": "Tener",
+    "fr": "Avoir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_have_simple_future.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Have",
+      "pt": "Ter",
+      "es": "Tener",
+      "fr": "Avoir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple future of to have.",
+      "pt-BR": "Vamos estudar o futuro simples de ter.",
+      "es-ES": "Vamos a estudiar el futuro simple de tener.",
+      "fr-FR": "Étudions le futur simple de avoir.",
+      "en-US": "Let's study the simple future of to have.",
+      "en-GB": "Let's study the simple future of to have."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to have",
+        "pt-BR": "ter",
+        "es-ES": "tener",
+        "fr-FR": "avoir",
+        "en-US": "to have",
+        "en-GB": "to have"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to have is very common in the future.",
+        "pt-BR": "O verbo ter é muito comum no futuro.",
+        "es-ES": "El verbo tener es muy común en el futuro.",
+        "fr-FR": "Le verbe avoir est très courant au futur.",
+        "en-US": "The verb to have is very common in the future.",
+        "en-GB": "The verb to have is very common in the future."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will have",
+        "pt-BR": "eu terei",
+        "es-ES": "yo tendré",
+        "fr-FR": "j'aurai",
+        "en-US": "I will have",
+        "en-GB": "I will have"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I will have more time tomorrow.",
+        "pt-BR": "Eu terei mais tempo amanhã.",
+        "es-ES": "Yo tendré más tiempo mañana.",
+        "fr-FR": "J’aurai plus de temps demain.",
+        "en-US": "I will have more time tomorrow.",
+        "en-GB": "I will have more time tomorrow."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will have",
+        "pt-BR": "você terá",
+        "es-ES": "tú tendrás",
+        "fr-FR": "tu auras",
+        "en-US": "you will have",
+        "en-GB": "you will have"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You will have a good idea soon.",
+        "pt-BR": "Você terá uma boa ideia em breve.",
+        "es-ES": "Tú tendrás una buena idea pronto.",
+        "fr-FR": "Tu auras bientôt une bonne idée.",
+        "en-US": "You will have a good idea soon.",
+        "en-GB": "You will have a good idea soon."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will have",
+        "pt-BR": "ele terá",
+        "es-ES": "él tendrá",
+        "fr-FR": "il aura",
+        "en-US": "he will have",
+        "en-GB": "he will have"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He will have a meeting this afternoon.",
+        "pt-BR": "Ele terá uma reunião esta tarde.",
+        "es-ES": "Él tendrá una reunión esta tarde.",
+        "fr-FR": "Il aura une réunion cet après-midi.",
+        "en-US": "He will have a meeting this afternoon.",
+        "en-GB": "He will have a meeting this afternoon."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will have",
+        "pt-BR": "ela terá",
+        "es-ES": "ella tendrá",
+        "fr-FR": "elle aura",
+        "en-US": "she will have",
+        "en-GB": "she will have"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She will have a red bag.",
+        "pt-BR": "Ela terá uma bolsa vermelha.",
+        "es-ES": "Ella tendrá un bolso rojo.",
+        "fr-FR": "Elle aura un sac rouge.",
+        "en-US": "She will have a red bag.",
+        "en-GB": "She will have a red bag."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will have",
+        "pt-BR": "terá",
+        "es-ES": "tendrá",
+        "fr-FR": "il aura",
+        "en-US": "it will have",
+        "en-GB": "it will have"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It will have four wheels.",
+        "pt-BR": "Terá quatro rodas.",
+        "es-ES": "Tendrá cuatro ruedas.",
+        "fr-FR": "Il aura quatre roues.",
+        "en-US": "It will have four wheels.",
+        "en-GB": "It will have four wheels."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will have",
+        "pt-BR": "nós teremos",
+        "es-ES": "nosotros tendremos",
+        "fr-FR": "nous aurons",
+        "en-US": "we will have",
+        "en-GB": "we will have"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We will have time before lunch.",
+        "pt-BR": "Nós teremos tempo antes do almoço.",
+        "es-ES": "Nosotros tendremos tiempo antes del almuerzo.",
+        "fr-FR": "Nous aurons du temps avant le déjeuner.",
+        "en-US": "We will have time before lunch.",
+        "en-GB": "We will have time before lunch."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will have (plural)",
+        "pt-BR": "vocês terão",
+        "es-ES": "ustedes tendrán",
+        "fr-FR": "vous aurez",
+        "en-US": "you will have (plural)",
+        "en-GB": "you will have (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all will have the same teacher.",
+        "pt-BR": "Vocês terão o mesmo professor.",
+        "es-ES": "Ustedes tendrán el mismo profesor.",
+        "fr-FR": "Vous aurez le même professeur.",
+        "en-US": "You all will have the same teacher.",
+        "en-GB": "You all will have the same teacher."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will have",
+        "pt-BR": "eles terão",
+        "es-ES": "ellos tendrán",
+        "fr-FR": "ils auront",
+        "en-US": "they will have",
+        "en-GB": "they will have"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They will have a new apartment next year.",
+        "pt-BR": "Eles terão um apartamento novo no próximo ano.",
+        "es-ES": "Ellos tendrán un apartamento nuevo el próximo año.",
+        "fr-FR": "Ils auront un nouvel appartement l’année prochaine.",
+        "en-US": "They will have a new apartment next year.",
+        "en-GB": "They will have a new apartment next year."
+      }
+    }
+  ]
+}

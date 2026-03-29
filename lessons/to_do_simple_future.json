@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_do_simple_future",
+  "title": "To Do",
+  "titles": {
+    "en": "To Do",
+    "pt": "Fazer",
+    "es": "Hacer",
+    "fr": "Faire"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to do.",
+    "pt-BR": "Vamos estudar o futuro simples de fazer.",
+    "es-ES": "Vamos a estudiar el futuro simple de hacer.",
+    "fr-FR": "Étudions le futur simple de faire."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to do",
+        "pt-BR": "fazer",
+        "es-ES": "hacer",
+        "fr-FR": "faire"
+      },
+      "sample_sentences": {
+        "en": "The verb to do appears in many daily actions.",
+        "pt-BR": "O verbo fazer aparece em muitas ações do dia a dia.",
+        "es-ES": "El verbo hacer aparece en muchas acciones cotidianas.",
+        "fr-FR": "Le verbe faire apparaît dans beaucoup d’actions quotidiennes."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will do",
+        "pt-BR": "eu farei",
+        "es-ES": "yo haré",
+        "fr-FR": "je ferai"
+      },
+      "sample_sentences": {
+        "en": "I will do the homework tonight.",
+        "pt-BR": "Eu farei a lição esta noite.",
+        "es-ES": "Yo haré la tarea esta noche.",
+        "fr-FR": "Je ferai les devoirs ce soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will do",
+        "pt-BR": "você fará",
+        "es-ES": "tú harás",
+        "fr-FR": "tu feras"
+      },
+      "sample_sentences": {
+        "en": "You will do a great job.",
+        "pt-BR": "Você fará um ótimo trabalho.",
+        "es-ES": "Tú harás un gran trabajo.",
+        "fr-FR": "Tu feras un excellent travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will do",
+        "pt-BR": "ele fará",
+        "es-ES": "él hará",
+        "fr-FR": "il fera"
+      },
+      "sample_sentences": {
+        "en": "He will do the dishes later.",
+        "pt-BR": "Ele fará a louça depois.",
+        "es-ES": "Él hará los platos después.",
+        "fr-FR": "Il fera la vaisselle plus tard."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will do",
+        "pt-BR": "ela fará",
+        "es-ES": "ella hará",
+        "fr-FR": "elle fera"
+      },
+      "sample_sentences": {
+        "en": "She will do the shopping tomorrow.",
+        "pt-BR": "Ela fará as compras amanhã.",
+        "es-ES": "Ella hará las compras mañana.",
+        "fr-FR": "Elle fera les courses demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will do",
+        "pt-BR": "fará",
+        "es-ES": "hará",
+        "fr-FR": "il fera"
+      },
+      "sample_sentences": {
+        "en": "It will do the job well.",
+        "pt-BR": "Fará o trabalho bem.",
+        "es-ES": "Hará el trabajo bien.",
+        "fr-FR": "Il fera bien le travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will do",
+        "pt-BR": "nós faremos",
+        "es-ES": "nosotros haremos",
+        "fr-FR": "nous ferons"
+      },
+      "sample_sentences": {
+        "en": "We will do that together.",
+        "pt-BR": "Nós faremos isso juntos.",
+        "es-ES": "Nosotros haremos eso juntos.",
+        "fr-FR": "Nous ferons cela ensemble."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will do (plural)",
+        "pt-BR": "vocês farão",
+        "es-ES": "ustedes harán",
+        "fr-FR": "vous ferez"
+      },
+      "sample_sentences": {
+        "en": "You all will do the project next week.",
+        "pt-BR": "Vocês farão o projeto na próxima semana.",
+        "es-ES": "Ustedes harán el proyecto la próxima semana.",
+        "fr-FR": "Vous ferez le projet la semaine prochaine."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will do",
+        "pt-BR": "eles farão",
+        "es-ES": "ellos harán",
+        "fr-FR": "ils feront"
+      },
+      "sample_sentences": {
+        "en": "They will do more practice tomorrow.",
+        "pt-BR": "Eles farão mais prática amanhã.",
+        "es-ES": "Ellos harán más práctica mañana.",
+        "fr-FR": "Ils feront plus de pratique demain."
+      }
+    }
+  ]
+}

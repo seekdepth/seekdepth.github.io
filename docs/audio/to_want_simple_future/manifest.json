@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_want_simple_future",
+  "title": "To Want",
+  "titles": {
+    "en": "To Want",
+    "pt": "Querer",
+    "es": "Querer",
+    "fr": "Vouloir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_want_simple_future.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Want",
+      "pt": "Querer",
+      "es": "Querer",
+      "fr": "Vouloir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple future of to want.",
+      "pt-BR": "Vamos estudar o futuro simples de querer.",
+      "es-ES": "Vamos a estudiar el futuro simple de querer.",
+      "fr-FR": "Étudions le futur simple de vouloir.",
+      "en-US": "Let's study the simple future of to want.",
+      "en-GB": "Let's study the simple future of to want."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to want",
+        "pt-BR": "querer",
+        "es-ES": "querer",
+        "fr-FR": "vouloir",
+        "en-US": "to want",
+        "en-GB": "to want"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to want is useful for preferences and plans.",
+        "pt-BR": "O verbo querer é útil para preferências e planos.",
+        "es-ES": "El verbo querer es útil para preferencias y planes.",
+        "fr-FR": "Le verbe vouloir est utile pour les préférences et les projets.",
+        "en-US": "The verb to want is useful for preferences and plans.",
+        "en-GB": "The verb to want is useful for preferences and plans."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will want",
+        "pt-BR": "eu quererei",
+        "es-ES": "yo querré",
+        "fr-FR": "je voudrai",
+        "en-US": "I will want",
+        "en-GB": "I will want"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I will want more time to study.",
+        "pt-BR": "Eu quererei mais tempo para estudar.",
+        "es-ES": "Yo querré más tiempo para estudiar.",
+        "fr-FR": "Je voudrai plus de temps pour étudier.",
+        "en-US": "I will want more time to study.",
+        "en-GB": "I will want more time to study."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will want",
+        "pt-BR": "você quererá",
+        "es-ES": "tú querrás",
+        "fr-FR": "tu voudras",
+        "en-US": "you will want",
+        "en-GB": "you will want"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You will want a cup of coffee.",
+        "pt-BR": "Você quererá uma xícara de café.",
+        "es-ES": "Tú querrás una taza de café.",
+        "fr-FR": "Tu voudras une tasse de café.",
+        "en-US": "You will want a cup of coffee.",
+        "en-GB": "You will want a cup of coffee."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will want",
+        "pt-BR": "ele quererá",
+        "es-ES": "él querrá",
+        "fr-FR": "il voudra",
+        "en-US": "he will want",
+        "en-GB": "he will want"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He will want the blue shirt.",
+        "pt-BR": "Ele quererá a camisa azul.",
+        "es-ES": "Él querrá la camisa azul.",
+        "fr-FR": "Il voudra la chemise bleue.",
+        "en-US": "He will want the blue shirt.",
+        "en-GB": "He will want the blue shirt."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will want",
+        "pt-BR": "ela quererá",
+        "es-ES": "ella querrá",
+        "fr-FR": "elle voudra",
+        "en-US": "she will want",
+        "en-GB": "she will want"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She will want to rest later.",
+        "pt-BR": "Ela quererá descansar depois.",
+        "es-ES": "Ella querrá descansar después.",
+        "fr-FR": "Elle voudra se reposer plus tard.",
+        "en-US": "She will want to rest later.",
+        "en-GB": "She will want to rest later."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will want",
+        "pt-BR": "quererá",
+        "es-ES": "querrá",
+        "fr-FR": "il voudra",
+        "en-US": "it will want",
+        "en-GB": "it will want"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It will want more water.",
+        "pt-BR": "Quererá mais água.",
+        "es-ES": "Querrá más agua.",
+        "fr-FR": "Il voudra plus d’eau.",
+        "en-US": "It will want more water.",
+        "en-GB": "It will want more water."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will want",
+        "pt-BR": "nós quereremos",
+        "es-ES": "nosotros querremos",
+        "fr-FR": "nous voudrons",
+        "en-US": "we will want",
+        "en-GB": "we will want"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We will want a bigger table.",
+        "pt-BR": "Nós quereremos uma mesa maior.",
+        "es-ES": "Nosotros querremos una mesa más grande.",
+        "fr-FR": "Nous voudrons une plus grande table.",
+        "en-US": "We will want a bigger table.",
+        "en-GB": "We will want a bigger table."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will want (plural)",
+        "pt-BR": "vocês quererão",
+        "es-ES": "ustedes querrán",
+        "fr-FR": "vous voudrez",
+        "en-US": "you will want (plural)",
+        "en-GB": "you will want (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all will want clear instructions.",
+        "pt-BR": "Vocês quererão instruções claras.",
+        "es-ES": "Ustedes querrán instrucciones claras.",
+        "fr-FR": "Vous voudrez des instructions claires.",
+        "en-US": "You all will want clear instructions.",
+        "en-GB": "You all will want clear instructions."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will want",
+        "pt-BR": "eles quererão",
+        "es-ES": "ellos querrán",
+        "fr-FR": "ils voudront",
+        "en-US": "they will want",
+        "en-GB": "they will want"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They will want to leave early.",
+        "pt-BR": "Eles quererão sair cedo.",
+        "es-ES": "Ellos querrán salir temprano.",
+        "fr-FR": "Ils voudront partir tôt.",
+        "en-US": "They will want to leave early.",
+        "en-GB": "They will want to leave early."
+      }
+    }
+  ]
+}

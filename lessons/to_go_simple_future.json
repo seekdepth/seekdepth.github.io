@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_go_simple_future",
+  "title": "To Go",
+  "titles": {
+    "en": "To Go",
+    "pt": "Ir",
+    "es": "Ir",
+    "fr": "Aller"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to go.",
+    "pt-BR": "Vamos estudar o futuro simples de ir.",
+    "es-ES": "Vamos a estudiar el futuro simple de ir.",
+    "fr-FR": "Étudions le futur simple de aller."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to go",
+        "pt-BR": "ir",
+        "es-ES": "ir",
+        "fr-FR": "aller"
+      },
+      "sample_sentences": {
+        "en": "The verb to go is useful for future plans.",
+        "pt-BR": "O verbo ir é útil para falar de planos futuros.",
+        "es-ES": "El verbo ir es útil para hablar de planes futuros.",
+        "fr-FR": "Le verbe aller est utile pour parler de projets futurs."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will go",
+        "pt-BR": "eu irei",
+        "es-ES": "yo iré",
+        "fr-FR": "j'irai"
+      },
+      "sample_sentences": {
+        "en": "I will go to work early.",
+        "pt-BR": "Eu irei ao trabalho cedo.",
+        "es-ES": "Yo iré al trabajo temprano.",
+        "fr-FR": "J’irai au travail tôt."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will go",
+        "pt-BR": "você irá",
+        "es-ES": "tú irás",
+        "fr-FR": "tu iras"
+      },
+      "sample_sentences": {
+        "en": "You will go by bus tomorrow.",
+        "pt-BR": "Você irá de ônibus amanhã.",
+        "es-ES": "Tú irás en autobús mañana.",
+        "fr-FR": "Tu iras en bus demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will go",
+        "pt-BR": "ele irá",
+        "es-ES": "él irá",
+        "fr-FR": "il ira"
+      },
+      "sample_sentences": {
+        "en": "He will go to the gym after work.",
+        "pt-BR": "Ele irá para a academia depois do trabalho.",
+        "es-ES": "Él irá al gimnasio después del trabajo.",
+        "fr-FR": "Il ira à la salle de sport après le travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will go",
+        "pt-BR": "ela irá",
+        "es-ES": "ella irá",
+        "fr-FR": "elle ira"
+      },
+      "sample_sentences": {
+        "en": "She will go to school in the morning.",
+        "pt-BR": "Ela irá para a escola de manhã.",
+        "es-ES": "Ella irá a la escuela por la mañana.",
+        "fr-FR": "Elle ira à l’école le matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will go",
+        "pt-BR": "irá",
+        "es-ES": "irá",
+        "fr-FR": "il ira"
+      },
+      "sample_sentences": {
+        "en": "It will go very fast.",
+        "pt-BR": "Irá muito rápido.",
+        "es-ES": "Irá muy rápido.",
+        "fr-FR": "Il ira très vite."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will go",
+        "pt-BR": "nós iremos",
+        "es-ES": "nosotros iremos",
+        "fr-FR": "nous irons"
+      },
+      "sample_sentences": {
+        "en": "We will go together on Friday.",
+        "pt-BR": "Nós iremos juntos na sexta-feira.",
+        "es-ES": "Nosotros iremos juntos el viernes.",
+        "fr-FR": "Nous irons ensemble vendredi."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will go (plural)",
+        "pt-BR": "vocês irão",
+        "es-ES": "ustedes irán",
+        "fr-FR": "vous irez"
+      },
+      "sample_sentences": {
+        "en": "You all will go after lunch.",
+        "pt-BR": "Vocês irão depois do almoço.",
+        "es-ES": "Ustedes irán después del almuerzo.",
+        "fr-FR": "Vous irez après le déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will go",
+        "pt-BR": "eles irão",
+        "es-ES": "ellos irán",
+        "fr-FR": "ils iront"
+      },
+      "sample_sentences": {
+        "en": "They will go to the beach next week.",
+        "pt-BR": "Eles irão à praia na próxima semana.",
+        "es-ES": "Ellos irán a la playa la próxima semana.",
+        "fr-FR": "Ils iront à la plage la semaine prochaine."
+      }
+    }
+  ]
+}

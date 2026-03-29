@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_be_simple_future",
+  "title": "To Be",
+  "titles": {
+    "en": "To Be",
+    "pt": "Ser / Estar",
+    "es": "Ser / Estar",
+    "fr": "Être"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to be.",
+    "pt-BR": "Vamos estudar o futuro simples de ser e estar.",
+    "es-ES": "Vamos a estudiar el futuro simple de ser y estar.",
+    "fr-FR": "Étudions le futur simple de être."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to be",
+        "pt-BR": "ser e estar",
+        "es-ES": "ser y estar",
+        "fr-FR": "être"
+      },
+      "sample_sentences": {
+        "en": "The verb to be is used in many future expressions.",
+        "pt-BR": "Os verbos ser e estar aparecem em muitas expressões no futuro.",
+        "es-ES": "Los verbos ser y estar aparecen en muchas expresiones en el futuro.",
+        "fr-FR": "Le verbe être apparaît dans beaucoup d’expressions au futur."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will be",
+        "pt-BR": "eu estarei",
+        "es-ES": "yo estaré",
+        "fr-FR": "je serai"
+      },
+      "sample_sentences": {
+        "en": "I will be at home tonight.",
+        "pt-BR": "Eu estarei em casa esta noite.",
+        "es-ES": "Yo estaré en casa esta noche.",
+        "fr-FR": "Je serai à la maison ce soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will be",
+        "pt-BR": "você será",
+        "es-ES": "tú serás",
+        "fr-FR": "tu seras"
+      },
+      "sample_sentences": {
+        "en": "You will be my partner tomorrow.",
+        "pt-BR": "Você será meu parceiro amanhã.",
+        "es-ES": "Tú serás mi compañero mañana.",
+        "fr-FR": "Tu seras mon partenaire demain."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will be",
+        "pt-BR": "ele estará",
+        "es-ES": "él estará",
+        "fr-FR": "il sera"
+      },
+      "sample_sentences": {
+        "en": "He will be at work early.",
+        "pt-BR": "Ele estará no trabalho cedo.",
+        "es-ES": "Él estará en el trabajo temprano.",
+        "fr-FR": "Il sera au travail tôt."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will be",
+        "pt-BR": "ela estará",
+        "es-ES": "ella estará",
+        "fr-FR": "elle sera"
+      },
+      "sample_sentences": {
+        "en": "She will be happy to help.",
+        "pt-BR": "Ela estará feliz em ajudar.",
+        "es-ES": "Ella estará feliz de ayudar.",
+        "fr-FR": "Elle sera heureuse d’aider."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will be",
+        "pt-BR": "será",
+        "es-ES": "será",
+        "fr-FR": "ce sera"
+      },
+      "sample_sentences": {
+        "en": "It will be a long trip.",
+        "pt-BR": "Será uma viagem longa.",
+        "es-ES": "Será un viaje largo.",
+        "fr-FR": "Ce sera un long voyage."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will be",
+        "pt-BR": "nós estaremos",
+        "es-ES": "nosotros estaremos",
+        "fr-FR": "nous serons"
+      },
+      "sample_sentences": {
+        "en": "We will be ready soon.",
+        "pt-BR": "Nós estaremos prontos em breve.",
+        "es-ES": "Nosotros estaremos listos pronto.",
+        "fr-FR": "Nous serons prêts bientôt."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will be (plural)",
+        "pt-BR": "vocês estarão",
+        "es-ES": "ustedes estarán",
+        "fr-FR": "vous serez"
+      },
+      "sample_sentences": {
+        "en": "You all will be welcome here.",
+        "pt-BR": "Vocês estarão bem-vindos aqui.",
+        "es-ES": "Ustedes serán bienvenidos aquí.",
+        "fr-FR": "Vous serez les bienvenus ici."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will be",
+        "pt-BR": "eles estarão",
+        "es-ES": "ellos estarán",
+        "fr-FR": "ils seront"
+      },
+      "sample_sentences": {
+        "en": "They will be in class on Monday.",
+        "pt-BR": "Eles estarão na aula na segunda-feira.",
+        "es-ES": "Ellos estarán en clase el lunes.",
+        "fr-FR": "Ils seront en cours lundi."
+      }
+    }
+  ]
+}

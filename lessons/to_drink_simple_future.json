@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_drink_simple_future",
+  "title": "To Drink",
+  "titles": {
+    "en": "To Drink",
+    "pt": "Beber",
+    "es": "Beber",
+    "fr": "Boire"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to drink.",
+    "pt-BR": "Vamos estudar o futuro simples de beber.",
+    "es-ES": "Vamos a estudiar el futuro simple de beber.",
+    "fr-FR": "Étudions le futur simple de boire."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to drink",
+        "pt-BR": "beber",
+        "es-ES": "beber",
+        "fr-FR": "boire"
+      },
+      "sample_sentences": {
+        "en": "The verb to drink is common in everyday speech.",
+        "pt-BR": "O verbo beber é comum na fala do dia a dia.",
+        "es-ES": "El verbo beber es común en el habla cotidiana.",
+        "fr-FR": "Le verbe boire est courant dans la conversation quotidienne."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will drink",
+        "pt-BR": "eu beberei",
+        "es-ES": "yo beberé",
+        "fr-FR": "je boirai"
+      },
+      "sample_sentences": {
+        "en": "I will drink tea tonight.",
+        "pt-BR": "Eu beberei chá esta noite.",
+        "es-ES": "Yo beberé té esta noche.",
+        "fr-FR": "Je boirai du thé ce soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will drink",
+        "pt-BR": "você beberá",
+        "es-ES": "tú beberás",
+        "fr-FR": "tu boiras"
+      },
+      "sample_sentences": {
+        "en": "You will drink water after class.",
+        "pt-BR": "Você beberá água depois da aula.",
+        "es-ES": "Tú beberás agua después de clase.",
+        "fr-FR": "Tu boiras de l’eau après le cours."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will drink",
+        "pt-BR": "ele beberá",
+        "es-ES": "él beberá",
+        "fr-FR": "il boira"
+      },
+      "sample_sentences": {
+        "en": "He will drink coffee in the morning.",
+        "pt-BR": "Ele beberá café pela manhã.",
+        "es-ES": "Él beberá café por la mañana.",
+        "fr-FR": "Il boira du café le matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will drink",
+        "pt-BR": "ela beberá",
+        "es-ES": "ella beberá",
+        "fr-FR": "elle boira"
+      },
+      "sample_sentences": {
+        "en": "She will drink juice with lunch.",
+        "pt-BR": "Ela beberá suco com o almoço.",
+        "es-ES": "Ella beberá jugo con el almuerzo.",
+        "fr-FR": "Elle boira du jus avec le déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will drink",
+        "pt-BR": "beberá",
+        "es-ES": "beberá",
+        "fr-FR": "il boira"
+      },
+      "sample_sentences": {
+        "en": "It will drink more water later.",
+        "pt-BR": "Beberá mais água depois.",
+        "es-ES": "Beberá más agua después.",
+        "fr-FR": "Il boira plus d’eau plus tard."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will drink",
+        "pt-BR": "nós beberemos",
+        "es-ES": "nosotros beberemos",
+        "fr-FR": "nous boirons"
+      },
+      "sample_sentences": {
+        "en": "We will drink coffee together.",
+        "pt-BR": "Nós beberemos café juntos.",
+        "es-ES": "Nosotros beberemos café juntos.",
+        "fr-FR": "Nous boirons du café ensemble."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will drink (plural)",
+        "pt-BR": "vocês beberão",
+        "es-ES": "ustedes beberán",
+        "fr-FR": "vous boirez"
+      },
+      "sample_sentences": {
+        "en": "You all will drink something cold.",
+        "pt-BR": "Vocês beberão algo gelado.",
+        "es-ES": "Ustedes beberán algo frío.",
+        "fr-FR": "Vous boirez quelque chose de frais."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will drink",
+        "pt-BR": "eles beberão",
+        "es-ES": "ellos beberán",
+        "fr-FR": "ils boiront"
+      },
+      "sample_sentences": {
+        "en": "They will drink tea after dinner.",
+        "pt-BR": "Eles beberão chá depois do jantar.",
+        "es-ES": "Ellos beberán té después de la cena.",
+        "fr-FR": "Ils boiront du thé après le dîner."
+      }
+    }
+  ]
+}

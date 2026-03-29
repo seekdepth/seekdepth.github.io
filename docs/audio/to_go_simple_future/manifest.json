@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_go_simple_future",
+  "title": "To Go",
+  "titles": {
+    "en": "To Go",
+    "pt": "Ir",
+    "es": "Ir",
+    "fr": "Aller"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_go_simple_future.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Go",
+      "pt": "Ir",
+      "es": "Ir",
+      "fr": "Aller"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple future of to go.",
+      "pt-BR": "Vamos estudar o futuro simples de ir.",
+      "es-ES": "Vamos a estudiar el futuro simple de ir.",
+      "fr-FR": "Étudions le futur simple de aller.",
+      "en-US": "Let's study the simple future of to go.",
+      "en-GB": "Let's study the simple future of to go."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to go",
+        "pt-BR": "ir",
+        "es-ES": "ir",
+        "fr-FR": "aller",
+        "en-US": "to go",
+        "en-GB": "to go"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to go is useful for future plans.",
+        "pt-BR": "O verbo ir é útil para falar de planos futuros.",
+        "es-ES": "El verbo ir es útil para hablar de planes futuros.",
+        "fr-FR": "Le verbe aller est utile pour parler de projets futurs.",
+        "en-US": "The verb to go is useful for future plans.",
+        "en-GB": "The verb to go is useful for future plans."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will go",
+        "pt-BR": "eu irei",
+        "es-ES": "yo iré",
+        "fr-FR": "j'irai",
+        "en-US": "I will go",
+        "en-GB": "I will go"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I will go to work early.",
+        "pt-BR": "Eu irei ao trabalho cedo.",
+        "es-ES": "Yo iré al trabajo temprano.",
+        "fr-FR": "J’irai au travail tôt.",
+        "en-US": "I will go to work early.",
+        "en-GB": "I will go to work early."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will go",
+        "pt-BR": "você irá",
+        "es-ES": "tú irás",
+        "fr-FR": "tu iras",
+        "en-US": "you will go",
+        "en-GB": "you will go"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You will go by bus tomorrow.",
+        "pt-BR": "Você irá de ônibus amanhã.",
+        "es-ES": "Tú irás en autobús mañana.",
+        "fr-FR": "Tu iras en bus demain.",
+        "en-US": "You will go by bus tomorrow.",
+        "en-GB": "You will go by bus tomorrow."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will go",
+        "pt-BR": "ele irá",
+        "es-ES": "él irá",
+        "fr-FR": "il ira",
+        "en-US": "he will go",
+        "en-GB": "he will go"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He will go to the gym after work.",
+        "pt-BR": "Ele irá para a academia depois do trabalho.",
+        "es-ES": "Él irá al gimnasio después del trabajo.",
+        "fr-FR": "Il ira à la salle de sport après le travail.",
+        "en-US": "He will go to the gym after work.",
+        "en-GB": "He will go to the gym after work."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will go",
+        "pt-BR": "ela irá",
+        "es-ES": "ella irá",
+        "fr-FR": "elle ira",
+        "en-US": "she will go",
+        "en-GB": "she will go"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She will go to school in the morning.",
+        "pt-BR": "Ela irá para a escola de manhã.",
+        "es-ES": "Ella irá a la escuela por la mañana.",
+        "fr-FR": "Elle ira à l’école le matin.",
+        "en-US": "She will go to school in the morning.",
+        "en-GB": "She will go to school in the morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will go",
+        "pt-BR": "irá",
+        "es-ES": "irá",
+        "fr-FR": "il ira",
+        "en-US": "it will go",
+        "en-GB": "it will go"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It will go very fast.",
+        "pt-BR": "Irá muito rápido.",
+        "es-ES": "Irá muy rápido.",
+        "fr-FR": "Il ira très vite.",
+        "en-US": "It will go very fast.",
+        "en-GB": "It will go very fast."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will go",
+        "pt-BR": "nós iremos",
+        "es-ES": "nosotros iremos",
+        "fr-FR": "nous irons",
+        "en-US": "we will go",
+        "en-GB": "we will go"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We will go together on Friday.",
+        "pt-BR": "Nós iremos juntos na sexta-feira.",
+        "es-ES": "Nosotros iremos juntos el viernes.",
+        "fr-FR": "Nous irons ensemble vendredi.",
+        "en-US": "We will go together on Friday.",
+        "en-GB": "We will go together on Friday."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will go (plural)",
+        "pt-BR": "vocês irão",
+        "es-ES": "ustedes irán",
+        "fr-FR": "vous irez",
+        "en-US": "you will go (plural)",
+        "en-GB": "you will go (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all will go after lunch.",
+        "pt-BR": "Vocês irão depois do almoço.",
+        "es-ES": "Ustedes irán después del almuerzo.",
+        "fr-FR": "Vous irez après le déjeuner.",
+        "en-US": "You all will go after lunch.",
+        "en-GB": "You all will go after lunch."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will go",
+        "pt-BR": "eles irão",
+        "es-ES": "ellos irán",
+        "fr-FR": "ils iront",
+        "en-US": "they will go",
+        "en-GB": "they will go"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They will go to the beach next week.",
+        "pt-BR": "Eles irão à praia na próxima semana.",
+        "es-ES": "Ellos irán a la playa la próxima semana.",
+        "fr-FR": "Ils iront à la plage la semaine prochaine.",
+        "en-US": "They will go to the beach next week.",
+        "en-GB": "They will go to the beach next week."
+      }
+    }
+  ]
+}

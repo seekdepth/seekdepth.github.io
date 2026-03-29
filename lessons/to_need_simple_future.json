@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_need_simple_future",
+  "title": "To Need",
+  "titles": {
+    "en": "To Need",
+    "pt": "Precisar",
+    "es": "Necesitar",
+    "fr": "Avoir Besoin / Devoir"
+  },
+  "category": "verbs_simple_future",
+  "tense": "simple_future",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple future of to need.",
+    "pt-BR": "Vamos estudar o futuro simples de precisar.",
+    "es-ES": "Vamos a estudiar el futuro simple de necesitar.",
+    "fr-FR": "Étudions le futur simple de avoir besoin."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to need",
+        "pt-BR": "precisar",
+        "es-ES": "necesitar",
+        "fr-FR": "avoir besoin de"
+      },
+      "sample_sentences": {
+        "en": "The verb to need helps express necessity.",
+        "pt-BR": "O verbo precisar ajuda a expressar necessidade.",
+        "es-ES": "El verbo necesitar ayuda a expresar necesidad.",
+        "fr-FR": "Le verbe avoir besoin aide à exprimer la nécessité."
+      }
+    },
+    {
+      "terms": {
+        "en": "I will need",
+        "pt-BR": "eu precisarei",
+        "es-ES": "yo necesitaré",
+        "fr-FR": "j'aurai besoin de"
+      },
+      "sample_sentences": {
+        "en": "I will need more practice.",
+        "pt-BR": "Eu precisarei de mais prática.",
+        "es-ES": "Yo necesitaré más práctica.",
+        "fr-FR": "J’aurai besoin de plus de pratique."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will need",
+        "pt-BR": "você precisará",
+        "es-ES": "tú necesitarás",
+        "fr-FR": "tu auras besoin de"
+      },
+      "sample_sentences": {
+        "en": "You will need a ticket.",
+        "pt-BR": "Você precisará de um bilhete.",
+        "es-ES": "Tú necesitarás un billete.",
+        "fr-FR": "Tu auras besoin d’un billet."
+      }
+    },
+    {
+      "terms": {
+        "en": "he will need",
+        "pt-BR": "ele precisará",
+        "es-ES": "él necesitará",
+        "fr-FR": "il aura besoin de"
+      },
+      "sample_sentences": {
+        "en": "He will need more time.",
+        "pt-BR": "Ele precisará de mais tempo.",
+        "es-ES": "Él necesitará más tiempo.",
+        "fr-FR": "Il aura besoin de plus de temps."
+      }
+    },
+    {
+      "terms": {
+        "en": "she will need",
+        "pt-BR": "ela precisará",
+        "es-ES": "ella necesitará",
+        "fr-FR": "elle aura besoin de"
+      },
+      "sample_sentences": {
+        "en": "She will need a new notebook.",
+        "pt-BR": "Ela precisará de um caderno novo.",
+        "es-ES": "Ella necesitará un cuaderno nuevo.",
+        "fr-FR": "Elle aura besoin d’un nouveau cahier."
+      }
+    },
+    {
+      "terms": {
+        "en": "it will need",
+        "pt-BR": "precisará",
+        "es-ES": "necesitará",
+        "fr-FR": "il aura besoin de"
+      },
+      "sample_sentences": {
+        "en": "It will need more space.",
+        "pt-BR": "Precisará de mais espaço.",
+        "es-ES": "Necesitará más espacio.",
+        "fr-FR": "Il aura besoin de plus d’espace."
+      }
+    },
+    {
+      "terms": {
+        "en": "we will need",
+        "pt-BR": "nós precisaremos",
+        "es-ES": "nosotros necesitaremos",
+        "fr-FR": "nous aurons besoin de"
+      },
+      "sample_sentences": {
+        "en": "We will need a bigger table.",
+        "pt-BR": "Nós precisaremos de uma mesa maior.",
+        "es-ES": "Nosotros necesitaremos una mesa más grande.",
+        "fr-FR": "Nous aurons besoin d’une plus grande table."
+      }
+    },
+    {
+      "terms": {
+        "en": "you will need (plural)",
+        "pt-BR": "vocês precisarão",
+        "es-ES": "ustedes necesitarán",
+        "fr-FR": "vous aurez besoin de"
+      },
+      "sample_sentences": {
+        "en": "You all will need clear directions.",
+        "pt-BR": "Vocês precisarão de instruções claras.",
+        "es-ES": "Ustedes necesitarán instrucciones claras.",
+        "fr-FR": "Vous aurez besoin d’indications claires."
+      }
+    },
+    {
+      "terms": {
+        "en": "they will need",
+        "pt-BR": "eles precisarão",
+        "es-ES": "ellos necesitarán",
+        "fr-FR": "ils auront besoin de"
+      },
+      "sample_sentences": {
+        "en": "They will need more help tomorrow.",
+        "pt-BR": "Eles precisarão de mais ajuda amanhã.",
+        "es-ES": "Ellos necesitarán más ayuda mañana.",
+        "fr-FR": "Ils auront besoin de plus d’aide demain."
+      }
+    }
+  ]
+}
