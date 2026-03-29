@@ -1,0 +1,152 @@
+{
+  "lesson_id": "to_have",
+  "title": "To Have",
+  "titles": {
+    "en": "To Have",
+    "pt": "Ter",
+    "es": "Tener",
+    "fr": "Avoir"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the verb to have.",
+    "pt-BR": "Vamos estudar o verbo ter.",
+    "es-ES": "Vamos a estudiar el verbo tener.",
+    "fr-FR": "Étudions le verbe avoir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to have",
+        "pt-BR": "ter",
+        "es-ES": "tener",
+        "fr-FR": "avoir"
+      },
+      "sample_sentences": {
+        "en": "The verb to have is very important.",
+        "pt-BR": "O verbo ter é muito importante.",
+        "es-ES": "El verbo tener es muy importante.",
+        "fr-FR": "Le verbe avoir est très important."
+      }
+    },
+    {
+      "terms": {
+        "en": "I have",
+        "pt-BR": "eu tenho",
+        "es-ES": "yo tengo",
+        "fr-FR": "j'ai"
+      },
+      "sample_sentences": {
+        "en": "I have a new book.",
+        "pt-BR": "Eu tenho um livro novo.",
+        "es-ES": "Yo tengo un libro nuevo.",
+        "fr-FR": "J'ai un nouveau livre."
+      }
+    },
+    {
+      "terms": {
+        "en": "you have",
+        "pt-BR": "você tem",
+        "es-ES": "tú tienes",
+        "fr-FR": "tu as"
+      },
+      "sample_sentences": {
+        "en": "You have a good idea.",
+        "pt-BR": "Você tem uma boa ideia.",
+        "es-ES": "Tú tienes una buena idea.",
+        "fr-FR": "Tu as une bonne idée."
+      }
+    },
+    {
+      "terms": {
+        "en": "he has",
+        "pt-BR": "ele tem",
+        "es-ES": "él tiene",
+        "fr-FR": "il a"
+      },
+      "sample_sentences": {
+        "en": "He has a meeting this afternoon.",
+        "pt-BR": "Ele tem uma reunião esta tarde.",
+        "es-ES": "Él tiene una reunión esta tarde.",
+        "fr-FR": "Il a une réunion cet après-midi."
+      }
+    },
+    {
+      "terms": {
+        "en": "she has",
+        "pt-BR": "ela tem",
+        "es-ES": "ella tiene",
+        "fr-FR": "elle a"
+      },
+      "sample_sentences": {
+        "en": "She has a red bag.",
+        "pt-BR": "Ela tem uma bolsa vermelha.",
+        "es-ES": "Ella tiene un bolso rojo.",
+        "fr-FR": "Elle a un sac rouge."
+      }
+    },
+    {
+      "terms": {
+        "en": "it has",
+        "pt-BR": "tem",
+        "es-ES": "tiene",
+        "fr-FR": "il a"
+      },
+      "sample_sentences": {
+        "en": "It has four wheels.",
+        "pt-BR": "Tem quatro rodas.",
+        "es-ES": "Tiene cuatro ruedas.",
+        "fr-FR": "Il a quatre roues."
+      }
+    },
+    {
+      "terms": {
+        "en": "we have",
+        "pt-BR": "nós temos",
+        "es-ES": "nosotros tenemos",
+        "fr-FR": "nous avons"
+      },
+      "sample_sentences": {
+        "en": "We have time before lunch.",
+        "pt-BR": "Nós temos tempo antes do almoço.",
+        "es-ES": "Nosotros tenemos tiempo antes del almuerzo.",
+        "fr-FR": "Nous avons du temps avant le déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "you have (plural)",
+        "pt-BR": "vocês têm",
+        "es-ES": "ustedes tienen",
+        "fr-FR": "vous avez"
+      },
+      "sample_sentences": {
+        "en": "You all have the same teacher.",
+        "pt-BR": "Vocês têm o mesmo professor.",
+        "es-ES": "Ustedes tienen el mismo profesor.",
+        "fr-FR": "Vous avez le même professeur."
+      }
+    },
+    {
+      "terms": {
+        "en": "they have",
+        "pt-BR": "eles têm",
+        "es-ES": "ellos tienen",
+        "fr-FR": "ils ont"
+      },
+      "sample_sentences": {
+        "en": "They have a house near the river.",
+        "pt-BR": "Eles têm uma casa perto do rio.",
+        "es-ES": "Ellos tienen una casa cerca del río.",
+        "fr-FR": "Ils ont une maison près de la rivière."
+      }
+    }
+  ]
+}

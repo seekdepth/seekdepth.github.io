@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_have",
+  "title": "To Have",
+  "titles": {
+    "en": "To Have",
+    "pt": "Ter",
+    "es": "Tener",
+    "fr": "Avoir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_have.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Have",
+      "pt": "Ter",
+      "es": "Tener",
+      "fr": "Avoir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the verb to have.",
+      "pt-BR": "Vamos estudar o verbo ter.",
+      "es-ES": "Vamos a estudiar el verbo tener.",
+      "fr-FR": "Étudions le verbe avoir.",
+      "en-US": "Let's study the verb to have.",
+      "en-GB": "Let's study the verb to have."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to have",
+        "pt-BR": "ter",
+        "es-ES": "tener",
+        "fr-FR": "avoir",
+        "en-US": "to have",
+        "en-GB": "to have"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to have is very important.",
+        "pt-BR": "O verbo ter é muito importante.",
+        "es-ES": "El verbo tener es muy importante.",
+        "fr-FR": "Le verbe avoir est très important.",
+        "en-US": "The verb to have is very important.",
+        "en-GB": "The verb to have is very important."
+      }
+    },
+    {
+      "terms": {
+        "en": "I have",
+        "pt-BR": "eu tenho",
+        "es-ES": "yo tengo",
+        "fr-FR": "j'ai",
+        "en-US": "I have",
+        "en-GB": "I have"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I have a new book.",
+        "pt-BR": "Eu tenho um livro novo.",
+        "es-ES": "Yo tengo un libro nuevo.",
+        "fr-FR": "J'ai un nouveau livre.",
+        "en-US": "I have a new book.",
+        "en-GB": "I have a new book."
+      }
+    },
+    {
+      "terms": {
+        "en": "you have",
+        "pt-BR": "você tem",
+        "es-ES": "tú tienes",
+        "fr-FR": "tu as",
+        "en-US": "you have",
+        "en-GB": "you have"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You have a good idea.",
+        "pt-BR": "Você tem uma boa ideia.",
+        "es-ES": "Tú tienes una buena idea.",
+        "fr-FR": "Tu as une bonne idée.",
+        "en-US": "You have a good idea.",
+        "en-GB": "You have a good idea."
+      }
+    },
+    {
+      "terms": {
+        "en": "he has",
+        "pt-BR": "ele tem",
+        "es-ES": "él tiene",
+        "fr-FR": "il a",
+        "en-US": "he has",
+        "en-GB": "he has"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He has a meeting this afternoon.",
+        "pt-BR": "Ele tem uma reunião esta tarde.",
+        "es-ES": "Él tiene una reunión esta tarde.",
+        "fr-FR": "Il a une réunion cet après-midi.",
+        "en-US": "He has a meeting this afternoon.",
+        "en-GB": "He has a meeting this afternoon."
+      }
+    },
+    {
+      "terms": {
+        "en": "she has",
+        "pt-BR": "ela tem",
+        "es-ES": "ella tiene",
+        "fr-FR": "elle a",
+        "en-US": "she has",
+        "en-GB": "she has"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She has a red bag.",
+        "pt-BR": "Ela tem uma bolsa vermelha.",
+        "es-ES": "Ella tiene un bolso rojo.",
+        "fr-FR": "Elle a un sac rouge.",
+        "en-US": "She has a red bag.",
+        "en-GB": "She has a red bag."
+      }
+    },
+    {
+      "terms": {
+        "en": "it has",
+        "pt-BR": "tem",
+        "es-ES": "tiene",
+        "fr-FR": "il a",
+        "en-US": "it has",
+        "en-GB": "it has"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It has four wheels.",
+        "pt-BR": "Tem quatro rodas.",
+        "es-ES": "Tiene cuatro ruedas.",
+        "fr-FR": "Il a quatre roues.",
+        "en-US": "It has four wheels.",
+        "en-GB": "It has four wheels."
+      }
+    },
+    {
+      "terms": {
+        "en": "we have",
+        "pt-BR": "nós temos",
+        "es-ES": "nosotros tenemos",
+        "fr-FR": "nous avons",
+        "en-US": "we have",
+        "en-GB": "we have"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We have time before lunch.",
+        "pt-BR": "Nós temos tempo antes do almoço.",
+        "es-ES": "Nosotros tenemos tiempo antes del almuerzo.",
+        "fr-FR": "Nous avons du temps avant le déjeuner.",
+        "en-US": "We have time before lunch.",
+        "en-GB": "We have time before lunch."
+      }
+    },
+    {
+      "terms": {
+        "en": "you have (plural)",
+        "pt-BR": "vocês têm",
+        "es-ES": "ustedes tienen",
+        "fr-FR": "vous avez",
+        "en-US": "you have (plural)",
+        "en-GB": "you have (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all have the same teacher.",
+        "pt-BR": "Vocês têm o mesmo professor.",
+        "es-ES": "Ustedes tienen el mismo profesor.",
+        "fr-FR": "Vous avez le même professeur.",
+        "en-US": "You all have the same teacher.",
+        "en-GB": "You all have the same teacher."
+      }
+    },
+    {
+      "terms": {
+        "en": "they have",
+        "pt-BR": "eles têm",
+        "es-ES": "ellos tienen",
+        "fr-FR": "ils ont",
+        "en-US": "they have",
+        "en-GB": "they have"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They have a house near the river.",
+        "pt-BR": "Eles têm uma casa perto do rio.",
+        "es-ES": "Ellos tienen una casa cerca del río.",
+        "fr-FR": "Ils ont une maison près de la rivière.",
+        "en-US": "They have a house near the river.",
+        "en-GB": "They have a house near the river."
+      }
+    }
+  ]
+}

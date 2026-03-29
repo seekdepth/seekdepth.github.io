@@ -1,0 +1,152 @@
+{
+  "lesson_id": "to_be",
+  "title": "To Be",
+  "titles": {
+    "en": "To Be",
+    "pt": "Ser / Estar",
+    "es": "Ser / Estar",
+    "fr": "Être"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the verb to be.",
+    "pt-BR": "Vamos estudar o verbo ser e estar.",
+    "es-ES": "Vamos a estudiar el verbo ser y estar.",
+    "fr-FR": "Étudions le verbe être."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to be",
+        "pt-BR": "ser e estar",
+        "es-ES": "ser y estar",
+        "fr-FR": "être"
+      },
+      "sample_sentences": {
+        "en": "The verb to be is very common.",
+        "pt-BR": "Os verbos ser e estar são muito comuns.",
+        "es-ES": "Los verbos ser y estar son muy comunes.",
+        "fr-FR": "Le verbe être est très courant."
+      }
+    },
+    {
+      "terms": {
+        "en": "I am",
+        "pt-BR": "eu estou",
+        "es-ES": "yo estoy",
+        "fr-FR": "je suis"
+      },
+      "sample_sentences": {
+        "en": "I am ready for class.",
+        "pt-BR": "Eu estou pronto para a aula.",
+        "es-ES": "Yo estoy listo para la clase.",
+        "fr-FR": "Je suis prêt pour le cours."
+      }
+    },
+    {
+      "terms": {
+        "en": "you are",
+        "pt-BR": "você é",
+        "es-ES": "tú eres",
+        "fr-FR": "tu es"
+      },
+      "sample_sentences": {
+        "en": "You are my friend.",
+        "pt-BR": "Você é meu amigo.",
+        "es-ES": "Tú eres mi amigo.",
+        "fr-FR": "Tu es mon ami."
+      }
+    },
+    {
+      "terms": {
+        "en": "he is",
+        "pt-BR": "ele está",
+        "es-ES": "él está",
+        "fr-FR": "il est"
+      },
+      "sample_sentences": {
+        "en": "He is at work now.",
+        "pt-BR": "Ele está no trabalho agora.",
+        "es-ES": "Él está en el trabajo ahora.",
+        "fr-FR": "Il est au travail maintenant."
+      }
+    },
+    {
+      "terms": {
+        "en": "she is",
+        "pt-BR": "ela está",
+        "es-ES": "ella está",
+        "fr-FR": "elle est"
+      },
+      "sample_sentences": {
+        "en": "She is happy today.",
+        "pt-BR": "Ela está feliz hoje.",
+        "es-ES": "Ella está feliz hoy.",
+        "fr-FR": "Elle est heureuse aujourd'hui."
+      }
+    },
+    {
+      "terms": {
+        "en": "it is",
+        "pt-BR": "é",
+        "es-ES": "es",
+        "fr-FR": "c'est"
+      },
+      "sample_sentences": {
+        "en": "It is a small house.",
+        "pt-BR": "É uma casa pequena.",
+        "es-ES": "Es una casa pequeña.",
+        "fr-FR": "C'est une petite maison."
+      }
+    },
+    {
+      "terms": {
+        "en": "we are",
+        "pt-BR": "nós estamos",
+        "es-ES": "nosotros estamos",
+        "fr-FR": "nous sommes"
+      },
+      "sample_sentences": {
+        "en": "We are at home.",
+        "pt-BR": "Nós estamos em casa.",
+        "es-ES": "Nosotros estamos en casa.",
+        "fr-FR": "Nous sommes à la maison."
+      }
+    },
+    {
+      "terms": {
+        "en": "you are (plural)",
+        "pt-BR": "vocês estão",
+        "es-ES": "ustedes están",
+        "fr-FR": "vous êtes"
+      },
+      "sample_sentences": {
+        "en": "You are all early today.",
+        "pt-BR": "Vocês estão adiantados hoje.",
+        "es-ES": "Ustedes están temprano hoy.",
+        "fr-FR": "Vous êtes en avance aujourd'hui."
+      }
+    },
+    {
+      "terms": {
+        "en": "they are",
+        "pt-BR": "eles são",
+        "es-ES": "ellos son",
+        "fr-FR": "ils sont"
+      },
+      "sample_sentences": {
+        "en": "They are from Brazil.",
+        "pt-BR": "Eles são do Brasil.",
+        "es-ES": "Ellos son de Brasil.",
+        "fr-FR": "Ils sont du Brésil."
+      }
+    }
+  ]
+}

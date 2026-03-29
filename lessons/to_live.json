@@ -1,0 +1,106 @@
+{
+  "lesson_id": "to_live",
+  "title": "To Live",
+  "titles": {
+    "en": "To Live",
+    "pt": "Morar / Viver",
+    "es": "Vivir",
+    "fr": "Vivre / Habiter"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to live.",
+    "pt-BR": "Vamos estudar os verbos morar e viver.",
+    "es-ES": "Vamos a estudiar el verbo vivir.",
+    "fr-FR": "Étudions les verbes vivre et habiter."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to live",
+        "pt-BR": "morar e viver",
+        "es-ES": "vivir",
+        "fr-FR": "vivre et habiter"
+      },
+      "sample_sentences": {
+        "en": "The verb to live is important for talking about home and life.",
+        "pt-BR": "Os verbos morar e viver são importantes para falar de casa e da vida.",
+        "es-ES": "El verbo vivir es importante para hablar del hogar y de la vida.",
+        "fr-FR": "Les verbes vivre et habiter sont importants pour parler du foyer et de la vie."
+      }
+    },
+    {
+      "terms": { "en": "I live", "pt-BR": "eu moro", "es-ES": "yo vivo", "fr-FR": "j'habite" },
+      "sample_sentences": {
+        "en": "I live near the station.",
+        "pt-BR": "Eu moro perto da estação.",
+        "es-ES": "Yo vivo cerca de la estación.",
+        "fr-FR": "J'habite près de la gare."
+      }
+    },
+    {
+      "terms": { "en": "you live", "pt-BR": "você mora", "es-ES": "tú vives", "fr-FR": "tu habites" },
+      "sample_sentences": {
+        "en": "You live in a small apartment.",
+        "pt-BR": "Você mora em um apartamento pequeno.",
+        "es-ES": "Tú vives en un apartamento pequeño.",
+        "fr-FR": "Tu habites dans un petit appartement."
+      }
+    },
+    {
+      "terms": { "en": "he lives", "pt-BR": "ele mora", "es-ES": "él vive", "fr-FR": "il habite" },
+      "sample_sentences": {
+        "en": "He lives with his family.",
+        "pt-BR": "Ele mora com a família.",
+        "es-ES": "Él vive con su familia.",
+        "fr-FR": "Il habite avec sa famille."
+      }
+    },
+    {
+      "terms": { "en": "she lives", "pt-BR": "ela mora", "es-ES": "ella vive", "fr-FR": "elle habite" },
+      "sample_sentences": {
+        "en": "She lives in the city center.",
+        "pt-BR": "Ela mora no centro da cidade.",
+        "es-ES": "Ella vive en el centro de la ciudad.",
+        "fr-FR": "Elle habite au centre-ville."
+      }
+    },
+    {
+      "terms": { "en": "it lives", "pt-BR": "vive", "es-ES": "vive", "fr-FR": "il vit" },
+      "sample_sentences": {
+        "en": "It lives in the forest.",
+        "pt-BR": "Vive na floresta.",
+        "es-ES": "Vive en el bosque.",
+        "fr-FR": "Il vit dans la forêt."
+      }
+    },
+    {
+      "terms": { "en": "we live", "pt-BR": "nós moramos", "es-ES": "nosotros vivimos", "fr-FR": "nous habitons" },
+      "sample_sentences": {
+        "en": "We live on the same street.",
+        "pt-BR": "Nós moramos na mesma rua.",
+        "es-ES": "Nosotros vivimos en la misma calle.",
+        "fr-FR": "Nous habitons dans la même rue."
+      }
+    },
+    {
+      "terms": { "en": "you live (plural)", "pt-BR": "vocês moram", "es-ES": "ustedes viven", "fr-FR": "vous habitez" },
+      "sample_sentences": {
+        "en": "You all live nearby.",
+        "pt-BR": "Vocês moram perto.",
+        "es-ES": "Ustedes viven cerca.",
+        "fr-FR": "Vous habitez tout près."
+      }
+    },
+    {
+      "terms": { "en": "they live", "pt-BR": "eles moram", "es-ES": "ellos viven", "fr-FR": "ils habitent" },
+      "sample_sentences": {
+        "en": "They live by the sea.",
+        "pt-BR": "Eles moram perto do mar.",
+        "es-ES": "Ellos viven junto al mar.",
+        "fr-FR": "Ils habitent près de la mer."
+      }
+    }
+  ]
+}

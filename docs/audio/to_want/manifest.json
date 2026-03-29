@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_want",
+  "title": "To Want",
+  "titles": {
+    "en": "To Want",
+    "pt": "Querer",
+    "es": "Querer",
+    "fr": "Vouloir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_want.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Want",
+      "pt": "Querer",
+      "es": "Querer",
+      "fr": "Vouloir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the verb to want.",
+      "pt-BR": "Vamos estudar o verbo querer.",
+      "es-ES": "Vamos a estudiar el verbo querer.",
+      "fr-FR": "Étudions le verbe vouloir.",
+      "en-US": "Let's study the verb to want.",
+      "en-GB": "Let's study the verb to want."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to want",
+        "pt-BR": "querer",
+        "es-ES": "querer",
+        "fr-FR": "vouloir",
+        "en-US": "to want",
+        "en-GB": "to want"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to want appears in many conversations.",
+        "pt-BR": "O verbo querer aparece em muitas conversas.",
+        "es-ES": "El verbo querer aparece en muchas conversaciones.",
+        "fr-FR": "Le verbe vouloir apparaît dans beaucoup de conversations.",
+        "en-US": "The verb to want appears in many conversations.",
+        "en-GB": "The verb to want appears in many conversations."
+      }
+    },
+    {
+      "terms": {
+        "en": "I want",
+        "pt-BR": "eu quero",
+        "es-ES": "yo quiero",
+        "fr-FR": "je veux",
+        "en-US": "I want",
+        "en-GB": "I want"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I want a cup of tea.",
+        "pt-BR": "Eu quero uma xícara de chá.",
+        "es-ES": "Yo quiero una taza de té.",
+        "fr-FR": "Je veux une tasse de thé.",
+        "en-US": "I want a cup of tea.",
+        "en-GB": "I want a cup of tea."
+      }
+    },
+    {
+      "terms": {
+        "en": "you want",
+        "pt-BR": "você quer",
+        "es-ES": "tú quieres",
+        "fr-FR": "tu veux",
+        "en-US": "you want",
+        "en-GB": "you want"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You want to leave early.",
+        "pt-BR": "Você quer sair cedo.",
+        "es-ES": "Tú quieres salir temprano.",
+        "fr-FR": "Tu veux partir tôt.",
+        "en-US": "You want to leave early.",
+        "en-GB": "You want to leave early."
+      }
+    },
+    {
+      "terms": {
+        "en": "he wants",
+        "pt-BR": "ele quer",
+        "es-ES": "él quiere",
+        "fr-FR": "il veut",
+        "en-US": "he wants",
+        "en-GB": "he wants"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He wants more time.",
+        "pt-BR": "Ele quer mais tempo.",
+        "es-ES": "Él quiere más tiempo.",
+        "fr-FR": "Il veut plus de temps.",
+        "en-US": "He wants more time.",
+        "en-GB": "He wants more time."
+      }
+    },
+    {
+      "terms": {
+        "en": "she wants",
+        "pt-BR": "ela quer",
+        "es-ES": "ella quiere",
+        "fr-FR": "elle veut",
+        "en-US": "she wants",
+        "en-GB": "she wants"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She wants a new notebook.",
+        "pt-BR": "Ela quer um caderno novo.",
+        "es-ES": "Ella quiere un cuaderno nuevo.",
+        "fr-FR": "Elle veut un nouveau cahier.",
+        "en-US": "She wants a new notebook.",
+        "en-GB": "She wants a new notebook."
+      }
+    },
+    {
+      "terms": {
+        "en": "it wants",
+        "pt-BR": "quer",
+        "es-ES": "quiere",
+        "fr-FR": "il veut",
+        "en-US": "it wants",
+        "en-GB": "it wants"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It wants more water.",
+        "pt-BR": "Quer mais água.",
+        "es-ES": "Quiere más agua.",
+        "fr-FR": "Il veut plus d'eau.",
+        "en-US": "It wants more water.",
+        "en-GB": "It wants more water."
+      }
+    },
+    {
+      "terms": {
+        "en": "we want",
+        "pt-BR": "nós queremos",
+        "es-ES": "nosotros queremos",
+        "fr-FR": "nous voulons",
+        "en-US": "we want",
+        "en-GB": "we want"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We want to travel this summer.",
+        "pt-BR": "Nós queremos viajar neste verão.",
+        "es-ES": "Nosotros queremos viajar este verano.",
+        "fr-FR": "Nous voulons voyager cet été.",
+        "en-US": "We want to travel this summer.",
+        "en-GB": "We want to travel this summer."
+      }
+    },
+    {
+      "terms": {
+        "en": "you want (plural)",
+        "pt-BR": "vocês querem",
+        "es-ES": "ustedes quieren",
+        "fr-FR": "vous voulez",
+        "en-US": "you want (plural)",
+        "en-GB": "you want (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all want the same thing.",
+        "pt-BR": "Vocês querem a mesma coisa.",
+        "es-ES": "Ustedes quieren lo mismo.",
+        "fr-FR": "Vous voulez la même chose.",
+        "en-US": "You all want the same thing.",
+        "en-GB": "You all want the same thing."
+      }
+    },
+    {
+      "terms": {
+        "en": "they want",
+        "pt-BR": "eles querem",
+        "es-ES": "ellos quieren",
+        "fr-FR": "ils veulent",
+        "en-US": "they want",
+        "en-GB": "they want"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They want to learn quickly.",
+        "pt-BR": "Eles querem aprender rápido.",
+        "es-ES": "Ellos quieren aprender rápido.",
+        "fr-FR": "Ils veulent apprendre vite.",
+        "en-US": "They want to learn quickly.",
+        "en-GB": "They want to learn quickly."
+      }
+    }
+  ]
+}

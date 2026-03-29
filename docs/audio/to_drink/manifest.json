@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_drink",
+  "title": "To Drink",
+  "titles": {
+    "en": "To Drink",
+    "pt": "Beber",
+    "es": "Beber",
+    "fr": "Boire"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_drink.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Drink",
+      "pt": "Beber",
+      "es": "Beber",
+      "fr": "Boire"
+    },
+    "sample_sentences": {
+      "en": "Let's study the verb to drink.",
+      "pt-BR": "Vamos estudar o verbo beber.",
+      "es-ES": "Vamos a estudiar el verbo beber.",
+      "fr-FR": "Étudions le verbe boire.",
+      "en-US": "Let's study the verb to drink.",
+      "en-GB": "Let's study the verb to drink."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to drink",
+        "pt-BR": "beber",
+        "es-ES": "beber",
+        "fr-FR": "boire",
+        "en-US": "to drink",
+        "en-GB": "to drink"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to drink is common in daily life.",
+        "pt-BR": "O verbo beber é comum na vida diária.",
+        "es-ES": "El verbo beber es común en la vida diaria.",
+        "fr-FR": "Le verbe boire est courant dans la vie quotidienne.",
+        "en-US": "The verb to drink is common in daily life.",
+        "en-GB": "The verb to drink is common in daily life."
+      }
+    },
+    {
+      "terms": {
+        "en": "I drink",
+        "pt-BR": "eu bebo",
+        "es-ES": "yo bebo",
+        "fr-FR": "je bois",
+        "en-US": "I drink",
+        "en-GB": "I drink"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I drink water all day.",
+        "pt-BR": "Eu bebo água o dia todo.",
+        "es-ES": "Yo bebo agua todo el día.",
+        "fr-FR": "Je bois de l'eau toute la journée.",
+        "en-US": "I drink water all day.",
+        "en-GB": "I drink water all day."
+      }
+    },
+    {
+      "terms": {
+        "en": "you drink",
+        "pt-BR": "você bebe",
+        "es-ES": "tú bebes",
+        "fr-FR": "tu bois",
+        "en-US": "you drink",
+        "en-GB": "you drink"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You drink tea at night.",
+        "pt-BR": "Você bebe chá à noite.",
+        "es-ES": "Tú bebes té por la noche.",
+        "fr-FR": "Tu bois du thé le soir.",
+        "en-US": "You drink tea at night.",
+        "en-GB": "You drink tea at night."
+      }
+    },
+    {
+      "terms": {
+        "en": "he drinks",
+        "pt-BR": "ele bebe",
+        "es-ES": "él bebe",
+        "fr-FR": "il boit",
+        "en-US": "he drinks",
+        "en-GB": "he drinks"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He drinks coffee before work.",
+        "pt-BR": "Ele bebe café antes do trabalho.",
+        "es-ES": "Él bebe café antes del trabajo.",
+        "fr-FR": "Il boit du café avant le travail.",
+        "en-US": "He drinks coffee before work.",
+        "en-GB": "He drinks coffee before work."
+      }
+    },
+    {
+      "terms": {
+        "en": "she drinks",
+        "pt-BR": "ela bebe",
+        "es-ES": "ella bebe",
+        "fr-FR": "elle boit",
+        "en-US": "she drinks",
+        "en-GB": "she drinks"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She drinks orange juice in the morning.",
+        "pt-BR": "Ela bebe suco de laranja pela manhã.",
+        "es-ES": "Ella bebe zumo de naranja por la mañana.",
+        "fr-FR": "Elle boit du jus d'orange le matin.",
+        "en-US": "She drinks orange juice in the morning.",
+        "en-GB": "She drinks orange juice in the morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "it drinks",
+        "pt-BR": "bebe",
+        "es-ES": "bebe",
+        "fr-FR": "il boit",
+        "en-US": "it drinks",
+        "en-GB": "it drinks"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It drinks from a small bowl.",
+        "pt-BR": "Bebe em uma tigela pequena.",
+        "es-ES": "Bebe de un cuenco pequeño.",
+        "fr-FR": "Il boit dans un petit bol.",
+        "en-US": "It drinks from a small bowl.",
+        "en-GB": "It drinks from a small bowl."
+      }
+    },
+    {
+      "terms": {
+        "en": "we drink",
+        "pt-BR": "nós bebemos",
+        "es-ES": "nosotros bebemos",
+        "fr-FR": "nous buvons",
+        "en-US": "we drink",
+        "en-GB": "we drink"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We drink cold water after running.",
+        "pt-BR": "Nós bebemos água gelada depois de correr.",
+        "es-ES": "Nosotros bebemos agua fría después de correr.",
+        "fr-FR": "Nous buvons de l'eau fraîche après avoir couru.",
+        "en-US": "We drink cold water after running.",
+        "en-GB": "We drink cold water after running."
+      }
+    },
+    {
+      "terms": {
+        "en": "you drink (plural)",
+        "pt-BR": "vocês bebem",
+        "es-ES": "ustedes beben",
+        "fr-FR": "vous buvez",
+        "en-US": "you drink (plural)",
+        "en-GB": "you drink (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all drink from the same bottle.",
+        "pt-BR": "Vocês bebem da mesma garrafa.",
+        "es-ES": "Ustedes beben de la misma botella.",
+        "fr-FR": "Vous buvez à la même bouteille.",
+        "en-US": "You all drink from the same bottle.",
+        "en-GB": "You all drink from the same bottle."
+      }
+    },
+    {
+      "terms": {
+        "en": "they drink",
+        "pt-BR": "eles bebem",
+        "es-ES": "ellos beben",
+        "fr-FR": "ils boivent",
+        "en-US": "they drink",
+        "en-GB": "they drink"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They drink milk with breakfast.",
+        "pt-BR": "Eles bebem leite no café da manhã.",
+        "es-ES": "Ellos beben leche en el desayuno.",
+        "fr-FR": "Ils boivent du lait au petit-déjeuner.",
+        "en-US": "They drink milk with breakfast.",
+        "en-GB": "They drink milk with breakfast."
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_make",
+  "title": "To Make",
+  "titles": {
+    "en": "To Make",
+    "pt": "Fazer",
+    "es": "Hacer",
+    "fr": "Faire"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_make.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Make",
+      "pt": "Fazer",
+      "es": "Hacer",
+      "fr": "Faire"
+    },
+    "sample_sentences": {
+      "en": "Let's study the verb to make.",
+      "pt-BR": "Vamos estudar o verbo fazer.",
+      "es-ES": "Vamos a estudiar el verbo hacer.",
+      "fr-FR": "Étudions le verbe faire.",
+      "en-US": "Let's study the verb to make.",
+      "en-GB": "Let's study the verb to make."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to make",
+        "pt-BR": "fazer",
+        "es-ES": "hacer",
+        "fr-FR": "faire",
+        "en-US": "to make",
+        "en-GB": "to make"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to make often means to create.",
+        "pt-BR": "O verbo fazer muitas vezes significa criar.",
+        "es-ES": "El verbo hacer a menudo significa crear.",
+        "fr-FR": "Le verbe faire signifie souvent créer.",
+        "en-US": "The verb to make often means to create.",
+        "en-GB": "The verb to make often means to create."
+      }
+    },
+    {
+      "terms": {
+        "en": "I make",
+        "pt-BR": "eu faço",
+        "es-ES": "yo hago",
+        "fr-FR": "je fais",
+        "en-US": "I make",
+        "en-GB": "I make"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I make coffee every morning.",
+        "pt-BR": "Eu faço café todas as manhãs.",
+        "es-ES": "Yo hago café todas las mañanas.",
+        "fr-FR": "Je fais du café tous les matins.",
+        "en-US": "I make coffee every morning.",
+        "en-GB": "I make coffee every morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "you make",
+        "pt-BR": "você faz",
+        "es-ES": "tú haces",
+        "fr-FR": "tu fais",
+        "en-US": "you make",
+        "en-GB": "you make"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You make delicious bread.",
+        "pt-BR": "Você faz um pão delicioso.",
+        "es-ES": "Tú haces un pan delicioso.",
+        "fr-FR": "Tu fais un pain délicieux.",
+        "en-US": "You make delicious bread.",
+        "en-GB": "You make delicious bread."
+      }
+    },
+    {
+      "terms": {
+        "en": "he makes",
+        "pt-BR": "ele faz",
+        "es-ES": "él hace",
+        "fr-FR": "il fait",
+        "en-US": "he makes",
+        "en-GB": "he makes"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He makes dinner on Fridays.",
+        "pt-BR": "Ele faz o jantar às sextas-feiras.",
+        "es-ES": "Él hace la cena los viernes.",
+        "fr-FR": "Il fait le dîner le vendredi.",
+        "en-US": "He makes dinner on Fridays.",
+        "en-GB": "He makes dinner on Fridays."
+      }
+    },
+    {
+      "terms": {
+        "en": "she makes",
+        "pt-BR": "ela faz",
+        "es-ES": "ella hace",
+        "fr-FR": "elle fait",
+        "en-US": "she makes",
+        "en-GB": "she makes"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She makes a list before shopping.",
+        "pt-BR": "Ela faz uma lista antes de ir às compras.",
+        "es-ES": "Ella hace una lista antes de comprar.",
+        "fr-FR": "Elle fait une liste avant de faire les courses.",
+        "en-US": "She makes a list before shopping.",
+        "en-GB": "She makes a list before shopping."
+      }
+    },
+    {
+      "terms": {
+        "en": "it makes",
+        "pt-BR": "faz",
+        "es-ES": "hace",
+        "fr-FR": "cela fait",
+        "en-US": "it makes",
+        "en-GB": "it makes"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It makes a strange noise.",
+        "pt-BR": "Faz um barulho estranho.",
+        "es-ES": "Hace un ruido extraño.",
+        "fr-FR": "Cela fait un bruit étrange.",
+        "en-US": "It makes a strange noise.",
+        "en-GB": "It makes a strange noise."
+      }
+    },
+    {
+      "terms": {
+        "en": "we make",
+        "pt-BR": "nós fazemos",
+        "es-ES": "nosotros hacemos",
+        "fr-FR": "nous faisons",
+        "en-US": "we make",
+        "en-GB": "we make"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We make lunch together.",
+        "pt-BR": "Nós fazemos o almoço juntos.",
+        "es-ES": "Nosotros hacemos el almuerzo juntos.",
+        "fr-FR": "Nous faisons le déjeuner ensemble.",
+        "en-US": "We make lunch together.",
+        "en-GB": "We make lunch together."
+      }
+    },
+    {
+      "terms": {
+        "en": "you make (plural)",
+        "pt-BR": "vocês fazem",
+        "es-ES": "ustedes hacen",
+        "fr-FR": "vous faites",
+        "en-US": "you make (plural)",
+        "en-GB": "you make (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all make the room feel cheerful.",
+        "pt-BR": "Vocês deixam o ambiente mais alegre.",
+        "es-ES": "Ustedes hacen que la sala sea más alegre.",
+        "fr-FR": "Vous rendez la pièce plus joyeuse.",
+        "en-US": "You all make the room feel cheerful.",
+        "en-GB": "You all make the room feel cheerful."
+      }
+    },
+    {
+      "terms": {
+        "en": "they make",
+        "pt-BR": "eles fazem",
+        "es-ES": "ellos hacen",
+        "fr-FR": "ils font",
+        "en-US": "they make",
+        "en-GB": "they make"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They make toys by hand.",
+        "pt-BR": "Eles fazem brinquedos à mão.",
+        "es-ES": "Ellos hacen juguetes a mano.",
+        "fr-FR": "Ils fabriquent des jouets à la main.",
+        "en-US": "They make toys by hand.",
+        "en-GB": "They make toys by hand."
+      }
+    }
+  ]
+}

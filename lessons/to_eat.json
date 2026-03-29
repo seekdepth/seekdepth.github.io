@@ -1,0 +1,101 @@
+{
+  "lesson_id": "to_eat",
+  "title": "To Eat",
+  "titles": {
+    "en": "To Eat",
+    "pt": "Comer",
+    "es": "Comer",
+    "fr": "Manger"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to eat.",
+    "pt-BR": "Vamos estudar o verbo comer.",
+    "es-ES": "Vamos a estudiar el verbo comer.",
+    "fr-FR": "Étudions le verbe manger."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "to eat", "pt-BR": "comer", "es-ES": "comer", "fr-FR": "manger" },
+      "sample_sentences": {
+        "en": "The verb to eat is useful every day.",
+        "pt-BR": "O verbo comer é útil todos os dias.",
+        "es-ES": "El verbo comer es útil todos los días.",
+        "fr-FR": "Le verbe manger est utile tous les jours."
+      }
+    },
+    {
+      "terms": { "en": "I eat", "pt-BR": "eu como", "es-ES": "yo como", "fr-FR": "je mange" },
+      "sample_sentences": {
+        "en": "I eat fruit in the morning.",
+        "pt-BR": "Eu como fruta de manhã.",
+        "es-ES": "Yo como fruta por la mañana.",
+        "fr-FR": "Je mange des fruits le matin."
+      }
+    },
+    {
+      "terms": { "en": "you eat", "pt-BR": "você come", "es-ES": "tú comes", "fr-FR": "tu manges" },
+      "sample_sentences": {
+        "en": "You eat lunch at noon.",
+        "pt-BR": "Você almoça ao meio-dia.",
+        "es-ES": "Tú comes al mediodía.",
+        "fr-FR": "Tu manges à midi."
+      }
+    },
+    {
+      "terms": { "en": "he eats", "pt-BR": "ele come", "es-ES": "él come", "fr-FR": "il mange" },
+      "sample_sentences": {
+        "en": "He eats very quickly.",
+        "pt-BR": "Ele come muito rápido.",
+        "es-ES": "Él come muy rápido.",
+        "fr-FR": "Il mange très vite."
+      }
+    },
+    {
+      "terms": { "en": "she eats", "pt-BR": "ela come", "es-ES": "ella come", "fr-FR": "elle mange" },
+      "sample_sentences": {
+        "en": "She eats salad for dinner.",
+        "pt-BR": "Ela come salada no jantar.",
+        "es-ES": "Ella come ensalada en la cena.",
+        "fr-FR": "Elle mange de la salade au dîner."
+      }
+    },
+    {
+      "terms": { "en": "it eats", "pt-BR": "come", "es-ES": "come", "fr-FR": "il mange" },
+      "sample_sentences": {
+        "en": "It eats twice a day.",
+        "pt-BR": "Come duas vezes por dia.",
+        "es-ES": "Come dos veces al día.",
+        "fr-FR": "Il mange deux fois par jour."
+      }
+    },
+    {
+      "terms": { "en": "we eat", "pt-BR": "nós comemos", "es-ES": "nosotros comemos", "fr-FR": "nous mangeons" },
+      "sample_sentences": {
+        "en": "We eat together on Sundays.",
+        "pt-BR": "Nós comemos juntos aos domingos.",
+        "es-ES": "Nosotros comemos juntos los domingos.",
+        "fr-FR": "Nous mangeons ensemble le dimanche."
+      }
+    },
+    {
+      "terms": { "en": "you eat (plural)", "pt-BR": "vocês comem", "es-ES": "ustedes comen", "fr-FR": "vous mangez" },
+      "sample_sentences": {
+        "en": "You all eat at the same table.",
+        "pt-BR": "Vocês comem na mesma mesa.",
+        "es-ES": "Ustedes comen en la misma mesa.",
+        "fr-FR": "Vous mangez à la même table."
+      }
+    },
+    {
+      "terms": { "en": "they eat", "pt-BR": "eles comem", "es-ES": "ellos comen", "fr-FR": "ils mangent" },
+      "sample_sentences": {
+        "en": "They eat after the movie.",
+        "pt-BR": "Eles comem depois do filme.",
+        "es-ES": "Ellos comen después de la película.",
+        "fr-FR": "Ils mangent après le film."
+      }
+    }
+  ]
+}

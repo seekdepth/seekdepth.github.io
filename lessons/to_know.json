@@ -1,0 +1,106 @@
+{
+  "lesson_id": "to_know",
+  "title": "To Know",
+  "titles": {
+    "en": "To Know",
+    "pt": "Saber / Conhecer",
+    "es": "Saber / Conocer",
+    "fr": "Savoir / Connaître"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to know.",
+    "pt-BR": "Vamos estudar os verbos saber e conhecer.",
+    "es-ES": "Vamos a estudiar los verbos saber y conocer.",
+    "fr-FR": "Étudions les verbes savoir et connaître."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to know",
+        "pt-BR": "saber e conhecer",
+        "es-ES": "saber y conocer",
+        "fr-FR": "savoir et connaître"
+      },
+      "sample_sentences": {
+        "en": "In many languages, to know has more than one form.",
+        "pt-BR": "Em muitas línguas, o verbo saber tem mais de uma forma.",
+        "es-ES": "En muchos idiomas, el verbo saber tiene más de una forma.",
+        "fr-FR": "Dans beaucoup de langues, le verbe savoir a plus d'une forme."
+      }
+    },
+    {
+      "terms": { "en": "I know", "pt-BR": "eu sei", "es-ES": "yo sé", "fr-FR": "je sais" },
+      "sample_sentences": {
+        "en": "I know the answer.",
+        "pt-BR": "Eu sei a resposta.",
+        "es-ES": "Yo sé la respuesta.",
+        "fr-FR": "Je sais la réponse."
+      }
+    },
+    {
+      "terms": { "en": "you know", "pt-BR": "você conhece", "es-ES": "tú conoces", "fr-FR": "tu connais" },
+      "sample_sentences": {
+        "en": "You know my brother.",
+        "pt-BR": "Você conhece meu irmão.",
+        "es-ES": "Tú conoces a mi hermano.",
+        "fr-FR": "Tu connais mon frère."
+      }
+    },
+    {
+      "terms": { "en": "he knows", "pt-BR": "ele sabe", "es-ES": "él sabe", "fr-FR": "il sait" },
+      "sample_sentences": {
+        "en": "He knows the way home.",
+        "pt-BR": "Ele sabe o caminho de casa.",
+        "es-ES": "Él sabe el camino a casa.",
+        "fr-FR": "Il sait le chemin de la maison."
+      }
+    },
+    {
+      "terms": { "en": "she knows", "pt-BR": "ela conhece", "es-ES": "ella conoce", "fr-FR": "elle connaît" },
+      "sample_sentences": {
+        "en": "She knows the city well.",
+        "pt-BR": "Ela conhece bem a cidade.",
+        "es-ES": "Ella conoce bien la ciudad.",
+        "fr-FR": "Elle connaît bien la ville."
+      }
+    },
+    {
+      "terms": { "en": "it knows", "pt-BR": "sabe", "es-ES": "sabe", "fr-FR": "il sait" },
+      "sample_sentences": {
+        "en": "It knows where to go.",
+        "pt-BR": "Sabe para onde ir.",
+        "es-ES": "Sabe adónde ir.",
+        "fr-FR": "Il sait où aller."
+      }
+    },
+    {
+      "terms": { "en": "we know", "pt-BR": "nós sabemos", "es-ES": "nosotros sabemos", "fr-FR": "nous savons" },
+      "sample_sentences": {
+        "en": "We know this song.",
+        "pt-BR": "Nós sabemos esta música.",
+        "es-ES": "Nosotros sabemos esta canción.",
+        "fr-FR": "Nous connaissons cette chanson."
+      }
+    },
+    {
+      "terms": { "en": "you know (plural)", "pt-BR": "vocês conhecem", "es-ES": "ustedes conocen", "fr-FR": "vous connaissez" },
+      "sample_sentences": {
+        "en": "You all know the teacher.",
+        "pt-BR": "Vocês conhecem o professor.",
+        "es-ES": "Ustedes conocen al profesor.",
+        "fr-FR": "Vous connaissez le professeur."
+      }
+    },
+    {
+      "terms": { "en": "they know", "pt-BR": "eles sabem", "es-ES": "ellos saben", "fr-FR": "ils savent" },
+      "sample_sentences": {
+        "en": "They know the truth.",
+        "pt-BR": "Eles sabem a verdade.",
+        "es-ES": "Ellos saben la verdad.",
+        "fr-FR": "Ils savent la vérité."
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_do",
+  "title": "To Do",
+  "titles": {
+    "en": "To Do",
+    "pt": "Fazer",
+    "es": "Hacer",
+    "fr": "Faire"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_do.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Do",
+      "pt": "Fazer",
+      "es": "Hacer",
+      "fr": "Faire"
+    },
+    "sample_sentences": {
+      "en": "Let's study the verb to do.",
+      "pt-BR": "Vamos estudar o verbo fazer.",
+      "es-ES": "Vamos a estudiar el verbo hacer.",
+      "fr-FR": "Étudions le verbe faire.",
+      "en-US": "Let's study the verb to do.",
+      "en-GB": "Let's study the verb to do."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to do",
+        "pt-BR": "fazer",
+        "es-ES": "hacer",
+        "fr-FR": "faire",
+        "en-US": "to do",
+        "en-GB": "to do"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to do is very useful.",
+        "pt-BR": "O verbo fazer é muito útil.",
+        "es-ES": "El verbo hacer es muy útil.",
+        "fr-FR": "Le verbe faire est très utile.",
+        "en-US": "The verb to do is very useful.",
+        "en-GB": "The verb to do is very useful."
+      }
+    },
+    {
+      "terms": {
+        "en": "I do",
+        "pt-BR": "eu faço",
+        "es-ES": "yo hago",
+        "fr-FR": "je fais",
+        "en-US": "I do",
+        "en-GB": "I do"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I do my homework after dinner.",
+        "pt-BR": "Eu faço minha lição de casa depois do jantar.",
+        "es-ES": "Yo hago mis deberes después de cenar.",
+        "fr-FR": "Je fais mes devoirs après le dîner.",
+        "en-US": "I do my homework after dinner.",
+        "en-GB": "I do my homework after dinner."
+      }
+    },
+    {
+      "terms": {
+        "en": "you do",
+        "pt-BR": "você faz",
+        "es-ES": "tú haces",
+        "fr-FR": "tu fais",
+        "en-US": "you do",
+        "en-GB": "you do"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You do a great job.",
+        "pt-BR": "Você faz um ótimo trabalho.",
+        "es-ES": "Tú haces un gran trabajo.",
+        "fr-FR": "Tu fais un excellent travail.",
+        "en-US": "You do a great job.",
+        "en-GB": "You do a great job."
+      }
+    },
+    {
+      "terms": {
+        "en": "he does",
+        "pt-BR": "ele faz",
+        "es-ES": "él hace",
+        "fr-FR": "il fait",
+        "en-US": "he does",
+        "en-GB": "he does"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He does the laundry on Sundays.",
+        "pt-BR": "Ele lava a roupa aos domingos.",
+        "es-ES": "Él hace la colada los domingos.",
+        "fr-FR": "Il fait la lessive le dimanche.",
+        "en-US": "He does the laundry on Sundays.",
+        "en-GB": "He does the laundry on Sundays."
+      }
+    },
+    {
+      "terms": {
+        "en": "she does",
+        "pt-BR": "ela faz",
+        "es-ES": "ella hace",
+        "fr-FR": "elle fait",
+        "en-US": "she does",
+        "en-GB": "she does"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She does yoga every morning.",
+        "pt-BR": "Ela faz ioga todas as manhãs.",
+        "es-ES": "Ella hace yoga todas las mañanas.",
+        "fr-FR": "Elle fait du yoga tous les matins.",
+        "en-US": "She does yoga every morning.",
+        "en-GB": "She does yoga every morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "it does",
+        "pt-BR": "faz",
+        "es-ES": "hace",
+        "fr-FR": "il fait",
+        "en-US": "it does",
+        "en-GB": "it does"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It does not matter.",
+        "pt-BR": "Não faz diferença.",
+        "es-ES": "No hace diferencia.",
+        "fr-FR": "Cela ne fait pas de différence.",
+        "en-US": "It does not matter.",
+        "en-GB": "It does not matter."
+      }
+    },
+    {
+      "terms": {
+        "en": "we do",
+        "pt-BR": "nós fazemos",
+        "es-ES": "nosotros hacemos",
+        "fr-FR": "nous faisons",
+        "en-US": "we do",
+        "en-GB": "we do"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We do exercise together.",
+        "pt-BR": "Nós fazemos exercícios juntos.",
+        "es-ES": "Nosotros hacemos ejercicio juntos.",
+        "fr-FR": "Nous faisons de l'exercice ensemble.",
+        "en-US": "We do exercise together.",
+        "en-GB": "We do exercise together."
+      }
+    },
+    {
+      "terms": {
+        "en": "you do (plural)",
+        "pt-BR": "vocês fazem",
+        "es-ES": "ustedes hacen",
+        "fr-FR": "vous faites",
+        "en-US": "you do (plural)",
+        "en-GB": "you do (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all do the same activity.",
+        "pt-BR": "Vocês fazem a mesma atividade.",
+        "es-ES": "Ustedes hacen la misma actividad.",
+        "fr-FR": "Vous faites la même activité.",
+        "en-US": "You all do the same activity.",
+        "en-GB": "You all do the same activity."
+      }
+    },
+    {
+      "terms": {
+        "en": "they do",
+        "pt-BR": "eles fazem",
+        "es-ES": "ellos hacen",
+        "fr-FR": "ils font",
+        "en-US": "they do",
+        "en-GB": "they do"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They do the cleaning every Friday.",
+        "pt-BR": "Eles fazem a limpeza toda sexta-feira.",
+        "es-ES": "Ellos hacen la limpieza todos los viernes.",
+        "fr-FR": "Ils font le ménage tous les vendredis.",
+        "en-US": "They do the cleaning every Friday.",
+        "en-GB": "They do the cleaning every Friday."
+      }
+    }
+  ]
+}

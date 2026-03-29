@@ -1,0 +1,101 @@
+{
+  "lesson_id": "to_like",
+  "title": "To Like",
+  "titles": {
+    "en": "To Like",
+    "pt": "Gostar",
+    "es": "Gustar",
+    "fr": "Aimer"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to like.",
+    "pt-BR": "Vamos estudar o verbo gostar.",
+    "es-ES": "Vamos a estudiar el verbo gustar.",
+    "fr-FR": "Étudions le verbe aimer."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "to like", "pt-BR": "gostar", "es-ES": "gustar", "fr-FR": "aimer" },
+      "sample_sentences": {
+        "en": "The verb to like is common in everyday conversation.",
+        "pt-BR": "O verbo gostar é comum na conversa do dia a dia.",
+        "es-ES": "El verbo gustar es común en la conversación diaria.",
+        "fr-FR": "Le verbe aimer est courant dans la conversation quotidienne."
+      }
+    },
+    {
+      "terms": { "en": "I like", "pt-BR": "eu gosto", "es-ES": "me gusta", "fr-FR": "j'aime" },
+      "sample_sentences": {
+        "en": "I like this song.",
+        "pt-BR": "Eu gosto desta música.",
+        "es-ES": "Me gusta esta canción.",
+        "fr-FR": "J'aime cette chanson."
+      }
+    },
+    {
+      "terms": { "en": "you like", "pt-BR": "você gosta", "es-ES": "te gusta", "fr-FR": "tu aimes" },
+      "sample_sentences": {
+        "en": "You like the blue one.",
+        "pt-BR": "Você gosta do azul.",
+        "es-ES": "Te gusta el azul.",
+        "fr-FR": "Tu aimes le bleu."
+      }
+    },
+    {
+      "terms": { "en": "he likes", "pt-BR": "ele gosta", "es-ES": "le gusta", "fr-FR": "il aime" },
+      "sample_sentences": {
+        "en": "He likes strong coffee.",
+        "pt-BR": "Ele gosta de café forte.",
+        "es-ES": "Le gusta el café fuerte.",
+        "fr-FR": "Il aime le café fort."
+      }
+    },
+    {
+      "terms": { "en": "she likes", "pt-BR": "ela gosta", "es-ES": "le gusta", "fr-FR": "elle aime" },
+      "sample_sentences": {
+        "en": "She likes quiet places.",
+        "pt-BR": "Ela gosta de lugares tranquilos.",
+        "es-ES": "Le gustan los lugares tranquilos.",
+        "fr-FR": "Elle aime les endroits calmes."
+      }
+    },
+    {
+      "terms": { "en": "it likes", "pt-BR": "gosta", "es-ES": "le gusta", "fr-FR": "il aime" },
+      "sample_sentences": {
+        "en": "It likes warm water.",
+        "pt-BR": "Gosta de água morna.",
+        "es-ES": "Le gusta el agua tibia.",
+        "fr-FR": "Il aime l'eau tiède."
+      }
+    },
+    {
+      "terms": { "en": "we like", "pt-BR": "nós gostamos", "es-ES": "nos gusta", "fr-FR": "nous aimons" },
+      "sample_sentences": {
+        "en": "We like to walk in the park.",
+        "pt-BR": "Nós gostamos de caminhar no parque.",
+        "es-ES": "Nos gusta caminar por el parque.",
+        "fr-FR": "Nous aimons marcher dans le parc."
+      }
+    },
+    {
+      "terms": { "en": "you like (plural)", "pt-BR": "vocês gostam", "es-ES": "les gusta", "fr-FR": "vous aimez" },
+      "sample_sentences": {
+        "en": "You all like the same restaurant.",
+        "pt-BR": "Vocês gostam do mesmo restaurante.",
+        "es-ES": "Les gusta el mismo restaurante.",
+        "fr-FR": "Vous aimez le même restaurant."
+      }
+    },
+    {
+      "terms": { "en": "they like", "pt-BR": "eles gostam", "es-ES": "les gusta", "fr-FR": "ils aiment" },
+      "sample_sentences": {
+        "en": "They like spicy food.",
+        "pt-BR": "Eles gostam de comida apimentada.",
+        "es-ES": "Les gusta la comida picante.",
+        "fr-FR": "Ils aiment la nourriture épicée."
+      }
+    }
+  ]
+}

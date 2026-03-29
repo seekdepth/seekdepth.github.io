@@ -1,0 +1,101 @@
+{
+  "lesson_id": "to_see",
+  "title": "To See",
+  "titles": {
+    "en": "To See",
+    "pt": "Ver",
+    "es": "Ver",
+    "fr": "Voir"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to see.",
+    "pt-BR": "Vamos estudar o verbo ver.",
+    "es-ES": "Vamos a estudiar el verbo ver.",
+    "fr-FR": "Étudions le verbe voir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "to see", "pt-BR": "ver", "es-ES": "ver", "fr-FR": "voir" },
+      "sample_sentences": {
+        "en": "The verb to see is common in daily speech.",
+        "pt-BR": "O verbo ver é comum na fala do dia a dia.",
+        "es-ES": "El verbo ver es común en el habla diaria.",
+        "fr-FR": "Le verbe voir est courant dans la langue quotidienne."
+      }
+    },
+    {
+      "terms": { "en": "I see", "pt-BR": "eu vejo", "es-ES": "yo veo", "fr-FR": "je vois" },
+      "sample_sentences": {
+        "en": "I see the mountains from here.",
+        "pt-BR": "Eu vejo as montanhas daqui.",
+        "es-ES": "Yo veo las montañas desde aquí.",
+        "fr-FR": "Je vois les montagnes d'ici."
+      }
+    },
+    {
+      "terms": { "en": "you see", "pt-BR": "você vê", "es-ES": "tú ves", "fr-FR": "tu vois" },
+      "sample_sentences": {
+        "en": "You see the answer now.",
+        "pt-BR": "Você vê a resposta agora.",
+        "es-ES": "Tú ves la respuesta ahora.",
+        "fr-FR": "Tu vois la réponse maintenant."
+      }
+    },
+    {
+      "terms": { "en": "he sees", "pt-BR": "ele vê", "es-ES": "él ve", "fr-FR": "il voit" },
+      "sample_sentences": {
+        "en": "He sees his friends every weekend.",
+        "pt-BR": "Ele vê os amigos todo fim de semana.",
+        "es-ES": "Él ve a sus amigos cada fin de semana.",
+        "fr-FR": "Il voit ses amis chaque week-end."
+      }
+    },
+    {
+      "terms": { "en": "she sees", "pt-BR": "ela vê", "es-ES": "ella ve", "fr-FR": "elle voit" },
+      "sample_sentences": {
+        "en": "She sees the difference clearly.",
+        "pt-BR": "Ela vê a diferença claramente.",
+        "es-ES": "Ella ve la diferencia claramente.",
+        "fr-FR": "Elle voit clairement la différence."
+      }
+    },
+    {
+      "terms": { "en": "it sees", "pt-BR": "vê", "es-ES": "ve", "fr-FR": "il voit" },
+      "sample_sentences": {
+        "en": "It sees movement in the dark.",
+        "pt-BR": "Vê movimento no escuro.",
+        "es-ES": "Ve movimiento en la oscuridad.",
+        "fr-FR": "Il voit du mouvement dans le noir."
+      }
+    },
+    {
+      "terms": { "en": "we see", "pt-BR": "nós vemos", "es-ES": "nosotros vemos", "fr-FR": "nous voyons" },
+      "sample_sentences": {
+        "en": "We see each other on Mondays.",
+        "pt-BR": "Nós nos vemos às segundas-feiras.",
+        "es-ES": "Nosotros nos vemos los lunes.",
+        "fr-FR": "Nous nous voyons le lundi."
+      }
+    },
+    {
+      "terms": { "en": "you see (plural)", "pt-BR": "vocês veem", "es-ES": "ustedes ven", "fr-FR": "vous voyez" },
+      "sample_sentences": {
+        "en": "You all see the same screen.",
+        "pt-BR": "Vocês veem a mesma tela.",
+        "es-ES": "Ustedes ven la misma pantalla.",
+        "fr-FR": "Vous voyez le même écran."
+      }
+    },
+    {
+      "terms": { "en": "they see", "pt-BR": "eles veem", "es-ES": "ellos ven", "fr-FR": "ils voient" },
+      "sample_sentences": {
+        "en": "They see the city lights at night.",
+        "pt-BR": "Eles veem as luzes da cidade à noite.",
+        "es-ES": "Ellos ven las luces de la ciudad por la noche.",
+        "fr-FR": "Ils voient les lumières de la ville la nuit."
+      }
+    }
+  ]
+}

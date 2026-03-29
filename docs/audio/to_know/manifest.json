@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_know",
+  "title": "To Know",
+  "titles": {
+    "en": "To Know",
+    "pt": "Saber / Conhecer",
+    "es": "Saber / Conocer",
+    "fr": "Savoir / Connaître"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_know.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Know",
+      "pt": "Saber / Conhecer",
+      "es": "Saber / Conocer",
+      "fr": "Savoir / Connaître"
+    },
+    "sample_sentences": {
+      "en": "Let's study the verb to know.",
+      "pt-BR": "Vamos estudar os verbos saber e conhecer.",
+      "es-ES": "Vamos a estudiar los verbos saber y conocer.",
+      "fr-FR": "Étudions les verbes savoir et connaître.",
+      "en-US": "Let's study the verb to know.",
+      "en-GB": "Let's study the verb to know."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to know",
+        "pt-BR": "saber e conhecer",
+        "es-ES": "saber y conocer",
+        "fr-FR": "savoir et connaître",
+        "en-US": "to know",
+        "en-GB": "to know"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "In many languages, to know has more than one form.",
+        "pt-BR": "Em muitas línguas, o verbo saber tem mais de uma forma.",
+        "es-ES": "En muchos idiomas, el verbo saber tiene más de una forma.",
+        "fr-FR": "Dans beaucoup de langues, le verbe savoir a plus d'une forme.",
+        "en-US": "In many languages, to know has more than one form.",
+        "en-GB": "In many languages, to know has more than one form."
+      }
+    },
+    {
+      "terms": {
+        "en": "I know",
+        "pt-BR": "eu sei",
+        "es-ES": "yo sé",
+        "fr-FR": "je sais",
+        "en-US": "I know",
+        "en-GB": "I know"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I know the answer.",
+        "pt-BR": "Eu sei a resposta.",
+        "es-ES": "Yo sé la respuesta.",
+        "fr-FR": "Je sais la réponse.",
+        "en-US": "I know the answer.",
+        "en-GB": "I know the answer."
+      }
+    },
+    {
+      "terms": {
+        "en": "you know",
+        "pt-BR": "você conhece",
+        "es-ES": "tú conoces",
+        "fr-FR": "tu connais",
+        "en-US": "you know",
+        "en-GB": "you know"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You know my brother.",
+        "pt-BR": "Você conhece meu irmão.",
+        "es-ES": "Tú conoces a mi hermano.",
+        "fr-FR": "Tu connais mon frère.",
+        "en-US": "You know my brother.",
+        "en-GB": "You know my brother."
+      }
+    },
+    {
+      "terms": {
+        "en": "he knows",
+        "pt-BR": "ele sabe",
+        "es-ES": "él sabe",
+        "fr-FR": "il sait",
+        "en-US": "he knows",
+        "en-GB": "he knows"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He knows the way home.",
+        "pt-BR": "Ele sabe o caminho de casa.",
+        "es-ES": "Él sabe el camino a casa.",
+        "fr-FR": "Il sait le chemin de la maison.",
+        "en-US": "He knows the way home.",
+        "en-GB": "He knows the way home."
+      }
+    },
+    {
+      "terms": {
+        "en": "she knows",
+        "pt-BR": "ela conhece",
+        "es-ES": "ella conoce",
+        "fr-FR": "elle connaît",
+        "en-US": "she knows",
+        "en-GB": "she knows"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She knows the city well.",
+        "pt-BR": "Ela conhece bem a cidade.",
+        "es-ES": "Ella conoce bien la ciudad.",
+        "fr-FR": "Elle connaît bien la ville.",
+        "en-US": "She knows the city well.",
+        "en-GB": "She knows the city well."
+      }
+    },
+    {
+      "terms": {
+        "en": "it knows",
+        "pt-BR": "sabe",
+        "es-ES": "sabe",
+        "fr-FR": "il sait",
+        "en-US": "it knows",
+        "en-GB": "it knows"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It knows where to go.",
+        "pt-BR": "Sabe para onde ir.",
+        "es-ES": "Sabe adónde ir.",
+        "fr-FR": "Il sait où aller.",
+        "en-US": "It knows where to go.",
+        "en-GB": "It knows where to go."
+      }
+    },
+    {
+      "terms": {
+        "en": "we know",
+        "pt-BR": "nós sabemos",
+        "es-ES": "nosotros sabemos",
+        "fr-FR": "nous savons",
+        "en-US": "we know",
+        "en-GB": "we know"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We know this song.",
+        "pt-BR": "Nós sabemos esta música.",
+        "es-ES": "Nosotros sabemos esta canción.",
+        "fr-FR": "Nous connaissons cette chanson.",
+        "en-US": "We know this song.",
+        "en-GB": "We know this song."
+      }
+    },
+    {
+      "terms": {
+        "en": "you know (plural)",
+        "pt-BR": "vocês conhecem",
+        "es-ES": "ustedes conocen",
+        "fr-FR": "vous connaissez",
+        "en-US": "you know (plural)",
+        "en-GB": "you know (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all know the teacher.",
+        "pt-BR": "Vocês conhecem o professor.",
+        "es-ES": "Ustedes conocen al profesor.",
+        "fr-FR": "Vous connaissez le professeur.",
+        "en-US": "You all know the teacher.",
+        "en-GB": "You all know the teacher."
+      }
+    },
+    {
+      "terms": {
+        "en": "they know",
+        "pt-BR": "eles sabem",
+        "es-ES": "ellos saben",
+        "fr-FR": "ils savent",
+        "en-US": "they know",
+        "en-GB": "they know"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They know the truth.",
+        "pt-BR": "Eles sabem a verdade.",
+        "es-ES": "Ellos saben la verdad.",
+        "fr-FR": "Ils savent la vérité.",
+        "en-US": "They know the truth.",
+        "en-GB": "They know the truth."
+      }
+    }
+  ]
+}

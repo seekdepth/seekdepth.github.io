@@ -1,0 +1,101 @@
+{
+  "lesson_id": "to_come",
+  "title": "To Come",
+  "titles": {
+    "en": "To Come",
+    "pt": "Vir",
+    "es": "Venir",
+    "fr": "Venir"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to come.",
+    "pt-BR": "Vamos estudar o verbo vir.",
+    "es-ES": "Vamos a estudiar el verbo venir.",
+    "fr-FR": "Étudions le verbe venir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "to come", "pt-BR": "vir", "es-ES": "venir", "fr-FR": "venir" },
+      "sample_sentences": {
+        "en": "The verb to come shows movement toward a place.",
+        "pt-BR": "O verbo vir mostra movimento em direção a um lugar.",
+        "es-ES": "El verbo venir muestra movimiento hacia un lugar.",
+        "fr-FR": "Le verbe venir montre un mouvement vers un lieu."
+      }
+    },
+    {
+      "terms": { "en": "I come", "pt-BR": "eu venho", "es-ES": "yo vengo", "fr-FR": "je viens" },
+      "sample_sentences": {
+        "en": "I come here every week.",
+        "pt-BR": "Eu venho aqui toda semana.",
+        "es-ES": "Yo vengo aquí cada semana.",
+        "fr-FR": "Je viens ici chaque semaine."
+      }
+    },
+    {
+      "terms": { "en": "you come", "pt-BR": "você vem", "es-ES": "tú vienes", "fr-FR": "tu viens" },
+      "sample_sentences": {
+        "en": "You come by train.",
+        "pt-BR": "Você vem de trem.",
+        "es-ES": "Tú vienes en tren.",
+        "fr-FR": "Tu viens en train."
+      }
+    },
+    {
+      "terms": { "en": "he comes", "pt-BR": "ele vem", "es-ES": "él viene", "fr-FR": "il vient" },
+      "sample_sentences": {
+        "en": "He comes home late.",
+        "pt-BR": "Ele vem para casa tarde.",
+        "es-ES": "Él viene a casa tarde.",
+        "fr-FR": "Il vient à la maison tard."
+      }
+    },
+    {
+      "terms": { "en": "she comes", "pt-BR": "ela vem", "es-ES": "ella viene", "fr-FR": "elle vient" },
+      "sample_sentences": {
+        "en": "She comes to class on time.",
+        "pt-BR": "Ela vem para a aula na hora.",
+        "es-ES": "Ella viene a clase a tiempo.",
+        "fr-FR": "Elle vient en cours à l'heure."
+      }
+    },
+    {
+      "terms": { "en": "it comes", "pt-BR": "vem", "es-ES": "viene", "fr-FR": "ça vient" },
+      "sample_sentences": {
+        "en": "It comes in a small box.",
+        "pt-BR": "Vem em uma caixa pequena.",
+        "es-ES": "Viene en una caja pequeña.",
+        "fr-FR": "Ça vient dans une petite boîte."
+      }
+    },
+    {
+      "terms": { "en": "we come", "pt-BR": "nós vimos", "es-ES": "nosotros venimos", "fr-FR": "nous venons" },
+      "sample_sentences": {
+        "en": "We come here to study.",
+        "pt-BR": "Nós vimos aqui para estudar.",
+        "es-ES": "Nosotros venimos aquí para estudiar.",
+        "fr-FR": "Nous venons ici pour étudier."
+      }
+    },
+    {
+      "terms": { "en": "you come (plural)", "pt-BR": "vocês vêm", "es-ES": "ustedes vienen", "fr-FR": "vous venez" },
+      "sample_sentences": {
+        "en": "You all come from the same town.",
+        "pt-BR": "Vocês vêm da mesma cidade.",
+        "es-ES": "Ustedes vienen de la misma ciudad.",
+        "fr-FR": "Vous venez de la même ville."
+      }
+    },
+    {
+      "terms": { "en": "they come", "pt-BR": "eles vêm", "es-ES": "ellos vienen", "fr-FR": "ils viennent" },
+      "sample_sentences": {
+        "en": "They come every summer.",
+        "pt-BR": "Eles vêm todo verão.",
+        "es-ES": "Ellos vienen cada verano.",
+        "fr-FR": "Ils viennent chaque été."
+      }
+    }
+  ]
+}

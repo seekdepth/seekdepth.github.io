@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_see",
+  "title": "To See",
+  "titles": {
+    "en": "To See",
+    "pt": "Ver",
+    "es": "Ver",
+    "fr": "Voir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_see.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To See",
+      "pt": "Ver",
+      "es": "Ver",
+      "fr": "Voir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the verb to see.",
+      "pt-BR": "Vamos estudar o verbo ver.",
+      "es-ES": "Vamos a estudiar el verbo ver.",
+      "fr-FR": "Étudions le verbe voir.",
+      "en-US": "Let's study the verb to see.",
+      "en-GB": "Let's study the verb to see."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to see",
+        "pt-BR": "ver",
+        "es-ES": "ver",
+        "fr-FR": "voir",
+        "en-US": "to see",
+        "en-GB": "to see"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to see is common in daily speech.",
+        "pt-BR": "O verbo ver é comum na fala do dia a dia.",
+        "es-ES": "El verbo ver es común en el habla diaria.",
+        "fr-FR": "Le verbe voir est courant dans la langue quotidienne.",
+        "en-US": "The verb to see is common in daily speech.",
+        "en-GB": "The verb to see is common in daily speech."
+      }
+    },
+    {
+      "terms": {
+        "en": "I see",
+        "pt-BR": "eu vejo",
+        "es-ES": "yo veo",
+        "fr-FR": "je vois",
+        "en-US": "I see",
+        "en-GB": "I see"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I see the mountains from here.",
+        "pt-BR": "Eu vejo as montanhas daqui.",
+        "es-ES": "Yo veo las montañas desde aquí.",
+        "fr-FR": "Je vois les montagnes d'ici.",
+        "en-US": "I see the mountains from here.",
+        "en-GB": "I see the mountains from here."
+      }
+    },
+    {
+      "terms": {
+        "en": "you see",
+        "pt-BR": "você vê",
+        "es-ES": "tú ves",
+        "fr-FR": "tu vois",
+        "en-US": "you see",
+        "en-GB": "you see"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You see the answer now.",
+        "pt-BR": "Você vê a resposta agora.",
+        "es-ES": "Tú ves la respuesta ahora.",
+        "fr-FR": "Tu vois la réponse maintenant.",
+        "en-US": "You see the answer now.",
+        "en-GB": "You see the answer now."
+      }
+    },
+    {
+      "terms": {
+        "en": "he sees",
+        "pt-BR": "ele vê",
+        "es-ES": "él ve",
+        "fr-FR": "il voit",
+        "en-US": "he sees",
+        "en-GB": "he sees"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He sees his friends every weekend.",
+        "pt-BR": "Ele vê os amigos todo fim de semana.",
+        "es-ES": "Él ve a sus amigos cada fin de semana.",
+        "fr-FR": "Il voit ses amis chaque week-end.",
+        "en-US": "He sees his friends every weekend.",
+        "en-GB": "He sees his friends every weekend."
+      }
+    },
+    {
+      "terms": {
+        "en": "she sees",
+        "pt-BR": "ela vê",
+        "es-ES": "ella ve",
+        "fr-FR": "elle voit",
+        "en-US": "she sees",
+        "en-GB": "she sees"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She sees the difference clearly.",
+        "pt-BR": "Ela vê a diferença claramente.",
+        "es-ES": "Ella ve la diferencia claramente.",
+        "fr-FR": "Elle voit clairement la différence.",
+        "en-US": "She sees the difference clearly.",
+        "en-GB": "She sees the difference clearly."
+      }
+    },
+    {
+      "terms": {
+        "en": "it sees",
+        "pt-BR": "vê",
+        "es-ES": "ve",
+        "fr-FR": "il voit",
+        "en-US": "it sees",
+        "en-GB": "it sees"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It sees movement in the dark.",
+        "pt-BR": "Vê movimento no escuro.",
+        "es-ES": "Ve movimiento en la oscuridad.",
+        "fr-FR": "Il voit du mouvement dans le noir.",
+        "en-US": "It sees movement in the dark.",
+        "en-GB": "It sees movement in the dark."
+      }
+    },
+    {
+      "terms": {
+        "en": "we see",
+        "pt-BR": "nós vemos",
+        "es-ES": "nosotros vemos",
+        "fr-FR": "nous voyons",
+        "en-US": "we see",
+        "en-GB": "we see"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We see each other on Mondays.",
+        "pt-BR": "Nós nos vemos às segundas-feiras.",
+        "es-ES": "Nosotros nos vemos los lunes.",
+        "fr-FR": "Nous nous voyons le lundi.",
+        "en-US": "We see each other on Mondays.",
+        "en-GB": "We see each other on Mondays."
+      }
+    },
+    {
+      "terms": {
+        "en": "you see (plural)",
+        "pt-BR": "vocês veem",
+        "es-ES": "ustedes ven",
+        "fr-FR": "vous voyez",
+        "en-US": "you see (plural)",
+        "en-GB": "you see (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all see the same screen.",
+        "pt-BR": "Vocês veem a mesma tela.",
+        "es-ES": "Ustedes ven la misma pantalla.",
+        "fr-FR": "Vous voyez le même écran.",
+        "en-US": "You all see the same screen.",
+        "en-GB": "You all see the same screen."
+      }
+    },
+    {
+      "terms": {
+        "en": "they see",
+        "pt-BR": "eles veem",
+        "es-ES": "ellos ven",
+        "fr-FR": "ils voient",
+        "en-US": "they see",
+        "en-GB": "they see"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They see the city lights at night.",
+        "pt-BR": "Eles veem as luzes da cidade à noite.",
+        "es-ES": "Ellos ven las luces de la ciudad por la noche.",
+        "fr-FR": "Ils voient les lumières de la ville la nuit.",
+        "en-US": "They see the city lights at night.",
+        "en-GB": "They see the city lights at night."
+      }
+    }
+  ]
+}

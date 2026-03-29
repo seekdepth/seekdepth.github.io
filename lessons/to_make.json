@@ -1,0 +1,101 @@
+{
+  "lesson_id": "to_make",
+  "title": "To Make",
+  "titles": {
+    "en": "To Make",
+    "pt": "Fazer",
+    "es": "Hacer",
+    "fr": "Faire"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to make.",
+    "pt-BR": "Vamos estudar o verbo fazer.",
+    "es-ES": "Vamos a estudiar el verbo hacer.",
+    "fr-FR": "Étudions le verbe faire."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "to make", "pt-BR": "fazer", "es-ES": "hacer", "fr-FR": "faire" },
+      "sample_sentences": {
+        "en": "The verb to make often means to create.",
+        "pt-BR": "O verbo fazer muitas vezes significa criar.",
+        "es-ES": "El verbo hacer a menudo significa crear.",
+        "fr-FR": "Le verbe faire signifie souvent créer."
+      }
+    },
+    {
+      "terms": { "en": "I make", "pt-BR": "eu faço", "es-ES": "yo hago", "fr-FR": "je fais" },
+      "sample_sentences": {
+        "en": "I make coffee every morning.",
+        "pt-BR": "Eu faço café todas as manhãs.",
+        "es-ES": "Yo hago café todas las mañanas.",
+        "fr-FR": "Je fais du café tous les matins."
+      }
+    },
+    {
+      "terms": { "en": "you make", "pt-BR": "você faz", "es-ES": "tú haces", "fr-FR": "tu fais" },
+      "sample_sentences": {
+        "en": "You make delicious bread.",
+        "pt-BR": "Você faz um pão delicioso.",
+        "es-ES": "Tú haces un pan delicioso.",
+        "fr-FR": "Tu fais un pain délicieux."
+      }
+    },
+    {
+      "terms": { "en": "he makes", "pt-BR": "ele faz", "es-ES": "él hace", "fr-FR": "il fait" },
+      "sample_sentences": {
+        "en": "He makes dinner on Fridays.",
+        "pt-BR": "Ele faz o jantar às sextas-feiras.",
+        "es-ES": "Él hace la cena los viernes.",
+        "fr-FR": "Il fait le dîner le vendredi."
+      }
+    },
+    {
+      "terms": { "en": "she makes", "pt-BR": "ela faz", "es-ES": "ella hace", "fr-FR": "elle fait" },
+      "sample_sentences": {
+        "en": "She makes a list before shopping.",
+        "pt-BR": "Ela faz uma lista antes de ir às compras.",
+        "es-ES": "Ella hace una lista antes de comprar.",
+        "fr-FR": "Elle fait une liste avant de faire les courses."
+      }
+    },
+    {
+      "terms": { "en": "it makes", "pt-BR": "faz", "es-ES": "hace", "fr-FR": "cela fait" },
+      "sample_sentences": {
+        "en": "It makes a strange noise.",
+        "pt-BR": "Faz um barulho estranho.",
+        "es-ES": "Hace un ruido extraño.",
+        "fr-FR": "Cela fait un bruit étrange."
+      }
+    },
+    {
+      "terms": { "en": "we make", "pt-BR": "nós fazemos", "es-ES": "nosotros hacemos", "fr-FR": "nous faisons" },
+      "sample_sentences": {
+        "en": "We make lunch together.",
+        "pt-BR": "Nós fazemos o almoço juntos.",
+        "es-ES": "Nosotros hacemos el almuerzo juntos.",
+        "fr-FR": "Nous faisons le déjeuner ensemble."
+      }
+    },
+    {
+      "terms": { "en": "you make (plural)", "pt-BR": "vocês fazem", "es-ES": "ustedes hacen", "fr-FR": "vous faites" },
+      "sample_sentences": {
+        "en": "You all make the room feel cheerful.",
+        "pt-BR": "Vocês deixam o ambiente mais alegre.",
+        "es-ES": "Ustedes hacen que la sala sea más alegre.",
+        "fr-FR": "Vous rendez la pièce plus joyeuse."
+      }
+    },
+    {
+      "terms": { "en": "they make", "pt-BR": "eles fazem", "es-ES": "ellos hacen", "fr-FR": "ils font" },
+      "sample_sentences": {
+        "en": "They make toys by hand.",
+        "pt-BR": "Eles fazem brinquedos à mão.",
+        "es-ES": "Ellos hacen juguetes a mano.",
+        "fr-FR": "Ils fabriquent des jouets à la main."
+      }
+    }
+  ]
+}

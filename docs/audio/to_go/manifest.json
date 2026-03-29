@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_go",
+  "title": "To Go",
+  "titles": {
+    "en": "To Go",
+    "pt": "Ir",
+    "es": "Ir",
+    "fr": "Aller"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_go.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Go",
+      "pt": "Ir",
+      "es": "Ir",
+      "fr": "Aller"
+    },
+    "sample_sentences": {
+      "en": "Let's study the verb to go.",
+      "pt-BR": "Vamos estudar o verbo ir.",
+      "es-ES": "Vamos a estudiar el verbo ir.",
+      "fr-FR": "Étudions le verbe aller.",
+      "en-US": "Let's study the verb to go.",
+      "en-GB": "Let's study the verb to go."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to go",
+        "pt-BR": "ir",
+        "es-ES": "ir",
+        "fr-FR": "aller",
+        "en-US": "to go",
+        "en-GB": "to go"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to go is useful every day.",
+        "pt-BR": "O verbo ir é útil todos os dias.",
+        "es-ES": "El verbo ir es útil todos los días.",
+        "fr-FR": "Le verbe aller est utile tous les jours.",
+        "en-US": "The verb to go is useful every day.",
+        "en-GB": "The verb to go is useful every day."
+      }
+    },
+    {
+      "terms": {
+        "en": "I go",
+        "pt-BR": "eu vou",
+        "es-ES": "yo voy",
+        "fr-FR": "je vais",
+        "en-US": "I go",
+        "en-GB": "I go"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I go to work early.",
+        "pt-BR": "Eu vou ao trabalho cedo.",
+        "es-ES": "Yo voy al trabajo temprano.",
+        "fr-FR": "Je vais au travail tôt.",
+        "en-US": "I go to work early.",
+        "en-GB": "I go to work early."
+      }
+    },
+    {
+      "terms": {
+        "en": "you go",
+        "pt-BR": "você vai",
+        "es-ES": "tú vas",
+        "fr-FR": "tu vas",
+        "en-US": "you go",
+        "en-GB": "you go"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You go by bus.",
+        "pt-BR": "Você vai de ônibus.",
+        "es-ES": "Tú vas en autobús.",
+        "fr-FR": "Tu vas en bus.",
+        "en-US": "You go by bus.",
+        "en-GB": "You go by bus."
+      }
+    },
+    {
+      "terms": {
+        "en": "he goes",
+        "pt-BR": "ele vai",
+        "es-ES": "él va",
+        "fr-FR": "il va",
+        "en-US": "he goes",
+        "en-GB": "he goes"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He goes to the gym after work.",
+        "pt-BR": "Ele vai para a academia depois do trabalho.",
+        "es-ES": "Él va al gimnasio después del trabajo.",
+        "fr-FR": "Il va à la salle de sport après le travail.",
+        "en-US": "He goes to the gym after work.",
+        "en-GB": "He goes to the gym after work."
+      }
+    },
+    {
+      "terms": {
+        "en": "she goes",
+        "pt-BR": "ela vai",
+        "es-ES": "ella va",
+        "fr-FR": "elle va",
+        "en-US": "she goes",
+        "en-GB": "she goes"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She goes to school every morning.",
+        "pt-BR": "Ela vai para a escola todas as manhãs.",
+        "es-ES": "Ella va a la escuela todas las mañanas.",
+        "fr-FR": "Elle va à l'école tous les matins.",
+        "en-US": "She goes to school every morning.",
+        "en-GB": "She goes to school every morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "it goes",
+        "pt-BR": "vai",
+        "es-ES": "va",
+        "fr-FR": "il va",
+        "en-US": "it goes",
+        "en-GB": "it goes"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It goes very fast.",
+        "pt-BR": "Vai muito rápido.",
+        "es-ES": "Va muy rápido.",
+        "fr-FR": "Il va très vite.",
+        "en-US": "It goes very fast.",
+        "en-GB": "It goes very fast."
+      }
+    },
+    {
+      "terms": {
+        "en": "we go",
+        "pt-BR": "nós vamos",
+        "es-ES": "nosotros vamos",
+        "fr-FR": "nous allons",
+        "en-US": "we go",
+        "en-GB": "we go"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We go together on Fridays.",
+        "pt-BR": "Nós vamos juntos às sextas-feiras.",
+        "es-ES": "Nosotros vamos juntos los viernes.",
+        "fr-FR": "Nous y allons ensemble le vendredi.",
+        "en-US": "We go together on Fridays.",
+        "en-GB": "We go together on Fridays."
+      }
+    },
+    {
+      "terms": {
+        "en": "you go (plural)",
+        "pt-BR": "vocês vão",
+        "es-ES": "ustedes van",
+        "fr-FR": "vous allez",
+        "en-US": "you go (plural)",
+        "en-GB": "you go (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all go to the same office.",
+        "pt-BR": "Vocês vão para o mesmo escritório.",
+        "es-ES": "Ustedes van a la misma oficina.",
+        "fr-FR": "Vous allez au même bureau.",
+        "en-US": "You all go to the same office.",
+        "en-GB": "You all go to the same office."
+      }
+    },
+    {
+      "terms": {
+        "en": "they go",
+        "pt-BR": "eles vão",
+        "es-ES": "ellos van",
+        "fr-FR": "ils vont",
+        "en-US": "they go",
+        "en-GB": "they go"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They go to the beach in summer.",
+        "pt-BR": "Eles vão à praia no verão.",
+        "es-ES": "Ellos van a la playa en verano.",
+        "fr-FR": "Ils vont à la plage en été.",
+        "en-US": "They go to the beach in summer.",
+        "en-GB": "They go to the beach in summer."
+      }
+    }
+  ]
+}

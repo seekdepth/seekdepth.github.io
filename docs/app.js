@@ -189,6 +189,8 @@ const TRANSLATIONS = {
     filterNew: "New",
     filterStarted: "Started",
     filterCompleted: "Completed",
+    categoryVocabularyBasic: "Vocabulary - Basic",
+    categoryVerbsPresent: "Verbs - Present",
     profileNameRequired: "Enter a profile name.",
     profileLanguagesDifferent: "Choose two different languages.",
     lessonsHome: "Lessons",
@@ -259,6 +261,8 @@ const TRANSLATIONS = {
     filterNew: "Novas",
     filterStarted: "Iniciadas",
     filterCompleted: "Concluídas",
+    categoryVocabularyBasic: "Vocabulário - Básico",
+    categoryVerbsPresent: "Verbos - Presente",
     profileNameRequired: "Digite um nome de perfil.",
     profileLanguagesDifferent: "Escolha dois idiomas diferentes.",
     lessonsHome: "Lições",
@@ -329,6 +333,8 @@ const TRANSLATIONS = {
     filterNew: "Nuevas",
     filterStarted: "Iniciadas",
     filterCompleted: "Completadas",
+    categoryVocabularyBasic: "Vocabulario - Básico",
+    categoryVerbsPresent: "Verbos - Presente",
     profileNameRequired: "Escribe un nombre de perfil.",
     profileLanguagesDifferent: "Elige dos idiomas diferentes.",
     lessonsHome: "Lecciones",
@@ -399,6 +405,8 @@ const TRANSLATIONS = {
     filterNew: "Nouvelles",
     filterStarted: "Commencées",
     filterCompleted: "Terminées",
+    categoryVocabularyBasic: "Vocabulaire - Base",
+    categoryVerbsPresent: "Verbes - Présent",
     profileNameRequired: "Saisissez un nom de profil.",
     profileLanguagesDifferent: "Choisissez deux langues différentes.",
     lessonsHome: "Leçons",
@@ -480,6 +488,9 @@ const lessonSubtitle = document.querySelector("#lesson-subtitle");
 const backToLessonsButton = document.querySelector("#back-to-lessons-button");
 const logoutButton = document.querySelector("#logout-button");
 const lessonsHome = document.querySelector("#lessons-home");
+const lessonCategoryButton = document.querySelector("#lesson-category-button");
+const lessonCategoryMenu = document.querySelector("#lesson-category-menu");
+const lessonCategoryButtons = [...document.querySelectorAll("[data-lesson-category]")];
 const lessonFilterButton = document.querySelector("#lesson-filter-button");
 const lessonFilterMenu = document.querySelector("#lesson-filter-menu");
 const lessonFilterButtons = [...document.querySelectorAll("[data-lesson-filter]")];
@@ -567,7 +578,9 @@ let lessonProgress = {};
 let isProfileModalOpen = false;
 let slideRenderTimer = null;
 let isSettingsMenuOpen = false;
+let selectedLessonCategory = "vocabulary_basic";
 let selectedLessonFilter = "all";
+let isLessonCategoryMenuOpen = false;
 let isLessonFilterMenuOpen = false;
 let quizAudioToken = 0;
 const QUIZ_ADVANCE_DELAY_MS = 450;
@@ -848,6 +861,11 @@ function getLessonFilterLabel() {
   return t("filterAll");
 }
 
+function getLessonCategoryLabel() {
+  if (selectedLessonCategory === "verbs_present") return t("categoryVerbsPresent");
+  return t("categoryVocabularyBasic");
+}
+
 function renderQuizProgressDots() {
   if (!quizProgressDots) return;
   quizProgressDots.innerHTML = "";
@@ -885,6 +903,26 @@ function renderLessonFilterButtons() {
     button.classList.toggle("is-selected", selected);
     button.setAttribute("aria-pressed", String(selected));
   }
+}
+
+function renderLessonCategoryButtons() {
+  if (lessonCategoryButton && lessonCategoryMenu) {
+    lessonCategoryButton.textContent = getLessonCategoryLabel();
+    lessonCategoryButton.setAttribute("aria-expanded", String(isLessonCategoryMenuOpen));
+    lessonCategoryMenu.classList.toggle("is-hidden", !isLessonCategoryMenuOpen);
+    lessonCategoryMenu.setAttribute("aria-hidden", String(!isLessonCategoryMenuOpen));
+  }
+  for (const button of lessonCategoryButtons) {
+    const selected = button.dataset.lessonCategory === selectedLessonCategory;
+    button.classList.toggle("is-selected", selected);
+    button.setAttribute("aria-pressed", String(selected));
+  }
+}
+
+function closeLessonCategoryMenu() {
+  if (!isLessonCategoryMenuOpen) return;
+  isLessonCategoryMenuOpen = false;
+  renderLessonCategoryButtons();
 }
 
 function closeLessonFilterMenu() {
@@ -1336,11 +1374,14 @@ function renderProfileSummary() {
 function renderLessonsHome() {
   if (!catalog) return;
   lessonList.innerHTML = "";
-  const availableLessons = catalog.lessons.filter((lesson) => lessonSupportsProfileLanguages(lesson));
+  const availableLessons = catalog.lessons.filter((lesson) => {
+    if (!lessonSupportsProfileLanguages(lesson)) return false;
+    return (lesson.category ?? "vocabulary_basic") === selectedLessonCategory;
+  });
   if (availableLessons.length === 0) {
     const empty = document.createElement("p");
     empty.className = "profile-empty";
-    empty.textContent = t("noLessonsAvailable");
+    empty.textContent = selectedLessonCategory === "vocabulary_basic" ? t("noLessonsAvailable") : t("noLessonsForFilter");
     lessonList.append(empty);
     return;
   }
@@ -1394,6 +1435,8 @@ function applyUiText() {
   lessonSubtitle.textContent = lessonOpen ? "" : t("lessonSubtitle");
   backToLessonsButton.textContent = t("lessonsHome");
   logoutButton.textContent = t("logout");
+  document.querySelector("#lesson-category-basic").textContent = t("categoryVocabularyBasic");
+  document.querySelector("#lesson-category-verbs").textContent = t("categoryVerbsPresent");
   document.querySelector("#lesson-filter-all").textContent = t("filterAll");
   document.querySelector("#lesson-filter-new").textContent = t("filterNew");
   document.querySelector("#lesson-filter-started").textContent = t("filterStarted");
@@ -1421,6 +1464,7 @@ function applyUiText() {
   renderSpeedButtons();
   renderIllustrationsButtons();
   renderRandomizeButtons();
+  renderLessonCategoryButtons();
   renderLessonFilterButtons();
   renderSettingsMenu();
   renderPlayPauseButton();
@@ -1773,6 +1817,10 @@ document.addEventListener("keydown", (event) => {
     closeSettingsMenu();
     return;
   }
+  if (event.key === "Escape" && isLessonCategoryMenuOpen) {
+    closeLessonCategoryMenu();
+    return;
+  }
   if (event.key === "Escape" && isLessonFilterMenuOpen) {
     closeLessonFilterMenu();
   }
@@ -1787,6 +1835,10 @@ settingsButton.addEventListener("click", () => {
 lessonFilterButton?.addEventListener("click", () => {
   isLessonFilterMenuOpen = !isLessonFilterMenuOpen;
   renderLessonFilterButtons();
+});
+lessonCategoryButton?.addEventListener("click", () => {
+  isLessonCategoryMenuOpen = !isLessonCategoryMenuOpen;
+  renderLessonCategoryButtons();
 });
 repeatButton.addEventListener("click", async () => playCurrentSlide());
 prevButton.addEventListener("click", async () => {
@@ -1809,6 +1861,14 @@ nextButton.addEventListener("click", async () => {
   updateButtons();
   if (shouldContinuePlaying) await playCurrentSlide();
 });
+for (const button of lessonCategoryButtons) {
+  button.addEventListener("click", () => {
+    selectedLessonCategory = button.dataset.lessonCategory ?? "vocabulary_basic";
+    closeLessonCategoryMenu();
+    renderLessonCategoryButtons();
+    renderLessonsHome();
+  });
+}
 for (const button of lessonFilterButtons) {
   button.addEventListener("click", () => {
     selectedLessonFilter = button.dataset.lessonFilter ?? "all";
@@ -1827,6 +1887,11 @@ quizWord.addEventListener("click", async () => {
 });
 quizBackdrop?.addEventListener("click", () => closeQuizOverlay());
 document.addEventListener("click", (event) => {
+  if (isLessonCategoryMenuOpen) {
+    if (event.target instanceof Node && lessonCategoryButton?.contains(event.target)) return;
+    if (event.target instanceof Node && lessonCategoryMenu?.contains(event.target)) return;
+    closeLessonCategoryMenu();
+  }
   if (!isLessonFilterMenuOpen) return;
   if (event.target instanceof Node && lessonFilterButton?.contains(event.target)) return;
   if (event.target instanceof Node && lessonFilterMenu?.contains(event.target)) return;

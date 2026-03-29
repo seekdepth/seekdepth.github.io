@@ -1,0 +1,152 @@
+{
+  "lesson_id": "to_go",
+  "title": "To Go",
+  "titles": {
+    "en": "To Go",
+    "pt": "Ir",
+    "es": "Ir",
+    "fr": "Aller"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the verb to go.",
+    "pt-BR": "Vamos estudar o verbo ir.",
+    "es-ES": "Vamos a estudiar el verbo ir.",
+    "fr-FR": "Étudions le verbe aller."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to go",
+        "pt-BR": "ir",
+        "es-ES": "ir",
+        "fr-FR": "aller"
+      },
+      "sample_sentences": {
+        "en": "The verb to go is useful every day.",
+        "pt-BR": "O verbo ir é útil todos os dias.",
+        "es-ES": "El verbo ir es útil todos los días.",
+        "fr-FR": "Le verbe aller est utile tous les jours."
+      }
+    },
+    {
+      "terms": {
+        "en": "I go",
+        "pt-BR": "eu vou",
+        "es-ES": "yo voy",
+        "fr-FR": "je vais"
+      },
+      "sample_sentences": {
+        "en": "I go to work early.",
+        "pt-BR": "Eu vou ao trabalho cedo.",
+        "es-ES": "Yo voy al trabajo temprano.",
+        "fr-FR": "Je vais au travail tôt."
+      }
+    },
+    {
+      "terms": {
+        "en": "you go",
+        "pt-BR": "você vai",
+        "es-ES": "tú vas",
+        "fr-FR": "tu vas"
+      },
+      "sample_sentences": {
+        "en": "You go by bus.",
+        "pt-BR": "Você vai de ônibus.",
+        "es-ES": "Tú vas en autobús.",
+        "fr-FR": "Tu vas en bus."
+      }
+    },
+    {
+      "terms": {
+        "en": "he goes",
+        "pt-BR": "ele vai",
+        "es-ES": "él va",
+        "fr-FR": "il va"
+      },
+      "sample_sentences": {
+        "en": "He goes to the gym after work.",
+        "pt-BR": "Ele vai para a academia depois do trabalho.",
+        "es-ES": "Él va al gimnasio después del trabajo.",
+        "fr-FR": "Il va à la salle de sport après le travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "she goes",
+        "pt-BR": "ela vai",
+        "es-ES": "ella va",
+        "fr-FR": "elle va"
+      },
+      "sample_sentences": {
+        "en": "She goes to school every morning.",
+        "pt-BR": "Ela vai para a escola todas as manhãs.",
+        "es-ES": "Ella va a la escuela todas las mañanas.",
+        "fr-FR": "Elle va à l'école tous les matins."
+      }
+    },
+    {
+      "terms": {
+        "en": "it goes",
+        "pt-BR": "vai",
+        "es-ES": "va",
+        "fr-FR": "il va"
+      },
+      "sample_sentences": {
+        "en": "It goes very fast.",
+        "pt-BR": "Vai muito rápido.",
+        "es-ES": "Va muy rápido.",
+        "fr-FR": "Il va très vite."
+      }
+    },
+    {
+      "terms": {
+        "en": "we go",
+        "pt-BR": "nós vamos",
+        "es-ES": "nosotros vamos",
+        "fr-FR": "nous allons"
+      },
+      "sample_sentences": {
+        "en": "We go together on Fridays.",
+        "pt-BR": "Nós vamos juntos às sextas-feiras.",
+        "es-ES": "Nosotros vamos juntos los viernes.",
+        "fr-FR": "Nous y allons ensemble le vendredi."
+      }
+    },
+    {
+      "terms": {
+        "en": "you go (plural)",
+        "pt-BR": "vocês vão",
+        "es-ES": "ustedes van",
+        "fr-FR": "vous allez"
+      },
+      "sample_sentences": {
+        "en": "You all go to the same office.",
+        "pt-BR": "Vocês vão para o mesmo escritório.",
+        "es-ES": "Ustedes van a la misma oficina.",
+        "fr-FR": "Vous allez au même bureau."
+      }
+    },
+    {
+      "terms": {
+        "en": "they go",
+        "pt-BR": "eles vão",
+        "es-ES": "ellos van",
+        "fr-FR": "ils vont"
+      },
+      "sample_sentences": {
+        "en": "They go to the beach in summer.",
+        "pt-BR": "Eles vão à praia no verão.",
+        "es-ES": "Ellos van a la playa en verano.",
+        "fr-FR": "Ils vont à la plage en été."
+      }
+    }
+  ]
+}

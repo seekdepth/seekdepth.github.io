@@ -1,0 +1,101 @@
+{
+  "lesson_id": "to_want",
+  "title": "To Want",
+  "titles": {
+    "en": "To Want",
+    "pt": "Querer",
+    "es": "Querer",
+    "fr": "Vouloir"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to want.",
+    "pt-BR": "Vamos estudar o verbo querer.",
+    "es-ES": "Vamos a estudiar el verbo querer.",
+    "fr-FR": "Étudions le verbe vouloir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": { "en": "to want", "pt-BR": "querer", "es-ES": "querer", "fr-FR": "vouloir" },
+      "sample_sentences": {
+        "en": "The verb to want appears in many conversations.",
+        "pt-BR": "O verbo querer aparece em muitas conversas.",
+        "es-ES": "El verbo querer aparece en muchas conversaciones.",
+        "fr-FR": "Le verbe vouloir apparaît dans beaucoup de conversations."
+      }
+    },
+    {
+      "terms": { "en": "I want", "pt-BR": "eu quero", "es-ES": "yo quiero", "fr-FR": "je veux" },
+      "sample_sentences": {
+        "en": "I want a cup of tea.",
+        "pt-BR": "Eu quero uma xícara de chá.",
+        "es-ES": "Yo quiero una taza de té.",
+        "fr-FR": "Je veux une tasse de thé."
+      }
+    },
+    {
+      "terms": { "en": "you want", "pt-BR": "você quer", "es-ES": "tú quieres", "fr-FR": "tu veux" },
+      "sample_sentences": {
+        "en": "You want to leave early.",
+        "pt-BR": "Você quer sair cedo.",
+        "es-ES": "Tú quieres salir temprano.",
+        "fr-FR": "Tu veux partir tôt."
+      }
+    },
+    {
+      "terms": { "en": "he wants", "pt-BR": "ele quer", "es-ES": "él quiere", "fr-FR": "il veut" },
+      "sample_sentences": {
+        "en": "He wants more time.",
+        "pt-BR": "Ele quer mais tempo.",
+        "es-ES": "Él quiere más tiempo.",
+        "fr-FR": "Il veut plus de temps."
+      }
+    },
+    {
+      "terms": { "en": "she wants", "pt-BR": "ela quer", "es-ES": "ella quiere", "fr-FR": "elle veut" },
+      "sample_sentences": {
+        "en": "She wants a new notebook.",
+        "pt-BR": "Ela quer um caderno novo.",
+        "es-ES": "Ella quiere un cuaderno nuevo.",
+        "fr-FR": "Elle veut un nouveau cahier."
+      }
+    },
+    {
+      "terms": { "en": "it wants", "pt-BR": "quer", "es-ES": "quiere", "fr-FR": "il veut" },
+      "sample_sentences": {
+        "en": "It wants more water.",
+        "pt-BR": "Quer mais água.",
+        "es-ES": "Quiere más agua.",
+        "fr-FR": "Il veut plus d'eau."
+      }
+    },
+    {
+      "terms": { "en": "we want", "pt-BR": "nós queremos", "es-ES": "nosotros queremos", "fr-FR": "nous voulons" },
+      "sample_sentences": {
+        "en": "We want to travel this summer.",
+        "pt-BR": "Nós queremos viajar neste verão.",
+        "es-ES": "Nosotros queremos viajar este verano.",
+        "fr-FR": "Nous voulons voyager cet été."
+      }
+    },
+    {
+      "terms": { "en": "you want (plural)", "pt-BR": "vocês querem", "es-ES": "ustedes quieren", "fr-FR": "vous voulez" },
+      "sample_sentences": {
+        "en": "You all want the same thing.",
+        "pt-BR": "Vocês querem a mesma coisa.",
+        "es-ES": "Ustedes quieren lo mismo.",
+        "fr-FR": "Vous voulez la même chose."
+      }
+    },
+    {
+      "terms": { "en": "they want", "pt-BR": "eles querem", "es-ES": "ellos quieren", "fr-FR": "ils veulent" },
+      "sample_sentences": {
+        "en": "They want to learn quickly.",
+        "pt-BR": "Eles querem aprender rápido.",
+        "es-ES": "Ellos quieren aprender rápido.",
+        "fr-FR": "Ils veulent apprendre vite."
+      }
+    }
+  ]
+}

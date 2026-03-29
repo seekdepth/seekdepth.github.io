@@ -1,0 +1,106 @@
+{
+  "lesson_id": "to_need",
+  "title": "To Need",
+  "titles": {
+    "en": "To Need",
+    "pt": "Precisar",
+    "es": "Necesitar",
+    "fr": "Avoir Besoin / Devoir"
+  },
+  "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+  "intro_sentences": {
+    "en": "Let's study the verb to need.",
+    "pt-BR": "Vamos estudar o verbo precisar.",
+    "es-ES": "Vamos a estudiar el verbo necesitar.",
+    "fr-FR": "Étudions l'expression avoir besoin de."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to need",
+        "pt-BR": "precisar",
+        "es-ES": "necesitar",
+        "fr-FR": "avoir besoin de"
+      },
+      "sample_sentences": {
+        "en": "The verb to need helps in many practical situations.",
+        "pt-BR": "O verbo precisar ajuda em muitas situações práticas.",
+        "es-ES": "El verbo necesitar ayuda en muchas situaciones prácticas.",
+        "fr-FR": "L'expression avoir besoin de aide dans beaucoup de situations pratiques."
+      }
+    },
+    {
+      "terms": { "en": "I need", "pt-BR": "eu preciso", "es-ES": "yo necesito", "fr-FR": "j'ai besoin de" },
+      "sample_sentences": {
+        "en": "I need more time.",
+        "pt-BR": "Eu preciso de mais tempo.",
+        "es-ES": "Yo necesito más tiempo.",
+        "fr-FR": "J'ai besoin de plus de temps."
+      }
+    },
+    {
+      "terms": { "en": "you need", "pt-BR": "você precisa", "es-ES": "tú necesitas", "fr-FR": "tu as besoin de" },
+      "sample_sentences": {
+        "en": "You need a pen.",
+        "pt-BR": "Você precisa de uma caneta.",
+        "es-ES": "Tú necesitas un bolígrafo.",
+        "fr-FR": "Tu as besoin d'un stylo."
+      }
+    },
+    {
+      "terms": { "en": "he needs", "pt-BR": "ele precisa", "es-ES": "él necesita", "fr-FR": "il a besoin de" },
+      "sample_sentences": {
+        "en": "He needs a new phone.",
+        "pt-BR": "Ele precisa de um telefone novo.",
+        "es-ES": "Él necesita un teléfono nuevo.",
+        "fr-FR": "Il a besoin d'un nouveau téléphone."
+      }
+    },
+    {
+      "terms": { "en": "she needs", "pt-BR": "ela precisa", "es-ES": "ella necesita", "fr-FR": "elle a besoin de" },
+      "sample_sentences": {
+        "en": "She needs a quiet place to work.",
+        "pt-BR": "Ela precisa de um lugar tranquilo para trabalhar.",
+        "es-ES": "Ella necesita un lugar tranquilo para trabajar.",
+        "fr-FR": "Elle a besoin d'un endroit calme pour travailler."
+      }
+    },
+    {
+      "terms": { "en": "it needs", "pt-BR": "precisa", "es-ES": "necesita", "fr-FR": "il a besoin de" },
+      "sample_sentences": {
+        "en": "It needs more light.",
+        "pt-BR": "Precisa de mais luz.",
+        "es-ES": "Necesita más luz.",
+        "fr-FR": "Il a besoin de plus de lumière."
+      }
+    },
+    {
+      "terms": { "en": "we need", "pt-BR": "nós precisamos", "es-ES": "nosotros necesitamos", "fr-FR": "nous avons besoin de" },
+      "sample_sentences": {
+        "en": "We need to leave soon.",
+        "pt-BR": "Nós precisamos sair logo.",
+        "es-ES": "Nosotros necesitamos salir pronto.",
+        "fr-FR": "Nous avons besoin de partir bientôt."
+      }
+    },
+    {
+      "terms": { "en": "you need (plural)", "pt-BR": "vocês precisam", "es-ES": "ustedes necesitan", "fr-FR": "vous avez besoin de" },
+      "sample_sentences": {
+        "en": "You all need your tickets.",
+        "pt-BR": "Vocês precisam dos ingressos.",
+        "es-ES": "Ustedes necesitan sus entradas.",
+        "fr-FR": "Vous avez besoin de vos billets."
+      }
+    },
+    {
+      "terms": { "en": "they need", "pt-BR": "eles precisam", "es-ES": "ellos necesitan", "fr-FR": "ils ont besoin de" },
+      "sample_sentences": {
+        "en": "They need help with the project.",
+        "pt-BR": "Eles precisam de ajuda com o projeto.",
+        "es-ES": "Ellos necesitan ayuda con el proyecto.",
+        "fr-FR": "Ils ont besoin d'aide pour le projet."
+      }
+    }
+  ]
+}
