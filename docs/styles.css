@@ -389,6 +389,16 @@ h1 {
   z-index: 0;
 }
 
+.lesson-card-visual.lesson-card-visual-compact {
+  font-size: clamp(3.2rem, 9.5vw, 5.8rem);
+  letter-spacing: 0.08em;
+}
+
+.lesson-card-visual.lesson-card-visual-wide {
+  font-size: clamp(3rem, 8.8vw, 5.2rem);
+  letter-spacing: 0.06em;
+}
+
 .lesson-card-visual::before {
   content: "";
   position: absolute;
@@ -496,7 +506,6 @@ h1 {
   justify-content: flex-end;
   align-items: center;
   gap: 1rem;
-  margin-bottom: 1rem;
 }
 
 .menu-shell {

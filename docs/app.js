@@ -12,12 +12,12 @@ const LESSON_CARD_VISUALS = {
     "🐈  🐈",
     "🚗\n🚗  🚗",
     "🪑  🪑\n🪑  🪑",
-    "🍇  🍇  🍇",
-    "🍎  🍎\n🍎  🍎",
+    "🍇",
+    "🍎  🍎  🍎\n🍎  🍎  🍎",
     "📅  ✨",
-    "🎓  🎓",
-    "⭐  ⭐  ⭐",
-    "🐦  🐦  🐦",
+    "🎓  🎓  🎓  🎓\n🎓  🎓  🎓  🎓",
+    { text: "⭐  ⭐  ⭐\n⭐  ⭐  ⭐\n⭐  ⭐  ⭐", className: "lesson-card-visual-compact" },
+    { text: "🐦  🐦  🐦  🐦  🐦\n🐦  🐦  🐦  🐦  🐦", className: "lesson-card-visual-wide" },
   ],
 };
 
@@ -667,8 +667,13 @@ function getLessonCardVisual() {
 function renderLessonCardVisual() {
   if (!lessonCardVisual) return;
   const visual = illustrationsEnabled ? getLessonCardVisual() : null;
-  lessonCardVisual.textContent = visual ?? "";
-  lessonCardVisual.classList.toggle("is-hidden", !visual);
+  const visualText = typeof visual === "string" ? visual : visual?.text ?? "";
+  lessonCardVisual.textContent = visualText;
+  lessonCardVisual.classList.remove("lesson-card-visual-compact", "lesson-card-visual-wide");
+  if (visual && typeof visual === "object" && visual.className) {
+    lessonCardVisual.classList.add(visual.className);
+  }
+  lessonCardVisual.classList.toggle("is-hidden", !visualText);
 }
 
 function setSlideContent(display) {
@@ -1427,11 +1432,12 @@ playPauseButton.addEventListener("click", async () => {
 });
 nextButton.addEventListener("click", async () => {
   if (currentIndex >= slides.length - 1) return;
+  const shouldContinuePlaying = isPlaying;
   cancelPlayback();
   currentIndex += 1;
   renderSlide();
   updateButtons();
-  if (hasStarted) await playCurrentSlide();
+  if (shouldContinuePlaying) await playCurrentSlide();
 });
 modeQuizButton.addEventListener("click", () => switchView(APP_VIEWS.quiz));
 quizCloseButton.addEventListener("click", () => switchView(APP_VIEWS.lesson));
