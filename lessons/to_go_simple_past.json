@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_go_simple_past",
+  "title": "To Go",
+  "titles": {
+    "en": "To Go",
+    "pt": "Ir",
+    "es": "Ir",
+    "fr": "Aller"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to go.",
+    "pt-BR": "Vamos estudar o passado simples de ir.",
+    "es-ES": "Vamos a estudiar el pasado simple de ir.",
+    "fr-FR": "Étudions le passé simple de aller."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to go",
+        "pt-BR": "ir",
+        "es-ES": "ir",
+        "fr-FR": "aller"
+      },
+      "sample_sentences": {
+        "en": "The verb to go is often irregular in the past.",
+        "pt-BR": "O verbo ir costuma ser irregular no passado.",
+        "es-ES": "El verbo ir suele ser irregular en el pasado.",
+        "fr-FR": "Le verbe aller est souvent irrégulier au passé."
+      }
+    },
+    {
+      "terms": {
+        "en": "I went",
+        "pt-BR": "eu fui",
+        "es-ES": "yo fui",
+        "fr-FR": "je suis allé"
+      },
+      "sample_sentences": {
+        "en": "I went to work early.",
+        "pt-BR": "Eu fui ao trabalho cedo.",
+        "es-ES": "Yo fui al trabajo temprano.",
+        "fr-FR": "Je suis allé au travail tôt."
+      }
+    },
+    {
+      "terms": {
+        "en": "you went",
+        "pt-BR": "você foi",
+        "es-ES": "tú fuiste",
+        "fr-FR": "tu es allé"
+      },
+      "sample_sentences": {
+        "en": "You went by bus.",
+        "pt-BR": "Você foi de ônibus.",
+        "es-ES": "Tú fuiste en autobús.",
+        "fr-FR": "Tu es allé en bus."
+      }
+    },
+    {
+      "terms": {
+        "en": "he went",
+        "pt-BR": "ele foi",
+        "es-ES": "él fue",
+        "fr-FR": "il est allé"
+      },
+      "sample_sentences": {
+        "en": "He went to the gym after work.",
+        "pt-BR": "Ele foi para a academia depois do trabalho.",
+        "es-ES": "Él fue al gimnasio después del trabajo.",
+        "fr-FR": "Il est allé à la salle de sport après le travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "she went",
+        "pt-BR": "ela foi",
+        "es-ES": "ella fue",
+        "fr-FR": "elle est allée"
+      },
+      "sample_sentences": {
+        "en": "She went to school in the morning.",
+        "pt-BR": "Ela foi para a escola de manhã.",
+        "es-ES": "Ella fue a la escuela por la mañana.",
+        "fr-FR": "Elle est allée à l'école le matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "it went",
+        "pt-BR": "foi",
+        "es-ES": "fue",
+        "fr-FR": "il est allé"
+      },
+      "sample_sentences": {
+        "en": "It went very fast.",
+        "pt-BR": "Foi muito rápido.",
+        "es-ES": "Fue muy rápido.",
+        "fr-FR": "Il est allé très vite."
+      }
+    },
+    {
+      "terms": {
+        "en": "we went",
+        "pt-BR": "nós fomos",
+        "es-ES": "nosotros fuimos",
+        "fr-FR": "nous sommes allés"
+      },
+      "sample_sentences": {
+        "en": "We went together on Friday.",
+        "pt-BR": "Nós fomos juntos na sexta-feira.",
+        "es-ES": "Nosotros fuimos juntos el viernes.",
+        "fr-FR": "Nous sommes allés ensemble vendredi."
+      }
+    },
+    {
+      "terms": {
+        "en": "you went (plural)",
+        "pt-BR": "vocês foram",
+        "es-ES": "ustedes fueron",
+        "fr-FR": "vous êtes allés"
+      },
+      "sample_sentences": {
+        "en": "You all went to the same office.",
+        "pt-BR": "Vocês foram para o mesmo escritório.",
+        "es-ES": "Ustedes fueron a la misma oficina.",
+        "fr-FR": "Vous êtes allés au même bureau."
+      }
+    },
+    {
+      "terms": {
+        "en": "they went",
+        "pt-BR": "eles foram",
+        "es-ES": "ellos fueron",
+        "fr-FR": "ils sont allés"
+      },
+      "sample_sentences": {
+        "en": "They went to the beach in summer.",
+        "pt-BR": "Eles foram à praia no verão.",
+        "es-ES": "Ellos fueron a la playa en verano.",
+        "fr-FR": "Ils sont allés à la plage en été."
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_see_simple_past",
+  "title": "To See",
+  "titles": {
+    "en": "To See",
+    "pt": "Ver",
+    "es": "Ver",
+    "fr": "Voir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_see_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To See",
+      "pt": "Ver",
+      "es": "Ver",
+      "fr": "Voir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to see.",
+      "pt-BR": "Vamos estudar o passado simples de ver.",
+      "es-ES": "Vamos a estudiar el pasado simple de ver.",
+      "fr-FR": "Étudions le passé simple de voir.",
+      "en-US": "Let's study the simple past of to see.",
+      "en-GB": "Let's study the simple past of to see."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to see",
+        "pt-BR": "ver",
+        "es-ES": "ver",
+        "fr-FR": "voir",
+        "en-US": "to see",
+        "en-GB": "to see"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to see is common in daily speech.",
+        "pt-BR": "O verbo ver é comum na fala do dia a dia.",
+        "es-ES": "El verbo ver es común en el habla diaria.",
+        "fr-FR": "Le verbe voir est courant dans la langue quotidienne.",
+        "en-US": "The verb to see is common in daily speech.",
+        "en-GB": "The verb to see is common in daily speech."
+      }
+    },
+    {
+      "terms": {
+        "en": "I saw",
+        "pt-BR": "eu vi",
+        "es-ES": "yo vi",
+        "fr-FR": "j'ai vu",
+        "en-US": "I saw",
+        "en-GB": "I saw"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I saw the mountains from there.",
+        "pt-BR": "Eu vi as montanhas de lá.",
+        "es-ES": "Yo vi las montañas desde allí.",
+        "fr-FR": "J'ai vu les montagnes de là.",
+        "en-US": "I saw the mountains from there.",
+        "en-GB": "I saw the mountains from there."
+      }
+    },
+    {
+      "terms": {
+        "en": "you saw",
+        "pt-BR": "você viu",
+        "es-ES": "tú viste",
+        "fr-FR": "tu as vu",
+        "en-US": "you saw",
+        "en-GB": "you saw"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You saw the answer clearly.",
+        "pt-BR": "Você viu a resposta claramente.",
+        "es-ES": "Tú viste la respuesta claramente.",
+        "fr-FR": "Tu as vu la réponse clairement.",
+        "en-US": "You saw the answer clearly.",
+        "en-GB": "You saw the answer clearly."
+      }
+    },
+    {
+      "terms": {
+        "en": "he saw",
+        "pt-BR": "ele viu",
+        "es-ES": "él vio",
+        "fr-FR": "il a vu",
+        "en-US": "he saw",
+        "en-GB": "he saw"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He saw his friends on Saturday.",
+        "pt-BR": "Ele viu os amigos no sábado.",
+        "es-ES": "Él vio a sus amigos el sábado.",
+        "fr-FR": "Il a vu ses amis samedi.",
+        "en-US": "He saw his friends on Saturday.",
+        "en-GB": "He saw his friends on Saturday."
+      }
+    },
+    {
+      "terms": {
+        "en": "she saw",
+        "pt-BR": "ela viu",
+        "es-ES": "ella vio",
+        "fr-FR": "elle a vu",
+        "en-US": "she saw",
+        "en-GB": "she saw"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She saw the difference right away.",
+        "pt-BR": "Ela viu a diferença na hora.",
+        "es-ES": "Ella vio la diferencia enseguida.",
+        "fr-FR": "Elle a vu la différence tout de suite.",
+        "en-US": "She saw the difference right away.",
+        "en-GB": "She saw the difference right away."
+      }
+    },
+    {
+      "terms": {
+        "en": "it saw",
+        "pt-BR": "viu",
+        "es-ES": "vio",
+        "fr-FR": "il a vu",
+        "en-US": "it saw",
+        "en-GB": "it saw"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It saw movement in the dark.",
+        "pt-BR": "Viu movimento no escuro.",
+        "es-ES": "Vio movimiento en la oscuridad.",
+        "fr-FR": "Il a vu du mouvement dans le noir.",
+        "en-US": "It saw movement in the dark.",
+        "en-GB": "It saw movement in the dark."
+      }
+    },
+    {
+      "terms": {
+        "en": "we saw",
+        "pt-BR": "nós vimos",
+        "es-ES": "nosotros vimos",
+        "fr-FR": "nous avons vu",
+        "en-US": "we saw",
+        "en-GB": "we saw"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We saw each other on Monday.",
+        "pt-BR": "Nós nos vimos na segunda-feira.",
+        "es-ES": "Nosotros nos vimos el lunes.",
+        "fr-FR": "Nous nous sommes vus lundi.",
+        "en-US": "We saw each other on Monday.",
+        "en-GB": "We saw each other on Monday."
+      }
+    },
+    {
+      "terms": {
+        "en": "you saw (plural)",
+        "pt-BR": "vocês viram",
+        "es-ES": "ustedes vieron",
+        "fr-FR": "vous avez vu",
+        "en-US": "you saw (plural)",
+        "en-GB": "you saw (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all saw the same screen.",
+        "pt-BR": "Vocês viram a mesma tela.",
+        "es-ES": "Ustedes vieron la misma pantalla.",
+        "fr-FR": "Vous avez vu le même écran.",
+        "en-US": "You all saw the same screen.",
+        "en-GB": "You all saw the same screen."
+      }
+    },
+    {
+      "terms": {
+        "en": "they saw",
+        "pt-BR": "eles viram",
+        "es-ES": "ellos vieron",
+        "fr-FR": "ils ont vu",
+        "en-US": "they saw",
+        "en-GB": "they saw"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They saw the city lights at night.",
+        "pt-BR": "Eles viram as luzes da cidade à noite.",
+        "es-ES": "Ellos vieron las luces de la ciudad por la noche.",
+        "fr-FR": "Ils ont vu les lumières de la ville la nuit.",
+        "en-US": "They saw the city lights at night.",
+        "en-GB": "They saw the city lights at night."
+      }
+    }
+  ]
+}

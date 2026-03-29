@@ -11,7 +11,13 @@
         "fr": "Jours de la Semaine"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/days_of_week/manifest.json"
     },
     {
@@ -24,7 +30,13 @@
         "fr": "Nombres de 1 à 10"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/numbers_1_to_10/manifest.json"
     },
     {
@@ -37,7 +49,13 @@
         "fr": "Nombres de 11 à 20"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/numbers_11_to_20/manifest.json"
     },
     {
@@ -50,7 +68,13 @@
         "fr": "Nombres de 21 à 100"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/numbers_21_to_100/manifest.json"
     },
     {
@@ -63,7 +87,13 @@
         "fr": "La Vie en Ville"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/city_life/manifest.json"
     },
     {
@@ -76,7 +106,13 @@
         "fr": "La Campagne"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/the_countryside/manifest.json"
     },
     {
@@ -89,7 +125,13 @@
         "fr": "Soleil et Mer"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/sun_and_sea/manifest.json"
     },
     {
@@ -102,7 +144,13 @@
         "fr": "Petit-déjeuner"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/breakfast/manifest.json"
     },
     {
@@ -115,7 +163,13 @@
         "fr": "Restauration Rapide"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/fast_food/manifest.json"
     },
     {
@@ -128,7 +182,13 @@
         "fr": "Gastronomie"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/fine_dining/manifest.json"
     },
     {
@@ -141,7 +201,13 @@
         "fr": "Les Mois"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/the_months/manifest.json"
     },
     {
@@ -154,7 +220,13 @@
         "fr": "Couleurs"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/colors/manifest.json"
     },
     {
@@ -167,7 +239,13 @@
         "fr": "À la Maison"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/at_home/manifest.json"
     },
     {
@@ -180,7 +258,13 @@
         "fr": "La Famille"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/family/manifest.json"
     },
     {
@@ -193,7 +277,13 @@
         "fr": "Vêtements"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/clothing/manifest.json"
     },
     {
@@ -206,7 +296,13 @@
         "fr": "Le Temps"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/weather/manifest.json"
     },
     {
@@ -219,7 +315,13 @@
         "fr": "Au Magasin"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/at_the_store/manifest.json"
     },
     {
@@ -232,7 +334,13 @@
         "fr": "Les Parties du Corps"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/body_parts/manifest.json"
     },
     {
@@ -245,7 +353,13 @@
         "fr": "Les Transports"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/transportation/manifest.json"
     },
     {
@@ -258,7 +372,13 @@
         "fr": "L'École"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/school/manifest.json"
     },
     {
@@ -271,7 +391,13 @@
         "fr": "Le Travail"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/work/manifest.json"
     },
     {
@@ -284,7 +410,13 @@
         "fr": "Moments de la Journée"
       },
       "category": "vocabulary_basic",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
       "manifest_path": "./audio/time_of_day/manifest.json"
     },
     {
@@ -296,9 +428,16 @@
         "es": "Ser / Estar",
         "fr": "Être"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_be/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_be/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_go",
@@ -309,9 +448,16 @@
         "es": "Ir",
         "fr": "Aller"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_go/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_go/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_have",
@@ -322,9 +468,16 @@
         "es": "Tener",
         "fr": "Avoir"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_have/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_have/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_do",
@@ -335,9 +488,16 @@
         "es": "Hacer",
         "fr": "Faire"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_do/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_do/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_make",
@@ -348,9 +508,16 @@
         "es": "Hacer",
         "fr": "Faire"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_make/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_make/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_come",
@@ -361,9 +528,16 @@
         "es": "Venir",
         "fr": "Venir"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_come/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_come/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_see",
@@ -374,9 +548,16 @@
         "es": "Ver",
         "fr": "Voir"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_see/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_see/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_want",
@@ -387,9 +568,16 @@
         "es": "Querer",
         "fr": "Vouloir"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_want/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_want/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_know",
@@ -400,9 +588,16 @@
         "es": "Saber / Conocer",
         "fr": "Savoir / Connaître"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_know/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_know/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_like",
@@ -413,9 +608,16 @@
         "es": "Gustar",
         "fr": "Aimer"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_like/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_like/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_eat",
@@ -426,9 +628,16 @@
         "es": "Comer",
         "fr": "Manger"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_eat/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_eat/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_drink",
@@ -439,9 +648,16 @@
         "es": "Beber",
         "fr": "Boire"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_drink/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_drink/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_need",
@@ -452,9 +668,16 @@
         "es": "Necesitar",
         "fr": "Avoir Besoin / Devoir"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_need/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_need/manifest.json",
+      "tense": "simple_present"
     },
     {
       "lesson_id": "to_live",
@@ -465,9 +688,296 @@
         "es": "Vivir",
         "fr": "Vivre / Habiter"
       },
-      "category": "verbs_present",
-      "languages": ["en-US", "en-GB", "pt-BR", "es-ES", "fr-FR"],
-      "manifest_path": "./audio/to_live/manifest.json"
+      "category": "verbs_simple_present",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_live/manifest.json",
+      "tense": "simple_present"
+    },
+    {
+      "lesson_id": "to_be_simple_past",
+      "title": "To Be",
+      "titles": {
+        "en": "To Be",
+        "pt": "Ser / Estar",
+        "es": "Ser / Estar",
+        "fr": "Être"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_be_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_go_simple_past",
+      "title": "To Go",
+      "titles": {
+        "en": "To Go",
+        "pt": "Ir",
+        "es": "Ir",
+        "fr": "Aller"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_go_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_have_simple_past",
+      "title": "To Have",
+      "titles": {
+        "en": "To Have",
+        "pt": "Ter",
+        "es": "Tener",
+        "fr": "Avoir"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_have_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_do_simple_past",
+      "title": "To Do",
+      "titles": {
+        "en": "To Do",
+        "pt": "Fazer",
+        "es": "Hacer",
+        "fr": "Faire"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_do_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_make_simple_past",
+      "title": "To Make",
+      "titles": {
+        "en": "To Make",
+        "pt": "Fazer",
+        "es": "Hacer",
+        "fr": "Faire"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_make_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_come_simple_past",
+      "title": "To Come",
+      "titles": {
+        "en": "To Come",
+        "pt": "Vir",
+        "es": "Venir",
+        "fr": "Venir"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_come_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_see_simple_past",
+      "title": "To See",
+      "titles": {
+        "en": "To See",
+        "pt": "Ver",
+        "es": "Ver",
+        "fr": "Voir"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_see_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_want_simple_past",
+      "title": "To Want",
+      "titles": {
+        "en": "To Want",
+        "pt": "Querer",
+        "es": "Querer",
+        "fr": "Vouloir"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_want_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_know_simple_past",
+      "title": "To Know",
+      "titles": {
+        "en": "To Know",
+        "pt": "Saber / Conhecer",
+        "es": "Saber / Conocer",
+        "fr": "Savoir / Connaître"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_know_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_like_simple_past",
+      "title": "To Like",
+      "titles": {
+        "en": "To Like",
+        "pt": "Gostar",
+        "es": "Gustar",
+        "fr": "Aimer"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_like_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_eat_simple_past",
+      "title": "To Eat",
+      "titles": {
+        "en": "To Eat",
+        "pt": "Comer",
+        "es": "Comer",
+        "fr": "Manger"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_eat_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_drink_simple_past",
+      "title": "To Drink",
+      "titles": {
+        "en": "To Drink",
+        "pt": "Beber",
+        "es": "Beber",
+        "fr": "Boire"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_drink_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_need_simple_past",
+      "title": "To Need",
+      "titles": {
+        "en": "To Need",
+        "pt": "Precisar",
+        "es": "Necesitar",
+        "fr": "Avoir Besoin / Devoir"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_need_simple_past/manifest.json"
+    },
+    {
+      "lesson_id": "to_live_simple_past",
+      "title": "To Live",
+      "titles": {
+        "en": "To Live",
+        "pt": "Morar / Viver",
+        "es": "Vivir",
+        "fr": "Vivre / Habiter"
+      },
+      "category": "verbs_simple_past",
+      "tense": "simple_past",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/to_live_simple_past/manifest.json"
     }
   ]
 }

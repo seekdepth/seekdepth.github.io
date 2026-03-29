@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_eat_simple_past",
+  "title": "To Eat",
+  "titles": {
+    "en": "To Eat",
+    "pt": "Comer",
+    "es": "Comer",
+    "fr": "Manger"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_eat_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Eat",
+      "pt": "Comer",
+      "es": "Comer",
+      "fr": "Manger"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to eat.",
+      "pt-BR": "Vamos estudar o passado simples de comer.",
+      "es-ES": "Vamos a estudiar el pasado simple de comer.",
+      "fr-FR": "Étudions le passé simple de manger.",
+      "en-US": "Let's study the simple past of to eat.",
+      "en-GB": "Let's study the simple past of to eat."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to eat",
+        "pt-BR": "comer",
+        "es-ES": "comer",
+        "fr-FR": "manger",
+        "en-US": "to eat",
+        "en-GB": "to eat"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to eat is useful every day.",
+        "pt-BR": "O verbo comer é útil todos os dias.",
+        "es-ES": "El verbo comer es útil todos los días.",
+        "fr-FR": "Le verbe manger est utile tous les jours.",
+        "en-US": "The verb to eat is useful every day.",
+        "en-GB": "The verb to eat is useful every day."
+      }
+    },
+    {
+      "terms": {
+        "en": "I ate",
+        "pt-BR": "eu comi",
+        "es-ES": "yo comí",
+        "fr-FR": "j'ai mangé",
+        "en-US": "I ate",
+        "en-GB": "I ate"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I ate fruit in the morning.",
+        "pt-BR": "Eu comi fruta de manhã.",
+        "es-ES": "Yo comí fruta por la mañana.",
+        "fr-FR": "J'ai mangé des fruits le matin.",
+        "en-US": "I ate fruit in the morning.",
+        "en-GB": "I ate fruit in the morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "you ate",
+        "pt-BR": "você comeu",
+        "es-ES": "tú comiste",
+        "fr-FR": "tu as mangé",
+        "en-US": "you ate",
+        "en-GB": "you ate"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You ate lunch at noon.",
+        "pt-BR": "Você almoçou ao meio-dia.",
+        "es-ES": "Tú comiste al mediodía.",
+        "fr-FR": "Tu as mangé à midi.",
+        "en-US": "You ate lunch at noon.",
+        "en-GB": "You ate lunch at noon."
+      }
+    },
+    {
+      "terms": {
+        "en": "he ate",
+        "pt-BR": "ele comeu",
+        "es-ES": "él comió",
+        "fr-FR": "il a mangé",
+        "en-US": "he ate",
+        "en-GB": "he ate"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He ate very quickly.",
+        "pt-BR": "Ele comeu muito rápido.",
+        "es-ES": "Él comió muy rápido.",
+        "fr-FR": "Il a mangé très vite.",
+        "en-US": "He ate very quickly.",
+        "en-GB": "He ate very quickly."
+      }
+    },
+    {
+      "terms": {
+        "en": "she ate",
+        "pt-BR": "ela comeu",
+        "es-ES": "ella comió",
+        "fr-FR": "elle a mangé",
+        "en-US": "she ate",
+        "en-GB": "she ate"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She ate salad for dinner.",
+        "pt-BR": "Ela comeu salada no jantar.",
+        "es-ES": "Ella comió ensalada en la cena.",
+        "fr-FR": "Elle a mangé de la salade au dîner.",
+        "en-US": "She ate salad for dinner.",
+        "en-GB": "She ate salad for dinner."
+      }
+    },
+    {
+      "terms": {
+        "en": "it ate",
+        "pt-BR": "comeu",
+        "es-ES": "comió",
+        "fr-FR": "il a mangé",
+        "en-US": "it ate",
+        "en-GB": "it ate"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It ate twice that day.",
+        "pt-BR": "Comeu duas vezes naquele dia.",
+        "es-ES": "Comió dos veces ese día.",
+        "fr-FR": "Il a mangé deux fois ce jour-là.",
+        "en-US": "It ate twice that day.",
+        "en-GB": "It ate twice that day."
+      }
+    },
+    {
+      "terms": {
+        "en": "we ate",
+        "pt-BR": "nós comemos",
+        "es-ES": "nosotros comimos",
+        "fr-FR": "nous avons mangé",
+        "en-US": "we ate",
+        "en-GB": "we ate"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We ate together on Sunday.",
+        "pt-BR": "Nós comemos juntos no domingo.",
+        "es-ES": "Nosotros comimos juntos el domingo.",
+        "fr-FR": "Nous avons mangé ensemble dimanche.",
+        "en-US": "We ate together on Sunday.",
+        "en-GB": "We ate together on Sunday."
+      }
+    },
+    {
+      "terms": {
+        "en": "you ate (plural)",
+        "pt-BR": "vocês comeram",
+        "es-ES": "ustedes comieron",
+        "fr-FR": "vous avez mangé",
+        "en-US": "you ate (plural)",
+        "en-GB": "you ate (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all ate at the same table.",
+        "pt-BR": "Vocês comeram na mesma mesa.",
+        "es-ES": "Ustedes comieron en la misma mesa.",
+        "fr-FR": "Vous avez mangé à la même table.",
+        "en-US": "You all ate at the same table.",
+        "en-GB": "You all ate at the same table."
+      }
+    },
+    {
+      "terms": {
+        "en": "they ate",
+        "pt-BR": "eles comeram",
+        "es-ES": "ellos comieron",
+        "fr-FR": "ils ont mangé",
+        "en-US": "they ate",
+        "en-GB": "they ate"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They ate after the movie.",
+        "pt-BR": "Eles comeram depois do filme.",
+        "es-ES": "Ellos comieron después de la película.",
+        "fr-FR": "Ils ont mangé après le film.",
+        "en-US": "They ate after the movie.",
+        "en-GB": "They ate after the movie."
+      }
+    }
+  ]
+}

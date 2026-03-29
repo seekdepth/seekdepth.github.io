@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_come_simple_past",
+  "title": "To Come",
+  "titles": {
+    "en": "To Come",
+    "pt": "Vir",
+    "es": "Venir",
+    "fr": "Venir"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to come.",
+    "pt-BR": "Vamos estudar o passado simples de vir.",
+    "es-ES": "Vamos a estudiar el pasado simple de venir.",
+    "fr-FR": "Étudions le passé simple de venir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to come",
+        "pt-BR": "vir",
+        "es-ES": "venir",
+        "fr-FR": "venir"
+      },
+      "sample_sentences": {
+        "en": "The verb to come shows movement toward a place.",
+        "pt-BR": "O verbo vir mostra movimento em direção a um lugar.",
+        "es-ES": "El verbo venir muestra movimiento hacia un lugar.",
+        "fr-FR": "Le verbe venir montre un mouvement vers un lieu."
+      }
+    },
+    {
+      "terms": {
+        "en": "I came",
+        "pt-BR": "eu vim",
+        "es-ES": "yo vine",
+        "fr-FR": "je suis venu"
+      },
+      "sample_sentences": {
+        "en": "I came here last week.",
+        "pt-BR": "Eu vim aqui na semana passada.",
+        "es-ES": "Yo vine aquí la semana pasada.",
+        "fr-FR": "Je suis venu ici la semaine dernière."
+      }
+    },
+    {
+      "terms": {
+        "en": "you came",
+        "pt-BR": "você veio",
+        "es-ES": "tú viniste",
+        "fr-FR": "tu es venu"
+      },
+      "sample_sentences": {
+        "en": "You came by train.",
+        "pt-BR": "Você veio de trem.",
+        "es-ES": "Tú viniste en tren.",
+        "fr-FR": "Tu es venu en train."
+      }
+    },
+    {
+      "terms": {
+        "en": "he came",
+        "pt-BR": "ele veio",
+        "es-ES": "él vino",
+        "fr-FR": "il est venu"
+      },
+      "sample_sentences": {
+        "en": "He came home late.",
+        "pt-BR": "Ele veio para casa tarde.",
+        "es-ES": "Él vino a casa tarde.",
+        "fr-FR": "Il est venu à la maison tard."
+      }
+    },
+    {
+      "terms": {
+        "en": "she came",
+        "pt-BR": "ela veio",
+        "es-ES": "ella vino",
+        "fr-FR": "elle est venue"
+      },
+      "sample_sentences": {
+        "en": "She came to class on time.",
+        "pt-BR": "Ela veio para a aula na hora.",
+        "es-ES": "Ella vino a clase a tiempo.",
+        "fr-FR": "Elle est venue en cours à l'heure."
+      }
+    },
+    {
+      "terms": {
+        "en": "it came",
+        "pt-BR": "veio",
+        "es-ES": "vino",
+        "fr-FR": "il est venu"
+      },
+      "sample_sentences": {
+        "en": "It came in a small box.",
+        "pt-BR": "Veio em uma caixa pequena.",
+        "es-ES": "Vino en una caja pequeña.",
+        "fr-FR": "Il est venu dans une petite boîte."
+      }
+    },
+    {
+      "terms": {
+        "en": "we came",
+        "pt-BR": "nós viemos",
+        "es-ES": "nosotros vinimos",
+        "fr-FR": "nous sommes venus"
+      },
+      "sample_sentences": {
+        "en": "We came here to study.",
+        "pt-BR": "Nós viemos aqui para estudar.",
+        "es-ES": "Nosotros vinimos aquí para estudiar.",
+        "fr-FR": "Nous sommes venus ici pour étudier."
+      }
+    },
+    {
+      "terms": {
+        "en": "you came (plural)",
+        "pt-BR": "vocês vieram",
+        "es-ES": "ustedes vinieron",
+        "fr-FR": "vous êtes venus"
+      },
+      "sample_sentences": {
+        "en": "You all came from the same city.",
+        "pt-BR": "Vocês vieram da mesma cidade.",
+        "es-ES": "Ustedes vinieron de la misma ciudad.",
+        "fr-FR": "Vous êtes venus de la même ville."
+      }
+    },
+    {
+      "terms": {
+        "en": "they came",
+        "pt-BR": "eles vieram",
+        "es-ES": "ellos vinieron",
+        "fr-FR": "ils sont venus"
+      },
+      "sample_sentences": {
+        "en": "They came every summer.",
+        "pt-BR": "Eles vieram todo verão.",
+        "es-ES": "Ellos vinieron cada verano.",
+        "fr-FR": "Ils sont venus chaque été."
+      }
+    }
+  ]
+}

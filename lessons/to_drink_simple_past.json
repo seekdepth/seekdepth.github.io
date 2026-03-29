@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_drink_simple_past",
+  "title": "To Drink",
+  "titles": {
+    "en": "To Drink",
+    "pt": "Beber",
+    "es": "Beber",
+    "fr": "Boire"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to drink.",
+    "pt-BR": "Vamos estudar o passado simples de beber.",
+    "es-ES": "Vamos a estudiar el pasado simple de beber.",
+    "fr-FR": "Étudions le passé simple de boire."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to drink",
+        "pt-BR": "beber",
+        "es-ES": "beber",
+        "fr-FR": "boire"
+      },
+      "sample_sentences": {
+        "en": "The verb to drink is common in daily life.",
+        "pt-BR": "O verbo beber é comum na vida diária.",
+        "es-ES": "El verbo beber es común en la vida diaria.",
+        "fr-FR": "Le verbe boire est courant dans la vie quotidienne."
+      }
+    },
+    {
+      "terms": {
+        "en": "I drank",
+        "pt-BR": "eu bebi",
+        "es-ES": "yo bebí",
+        "fr-FR": "j'ai bu"
+      },
+      "sample_sentences": {
+        "en": "I drank water all day.",
+        "pt-BR": "Eu bebi água o dia todo.",
+        "es-ES": "Yo bebí agua todo el día.",
+        "fr-FR": "J'ai bu de l'eau toute la journée."
+      }
+    },
+    {
+      "terms": {
+        "en": "you drank",
+        "pt-BR": "você bebeu",
+        "es-ES": "tú bebiste",
+        "fr-FR": "tu as bu"
+      },
+      "sample_sentences": {
+        "en": "You drank tea at night.",
+        "pt-BR": "Você bebeu chá à noite.",
+        "es-ES": "Tú bebiste té por la noche.",
+        "fr-FR": "Tu as bu du thé le soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "he drank",
+        "pt-BR": "ele bebeu",
+        "es-ES": "él bebió",
+        "fr-FR": "il a bu"
+      },
+      "sample_sentences": {
+        "en": "He drank coffee before work.",
+        "pt-BR": "Ele bebeu café antes do trabalho.",
+        "es-ES": "Él bebió café antes del trabajo.",
+        "fr-FR": "Il a bu du café avant le travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "she drank",
+        "pt-BR": "ela bebeu",
+        "es-ES": "ella bebió",
+        "fr-FR": "elle a bu"
+      },
+      "sample_sentences": {
+        "en": "She drank orange juice in the morning.",
+        "pt-BR": "Ela bebeu suco de laranja pela manhã.",
+        "es-ES": "Ella bebió zumo de naranja por la mañana.",
+        "fr-FR": "Elle a bu du jus d'orange le matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "it drank",
+        "pt-BR": "bebeu",
+        "es-ES": "bebió",
+        "fr-FR": "il a bu"
+      },
+      "sample_sentences": {
+        "en": "It drank from a small bowl.",
+        "pt-BR": "Bebeu em uma tigela pequena.",
+        "es-ES": "Bebió de un cuenco pequeño.",
+        "fr-FR": "Il a bu dans un petit bol."
+      }
+    },
+    {
+      "terms": {
+        "en": "we drank",
+        "pt-BR": "nós bebemos",
+        "es-ES": "nosotros bebimos",
+        "fr-FR": "nous avons bu"
+      },
+      "sample_sentences": {
+        "en": "We drank cold water after running.",
+        "pt-BR": "Nós bebemos água gelada depois de correr.",
+        "es-ES": "Nosotros bebimos agua fría después de correr.",
+        "fr-FR": "Nous avons bu de l'eau fraîche après avoir couru."
+      }
+    },
+    {
+      "terms": {
+        "en": "you drank (plural)",
+        "pt-BR": "vocês beberam",
+        "es-ES": "ustedes bebieron",
+        "fr-FR": "vous avez bu"
+      },
+      "sample_sentences": {
+        "en": "You all drank from the same bottle.",
+        "pt-BR": "Vocês beberam da mesma garrafa.",
+        "es-ES": "Ustedes bebieron de la misma botella.",
+        "fr-FR": "Vous avez bu à la même bouteille."
+      }
+    },
+    {
+      "terms": {
+        "en": "they drank",
+        "pt-BR": "eles beberam",
+        "es-ES": "ellos bebieron",
+        "fr-FR": "ils ont bu"
+      },
+      "sample_sentences": {
+        "en": "They drank milk with breakfast.",
+        "pt-BR": "Eles beberam leite no café da manhã.",
+        "es-ES": "Ellos bebieron leche en el desayuno.",
+        "fr-FR": "Ils ont bu du lait au petit-déjeuner."
+      }
+    }
+  ]
+}

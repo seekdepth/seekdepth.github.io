@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_have_simple_past",
+  "title": "To Have",
+  "titles": {
+    "en": "To Have",
+    "pt": "Ter",
+    "es": "Tener",
+    "fr": "Avoir"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to have.",
+    "pt-BR": "Vamos estudar o passado simples de ter.",
+    "es-ES": "Vamos a estudiar el pasado simple de tener.",
+    "fr-FR": "Étudions le passé simple de avoir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to have",
+        "pt-BR": "ter",
+        "es-ES": "tener",
+        "fr-FR": "avoir"
+      },
+      "sample_sentences": {
+        "en": "The verb to have is very common in the past.",
+        "pt-BR": "O verbo ter é muito comum no passado.",
+        "es-ES": "El verbo tener es muy común en el pasado.",
+        "fr-FR": "Le verbe avoir est très courant au passé."
+      }
+    },
+    {
+      "terms": {
+        "en": "I had",
+        "pt-BR": "eu tive",
+        "es-ES": "yo tuve",
+        "fr-FR": "j'ai eu"
+      },
+      "sample_sentences": {
+        "en": "I had a new book.",
+        "pt-BR": "Eu tive um livro novo.",
+        "es-ES": "Yo tuve un libro nuevo.",
+        "fr-FR": "J'ai eu un nouveau livre."
+      }
+    },
+    {
+      "terms": {
+        "en": "you had",
+        "pt-BR": "você teve",
+        "es-ES": "tú tuviste",
+        "fr-FR": "tu as eu"
+      },
+      "sample_sentences": {
+        "en": "You had a good idea.",
+        "pt-BR": "Você teve uma boa ideia.",
+        "es-ES": "Tú tuviste una buena idea.",
+        "fr-FR": "Tu as eu une bonne idée."
+      }
+    },
+    {
+      "terms": {
+        "en": "he had",
+        "pt-BR": "ele teve",
+        "es-ES": "él tuvo",
+        "fr-FR": "il a eu"
+      },
+      "sample_sentences": {
+        "en": "He had a meeting in the afternoon.",
+        "pt-BR": "Ele teve uma reunião à tarde.",
+        "es-ES": "Él tuvo una reunión por la tarde.",
+        "fr-FR": "Il a eu une réunion dans l'après-midi."
+      }
+    },
+    {
+      "terms": {
+        "en": "she had",
+        "pt-BR": "ela teve",
+        "es-ES": "ella tuvo",
+        "fr-FR": "elle a eu"
+      },
+      "sample_sentences": {
+        "en": "She had a red bag.",
+        "pt-BR": "Ela teve uma bolsa vermelha.",
+        "es-ES": "Ella tuvo un bolso rojo.",
+        "fr-FR": "Elle a eu un sac rouge."
+      }
+    },
+    {
+      "terms": {
+        "en": "it had",
+        "pt-BR": "teve",
+        "es-ES": "tuvo",
+        "fr-FR": "il a eu"
+      },
+      "sample_sentences": {
+        "en": "It had four wheels.",
+        "pt-BR": "Teve quatro rodas.",
+        "es-ES": "Tuvo cuatro ruedas.",
+        "fr-FR": "Il a eu quatre roues."
+      }
+    },
+    {
+      "terms": {
+        "en": "we had",
+        "pt-BR": "nós tivemos",
+        "es-ES": "nosotros tuvimos",
+        "fr-FR": "nous avons eu"
+      },
+      "sample_sentences": {
+        "en": "We had time before lunch.",
+        "pt-BR": "Nós tivemos tempo antes do almoço.",
+        "es-ES": "Nosotros tuvimos tiempo antes del almuerzo.",
+        "fr-FR": "Nous avons eu du temps avant le déjeuner."
+      }
+    },
+    {
+      "terms": {
+        "en": "you had (plural)",
+        "pt-BR": "vocês tiveram",
+        "es-ES": "ustedes tuvieron",
+        "fr-FR": "vous avez eu"
+      },
+      "sample_sentences": {
+        "en": "You all had your tickets.",
+        "pt-BR": "Vocês tiveram seus ingressos.",
+        "es-ES": "Ustedes tuvieron sus entradas.",
+        "fr-FR": "Vous avez eu vos billets."
+      }
+    },
+    {
+      "terms": {
+        "en": "they had",
+        "pt-BR": "eles tiveram",
+        "es-ES": "ellos tuvieron",
+        "fr-FR": "ils ont eu"
+      },
+      "sample_sentences": {
+        "en": "They had a house near the river.",
+        "pt-BR": "Eles tiveram uma casa perto do rio.",
+        "es-ES": "Ellos tuvieron una casa cerca del río.",
+        "fr-FR": "Ils ont eu une maison près de la rivière."
+      }
+    }
+  ]
+}

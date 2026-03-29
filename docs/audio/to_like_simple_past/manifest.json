@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_like_simple_past",
+  "title": "To Like",
+  "titles": {
+    "en": "To Like",
+    "pt": "Gostar",
+    "es": "Gustar",
+    "fr": "Aimer"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_like_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Like",
+      "pt": "Gostar",
+      "es": "Gustar",
+      "fr": "Aimer"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to like.",
+      "pt-BR": "Vamos estudar o passado simples de gostar.",
+      "es-ES": "Vamos a estudiar el pasado simple de gustar.",
+      "fr-FR": "Étudions le passé simple de aimer.",
+      "en-US": "Let's study the simple past of to like.",
+      "en-GB": "Let's study the simple past of to like."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to like",
+        "pt-BR": "gostar",
+        "es-ES": "gustar",
+        "fr-FR": "aimer",
+        "en-US": "to like",
+        "en-GB": "to like"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to like is common in daily conversation.",
+        "pt-BR": "O verbo gostar é comum na conversa diária.",
+        "es-ES": "El verbo gustar es común en la conversación diaria.",
+        "fr-FR": "Le verbe aimer est courant dans la conversation quotidienne.",
+        "en-US": "The verb to like is common in daily conversation.",
+        "en-GB": "The verb to like is common in daily conversation."
+      }
+    },
+    {
+      "terms": {
+        "en": "I liked",
+        "pt-BR": "eu gostei",
+        "es-ES": "me gustó",
+        "fr-FR": "j'ai aimé",
+        "en-US": "I liked",
+        "en-GB": "I liked"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I liked this song.",
+        "pt-BR": "Eu gostei desta música.",
+        "es-ES": "Me gustó esta canción.",
+        "fr-FR": "J'ai aimé cette chanson.",
+        "en-US": "I liked this song.",
+        "en-GB": "I liked this song."
+      }
+    },
+    {
+      "terms": {
+        "en": "you liked",
+        "pt-BR": "você gostou",
+        "es-ES": "te gustó",
+        "fr-FR": "tu as aimé",
+        "en-US": "you liked",
+        "en-GB": "you liked"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You liked the blue one.",
+        "pt-BR": "Você gostou do azul.",
+        "es-ES": "Te gustó el azul.",
+        "fr-FR": "Tu as aimé le bleu.",
+        "en-US": "You liked the blue one.",
+        "en-GB": "You liked the blue one."
+      }
+    },
+    {
+      "terms": {
+        "en": "he liked",
+        "pt-BR": "ele gostou",
+        "es-ES": "le gustó",
+        "fr-FR": "il a aimé",
+        "en-US": "he liked",
+        "en-GB": "he liked"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He liked strong coffee.",
+        "pt-BR": "Ele gostou de café forte.",
+        "es-ES": "Le gustó el café fuerte.",
+        "fr-FR": "Il a aimé le café fort.",
+        "en-US": "He liked strong coffee.",
+        "en-GB": "He liked strong coffee."
+      }
+    },
+    {
+      "terms": {
+        "en": "she liked",
+        "pt-BR": "ela gostou",
+        "es-ES": "le gustó",
+        "fr-FR": "elle a aimé",
+        "en-US": "she liked",
+        "en-GB": "she liked"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She liked quiet places.",
+        "pt-BR": "Ela gostou de lugares tranquilos.",
+        "es-ES": "Le gustaron los lugares tranquilos.",
+        "fr-FR": "Elle a aimé les endroits calmes.",
+        "en-US": "She liked quiet places.",
+        "en-GB": "She liked quiet places."
+      }
+    },
+    {
+      "terms": {
+        "en": "it liked",
+        "pt-BR": "gostou",
+        "es-ES": "le gustó",
+        "fr-FR": "il a aimé",
+        "en-US": "it liked",
+        "en-GB": "it liked"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It liked warm water.",
+        "pt-BR": "Gostou de água morna.",
+        "es-ES": "Le gustó el agua tibia.",
+        "fr-FR": "Il a aimé l'eau tiède.",
+        "en-US": "It liked warm water.",
+        "en-GB": "It liked warm water."
+      }
+    },
+    {
+      "terms": {
+        "en": "we liked",
+        "pt-BR": "nós gostamos",
+        "es-ES": "nos gustó",
+        "fr-FR": "nous avons aimé",
+        "en-US": "we liked",
+        "en-GB": "we liked"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We liked to walk in the park.",
+        "pt-BR": "Nós gostamos de caminhar no parque.",
+        "es-ES": "Nos gustó caminar por el parque.",
+        "fr-FR": "Nous avons aimé marcher dans le parc.",
+        "en-US": "We liked to walk in the park.",
+        "en-GB": "We liked to walk in the park."
+      }
+    },
+    {
+      "terms": {
+        "en": "you liked (plural)",
+        "pt-BR": "vocês gostaram",
+        "es-ES": "les gustó",
+        "fr-FR": "vous avez aimé",
+        "en-US": "you liked (plural)",
+        "en-GB": "you liked (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all liked the same restaurant.",
+        "pt-BR": "Vocês gostaram do mesmo restaurante.",
+        "es-ES": "Les gustó el mismo restaurante.",
+        "fr-FR": "Vous avez aimé le même restaurant.",
+        "en-US": "You all liked the same restaurant.",
+        "en-GB": "You all liked the same restaurant."
+      }
+    },
+    {
+      "terms": {
+        "en": "they liked",
+        "pt-BR": "eles gostaram",
+        "es-ES": "les gustó",
+        "fr-FR": "ils ont aimé",
+        "en-US": "they liked",
+        "en-GB": "they liked"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They liked spicy food.",
+        "pt-BR": "Eles gostaram de comida apimentada.",
+        "es-ES": "Les gustó la comida picante.",
+        "fr-FR": "Ils ont aimé la nourriture épicée.",
+        "en-US": "They liked spicy food.",
+        "en-GB": "They liked spicy food."
+      }
+    }
+  ]
+}

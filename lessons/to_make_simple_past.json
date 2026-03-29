@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_make_simple_past",
+  "title": "To Make",
+  "titles": {
+    "en": "To Make",
+    "pt": "Fazer",
+    "es": "Hacer",
+    "fr": "Faire"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to make.",
+    "pt-BR": "Vamos estudar o passado simples de fazer.",
+    "es-ES": "Vamos a estudiar el pasado simple de hacer.",
+    "fr-FR": "Étudions le passé simple de faire."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to make",
+        "pt-BR": "fazer",
+        "es-ES": "hacer",
+        "fr-FR": "faire"
+      },
+      "sample_sentences": {
+        "en": "The verb to make often means to create something.",
+        "pt-BR": "O verbo fazer muitas vezes significa criar algo.",
+        "es-ES": "El verbo hacer a menudo significa crear algo.",
+        "fr-FR": "Le verbe faire signifie souvent créer quelque chose."
+      }
+    },
+    {
+      "terms": {
+        "en": "I made",
+        "pt-BR": "eu fiz",
+        "es-ES": "yo hice",
+        "fr-FR": "j'ai fait"
+      },
+      "sample_sentences": {
+        "en": "I made coffee every morning.",
+        "pt-BR": "Eu fiz café todas as manhãs.",
+        "es-ES": "Yo hice café todas las mañanas.",
+        "fr-FR": "J'ai fait du café tous les matins."
+      }
+    },
+    {
+      "terms": {
+        "en": "you made",
+        "pt-BR": "você fez",
+        "es-ES": "tú hiciste",
+        "fr-FR": "tu as fait"
+      },
+      "sample_sentences": {
+        "en": "You made delicious bread.",
+        "pt-BR": "Você fez um pão delicioso.",
+        "es-ES": "Tú hiciste un pan delicioso.",
+        "fr-FR": "Tu as fait un pain délicieux."
+      }
+    },
+    {
+      "terms": {
+        "en": "he made",
+        "pt-BR": "ele fez",
+        "es-ES": "él hizo",
+        "fr-FR": "il a fait"
+      },
+      "sample_sentences": {
+        "en": "He made dinner on Friday.",
+        "pt-BR": "Ele fez o jantar na sexta-feira.",
+        "es-ES": "Él hizo la cena el viernes.",
+        "fr-FR": "Il a fait le dîner vendredi."
+      }
+    },
+    {
+      "terms": {
+        "en": "she made",
+        "pt-BR": "ela fez",
+        "es-ES": "ella hizo",
+        "fr-FR": "elle a fait"
+      },
+      "sample_sentences": {
+        "en": "She made a list before shopping.",
+        "pt-BR": "Ela fez uma lista antes de ir às compras.",
+        "es-ES": "Ella hizo una lista antes de comprar.",
+        "fr-FR": "Elle a fait une liste avant de faire les courses."
+      }
+    },
+    {
+      "terms": {
+        "en": "it made",
+        "pt-BR": "fez",
+        "es-ES": "hizo",
+        "fr-FR": "cela a fait"
+      },
+      "sample_sentences": {
+        "en": "It made a strange noise.",
+        "pt-BR": "Fez um barulho estranho.",
+        "es-ES": "Hizo un ruido extraño.",
+        "fr-FR": "Cela a fait un bruit étrange."
+      }
+    },
+    {
+      "terms": {
+        "en": "we made",
+        "pt-BR": "nós fizemos",
+        "es-ES": "nosotros hicimos",
+        "fr-FR": "nous avons fait"
+      },
+      "sample_sentences": {
+        "en": "We made lunch together.",
+        "pt-BR": "Nós fizemos o almoço juntos.",
+        "es-ES": "Nosotros hicimos el almuerzo juntos.",
+        "fr-FR": "Nous avons fait le déjeuner ensemble."
+      }
+    },
+    {
+      "terms": {
+        "en": "you made (plural)",
+        "pt-BR": "vocês fizeram",
+        "es-ES": "ustedes hicieron",
+        "fr-FR": "vous avez fait"
+      },
+      "sample_sentences": {
+        "en": "You all made the room feel cheerful.",
+        "pt-BR": "Vocês deixaram o ambiente mais alegre.",
+        "es-ES": "Ustedes hicieron que la sala fuera más alegre.",
+        "fr-FR": "Vous avez rendu la pièce plus joyeuse."
+      }
+    },
+    {
+      "terms": {
+        "en": "they made",
+        "pt-BR": "eles fizeram",
+        "es-ES": "ellos hicieron",
+        "fr-FR": "ils ont fait"
+      },
+      "sample_sentences": {
+        "en": "They made toys by hand.",
+        "pt-BR": "Eles fizeram brinquedos à mão.",
+        "es-ES": "Ellos hicieron juguetes a mano.",
+        "fr-FR": "Ils ont fabriqué des jouets à la main."
+      }
+    }
+  ]
+}

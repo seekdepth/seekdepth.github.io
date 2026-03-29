@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_know_simple_past",
+  "title": "To Know",
+  "titles": {
+    "en": "To Know",
+    "pt": "Saber / Conhecer",
+    "es": "Saber / Conocer",
+    "fr": "Savoir / Connaître"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_know_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Know",
+      "pt": "Saber / Conhecer",
+      "es": "Saber / Conocer",
+      "fr": "Savoir / Connaître"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to know.",
+      "pt-BR": "Vamos estudar o passado simples de saber e conhecer.",
+      "es-ES": "Vamos a estudiar el pasado simple de saber y conocer.",
+      "fr-FR": "Étudions le passé simple de savoir et connaître.",
+      "en-US": "Let's study the simple past of to know.",
+      "en-GB": "Let's study the simple past of to know."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to know",
+        "pt-BR": "saber e conhecer",
+        "es-ES": "saber y conocer",
+        "fr-FR": "savoir et connaître",
+        "en-US": "to know",
+        "en-GB": "to know"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "In many languages, to know has more than one form.",
+        "pt-BR": "Em muitas línguas, o verbo saber tem mais de uma forma.",
+        "es-ES": "En muchos idiomas, el verbo saber tiene más de una forma.",
+        "fr-FR": "Dans beaucoup de langues, le verbe savoir a plus d'une forme.",
+        "en-US": "In many languages, to know has more than one form.",
+        "en-GB": "In many languages, to know has more than one form."
+      }
+    },
+    {
+      "terms": {
+        "en": "I knew",
+        "pt-BR": "eu soube",
+        "es-ES": "yo supe",
+        "fr-FR": "j'ai su",
+        "en-US": "I knew",
+        "en-GB": "I knew"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I knew the answer yesterday.",
+        "pt-BR": "Eu soube a resposta ontem.",
+        "es-ES": "Yo supe la respuesta ayer.",
+        "fr-FR": "J'ai su la réponse hier.",
+        "en-US": "I knew the answer yesterday.",
+        "en-GB": "I knew the answer yesterday."
+      }
+    },
+    {
+      "terms": {
+        "en": "you knew",
+        "pt-BR": "você conheceu",
+        "es-ES": "tú conociste",
+        "fr-FR": "tu as connu",
+        "en-US": "you knew",
+        "en-GB": "you knew"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You knew my brother in college.",
+        "pt-BR": "Você conheceu meu irmão na faculdade.",
+        "es-ES": "Tú conociste a mi hermano en la universidad.",
+        "fr-FR": "Tu as connu mon frère à l'université.",
+        "en-US": "You knew my brother in college.",
+        "en-GB": "You knew my brother in college."
+      }
+    },
+    {
+      "terms": {
+        "en": "he knew",
+        "pt-BR": "ele soube",
+        "es-ES": "él supo",
+        "fr-FR": "il a su",
+        "en-US": "he knew",
+        "en-GB": "he knew"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He knew the way home.",
+        "pt-BR": "Ele soube o caminho de casa.",
+        "es-ES": "Él supo el camino a casa.",
+        "fr-FR": "Il a su le chemin de la maison.",
+        "en-US": "He knew the way home.",
+        "en-GB": "He knew the way home."
+      }
+    },
+    {
+      "terms": {
+        "en": "she knew",
+        "pt-BR": "ela conheceu",
+        "es-ES": "ella conoció",
+        "fr-FR": "elle a connu",
+        "en-US": "she knew",
+        "en-GB": "she knew"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She knew the city well.",
+        "pt-BR": "Ela conheceu bem a cidade.",
+        "es-ES": "Ella conoció bien la ciudad.",
+        "fr-FR": "Elle a bien connu la ville.",
+        "en-US": "She knew the city well.",
+        "en-GB": "She knew the city well."
+      }
+    },
+    {
+      "terms": {
+        "en": "it knew",
+        "pt-BR": "soube",
+        "es-ES": "supo",
+        "fr-FR": "il a su",
+        "en-US": "it knew",
+        "en-GB": "it knew"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It knew where to go.",
+        "pt-BR": "Soube para onde ir.",
+        "es-ES": "Supo adónde ir.",
+        "fr-FR": "Il a su où aller.",
+        "en-US": "It knew where to go.",
+        "en-GB": "It knew where to go."
+      }
+    },
+    {
+      "terms": {
+        "en": "we knew",
+        "pt-BR": "nós soubemos",
+        "es-ES": "nosotros supimos",
+        "fr-FR": "nous avons su",
+        "en-US": "we knew",
+        "en-GB": "we knew"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We knew this song.",
+        "pt-BR": "Nós soubemos essa música.",
+        "es-ES": "Nosotros supimos esta canción.",
+        "fr-FR": "Nous avons connu cette chanson.",
+        "en-US": "We knew this song.",
+        "en-GB": "We knew this song."
+      }
+    },
+    {
+      "terms": {
+        "en": "you knew (plural)",
+        "pt-BR": "vocês conheceram",
+        "es-ES": "ustedes conocieron",
+        "fr-FR": "vous avez connu",
+        "en-US": "you knew (plural)",
+        "en-GB": "you knew (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all knew the teacher.",
+        "pt-BR": "Vocês conheceram o professor.",
+        "es-ES": "Ustedes conocieron al profesor.",
+        "fr-FR": "Vous avez connu le professeur.",
+        "en-US": "You all knew the teacher.",
+        "en-GB": "You all knew the teacher."
+      }
+    },
+    {
+      "terms": {
+        "en": "they knew",
+        "pt-BR": "eles souberam",
+        "es-ES": "ellos supieron",
+        "fr-FR": "ils ont su",
+        "en-US": "they knew",
+        "en-GB": "they knew"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They knew the truth.",
+        "pt-BR": "Eles souberam a verdade.",
+        "es-ES": "Ellos supieron la verdad.",
+        "fr-FR": "Ils ont su la vérité.",
+        "en-US": "They knew the truth.",
+        "en-GB": "They knew the truth."
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_do_simple_past",
+  "title": "To Do",
+  "titles": {
+    "en": "To Do",
+    "pt": "Fazer",
+    "es": "Hacer",
+    "fr": "Faire"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to do.",
+    "pt-BR": "Vamos estudar o passado simples de fazer.",
+    "es-ES": "Vamos a estudiar el pasado simple de hacer.",
+    "fr-FR": "Étudions le passé simple de faire."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to do",
+        "pt-BR": "fazer",
+        "es-ES": "hacer",
+        "fr-FR": "faire"
+      },
+      "sample_sentences": {
+        "en": "The verb to do is useful in the past too.",
+        "pt-BR": "O verbo fazer também é útil no passado.",
+        "es-ES": "El verbo hacer también es útil en el pasado.",
+        "fr-FR": "Le verbe faire est aussi utile au passé."
+      }
+    },
+    {
+      "terms": {
+        "en": "I did",
+        "pt-BR": "eu fiz",
+        "es-ES": "yo hice",
+        "fr-FR": "j'ai fait"
+      },
+      "sample_sentences": {
+        "en": "I did my homework after dinner.",
+        "pt-BR": "Eu fiz minha lição de casa depois do jantar.",
+        "es-ES": "Yo hice mis deberes después de cenar.",
+        "fr-FR": "J'ai fait mes devoirs après le dîner."
+      }
+    },
+    {
+      "terms": {
+        "en": "you did",
+        "pt-BR": "você fez",
+        "es-ES": "tú hiciste",
+        "fr-FR": "tu as fait"
+      },
+      "sample_sentences": {
+        "en": "You did a great job.",
+        "pt-BR": "Você fez um ótimo trabalho.",
+        "es-ES": "Tú hiciste un gran trabajo.",
+        "fr-FR": "Tu as fait un excellent travail."
+      }
+    },
+    {
+      "terms": {
+        "en": "he did",
+        "pt-BR": "ele fez",
+        "es-ES": "él hizo",
+        "fr-FR": "il a fait"
+      },
+      "sample_sentences": {
+        "en": "He did the laundry on Sunday.",
+        "pt-BR": "Ele lavou a roupa no domingo.",
+        "es-ES": "Él hizo la colada el domingo.",
+        "fr-FR": "Il a fait la lessive dimanche."
+      }
+    },
+    {
+      "terms": {
+        "en": "she did",
+        "pt-BR": "ela fez",
+        "es-ES": "ella hizo",
+        "fr-FR": "elle a fait"
+      },
+      "sample_sentences": {
+        "en": "She did yoga yesterday.",
+        "pt-BR": "Ela fez ioga ontem.",
+        "es-ES": "Ella hizo yoga ayer.",
+        "fr-FR": "Elle a fait du yoga hier."
+      }
+    },
+    {
+      "terms": {
+        "en": "it did",
+        "pt-BR": "fez",
+        "es-ES": "hizo",
+        "fr-FR": "il a fait"
+      },
+      "sample_sentences": {
+        "en": "It did not matter.",
+        "pt-BR": "Não fez diferença.",
+        "es-ES": "No hizo diferencia.",
+        "fr-FR": "Cela n'a pas fait de différence."
+      }
+    },
+    {
+      "terms": {
+        "en": "we did",
+        "pt-BR": "nós fizemos",
+        "es-ES": "nosotros hicimos",
+        "fr-FR": "nous avons fait"
+      },
+      "sample_sentences": {
+        "en": "We did exercise together.",
+        "pt-BR": "Nós fizemos exercícios juntos.",
+        "es-ES": "Nosotros hicimos ejercicio juntos.",
+        "fr-FR": "Nous avons fait de l'exercice ensemble."
+      }
+    },
+    {
+      "terms": {
+        "en": "you did (plural)",
+        "pt-BR": "vocês fizeram",
+        "es-ES": "ustedes hicieron",
+        "fr-FR": "vous avez fait"
+      },
+      "sample_sentences": {
+        "en": "You all did the same activity.",
+        "pt-BR": "Vocês fizeram a mesma atividade.",
+        "es-ES": "Ustedes hicieron la misma actividad.",
+        "fr-FR": "Vous avez fait la même activité."
+      }
+    },
+    {
+      "terms": {
+        "en": "they did",
+        "pt-BR": "eles fizeram",
+        "es-ES": "ellos hicieron",
+        "fr-FR": "ils ont fait"
+      },
+      "sample_sentences": {
+        "en": "They did the cleaning on Friday.",
+        "pt-BR": "Eles fizeram a limpeza na sexta-feira.",
+        "es-ES": "Ellos hicieron la limpieza el viernes.",
+        "fr-FR": "Ils ont fait le ménage vendredi."
+      }
+    }
+  ]
+}

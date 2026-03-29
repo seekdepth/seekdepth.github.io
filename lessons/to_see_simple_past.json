@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_see_simple_past",
+  "title": "To See",
+  "titles": {
+    "en": "To See",
+    "pt": "Ver",
+    "es": "Ver",
+    "fr": "Voir"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to see.",
+    "pt-BR": "Vamos estudar o passado simples de ver.",
+    "es-ES": "Vamos a estudiar el pasado simple de ver.",
+    "fr-FR": "Étudions le passé simple de voir."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to see",
+        "pt-BR": "ver",
+        "es-ES": "ver",
+        "fr-FR": "voir"
+      },
+      "sample_sentences": {
+        "en": "The verb to see is common in daily speech.",
+        "pt-BR": "O verbo ver é comum na fala do dia a dia.",
+        "es-ES": "El verbo ver es común en el habla diaria.",
+        "fr-FR": "Le verbe voir est courant dans la langue quotidienne."
+      }
+    },
+    {
+      "terms": {
+        "en": "I saw",
+        "pt-BR": "eu vi",
+        "es-ES": "yo vi",
+        "fr-FR": "j'ai vu"
+      },
+      "sample_sentences": {
+        "en": "I saw the mountains from there.",
+        "pt-BR": "Eu vi as montanhas de lá.",
+        "es-ES": "Yo vi las montañas desde allí.",
+        "fr-FR": "J'ai vu les montagnes de là."
+      }
+    },
+    {
+      "terms": {
+        "en": "you saw",
+        "pt-BR": "você viu",
+        "es-ES": "tú viste",
+        "fr-FR": "tu as vu"
+      },
+      "sample_sentences": {
+        "en": "You saw the answer clearly.",
+        "pt-BR": "Você viu a resposta claramente.",
+        "es-ES": "Tú viste la respuesta claramente.",
+        "fr-FR": "Tu as vu la réponse clairement."
+      }
+    },
+    {
+      "terms": {
+        "en": "he saw",
+        "pt-BR": "ele viu",
+        "es-ES": "él vio",
+        "fr-FR": "il a vu"
+      },
+      "sample_sentences": {
+        "en": "He saw his friends on Saturday.",
+        "pt-BR": "Ele viu os amigos no sábado.",
+        "es-ES": "Él vio a sus amigos el sábado.",
+        "fr-FR": "Il a vu ses amis samedi."
+      }
+    },
+    {
+      "terms": {
+        "en": "she saw",
+        "pt-BR": "ela viu",
+        "es-ES": "ella vio",
+        "fr-FR": "elle a vu"
+      },
+      "sample_sentences": {
+        "en": "She saw the difference right away.",
+        "pt-BR": "Ela viu a diferença na hora.",
+        "es-ES": "Ella vio la diferencia enseguida.",
+        "fr-FR": "Elle a vu la différence tout de suite."
+      }
+    },
+    {
+      "terms": {
+        "en": "it saw",
+        "pt-BR": "viu",
+        "es-ES": "vio",
+        "fr-FR": "il a vu"
+      },
+      "sample_sentences": {
+        "en": "It saw movement in the dark.",
+        "pt-BR": "Viu movimento no escuro.",
+        "es-ES": "Vio movimiento en la oscuridad.",
+        "fr-FR": "Il a vu du mouvement dans le noir."
+      }
+    },
+    {
+      "terms": {
+        "en": "we saw",
+        "pt-BR": "nós vimos",
+        "es-ES": "nosotros vimos",
+        "fr-FR": "nous avons vu"
+      },
+      "sample_sentences": {
+        "en": "We saw each other on Monday.",
+        "pt-BR": "Nós nos vimos na segunda-feira.",
+        "es-ES": "Nosotros nos vimos el lunes.",
+        "fr-FR": "Nous nous sommes vus lundi."
+      }
+    },
+    {
+      "terms": {
+        "en": "you saw (plural)",
+        "pt-BR": "vocês viram",
+        "es-ES": "ustedes vieron",
+        "fr-FR": "vous avez vu"
+      },
+      "sample_sentences": {
+        "en": "You all saw the same screen.",
+        "pt-BR": "Vocês viram a mesma tela.",
+        "es-ES": "Ustedes vieron la misma pantalla.",
+        "fr-FR": "Vous avez vu le même écran."
+      }
+    },
+    {
+      "terms": {
+        "en": "they saw",
+        "pt-BR": "eles viram",
+        "es-ES": "ellos vieron",
+        "fr-FR": "ils ont vu"
+      },
+      "sample_sentences": {
+        "en": "They saw the city lights at night.",
+        "pt-BR": "Eles viram as luzes da cidade à noite.",
+        "es-ES": "Ellos vieron las luces de la ciudad por la noche.",
+        "fr-FR": "Ils ont vu les lumières de la ville la nuit."
+      }
+    }
+  ]
+}

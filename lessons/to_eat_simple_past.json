@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_eat_simple_past",
+  "title": "To Eat",
+  "titles": {
+    "en": "To Eat",
+    "pt": "Comer",
+    "es": "Comer",
+    "fr": "Manger"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to eat.",
+    "pt-BR": "Vamos estudar o passado simples de comer.",
+    "es-ES": "Vamos a estudiar el pasado simple de comer.",
+    "fr-FR": "Étudions le passé simple de manger."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to eat",
+        "pt-BR": "comer",
+        "es-ES": "comer",
+        "fr-FR": "manger"
+      },
+      "sample_sentences": {
+        "en": "The verb to eat is useful every day.",
+        "pt-BR": "O verbo comer é útil todos os dias.",
+        "es-ES": "El verbo comer es útil todos los días.",
+        "fr-FR": "Le verbe manger est utile tous les jours."
+      }
+    },
+    {
+      "terms": {
+        "en": "I ate",
+        "pt-BR": "eu comi",
+        "es-ES": "yo comí",
+        "fr-FR": "j'ai mangé"
+      },
+      "sample_sentences": {
+        "en": "I ate fruit in the morning.",
+        "pt-BR": "Eu comi fruta de manhã.",
+        "es-ES": "Yo comí fruta por la mañana.",
+        "fr-FR": "J'ai mangé des fruits le matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "you ate",
+        "pt-BR": "você comeu",
+        "es-ES": "tú comiste",
+        "fr-FR": "tu as mangé"
+      },
+      "sample_sentences": {
+        "en": "You ate lunch at noon.",
+        "pt-BR": "Você almoçou ao meio-dia.",
+        "es-ES": "Tú comiste al mediodía.",
+        "fr-FR": "Tu as mangé à midi."
+      }
+    },
+    {
+      "terms": {
+        "en": "he ate",
+        "pt-BR": "ele comeu",
+        "es-ES": "él comió",
+        "fr-FR": "il a mangé"
+      },
+      "sample_sentences": {
+        "en": "He ate very quickly.",
+        "pt-BR": "Ele comeu muito rápido.",
+        "es-ES": "Él comió muy rápido.",
+        "fr-FR": "Il a mangé très vite."
+      }
+    },
+    {
+      "terms": {
+        "en": "she ate",
+        "pt-BR": "ela comeu",
+        "es-ES": "ella comió",
+        "fr-FR": "elle a mangé"
+      },
+      "sample_sentences": {
+        "en": "She ate salad for dinner.",
+        "pt-BR": "Ela comeu salada no jantar.",
+        "es-ES": "Ella comió ensalada en la cena.",
+        "fr-FR": "Elle a mangé de la salade au dîner."
+      }
+    },
+    {
+      "terms": {
+        "en": "it ate",
+        "pt-BR": "comeu",
+        "es-ES": "comió",
+        "fr-FR": "il a mangé"
+      },
+      "sample_sentences": {
+        "en": "It ate twice that day.",
+        "pt-BR": "Comeu duas vezes naquele dia.",
+        "es-ES": "Comió dos veces ese día.",
+        "fr-FR": "Il a mangé deux fois ce jour-là."
+      }
+    },
+    {
+      "terms": {
+        "en": "we ate",
+        "pt-BR": "nós comemos",
+        "es-ES": "nosotros comimos",
+        "fr-FR": "nous avons mangé"
+      },
+      "sample_sentences": {
+        "en": "We ate together on Sunday.",
+        "pt-BR": "Nós comemos juntos no domingo.",
+        "es-ES": "Nosotros comimos juntos el domingo.",
+        "fr-FR": "Nous avons mangé ensemble dimanche."
+      }
+    },
+    {
+      "terms": {
+        "en": "you ate (plural)",
+        "pt-BR": "vocês comeram",
+        "es-ES": "ustedes comieron",
+        "fr-FR": "vous avez mangé"
+      },
+      "sample_sentences": {
+        "en": "You all ate at the same table.",
+        "pt-BR": "Vocês comeram na mesma mesa.",
+        "es-ES": "Ustedes comieron en la misma mesa.",
+        "fr-FR": "Vous avez mangé à la même table."
+      }
+    },
+    {
+      "terms": {
+        "en": "they ate",
+        "pt-BR": "eles comeram",
+        "es-ES": "ellos comieron",
+        "fr-FR": "ils ont mangé"
+      },
+      "sample_sentences": {
+        "en": "They ate after the movie.",
+        "pt-BR": "Eles comeram depois do filme.",
+        "es-ES": "Ellos comieron después de la película.",
+        "fr-FR": "Ils ont mangé après le film."
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_do_simple_past",
+  "title": "To Do",
+  "titles": {
+    "en": "To Do",
+    "pt": "Fazer",
+    "es": "Hacer",
+    "fr": "Faire"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_do_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Do",
+      "pt": "Fazer",
+      "es": "Hacer",
+      "fr": "Faire"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to do.",
+      "pt-BR": "Vamos estudar o passado simples de fazer.",
+      "es-ES": "Vamos a estudiar el pasado simple de hacer.",
+      "fr-FR": "Étudions le passé simple de faire.",
+      "en-US": "Let's study the simple past of to do.",
+      "en-GB": "Let's study the simple past of to do."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to do",
+        "pt-BR": "fazer",
+        "es-ES": "hacer",
+        "fr-FR": "faire",
+        "en-US": "to do",
+        "en-GB": "to do"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to do is useful in the past too.",
+        "pt-BR": "O verbo fazer também é útil no passado.",
+        "es-ES": "El verbo hacer también es útil en el pasado.",
+        "fr-FR": "Le verbe faire est aussi utile au passé.",
+        "en-US": "The verb to do is useful in the past too.",
+        "en-GB": "The verb to do is useful in the past too."
+      }
+    },
+    {
+      "terms": {
+        "en": "I did",
+        "pt-BR": "eu fiz",
+        "es-ES": "yo hice",
+        "fr-FR": "j'ai fait",
+        "en-US": "I did",
+        "en-GB": "I did"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I did my homework after dinner.",
+        "pt-BR": "Eu fiz minha lição de casa depois do jantar.",
+        "es-ES": "Yo hice mis deberes después de cenar.",
+        "fr-FR": "J'ai fait mes devoirs après le dîner.",
+        "en-US": "I did my homework after dinner.",
+        "en-GB": "I did my homework after dinner."
+      }
+    },
+    {
+      "terms": {
+        "en": "you did",
+        "pt-BR": "você fez",
+        "es-ES": "tú hiciste",
+        "fr-FR": "tu as fait",
+        "en-US": "you did",
+        "en-GB": "you did"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You did a great job.",
+        "pt-BR": "Você fez um ótimo trabalho.",
+        "es-ES": "Tú hiciste un gran trabajo.",
+        "fr-FR": "Tu as fait un excellent travail.",
+        "en-US": "You did a great job.",
+        "en-GB": "You did a great job."
+      }
+    },
+    {
+      "terms": {
+        "en": "he did",
+        "pt-BR": "ele fez",
+        "es-ES": "él hizo",
+        "fr-FR": "il a fait",
+        "en-US": "he did",
+        "en-GB": "he did"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He did the laundry on Sunday.",
+        "pt-BR": "Ele lavou a roupa no domingo.",
+        "es-ES": "Él hizo la colada el domingo.",
+        "fr-FR": "Il a fait la lessive dimanche.",
+        "en-US": "He did the laundry on Sunday.",
+        "en-GB": "He did the laundry on Sunday."
+      }
+    },
+    {
+      "terms": {
+        "en": "she did",
+        "pt-BR": "ela fez",
+        "es-ES": "ella hizo",
+        "fr-FR": "elle a fait",
+        "en-US": "she did",
+        "en-GB": "she did"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She did yoga yesterday.",
+        "pt-BR": "Ela fez ioga ontem.",
+        "es-ES": "Ella hizo yoga ayer.",
+        "fr-FR": "Elle a fait du yoga hier.",
+        "en-US": "She did yoga yesterday.",
+        "en-GB": "She did yoga yesterday."
+      }
+    },
+    {
+      "terms": {
+        "en": "it did",
+        "pt-BR": "fez",
+        "es-ES": "hizo",
+        "fr-FR": "il a fait",
+        "en-US": "it did",
+        "en-GB": "it did"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It did not matter.",
+        "pt-BR": "Não fez diferença.",
+        "es-ES": "No hizo diferencia.",
+        "fr-FR": "Cela n'a pas fait de différence.",
+        "en-US": "It did not matter.",
+        "en-GB": "It did not matter."
+      }
+    },
+    {
+      "terms": {
+        "en": "we did",
+        "pt-BR": "nós fizemos",
+        "es-ES": "nosotros hicimos",
+        "fr-FR": "nous avons fait",
+        "en-US": "we did",
+        "en-GB": "we did"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We did exercise together.",
+        "pt-BR": "Nós fizemos exercícios juntos.",
+        "es-ES": "Nosotros hicimos ejercicio juntos.",
+        "fr-FR": "Nous avons fait de l'exercice ensemble.",
+        "en-US": "We did exercise together.",
+        "en-GB": "We did exercise together."
+      }
+    },
+    {
+      "terms": {
+        "en": "you did (plural)",
+        "pt-BR": "vocês fizeram",
+        "es-ES": "ustedes hicieron",
+        "fr-FR": "vous avez fait",
+        "en-US": "you did (plural)",
+        "en-GB": "you did (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all did the same activity.",
+        "pt-BR": "Vocês fizeram a mesma atividade.",
+        "es-ES": "Ustedes hicieron la misma actividad.",
+        "fr-FR": "Vous avez fait la même activité.",
+        "en-US": "You all did the same activity.",
+        "en-GB": "You all did the same activity."
+      }
+    },
+    {
+      "terms": {
+        "en": "they did",
+        "pt-BR": "eles fizeram",
+        "es-ES": "ellos hicieron",
+        "fr-FR": "ils ont fait",
+        "en-US": "they did",
+        "en-GB": "they did"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They did the cleaning on Friday.",
+        "pt-BR": "Eles fizeram a limpeza na sexta-feira.",
+        "es-ES": "Ellos hicieron la limpieza el viernes.",
+        "fr-FR": "Ils ont fait le ménage vendredi.",
+        "en-US": "They did the cleaning on Friday.",
+        "en-GB": "They did the cleaning on Friday."
+      }
+    }
+  ]
+}

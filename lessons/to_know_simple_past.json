@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_know_simple_past",
+  "title": "To Know",
+  "titles": {
+    "en": "To Know",
+    "pt": "Saber / Conhecer",
+    "es": "Saber / Conocer",
+    "fr": "Savoir / Connaître"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to know.",
+    "pt-BR": "Vamos estudar o passado simples de saber e conhecer.",
+    "es-ES": "Vamos a estudiar el pasado simple de saber y conocer.",
+    "fr-FR": "Étudions le passé simple de savoir et connaître."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to know",
+        "pt-BR": "saber e conhecer",
+        "es-ES": "saber y conocer",
+        "fr-FR": "savoir et connaître"
+      },
+      "sample_sentences": {
+        "en": "In many languages, to know has more than one form.",
+        "pt-BR": "Em muitas línguas, o verbo saber tem mais de uma forma.",
+        "es-ES": "En muchos idiomas, el verbo saber tiene más de una forma.",
+        "fr-FR": "Dans beaucoup de langues, le verbe savoir a plus d'une forme."
+      }
+    },
+    {
+      "terms": {
+        "en": "I knew",
+        "pt-BR": "eu soube",
+        "es-ES": "yo supe",
+        "fr-FR": "j'ai su"
+      },
+      "sample_sentences": {
+        "en": "I knew the answer yesterday.",
+        "pt-BR": "Eu soube a resposta ontem.",
+        "es-ES": "Yo supe la respuesta ayer.",
+        "fr-FR": "J'ai su la réponse hier."
+      }
+    },
+    {
+      "terms": {
+        "en": "you knew",
+        "pt-BR": "você conheceu",
+        "es-ES": "tú conociste",
+        "fr-FR": "tu as connu"
+      },
+      "sample_sentences": {
+        "en": "You knew my brother in college.",
+        "pt-BR": "Você conheceu meu irmão na faculdade.",
+        "es-ES": "Tú conociste a mi hermano en la universidad.",
+        "fr-FR": "Tu as connu mon frère à l'université."
+      }
+    },
+    {
+      "terms": {
+        "en": "he knew",
+        "pt-BR": "ele soube",
+        "es-ES": "él supo",
+        "fr-FR": "il a su"
+      },
+      "sample_sentences": {
+        "en": "He knew the way home.",
+        "pt-BR": "Ele soube o caminho de casa.",
+        "es-ES": "Él supo el camino a casa.",
+        "fr-FR": "Il a su le chemin de la maison."
+      }
+    },
+    {
+      "terms": {
+        "en": "she knew",
+        "pt-BR": "ela conheceu",
+        "es-ES": "ella conoció",
+        "fr-FR": "elle a connu"
+      },
+      "sample_sentences": {
+        "en": "She knew the city well.",
+        "pt-BR": "Ela conheceu bem a cidade.",
+        "es-ES": "Ella conoció bien la ciudad.",
+        "fr-FR": "Elle a bien connu la ville."
+      }
+    },
+    {
+      "terms": {
+        "en": "it knew",
+        "pt-BR": "soube",
+        "es-ES": "supo",
+        "fr-FR": "il a su"
+      },
+      "sample_sentences": {
+        "en": "It knew where to go.",
+        "pt-BR": "Soube para onde ir.",
+        "es-ES": "Supo adónde ir.",
+        "fr-FR": "Il a su où aller."
+      }
+    },
+    {
+      "terms": {
+        "en": "we knew",
+        "pt-BR": "nós soubemos",
+        "es-ES": "nosotros supimos",
+        "fr-FR": "nous avons su"
+      },
+      "sample_sentences": {
+        "en": "We knew this song.",
+        "pt-BR": "Nós soubemos essa música.",
+        "es-ES": "Nosotros supimos esta canción.",
+        "fr-FR": "Nous avons connu cette chanson."
+      }
+    },
+    {
+      "terms": {
+        "en": "you knew (plural)",
+        "pt-BR": "vocês conheceram",
+        "es-ES": "ustedes conocieron",
+        "fr-FR": "vous avez connu"
+      },
+      "sample_sentences": {
+        "en": "You all knew the teacher.",
+        "pt-BR": "Vocês conheceram o professor.",
+        "es-ES": "Ustedes conocieron al profesor.",
+        "fr-FR": "Vous avez connu le professeur."
+      }
+    },
+    {
+      "terms": {
+        "en": "they knew",
+        "pt-BR": "eles souberam",
+        "es-ES": "ellos supieron",
+        "fr-FR": "ils ont su"
+      },
+      "sample_sentences": {
+        "en": "They knew the truth.",
+        "pt-BR": "Eles souberam a verdade.",
+        "es-ES": "Ellos supieron la verdad.",
+        "fr-FR": "Ils ont su la vérité."
+      }
+    }
+  ]
+}

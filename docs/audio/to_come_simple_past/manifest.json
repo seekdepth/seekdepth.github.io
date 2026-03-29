@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_come_simple_past",
+  "title": "To Come",
+  "titles": {
+    "en": "To Come",
+    "pt": "Vir",
+    "es": "Venir",
+    "fr": "Venir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_come_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Come",
+      "pt": "Vir",
+      "es": "Venir",
+      "fr": "Venir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to come.",
+      "pt-BR": "Vamos estudar o passado simples de vir.",
+      "es-ES": "Vamos a estudiar el pasado simple de venir.",
+      "fr-FR": "Étudions le passé simple de venir.",
+      "en-US": "Let's study the simple past of to come.",
+      "en-GB": "Let's study the simple past of to come."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to come",
+        "pt-BR": "vir",
+        "es-ES": "venir",
+        "fr-FR": "venir",
+        "en-US": "to come",
+        "en-GB": "to come"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to come shows movement toward a place.",
+        "pt-BR": "O verbo vir mostra movimento em direção a um lugar.",
+        "es-ES": "El verbo venir muestra movimiento hacia un lugar.",
+        "fr-FR": "Le verbe venir montre un mouvement vers un lieu.",
+        "en-US": "The verb to come shows movement toward a place.",
+        "en-GB": "The verb to come shows movement toward a place."
+      }
+    },
+    {
+      "terms": {
+        "en": "I came",
+        "pt-BR": "eu vim",
+        "es-ES": "yo vine",
+        "fr-FR": "je suis venu",
+        "en-US": "I came",
+        "en-GB": "I came"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I came here last week.",
+        "pt-BR": "Eu vim aqui na semana passada.",
+        "es-ES": "Yo vine aquí la semana pasada.",
+        "fr-FR": "Je suis venu ici la semaine dernière.",
+        "en-US": "I came here last week.",
+        "en-GB": "I came here last week."
+      }
+    },
+    {
+      "terms": {
+        "en": "you came",
+        "pt-BR": "você veio",
+        "es-ES": "tú viniste",
+        "fr-FR": "tu es venu",
+        "en-US": "you came",
+        "en-GB": "you came"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You came by train.",
+        "pt-BR": "Você veio de trem.",
+        "es-ES": "Tú viniste en tren.",
+        "fr-FR": "Tu es venu en train.",
+        "en-US": "You came by train.",
+        "en-GB": "You came by train."
+      }
+    },
+    {
+      "terms": {
+        "en": "he came",
+        "pt-BR": "ele veio",
+        "es-ES": "él vino",
+        "fr-FR": "il est venu",
+        "en-US": "he came",
+        "en-GB": "he came"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He came home late.",
+        "pt-BR": "Ele veio para casa tarde.",
+        "es-ES": "Él vino a casa tarde.",
+        "fr-FR": "Il est venu à la maison tard.",
+        "en-US": "He came home late.",
+        "en-GB": "He came home late."
+      }
+    },
+    {
+      "terms": {
+        "en": "she came",
+        "pt-BR": "ela veio",
+        "es-ES": "ella vino",
+        "fr-FR": "elle est venue",
+        "en-US": "she came",
+        "en-GB": "she came"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She came to class on time.",
+        "pt-BR": "Ela veio para a aula na hora.",
+        "es-ES": "Ella vino a clase a tiempo.",
+        "fr-FR": "Elle est venue en cours à l'heure.",
+        "en-US": "She came to class on time.",
+        "en-GB": "She came to class on time."
+      }
+    },
+    {
+      "terms": {
+        "en": "it came",
+        "pt-BR": "veio",
+        "es-ES": "vino",
+        "fr-FR": "il est venu",
+        "en-US": "it came",
+        "en-GB": "it came"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It came in a small box.",
+        "pt-BR": "Veio em uma caixa pequena.",
+        "es-ES": "Vino en una caja pequeña.",
+        "fr-FR": "Il est venu dans une petite boîte.",
+        "en-US": "It came in a small box.",
+        "en-GB": "It came in a small box."
+      }
+    },
+    {
+      "terms": {
+        "en": "we came",
+        "pt-BR": "nós viemos",
+        "es-ES": "nosotros vinimos",
+        "fr-FR": "nous sommes venus",
+        "en-US": "we came",
+        "en-GB": "we came"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We came here to study.",
+        "pt-BR": "Nós viemos aqui para estudar.",
+        "es-ES": "Nosotros vinimos aquí para estudiar.",
+        "fr-FR": "Nous sommes venus ici pour étudier.",
+        "en-US": "We came here to study.",
+        "en-GB": "We came here to study."
+      }
+    },
+    {
+      "terms": {
+        "en": "you came (plural)",
+        "pt-BR": "vocês vieram",
+        "es-ES": "ustedes vinieron",
+        "fr-FR": "vous êtes venus",
+        "en-US": "you came (plural)",
+        "en-GB": "you came (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all came from the same city.",
+        "pt-BR": "Vocês vieram da mesma cidade.",
+        "es-ES": "Ustedes vinieron de la misma ciudad.",
+        "fr-FR": "Vous êtes venus de la même ville.",
+        "en-US": "You all came from the same city.",
+        "en-GB": "You all came from the same city."
+      }
+    },
+    {
+      "terms": {
+        "en": "they came",
+        "pt-BR": "eles vieram",
+        "es-ES": "ellos vinieron",
+        "fr-FR": "ils sont venus",
+        "en-US": "they came",
+        "en-GB": "they came"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They came every summer.",
+        "pt-BR": "Eles vieram todo verão.",
+        "es-ES": "Ellos vinieron cada verano.",
+        "fr-FR": "Ils sont venus chaque été.",
+        "en-US": "They came every summer.",
+        "en-GB": "They came every summer."
+      }
+    }
+  ]
+}

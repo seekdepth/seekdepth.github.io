@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_want_simple_past",
+  "title": "To Want",
+  "titles": {
+    "en": "To Want",
+    "pt": "Querer",
+    "es": "Querer",
+    "fr": "Vouloir"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_want_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Want",
+      "pt": "Querer",
+      "es": "Querer",
+      "fr": "Vouloir"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to want.",
+      "pt-BR": "Vamos estudar o passado simples de querer.",
+      "es-ES": "Vamos a estudiar el pasado simple de querer.",
+      "fr-FR": "Étudions le passé simple de vouloir.",
+      "en-US": "Let's study the simple past of to want.",
+      "en-GB": "Let's study the simple past of to want."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to want",
+        "pt-BR": "querer",
+        "es-ES": "querer",
+        "fr-FR": "vouloir",
+        "en-US": "to want",
+        "en-GB": "to want"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to want appears in many conversations.",
+        "pt-BR": "O verbo querer aparece em muitas conversas.",
+        "es-ES": "El verbo querer aparece en muchas conversaciones.",
+        "fr-FR": "Le verbe vouloir apparaît dans beaucoup de conversations.",
+        "en-US": "The verb to want appears in many conversations.",
+        "en-GB": "The verb to want appears in many conversations."
+      }
+    },
+    {
+      "terms": {
+        "en": "I wanted",
+        "pt-BR": "eu quis",
+        "es-ES": "yo quise",
+        "fr-FR": "j'ai voulu",
+        "en-US": "I wanted",
+        "en-GB": "I wanted"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I wanted a cup of tea.",
+        "pt-BR": "Eu quis uma xícara de chá.",
+        "es-ES": "Yo quise una taza de té.",
+        "fr-FR": "J'ai voulu une tasse de thé.",
+        "en-US": "I wanted a cup of tea.",
+        "en-GB": "I wanted a cup of tea."
+      }
+    },
+    {
+      "terms": {
+        "en": "you wanted",
+        "pt-BR": "você quis",
+        "es-ES": "tú quisiste",
+        "fr-FR": "tu as voulu",
+        "en-US": "you wanted",
+        "en-GB": "you wanted"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You wanted to leave early.",
+        "pt-BR": "Você quis sair cedo.",
+        "es-ES": "Tú quisiste salir temprano.",
+        "fr-FR": "Tu as voulu partir tôt.",
+        "en-US": "You wanted to leave early.",
+        "en-GB": "You wanted to leave early."
+      }
+    },
+    {
+      "terms": {
+        "en": "he wanted",
+        "pt-BR": "ele quis",
+        "es-ES": "él quiso",
+        "fr-FR": "il a voulu",
+        "en-US": "he wanted",
+        "en-GB": "he wanted"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He wanted more time.",
+        "pt-BR": "Ele quis mais tempo.",
+        "es-ES": "Él quiso más tiempo.",
+        "fr-FR": "Il a voulu plus de temps.",
+        "en-US": "He wanted more time.",
+        "en-GB": "He wanted more time."
+      }
+    },
+    {
+      "terms": {
+        "en": "she wanted",
+        "pt-BR": "ela quis",
+        "es-ES": "ella quiso",
+        "fr-FR": "elle a voulu",
+        "en-US": "she wanted",
+        "en-GB": "she wanted"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She wanted a new notebook.",
+        "pt-BR": "Ela quis um caderno novo.",
+        "es-ES": "Ella quiso un cuaderno nuevo.",
+        "fr-FR": "Elle a voulu un nouveau cahier.",
+        "en-US": "She wanted a new notebook.",
+        "en-GB": "She wanted a new notebook."
+      }
+    },
+    {
+      "terms": {
+        "en": "it wanted",
+        "pt-BR": "quis",
+        "es-ES": "quiso",
+        "fr-FR": "il a voulu",
+        "en-US": "it wanted",
+        "en-GB": "it wanted"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It wanted more water.",
+        "pt-BR": "Quis mais água.",
+        "es-ES": "Quiso más agua.",
+        "fr-FR": "Il a voulu plus d'eau.",
+        "en-US": "It wanted more water.",
+        "en-GB": "It wanted more water."
+      }
+    },
+    {
+      "terms": {
+        "en": "we wanted",
+        "pt-BR": "nós quisemos",
+        "es-ES": "nosotros quisimos",
+        "fr-FR": "nous avons voulu",
+        "en-US": "we wanted",
+        "en-GB": "we wanted"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We wanted to travel that summer.",
+        "pt-BR": "Nós quisemos viajar naquele verão.",
+        "es-ES": "Nosotros quisimos viajar ese verano.",
+        "fr-FR": "Nous avons voulu voyager cet été-là.",
+        "en-US": "We wanted to travel that summer.",
+        "en-GB": "We wanted to travel that summer."
+      }
+    },
+    {
+      "terms": {
+        "en": "you wanted (plural)",
+        "pt-BR": "vocês quiseram",
+        "es-ES": "ustedes quisieron",
+        "fr-FR": "vous avez voulu",
+        "en-US": "you wanted (plural)",
+        "en-GB": "you wanted (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all wanted the same thing.",
+        "pt-BR": "Vocês quiseram a mesma coisa.",
+        "es-ES": "Ustedes quisieron lo mismo.",
+        "fr-FR": "Vous avez voulu la même chose.",
+        "en-US": "You all wanted the same thing.",
+        "en-GB": "You all wanted the same thing."
+      }
+    },
+    {
+      "terms": {
+        "en": "they wanted",
+        "pt-BR": "eles quiseram",
+        "es-ES": "ellos quisieron",
+        "fr-FR": "ils ont voulu",
+        "en-US": "they wanted",
+        "en-GB": "they wanted"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They wanted to learn quickly.",
+        "pt-BR": "Eles quiseram aprender rápido.",
+        "es-ES": "Ellos quisieron aprender rápido.",
+        "fr-FR": "Ils ont voulu apprendre vite.",
+        "en-US": "They wanted to learn quickly.",
+        "en-GB": "They wanted to learn quickly."
+      }
+    }
+  ]
+}

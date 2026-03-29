@@ -7,6 +7,8 @@
     "es": "Tener",
     "fr": "Avoir"
   },
+  "category": "verbs_simple_present",
+  "tense": "simple_present",
   "languages": [
     "en-US",
     "en-GB",

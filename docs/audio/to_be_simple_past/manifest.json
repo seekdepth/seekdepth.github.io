@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_be_simple_past",
+  "title": "To Be",
+  "titles": {
+    "en": "To Be",
+    "pt": "Ser / Estar",
+    "es": "Ser / Estar",
+    "fr": "Être"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_be_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Be",
+      "pt": "Ser / Estar",
+      "es": "Ser / Estar",
+      "fr": "Être"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to be.",
+      "pt-BR": "Vamos estudar o passado simples de ser e estar.",
+      "es-ES": "Vamos a estudiar el pasado simple de ser y estar.",
+      "fr-FR": "Étudions le passé simple de être.",
+      "en-US": "Let's study the simple past of to be.",
+      "en-GB": "Let's study the simple past of to be."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to be",
+        "pt-BR": "ser e estar",
+        "es-ES": "ser y estar",
+        "fr-FR": "être",
+        "en-US": "to be",
+        "en-GB": "to be"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to be changes a lot in the past.",
+        "pt-BR": "O verbo ser e estar muda bastante no passado.",
+        "es-ES": "El verbo ser y estar cambia mucho en el pasado.",
+        "fr-FR": "Le verbe être change beaucoup au passé.",
+        "en-US": "The verb to be changes a lot in the past.",
+        "en-GB": "The verb to be changes a lot in the past."
+      }
+    },
+    {
+      "terms": {
+        "en": "I was",
+        "pt-BR": "eu estava",
+        "es-ES": "yo estaba",
+        "fr-FR": "j'étais",
+        "en-US": "I was",
+        "en-GB": "I was"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I was at home yesterday.",
+        "pt-BR": "Eu estava em casa ontem.",
+        "es-ES": "Yo estaba en casa ayer.",
+        "fr-FR": "J'étais à la maison hier.",
+        "en-US": "I was at home yesterday.",
+        "en-GB": "I was at home yesterday."
+      }
+    },
+    {
+      "terms": {
+        "en": "you were",
+        "pt-BR": "você estava",
+        "es-ES": "tú estabas",
+        "fr-FR": "tu étais",
+        "en-US": "you were",
+        "en-GB": "you were"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You were very tired.",
+        "pt-BR": "Você estava muito cansado.",
+        "es-ES": "Tú estabas muy cansado.",
+        "fr-FR": "Tu étais très fatigué.",
+        "en-US": "You were very tired.",
+        "en-GB": "You were very tired."
+      }
+    },
+    {
+      "terms": {
+        "en": "he was",
+        "pt-BR": "ele estava",
+        "es-ES": "él estaba",
+        "fr-FR": "il était",
+        "en-US": "he was",
+        "en-GB": "he was"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He was at work all day.",
+        "pt-BR": "Ele estava no trabalho o dia todo.",
+        "es-ES": "Él estaba en el trabajo todo el día.",
+        "fr-FR": "Il était au travail toute la journée.",
+        "en-US": "He was at work all day.",
+        "en-GB": "He was at work all day."
+      }
+    },
+    {
+      "terms": {
+        "en": "she was",
+        "pt-BR": "ela estava",
+        "es-ES": "ella estaba",
+        "fr-FR": "elle était",
+        "en-US": "she was",
+        "en-GB": "she was"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She was happy last night.",
+        "pt-BR": "Ela estava feliz ontem à noite.",
+        "es-ES": "Ella estaba feliz anoche.",
+        "fr-FR": "Elle était heureuse hier soir.",
+        "en-US": "She was happy last night.",
+        "en-GB": "She was happy last night."
+      }
+    },
+    {
+      "terms": {
+        "en": "it was",
+        "pt-BR": "era",
+        "es-ES": "era",
+        "fr-FR": "c'était",
+        "en-US": "it was",
+        "en-GB": "it was"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It was a difficult test.",
+        "pt-BR": "Era uma prova difícil.",
+        "es-ES": "Era un examen difícil.",
+        "fr-FR": "C'était un contrôle difficile.",
+        "en-US": "It was a difficult test.",
+        "en-GB": "It was a difficult test."
+      }
+    },
+    {
+      "terms": {
+        "en": "we were",
+        "pt-BR": "nós estávamos",
+        "es-ES": "nosotros estábamos",
+        "fr-FR": "nous étions",
+        "en-US": "we were",
+        "en-GB": "we were"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We were late in the morning.",
+        "pt-BR": "Nós estávamos atrasados pela manhã.",
+        "es-ES": "Nosotros estábamos tarde por la mañana.",
+        "fr-FR": "Nous étions en retard le matin.",
+        "en-US": "We were late in the morning.",
+        "en-GB": "We were late in the morning."
+      }
+    },
+    {
+      "terms": {
+        "en": "you were (plural)",
+        "pt-BR": "vocês estavam",
+        "es-ES": "ustedes estaban",
+        "fr-FR": "vous étiez",
+        "en-US": "you were (plural)",
+        "en-GB": "you were (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all were in the same class.",
+        "pt-BR": "Vocês estavam na mesma turma.",
+        "es-ES": "Ustedes estaban en la misma clase.",
+        "fr-FR": "Vous étiez dans la même classe.",
+        "en-US": "You all were in the same class.",
+        "en-GB": "You all were in the same class."
+      }
+    },
+    {
+      "terms": {
+        "en": "they were",
+        "pt-BR": "eles estavam",
+        "es-ES": "ellos estaban",
+        "fr-FR": "ils étaient",
+        "en-US": "they were",
+        "en-GB": "they were"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They were in the park.",
+        "pt-BR": "Eles estavam no parque.",
+        "es-ES": "Ellos estaban en el parque.",
+        "fr-FR": "Ils étaient dans le parc.",
+        "en-US": "They were in the park.",
+        "en-GB": "They were in the park."
+      }
+    }
+  ]
+}

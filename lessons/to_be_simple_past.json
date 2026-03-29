@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_be_simple_past",
+  "title": "To Be",
+  "titles": {
+    "en": "To Be",
+    "pt": "Ser / Estar",
+    "es": "Ser / Estar",
+    "fr": "Être"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to be.",
+    "pt-BR": "Vamos estudar o passado simples de ser e estar.",
+    "es-ES": "Vamos a estudiar el pasado simple de ser y estar.",
+    "fr-FR": "Étudions le passé simple de être."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to be",
+        "pt-BR": "ser e estar",
+        "es-ES": "ser y estar",
+        "fr-FR": "être"
+      },
+      "sample_sentences": {
+        "en": "The verb to be changes a lot in the past.",
+        "pt-BR": "O verbo ser e estar muda bastante no passado.",
+        "es-ES": "El verbo ser y estar cambia mucho en el pasado.",
+        "fr-FR": "Le verbe être change beaucoup au passé."
+      }
+    },
+    {
+      "terms": {
+        "en": "I was",
+        "pt-BR": "eu estava",
+        "es-ES": "yo estaba",
+        "fr-FR": "j'étais"
+      },
+      "sample_sentences": {
+        "en": "I was at home yesterday.",
+        "pt-BR": "Eu estava em casa ontem.",
+        "es-ES": "Yo estaba en casa ayer.",
+        "fr-FR": "J'étais à la maison hier."
+      }
+    },
+    {
+      "terms": {
+        "en": "you were",
+        "pt-BR": "você estava",
+        "es-ES": "tú estabas",
+        "fr-FR": "tu étais"
+      },
+      "sample_sentences": {
+        "en": "You were very tired.",
+        "pt-BR": "Você estava muito cansado.",
+        "es-ES": "Tú estabas muy cansado.",
+        "fr-FR": "Tu étais très fatigué."
+      }
+    },
+    {
+      "terms": {
+        "en": "he was",
+        "pt-BR": "ele estava",
+        "es-ES": "él estaba",
+        "fr-FR": "il était"
+      },
+      "sample_sentences": {
+        "en": "He was at work all day.",
+        "pt-BR": "Ele estava no trabalho o dia todo.",
+        "es-ES": "Él estaba en el trabajo todo el día.",
+        "fr-FR": "Il était au travail toute la journée."
+      }
+    },
+    {
+      "terms": {
+        "en": "she was",
+        "pt-BR": "ela estava",
+        "es-ES": "ella estaba",
+        "fr-FR": "elle était"
+      },
+      "sample_sentences": {
+        "en": "She was happy last night.",
+        "pt-BR": "Ela estava feliz ontem à noite.",
+        "es-ES": "Ella estaba feliz anoche.",
+        "fr-FR": "Elle était heureuse hier soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "it was",
+        "pt-BR": "era",
+        "es-ES": "era",
+        "fr-FR": "c'était"
+      },
+      "sample_sentences": {
+        "en": "It was a difficult test.",
+        "pt-BR": "Era uma prova difícil.",
+        "es-ES": "Era un examen difícil.",
+        "fr-FR": "C'était un contrôle difficile."
+      }
+    },
+    {
+      "terms": {
+        "en": "we were",
+        "pt-BR": "nós estávamos",
+        "es-ES": "nosotros estábamos",
+        "fr-FR": "nous étions"
+      },
+      "sample_sentences": {
+        "en": "We were late in the morning.",
+        "pt-BR": "Nós estávamos atrasados pela manhã.",
+        "es-ES": "Nosotros estábamos tarde por la mañana.",
+        "fr-FR": "Nous étions en retard le matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "you were (plural)",
+        "pt-BR": "vocês estavam",
+        "es-ES": "ustedes estaban",
+        "fr-FR": "vous étiez"
+      },
+      "sample_sentences": {
+        "en": "You all were in the same class.",
+        "pt-BR": "Vocês estavam na mesma turma.",
+        "es-ES": "Ustedes estaban en la misma clase.",
+        "fr-FR": "Vous étiez dans la même classe."
+      }
+    },
+    {
+      "terms": {
+        "en": "they were",
+        "pt-BR": "eles estavam",
+        "es-ES": "ellos estaban",
+        "fr-FR": "ils étaient"
+      },
+      "sample_sentences": {
+        "en": "They were in the park.",
+        "pt-BR": "Eles estavam no parque.",
+        "es-ES": "Ellos estaban en el parque.",
+        "fr-FR": "Ils étaient dans le parc."
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "lesson_id": "to_live_simple_past",
+  "title": "To Live",
+  "titles": {
+    "en": "To Live",
+    "pt": "Morar / Viver",
+    "es": "Vivir",
+    "fr": "Vivre / Habiter"
+  },
+  "audience": "US English speaker",
+  "source_lesson": "/Users/jarad/git/seekdepth.github.io/lessons/to_live_simple_past.json",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "voices": {
+    "en-US": "Samantha",
+    "en-GB": "Daniel",
+    "pt-BR": "Luciana",
+    "es-ES": "Mónica",
+    "fr-FR": "Thomas"
+  },
+  "rates": {
+    "en-US": 170,
+    "en-GB": 170,
+    "pt-BR": 165,
+    "es-ES": 165,
+    "fr-FR": 165
+  },
+  "intro": {
+    "titles": {
+      "en": "To Live",
+      "pt": "Morar / Viver",
+      "es": "Vivir",
+      "fr": "Vivre / Habiter"
+    },
+    "sample_sentences": {
+      "en": "Let's study the simple past of to live.",
+      "pt-BR": "Vamos estudar o passado simples de morar e viver.",
+      "es-ES": "Vamos a estudiar el pasado simple de vivir.",
+      "fr-FR": "Étudions le passé simple de vivre et habiter.",
+      "en-US": "Let's study the simple past of to live.",
+      "en-GB": "Let's study the simple past of to live."
+    },
+    "word_audio": {
+      "en-US": "words/000_en_US.opus",
+      "en-GB": "words/000_en_GB.opus",
+      "pt-BR": "words/000_pt_BR.opus",
+      "es-ES": "words/000_es_ES.opus",
+      "fr-FR": "words/000_fr_FR.opus"
+    },
+    "sentence_audio": {
+      "en-US": "sentences/000_en_US.opus",
+      "en-GB": "sentences/000_en_GB.opus",
+      "pt-BR": "sentences/000_pt_BR.opus",
+      "es-ES": "sentences/000_es_ES.opus",
+      "fr-FR": "sentences/000_fr_FR.opus"
+    }
+  },
+  "generated_files": [
+    {
+      "terms": {
+        "en": "to live",
+        "pt-BR": "morar e viver",
+        "es-ES": "vivir",
+        "fr-FR": "vivre et habiter",
+        "en-US": "to live",
+        "en-GB": "to live"
+      },
+      "word_audio": {
+        "en-US": "words/001_en_US.opus",
+        "en-GB": "words/001_en_GB.opus",
+        "pt-BR": "words/001_pt_BR.opus",
+        "es-ES": "words/001_es_ES.opus",
+        "fr-FR": "words/001_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/001_en_US.opus",
+        "en-GB": "sentences/001_en_GB.opus",
+        "pt-BR": "sentences/001_pt_BR.opus",
+        "es-ES": "sentences/001_es_ES.opus",
+        "fr-FR": "sentences/001_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "The verb to live is important for talking about home and life.",
+        "pt-BR": "Os verbos morar e viver são importantes para falar de casa e da vida.",
+        "es-ES": "El verbo vivir es importante para hablar del hogar y de la vida.",
+        "fr-FR": "Les verbes vivre et habiter sont importants pour parler du foyer et de la vie.",
+        "en-US": "The verb to live is important for talking about home and life.",
+        "en-GB": "The verb to live is important for talking about home and life."
+      }
+    },
+    {
+      "terms": {
+        "en": "I lived",
+        "pt-BR": "eu morei",
+        "es-ES": "yo viví",
+        "fr-FR": "j'ai habité",
+        "en-US": "I lived",
+        "en-GB": "I lived"
+      },
+      "word_audio": {
+        "en-US": "words/002_en_US.opus",
+        "en-GB": "words/002_en_GB.opus",
+        "pt-BR": "words/002_pt_BR.opus",
+        "es-ES": "words/002_es_ES.opus",
+        "fr-FR": "words/002_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/002_en_US.opus",
+        "en-GB": "sentences/002_en_GB.opus",
+        "pt-BR": "sentences/002_pt_BR.opus",
+        "es-ES": "sentences/002_es_ES.opus",
+        "fr-FR": "sentences/002_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "I lived near the station.",
+        "pt-BR": "Eu morei perto da estação.",
+        "es-ES": "Yo viví cerca de la estación.",
+        "fr-FR": "J'ai habité près de la gare.",
+        "en-US": "I lived near the station.",
+        "en-GB": "I lived near the station."
+      }
+    },
+    {
+      "terms": {
+        "en": "you lived",
+        "pt-BR": "você morou",
+        "es-ES": "tú viviste",
+        "fr-FR": "tu as habité",
+        "en-US": "you lived",
+        "en-GB": "you lived"
+      },
+      "word_audio": {
+        "en-US": "words/003_en_US.opus",
+        "en-GB": "words/003_en_GB.opus",
+        "pt-BR": "words/003_pt_BR.opus",
+        "es-ES": "words/003_es_ES.opus",
+        "fr-FR": "words/003_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/003_en_US.opus",
+        "en-GB": "sentences/003_en_GB.opus",
+        "pt-BR": "sentences/003_pt_BR.opus",
+        "es-ES": "sentences/003_es_ES.opus",
+        "fr-FR": "sentences/003_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You lived in a small apartment.",
+        "pt-BR": "Você morou em um apartamento pequeno.",
+        "es-ES": "Tú viviste en un apartamento pequeño.",
+        "fr-FR": "Tu as habité dans un petit appartement.",
+        "en-US": "You lived in a small apartment.",
+        "en-GB": "You lived in a small apartment."
+      }
+    },
+    {
+      "terms": {
+        "en": "he lived",
+        "pt-BR": "ele morou",
+        "es-ES": "él vivió",
+        "fr-FR": "il a habité",
+        "en-US": "he lived",
+        "en-GB": "he lived"
+      },
+      "word_audio": {
+        "en-US": "words/004_en_US.opus",
+        "en-GB": "words/004_en_GB.opus",
+        "pt-BR": "words/004_pt_BR.opus",
+        "es-ES": "words/004_es_ES.opus",
+        "fr-FR": "words/004_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/004_en_US.opus",
+        "en-GB": "sentences/004_en_GB.opus",
+        "pt-BR": "sentences/004_pt_BR.opus",
+        "es-ES": "sentences/004_es_ES.opus",
+        "fr-FR": "sentences/004_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "He lived with his family.",
+        "pt-BR": "Ele morou com a família.",
+        "es-ES": "Él vivió con su familia.",
+        "fr-FR": "Il a habité avec sa famille.",
+        "en-US": "He lived with his family.",
+        "en-GB": "He lived with his family."
+      }
+    },
+    {
+      "terms": {
+        "en": "she lived",
+        "pt-BR": "ela morou",
+        "es-ES": "ella vivió",
+        "fr-FR": "elle a habité",
+        "en-US": "she lived",
+        "en-GB": "she lived"
+      },
+      "word_audio": {
+        "en-US": "words/005_en_US.opus",
+        "en-GB": "words/005_en_GB.opus",
+        "pt-BR": "words/005_pt_BR.opus",
+        "es-ES": "words/005_es_ES.opus",
+        "fr-FR": "words/005_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/005_en_US.opus",
+        "en-GB": "sentences/005_en_GB.opus",
+        "pt-BR": "sentences/005_pt_BR.opus",
+        "es-ES": "sentences/005_es_ES.opus",
+        "fr-FR": "sentences/005_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "She lived in the city center.",
+        "pt-BR": "Ela morou no centro da cidade.",
+        "es-ES": "Ella vivió en el centro de la ciudad.",
+        "fr-FR": "Elle a habité au centre-ville.",
+        "en-US": "She lived in the city center.",
+        "en-GB": "She lived in the city center."
+      }
+    },
+    {
+      "terms": {
+        "en": "it lived",
+        "pt-BR": "viveu",
+        "es-ES": "vivió",
+        "fr-FR": "il a vécu",
+        "en-US": "it lived",
+        "en-GB": "it lived"
+      },
+      "word_audio": {
+        "en-US": "words/006_en_US.opus",
+        "en-GB": "words/006_en_GB.opus",
+        "pt-BR": "words/006_pt_BR.opus",
+        "es-ES": "words/006_es_ES.opus",
+        "fr-FR": "words/006_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/006_en_US.opus",
+        "en-GB": "sentences/006_en_GB.opus",
+        "pt-BR": "sentences/006_pt_BR.opus",
+        "es-ES": "sentences/006_es_ES.opus",
+        "fr-FR": "sentences/006_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "It lived in the forest.",
+        "pt-BR": "Viveu na floresta.",
+        "es-ES": "Vivió en el bosque.",
+        "fr-FR": "Il a vécu dans la forêt.",
+        "en-US": "It lived in the forest.",
+        "en-GB": "It lived in the forest."
+      }
+    },
+    {
+      "terms": {
+        "en": "we lived",
+        "pt-BR": "nós moramos",
+        "es-ES": "nosotros vivimos",
+        "fr-FR": "nous avons habité",
+        "en-US": "we lived",
+        "en-GB": "we lived"
+      },
+      "word_audio": {
+        "en-US": "words/007_en_US.opus",
+        "en-GB": "words/007_en_GB.opus",
+        "pt-BR": "words/007_pt_BR.opus",
+        "es-ES": "words/007_es_ES.opus",
+        "fr-FR": "words/007_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/007_en_US.opus",
+        "en-GB": "sentences/007_en_GB.opus",
+        "pt-BR": "sentences/007_pt_BR.opus",
+        "es-ES": "sentences/007_es_ES.opus",
+        "fr-FR": "sentences/007_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "We lived on the same street.",
+        "pt-BR": "Nós moramos na mesma rua.",
+        "es-ES": "Nosotros vivimos en la misma calle.",
+        "fr-FR": "Nous avons habité dans la même rue.",
+        "en-US": "We lived on the same street.",
+        "en-GB": "We lived on the same street."
+      }
+    },
+    {
+      "terms": {
+        "en": "you lived (plural)",
+        "pt-BR": "vocês moraram",
+        "es-ES": "ustedes vivieron",
+        "fr-FR": "vous avez habité",
+        "en-US": "you lived (plural)",
+        "en-GB": "you lived (plural)"
+      },
+      "word_audio": {
+        "en-US": "words/008_en_US.opus",
+        "en-GB": "words/008_en_GB.opus",
+        "pt-BR": "words/008_pt_BR.opus",
+        "es-ES": "words/008_es_ES.opus",
+        "fr-FR": "words/008_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/008_en_US.opus",
+        "en-GB": "sentences/008_en_GB.opus",
+        "pt-BR": "sentences/008_pt_BR.opus",
+        "es-ES": "sentences/008_es_ES.opus",
+        "fr-FR": "sentences/008_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "You all lived nearby.",
+        "pt-BR": "Vocês moraram perto.",
+        "es-ES": "Ustedes vivieron cerca.",
+        "fr-FR": "Vous avez habité tout près.",
+        "en-US": "You all lived nearby.",
+        "en-GB": "You all lived nearby."
+      }
+    },
+    {
+      "terms": {
+        "en": "they lived",
+        "pt-BR": "eles moraram",
+        "es-ES": "ellos vivieron",
+        "fr-FR": "ils ont habité",
+        "en-US": "they lived",
+        "en-GB": "they lived"
+      },
+      "word_audio": {
+        "en-US": "words/009_en_US.opus",
+        "en-GB": "words/009_en_GB.opus",
+        "pt-BR": "words/009_pt_BR.opus",
+        "es-ES": "words/009_es_ES.opus",
+        "fr-FR": "words/009_fr_FR.opus"
+      },
+      "sentence_audio": {
+        "en-US": "sentences/009_en_US.opus",
+        "en-GB": "sentences/009_en_GB.opus",
+        "pt-BR": "sentences/009_pt_BR.opus",
+        "es-ES": "sentences/009_es_ES.opus",
+        "fr-FR": "sentences/009_fr_FR.opus"
+      },
+      "sample_sentences": {
+        "en": "They lived by the sea.",
+        "pt-BR": "Eles moraram perto do mar.",
+        "es-ES": "Ellos vivieron junto al mar.",
+        "fr-FR": "Ils ont habité près de la mer.",
+        "en-US": "They lived by the sea.",
+        "en-GB": "They lived by the sea."
+      }
+    }
+  ]
+}

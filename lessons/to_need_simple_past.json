@@ -1,0 +1,154 @@
+{
+  "lesson_id": "to_need_simple_past",
+  "title": "To Need",
+  "titles": {
+    "en": "To Need",
+    "pt": "Precisar",
+    "es": "Necesitar",
+    "fr": "Avoir Besoin / Devoir"
+  },
+  "category": "verbs_simple_past",
+  "tense": "simple_past",
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study the simple past of to need.",
+    "pt-BR": "Vamos estudar o passado simples de precisar.",
+    "es-ES": "Vamos a estudiar el pasado simple de necesitar.",
+    "fr-FR": "Étudions le passé simple de avoir besoin de."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "to need",
+        "pt-BR": "precisar",
+        "es-ES": "necesitar",
+        "fr-FR": "avoir besoin de"
+      },
+      "sample_sentences": {
+        "en": "The verb to need helps in practical situations.",
+        "pt-BR": "O verbo precisar ajuda em situações práticas.",
+        "es-ES": "El verbo necesitar ayuda en situaciones prácticas.",
+        "fr-FR": "L'expression avoir besoin de aide dans des situations pratiques."
+      }
+    },
+    {
+      "terms": {
+        "en": "I needed",
+        "pt-BR": "eu precisei",
+        "es-ES": "yo necesité",
+        "fr-FR": "j'ai eu besoin de"
+      },
+      "sample_sentences": {
+        "en": "I needed more time.",
+        "pt-BR": "Eu precisei de mais tempo.",
+        "es-ES": "Yo necesité más tiempo.",
+        "fr-FR": "J'ai eu besoin de plus de temps."
+      }
+    },
+    {
+      "terms": {
+        "en": "you needed",
+        "pt-BR": "você precisou",
+        "es-ES": "tú necesitaste",
+        "fr-FR": "tu as eu besoin de"
+      },
+      "sample_sentences": {
+        "en": "You needed a pen.",
+        "pt-BR": "Você precisou de uma caneta.",
+        "es-ES": "Tú necesitaste un bolígrafo.",
+        "fr-FR": "Tu as eu besoin d'un stylo."
+      }
+    },
+    {
+      "terms": {
+        "en": "he needed",
+        "pt-BR": "ele precisou",
+        "es-ES": "él necesitó",
+        "fr-FR": "il a eu besoin de"
+      },
+      "sample_sentences": {
+        "en": "He needed a new phone.",
+        "pt-BR": "Ele precisou de um telefone novo.",
+        "es-ES": "Él necesitó un teléfono nuevo.",
+        "fr-FR": "Il a eu besoin d'un nouveau téléphone."
+      }
+    },
+    {
+      "terms": {
+        "en": "she needed",
+        "pt-BR": "ela precisou",
+        "es-ES": "ella necesitó",
+        "fr-FR": "elle a eu besoin de"
+      },
+      "sample_sentences": {
+        "en": "She needed a quiet place to work.",
+        "pt-BR": "Ela precisou de um lugar tranquilo para trabalhar.",
+        "es-ES": "Ella necesitó un lugar tranquilo para trabajar.",
+        "fr-FR": "Elle a eu besoin d'un endroit calme pour travailler."
+      }
+    },
+    {
+      "terms": {
+        "en": "it needed",
+        "pt-BR": "precisou",
+        "es-ES": "necesitó",
+        "fr-FR": "il a eu besoin de"
+      },
+      "sample_sentences": {
+        "en": "It needed more light.",
+        "pt-BR": "Precisou de mais luz.",
+        "es-ES": "Necesitó más luz.",
+        "fr-FR": "Il a eu besoin de plus de lumière."
+      }
+    },
+    {
+      "terms": {
+        "en": "we needed",
+        "pt-BR": "nós precisamos",
+        "es-ES": "nosotros necesitamos",
+        "fr-FR": "nous avons eu besoin de"
+      },
+      "sample_sentences": {
+        "en": "We needed to leave soon.",
+        "pt-BR": "Nós precisamos sair logo.",
+        "es-ES": "Nosotros necesitamos salir pronto.",
+        "fr-FR": "Nous avons eu besoin de partir bientôt."
+      }
+    },
+    {
+      "terms": {
+        "en": "you needed (plural)",
+        "pt-BR": "vocês precisaram",
+        "es-ES": "ustedes necesitaron",
+        "fr-FR": "vous avez eu besoin de"
+      },
+      "sample_sentences": {
+        "en": "You all needed your tickets.",
+        "pt-BR": "Vocês precisaram dos ingressos.",
+        "es-ES": "Ustedes necesitaron sus entradas.",
+        "fr-FR": "Vous avez eu besoin de vos billets."
+      }
+    },
+    {
+      "terms": {
+        "en": "they needed",
+        "pt-BR": "eles precisaram",
+        "es-ES": "ellos necesitaron",
+        "fr-FR": "ils ont eu besoin de"
+      },
+      "sample_sentences": {
+        "en": "They needed help with the project.",
+        "pt-BR": "Eles precisaram de ajuda com o projeto.",
+        "es-ES": "Ellos necesitaron ayuda con el proyecto.",
+        "fr-FR": "Ils ont eu besoin d'aide pour le projet."
+      }
+    }
+  ]
+}
