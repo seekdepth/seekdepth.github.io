@@ -316,6 +316,12 @@ h1 {
   backdrop-filter: blur(10px);
 }
 
+#lesson-view {
+  min-height: 36rem;
+  display: flex;
+  flex-direction: column;
+}
+
 .progress-row {
   display: flex;
   justify-content: space-between;
@@ -366,10 +372,14 @@ h1 {
   border: 1px solid rgba(23, 50, 74, 0.08);
 }
 
-.lesson-card {
+#lesson-view .lesson-card {
   position: relative;
   overflow: hidden;
   isolation: isolate;
+  flex: 1;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  min-height: 28rem;
 }
 
 .lesson-card-visual {
@@ -410,23 +420,23 @@ h1 {
   z-index: -1;
 }
 
-.lesson-card .word-panel,
-.lesson-card .sentence-panel {
+#lesson-view .lesson-card .word-panel,
+#lesson-view .lesson-card .sentence-panel {
   position: relative;
   z-index: 1;
 }
 
-.lesson-card .word-panel,
-.lesson-card .sentence-panel,
-.lesson-card .lesson-card-visual {
+#lesson-view .lesson-card .word-panel,
+#lesson-view .lesson-card .sentence-panel,
+#lesson-view .lesson-card .lesson-card-visual {
   transition:
     opacity 140ms ease,
     transform 140ms ease;
 }
 
-.lesson-card.is-transitioning .word-panel,
-.lesson-card.is-transitioning .sentence-panel,
-.lesson-card.is-transitioning .lesson-card-visual {
+#lesson-view .lesson-card.is-transitioning .word-panel,
+#lesson-view .lesson-card.is-transitioning .sentence-panel,
+#lesson-view .lesson-card.is-transitioning .lesson-card-visual {
   opacity: 0;
   transform: translateY(0.4rem);
 }
@@ -437,6 +447,9 @@ h1 {
   border: 1px solid transparent;
   cursor: pointer;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   transition:
     background 160ms ease,
     border-color 160ms ease,
@@ -466,6 +479,8 @@ h1 {
   gap: 1rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid rgba(23, 50, 74, 0.08);
+  height: 100%;
+  align-items: stretch;
 }
 
 .word-panel h2 {
@@ -483,10 +498,8 @@ h1 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
   padding-top: 1rem;
-}
-
-.sentence-block {
-  min-height: 10rem;
+  height: 100%;
+  align-items: stretch;
 }
 
 .sentence-block .label {
@@ -497,6 +510,7 @@ h1 {
   margin: 0;
   font-size: clamp(1.15rem, 2.5vw, 1.5rem);
   line-height: 1.45;
+  max-width: 22rem;
 }
 
 .lesson-card-toolbar {
@@ -603,6 +617,11 @@ h1 {
   text-align: center;
   min-height: 6rem;
   border: 1px solid rgba(23, 50, 74, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.08rem;
+  line-height: 1.25;
 }
 
 .quiz-summary h3 {
@@ -713,6 +732,20 @@ h1 {
   .quiz-options,
   .lesson-list {
     grid-template-columns: 1fr;
+  }
+
+  #lesson-view {
+    min-height: auto;
+  }
+
+  #lesson-view .lesson-card {
+    flex: initial;
+    display: block;
+    min-height: auto;
+  }
+
+  .content-panel {
+    min-height: 8.5rem;
   }
 
   .app-header {
