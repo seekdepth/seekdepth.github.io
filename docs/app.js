@@ -1543,6 +1543,7 @@ function renderAppStateVisibility() {
   if (hasProfile) {
     closeProfileModal();
   }
+  quizView.classList.toggle("is-hidden", activeView !== APP_VIEWS.quiz);
   quizView.setAttribute("aria-hidden", String(activeView !== APP_VIEWS.quiz));
 }
 
