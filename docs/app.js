@@ -1596,6 +1596,7 @@ async function loadSelectedLesson(lessonId) {
   const lesson = catalog.lessons.find((item) => item.lesson_id === lessonId);
   if (!lesson) throw new Error(`Unknown lesson id: ${lessonId}`);
   cancelPlayback();
+  activeView = APP_VIEWS.lesson;
   selectedLessonId = lessonId;
   const manifestUrl = new URL(lesson.manifest_path, window.location.href);
   const response = await fetch(manifestUrl, { cache: "no-store" });
@@ -1611,6 +1612,7 @@ async function loadSelectedLesson(lessonId) {
   quizScore = 0;
   quizAnswered = false;
   quizAnswerStates = [];
+  shouldReturnToLessonsAfterQuizClose = false;
   lessonOpen = true;
   loadQuizHistory();
   renderAppStateVisibility();
@@ -1622,13 +1624,18 @@ async function loadSelectedLesson(lessonId) {
 
 function returnToLessonsHome() {
   cancelPlayback();
+  activeView = APP_VIEWS.lesson;
   lessonOpen = false;
   manifest = null;
   sourceSlides = [];
   slides = [];
   currentIndex = 0;
   quizQuestions = [];
+  quizCurrentIndex = 0;
+  quizScore = 0;
+  quizAnswered = false;
   quizAnswerStates = [];
+  shouldReturnToLessonsAfterQuizClose = false;
   renderAppStateVisibility();
   applyUiText();
   setStatus(t("waiting"));
