@@ -1,0 +1,166 @@
+{
+  "lesson_id": "sports",
+  "title": "Sports",
+  "titles": {
+    "en": "Sports",
+    "pt": "Esportes",
+    "es": "Deportes",
+    "fr": "Les Sports"
+  },
+  "languages": [
+    "en-US",
+    "en-GB",
+    "pt-BR",
+    "es-ES",
+    "fr-FR"
+  ],
+  "intro_sentences": {
+    "en": "Let's study sports.",
+    "pt-BR": "Vamos estudar esportes.",
+    "es-ES": "Vamos a estudiar deportes.",
+    "fr-FR": "Étudions les sports."
+  },
+  "audience": "US English speaker",
+  "items": [
+    {
+      "terms": {
+        "en": "soccer",
+        "pt-BR": "futebol",
+        "es-ES": "fútbol",
+        "fr-FR": "football"
+      },
+      "sample_sentences": {
+        "en": "They play soccer after school.",
+        "pt-BR": "Eles jogam futebol depois da escola.",
+        "es-ES": "Juegan al fútbol después de la escuela.",
+        "fr-FR": "Ils jouent au football après l'école."
+      }
+    },
+    {
+      "terms": {
+        "en": "basketball",
+        "pt-BR": "basquete",
+        "es-ES": "baloncesto",
+        "fr-FR": "basket"
+      },
+      "sample_sentences": {
+        "en": "We watch basketball on Friday night.",
+        "pt-BR": "Nós assistimos basquete na sexta à noite.",
+        "es-ES": "Vemos baloncesto el viernes por la noche.",
+        "fr-FR": "Nous regardons le basket le vendredi soir."
+      }
+    },
+    {
+      "terms": {
+        "en": "baseball",
+        "pt-BR": "beisebol",
+        "es-ES": "béisbol",
+        "fr-FR": "base-ball"
+      },
+      "sample_sentences": {
+        "en": "He plays baseball on weekends.",
+        "pt-BR": "Ele joga beisebol nos fins de semana.",
+        "es-ES": "Él juega al béisbol los fines de semana.",
+        "fr-FR": "Il joue au base-ball le week-end."
+      }
+    },
+    {
+      "terms": {
+        "en": "tennis",
+        "pt-BR": "tênis",
+        "es-ES": "tenis",
+        "fr-FR": "tennis"
+      },
+      "sample_sentences": {
+        "en": "She practices tennis every morning.",
+        "pt-BR": "Ela pratica tênis todas as manhãs.",
+        "es-ES": "Ella practica tenis cada mañana.",
+        "fr-FR": "Elle pratique le tennis chaque matin."
+      }
+    },
+    {
+      "terms": {
+        "en": "swimming",
+        "pt-BR": "natação",
+        "es-ES": "natación",
+        "fr-FR": "natation"
+      },
+      "sample_sentences": {
+        "en": "Swimming is good exercise.",
+        "pt-BR": "A natação é um bom exercício.",
+        "es-ES": "La natación es un buen ejercicio.",
+        "fr-FR": "La natation est un bon exercice."
+      }
+    },
+    {
+      "terms": {
+        "en": "running",
+        "pt-BR": "corrida",
+        "es-ES": "correr",
+        "fr-FR": "course"
+      },
+      "sample_sentences": {
+        "en": "Running in the park feels great.",
+        "pt-BR": "Correr no parque faz muito bem.",
+        "es-ES": "Correr en el parque se siente muy bien.",
+        "fr-FR": "Courir dans le parc fait du bien."
+      }
+    },
+    {
+      "terms": {
+        "en": "team",
+        "pt-BR": "time",
+        "es-ES": "equipo",
+        "fr-FR": "équipe"
+      },
+      "sample_sentences": {
+        "en": "Our team trains together every week.",
+        "pt-BR": "Nosso time treina junto toda semana.",
+        "es-ES": "Nuestro equipo entrena junto cada semana.",
+        "fr-FR": "Notre équipe s'entraîne ensemble chaque semaine."
+      }
+    },
+    {
+      "terms": {
+        "en": "coach",
+        "pt-BR": "treinador",
+        "es-ES": "entrenador",
+        "fr-FR": "entraîneur"
+      },
+      "sample_sentences": {
+        "en": "The coach explains the plan before the game.",
+        "pt-BR": "O treinador explica o plano antes do jogo.",
+        "es-ES": "El entrenador explica el plan antes del partido.",
+        "fr-FR": "L'entraîneur explique le plan avant le match."
+      }
+    },
+    {
+      "terms": {
+        "en": "game",
+        "pt-BR": "jogo",
+        "es-ES": "partido",
+        "fr-FR": "match"
+      },
+      "sample_sentences": {
+        "en": "The game starts at seven o'clock.",
+        "pt-BR": "O jogo começa às sete horas.",
+        "es-ES": "El partido empieza a las siete.",
+        "fr-FR": "Le match commence à sept heures."
+      }
+    },
+    {
+      "terms": {
+        "en": "goal",
+        "pt-BR": "gol",
+        "es-ES": "gol",
+        "fr-FR": "but"
+      },
+      "sample_sentences": {
+        "en": "That goal was amazing.",
+        "pt-BR": "Aquele gol foi incrível.",
+        "es-ES": "Ese gol fue increíble.",
+        "fr-FR": "Ce but était incroyable."
+      }
+    }
+  ]
+}

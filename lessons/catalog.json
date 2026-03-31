@@ -420,6 +420,25 @@
       "manifest_path": "./audio/time_of_day/manifest.json"
     },
     {
+      "lesson_id": "sports",
+      "title": "Sports",
+      "titles": {
+        "en": "Sports",
+        "pt": "Esportes",
+        "es": "Deportes",
+        "fr": "Les Sports"
+      },
+      "category": "vocabulary_basic",
+      "languages": [
+        "en-US",
+        "en-GB",
+        "pt-BR",
+        "es-ES",
+        "fr-FR"
+      ],
+      "manifest_path": "./audio/sports/manifest.json"
+    },
+    {
       "lesson_id": "to_be",
       "title": "To Be",
       "titles": {
